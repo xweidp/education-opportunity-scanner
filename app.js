@@ -184,6 +184,7 @@ function normalizeLoadedOpportunity(item, index) {
     id: item.id || `loaded-${index}`,
     title: item.title || "Untitled opportunity",
     source: item.source || item.agency || "Unknown source",
+    sourceType: item.sourceType || "",
     deadline: normalizeDeadline(item.deadline || item.closeDate || ""),
     description: item.description || item.summary || "",
     url: item.url || "",
@@ -356,7 +357,7 @@ function renderRow(item) {
     <article class="result-row">
       <div>
         <p class="opportunity-title">${item.url ? `<a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(item.title)}</a>` : escapeHtml(item.title)}</p>
-        <p class="meta">${escapeHtml([item.source, item.number].filter(Boolean).join(" | "))}</p>
+        <p class="meta">${escapeHtml([item.source, item.sourceType, item.number].filter(Boolean).join(" | "))}</p>
       </div>
       <div class="fit-meter">
         <span class="fit-number">${item.fit}</span>

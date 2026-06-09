@@ -1,6 +1,6 @@
 # Weekly Education Research Opportunity Scan
 
-Scanned at: 2026-06-09T18:41:32.493Z
+Scanned at: 2026-06-09T19:45:49.808Z
 
 ## Top Matches
 

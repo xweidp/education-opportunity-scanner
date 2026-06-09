@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 
 const SEARCH_QUERIES = [
   "K-12 education AI data learning research teacher technology",
@@ -86,6 +86,7 @@ const PROFILE_TERMS = [
 const AGENCY_FILTER = "NSF|ED|DOL-OESE|DOL-OPE|HHS-ACF-OPRE";
 const CATEGORY_FILTER = "ED|ST|ISS";
 const GRANTS_API = "https://api.grants.gov/v1/api";
+const WATCHLIST_PATH = "data/source-watchlist.json";
 
 async function postJson(path, body) {
   const response = await fetch(`${GRANTS_API}/${path}`, {
@@ -124,6 +125,147 @@ async function searchOpportunities() {
   }
 
   return [...byId.values()];
+}
+
+async function scanWatchlistSources() {
+  const watchlist = await loadWatchlist();
+  const leads = [];
+
+  for (const source of watchlist.sources || []) {
+    leads.push(...(await scanSourcePage(source)));
+  }
+
+  return dedupeByUrl(leads);
+}
+
+async function loadWatchlist() {
+  try {
+    return JSON.parse(await readFile(WATCHLIST_PATH, "utf8"));
+  } catch {
+    return { sources: [] };
+  }
+}
+
+async function scanSourcePage(source) {
+  try {
+    const response = await fetch(source.url, {
+      headers: {
+        "user-agent": "EducationOpportunityScanner/1.0 (+https://github.com/xweidp/education-opportunity-scanner)"
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error(`${source.url} returned ${response.status}`);
+    }
+
+    const html = await response.text();
+    const pageText = cleanHtml(html).slice(0, 1200);
+    const links = extractLinks(html, source.url)
+      .filter((link) => isWatchlistLinkRelevant(link, source))
+      .slice(0, 8);
+
+    if (!links.length && isWatchlistTextRelevant(pageText, source)) {
+      links.push({
+        title: `${source.name} funding page`,
+        url: source.url,
+        text: pageText
+      });
+    }
+
+    return links.map((link, index) => ({
+      id: `watchlist-${source.name.toLowerCase().replace(/[^a-z0-9]+/g, "-")}-${index}`,
+      number: "",
+      title: link.title,
+      source: source.name,
+      sourceType: source.type,
+      agencyCode: source.type,
+      deadline: extractDeadline(`${link.title} ${link.text}`),
+      posted: "",
+      status: "watchlist",
+      url: link.url,
+      awardCeiling: "",
+      estimatedFunding: "",
+      eligibility: [],
+      description: `${source.type}. Matched source page for ${source.name}. ${cleanHtml(link.text || pageText).slice(0, 700)}`
+    }));
+  } catch (error) {
+    return [
+      {
+        id: `watchlist-${source.name.toLowerCase().replace(/[^a-z0-9]+/g, "-")}-source`,
+        number: "",
+        title: `${source.name} funding page`,
+        source: source.name,
+        sourceType: source.type,
+        agencyCode: source.type,
+        deadline: "",
+        posted: "",
+        status: "source-check",
+        url: source.url,
+        awardCeiling: "",
+        estimatedFunding: "",
+        eligibility: [],
+        description: `${source.type}. Source page to monitor for education funding opportunities. The scan could not extract page details this run.`
+      }
+    ];
+  }
+}
+
+function extractLinks(html, baseUrl) {
+  const links = [];
+  const linkPattern = /<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
+  let match;
+
+  while ((match = linkPattern.exec(html))) {
+    const url = normalizeUrl(match[1], baseUrl);
+    const title = cleanHtml(match[2]);
+    if (!url || !title || title.length < 3) continue;
+    links.push({ title, url, text: title });
+  }
+
+  return dedupeByUrl(links);
+}
+
+function normalizeUrl(value, baseUrl) {
+  try {
+    return new URL(value, baseUrl).href;
+  } catch {
+    return "";
+  }
+}
+
+function isWatchlistLinkRelevant(link, source) {
+  const haystack = `${link.title} ${link.url}`.toLowerCase();
+  const sourceKeywords = (source.keywords || []).some((keyword) => termMatches(haystack, keyword.toLowerCase()));
+  const generalKeywords = /(grant|funding|rfp|rfa|opportunit|application|award|research|education|postsecondary|student|teacher|learning|stem|data)/i.test(
+    haystack
+  );
+  const skip =
+    /(skip to|privacy|contact|newsletter|twitter|facebook|linkedin|instagram|youtube|donate|careers|staff|board|annual report|home$|accessibility)/i.test(
+      haystack
+    );
+  return !skip && (sourceKeywords || generalKeywords);
+}
+
+function isWatchlistTextRelevant(text, source) {
+  const haystack = `${source.name} ${source.type} ${text}`.toLowerCase();
+  return (source.keywords || []).some((keyword) => termMatches(haystack, keyword.toLowerCase()));
+}
+
+function extractDeadline(text) {
+  const match = String(text).match(
+    /\b(20\d{2}[-/]\d{1,2}[-/]\d{1,2}|(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?\s+\d{1,2},?\s+20\d{2})\b/i
+  );
+  return match ? normalizeDate(match[0]) : "";
+}
+
+function dedupeByUrl(items) {
+  const seen = new Set();
+  return items.filter((item) => {
+    const key = item.url || item.id;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
 
 async function fetchDetails(hit) {
@@ -175,6 +317,7 @@ function scoreOpportunity(item) {
   )
     ? 14
     : 0;
+  const nonFederalBoost = /(private foundation|state funding)/i.test(`${item.sourceType || ""} ${item.agencyCode || ""}`) ? 8 : 0;
   const methodBoost = /(evaluation|randomized|evidence|implementation|assessment|data|infrastructure|technical assistance|professional development|secondary data|longitudinal|administrative data|statistical|quasi-experimental)/i.test(
     haystack
   )
@@ -200,7 +343,10 @@ function scoreOpportunity(item) {
       : 0;
   const fit = Math.min(
     100,
-    Math.max(0, Math.round(18 + matched.length * 4 + sourceBoost + methodBoost + digitalPromiseBoost + focusBoost + urgentBoost - weakStemPenalty))
+    Math.max(
+      0,
+      Math.round(18 + matched.length * 4 + sourceBoost + nonFederalBoost + methodBoost + digitalPromiseBoost + focusBoost + urgentBoost - weakStemPenalty)
+    )
   );
 
   return {
@@ -284,10 +430,11 @@ function csvEscape(value) {
 }
 
 function makeCsv(items) {
-  const header = ["title", "source", "deadline", "fit", "number", "url", "matched_terms", "description"];
+  const header = ["title", "source", "source_type", "deadline", "fit", "number", "url", "matched_terms", "description"];
   const rows = items.map((item) => [
     item.title,
     item.source,
+    item.sourceType || "",
     item.deadline,
     item.fit,
     item.number,
@@ -328,17 +475,29 @@ async function main() {
     detailed.push(await fetchDetails(hit));
   }
 
-  const opportunities = detailed
+  const watchlistLeads = await scanWatchlistSources();
+
+  const federalOpportunities = detailed
     .filter(isRelevant)
     .map(scoreOpportunity)
     .filter((item) => !item.deadline || daysUntil(item.deadline) >= -3)
     .sort((a, b) => daysUntil(a.deadline) - daysUntil(b.deadline) || b.fit - a.fit)
     .slice(0, 60);
 
+  const sourceWatchlistOpportunities = watchlistLeads
+    .filter(isRelevant)
+    .map(scoreOpportunity)
+    .sort((a, b) => daysUntil(a.deadline) - daysUntil(b.deadline) || b.fit - a.fit)
+    .slice(0, 30);
+
+  const opportunities = [...federalOpportunities, ...sourceWatchlistOpportunities].sort(
+    (a, b) => daysUntil(a.deadline) - daysUntil(b.deadline) || b.fit - a.fit
+  );
+
   const scannedAt = new Date().toISOString();
   const payload = {
     scannedAt,
-    source: "Grants.gov API",
+    source: "Grants.gov API + private/state source watchlist",
     profile: "Digital Promise + education AI/data/learning-sciences fit",
     opportunities
   };

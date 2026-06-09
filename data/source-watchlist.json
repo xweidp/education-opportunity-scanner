@@ -1,0 +1,58 @@
+{
+  "sources": [
+    {
+      "name": "Spencer Foundation",
+      "type": "Private foundation",
+      "url": "https://www.spencer.org/grant_types",
+      "keywords": ["education", "research", "grant", "racial equity", "large research", "small research"]
+    },
+    {
+      "name": "William T. Grant Foundation",
+      "type": "Private foundation",
+      "url": "https://wtgrantfoundation.org/grants",
+      "keywords": ["research grants", "youth", "inequality", "evidence", "improving the use of research evidence"]
+    },
+    {
+      "name": "IES Funding Opportunities",
+      "type": "Federal education research",
+      "url": "https://ies.ed.gov/funding/",
+      "keywords": ["education research", "statistical", "methodology", "secondary data", "evaluation", "grant"]
+    },
+    {
+      "name": "Lumina Foundation",
+      "type": "Private foundation",
+      "url": "https://www.luminafoundation.org/grants/",
+      "keywords": ["postsecondary", "credential", "student success", "equity", "grant"]
+    },
+    {
+      "name": "Bill & Melinda Gates Foundation",
+      "type": "Private foundation",
+      "url": "https://www.gatesfoundation.org/about/committed-grants",
+      "keywords": ["education", "postsecondary", "k-12", "grant", "student success"]
+    },
+    {
+      "name": "Walton Family Foundation",
+      "type": "Private foundation",
+      "url": "https://www.waltonfamilyfoundation.org/grants",
+      "keywords": ["education", "grant", "schools", "students", "innovation"]
+    },
+    {
+      "name": "California Department of Education Funding",
+      "type": "State funding",
+      "url": "https://www.cde.ca.gov/fg/fo/",
+      "keywords": ["funding", "grant", "education", "application", "request for applications"]
+    },
+    {
+      "name": "New York State Education Department Funding",
+      "type": "State funding",
+      "url": "https://www.nysed.gov/funding-opportunities",
+      "keywords": ["funding", "grant", "education", "rfp", "application"]
+    },
+    {
+      "name": "Texas Education Agency Grants",
+      "type": "State funding",
+      "url": "https://tea.texas.gov/finance-and-grants/grants",
+      "keywords": ["grant", "education", "rfa", "application", "funding"]
+    }
+  ]
+}
