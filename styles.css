@@ -342,8 +342,12 @@ textarea {
 }
 
 .section-other .section-heading {
-  background: #f4f4ef;
-  border-left: 4px solid var(--warn);
+  background:
+    linear-gradient(90deg, rgba(234, 179, 8, 0.28), rgba(254, 252, 232, 0.96)),
+    #fefce8;
+  border-left: 8px solid #ca8a04;
+  border-top: 2px solid rgba(202, 138, 4, 0.42);
+  padding: 18px 16px;
 }
 
 .section-heading h3 {
@@ -376,6 +380,20 @@ textarea {
 
 .section-state .section-heading span {
   color: #166534;
+  font-weight: 800;
+}
+
+.section-other .section-heading h3 {
+  color: #854d0e;
+  font-size: 1.08rem;
+}
+
+.section-other .section-kicker {
+  color: #a16207;
+}
+
+.section-other .section-heading span {
+  color: #854d0e;
   font-weight: 800;
 }
 
