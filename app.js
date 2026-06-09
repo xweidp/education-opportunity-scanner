@@ -133,7 +133,6 @@ const els = {
   scanButton: document.querySelector("#scanButton"),
   loadSampleButton: document.querySelector("#loadSampleButton"),
   profileSelect: document.querySelector("#profileSelect"),
-  searchInput: document.querySelector("#searchInput"),
   resultsList: document.querySelector("#resultsList"),
   exportButton: document.querySelector("#exportButton"),
   totalCount: document.querySelector("#totalCount"),
@@ -278,15 +277,10 @@ function daysUntil(deadline) {
 }
 
 function applyFilters() {
-  const query = els.searchInput.value.trim().toLowerCase();
   state.filtered = state.opportunities
     .map(scoreOpportunity)
     .filter((item) => item.topicMatched.length > 0)
     .filter((item) => item.fit >= state.minFit)
-    .filter((item) => {
-      if (!query) return true;
-      return `${item.title} ${item.source} ${item.description} ${item.matched.join(" ")}`.toLowerCase().includes(query);
-    })
     .sort((a, b) => a.days - b.days || b.fit - a.fit);
 
   render();
@@ -436,20 +430,19 @@ function exportCsv() {
   URL.revokeObjectURL(url);
 }
 
-els.scanButton.addEventListener("click", () => {
+els.scanButton?.addEventListener("click", () => {
   state.opportunities = parseInput(els.bulkInput.value);
   state.source = "Custom pasted leads";
   state.scannedAt = "";
   applyFilters();
 });
 
-els.loadSampleButton.addEventListener("click", () => {
+els.loadSampleButton?.addEventListener("click", () => {
   loadWeeklyScan();
 });
 
-els.profileSelect.addEventListener("change", applyFilters);
-els.searchInput.addEventListener("input", applyFilters);
-els.exportButton.addEventListener("click", exportCsv);
+els.profileSelect?.addEventListener("change", applyFilters);
+els.exportButton?.addEventListener("click", exportCsv);
 
 document.querySelectorAll("[data-min-fit]").forEach((button) => {
   button.addEventListener("click", () => {
