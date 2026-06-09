@@ -329,10 +329,10 @@ textarea {
 
 .section-foundation .section-heading {
   background:
-    linear-gradient(90deg, rgba(183, 67, 62, 0.16), rgba(255, 255, 255, 0.92)),
-    #fff7f2;
-  border-left: 8px solid var(--accent-2);
-  border-top: 2px solid rgba(183, 67, 62, 0.3);
+    linear-gradient(90deg, rgba(190, 38, 38, 0.22), rgba(255, 245, 245, 0.96)),
+    #fff1f1;
+  border-left: 8px solid #b91c1c;
+  border-top: 2px solid rgba(185, 28, 28, 0.42);
   padding: 18px 16px;
 }
 
@@ -352,16 +352,16 @@ textarea {
 }
 
 .section-foundation .section-heading h3 {
-  color: #7d2f2a;
+  color: #991b1b;
   font-size: 1.08rem;
 }
 
 .section-foundation .section-kicker {
-  color: #9a3a34;
+  color: #b91c1c;
 }
 
 .section-foundation .section-heading span {
-  color: #7d2f2a;
+  color: #991b1b;
   font-weight: 800;
 }
 
