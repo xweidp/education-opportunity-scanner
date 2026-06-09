@@ -1,0 +1,1511 @@
+{
+  "scannedAt": "2026-06-09T18:41:32.493Z",
+  "source": "Grants.gov API",
+  "profile": "Digital Promise + education AI/data/learning-sciences fit",
+  "opportunities": [
+    {
+      "id": "362311",
+      "number": "DOL-OESE-34043",
+      "title": "Career Pathways Exploration Grant Program 84.424J",
+      "source": "Office of Elementary and Secondary Education",
+      "agencyCode": "DOL-OESE",
+      "deadline": "2026-06-09",
+      "posted": "2026-05-07",
+      "status": "posted",
+      "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/school-and-community-improvement-grants/career-pathways-exploration-grant-program-84424j",
+      "awardCeiling": "9000000",
+      "estimatedFunding": "44000000",
+      "eligibility": [
+        "State governments"
+      ],
+      "description": "The Career Pathways Exploration (CPE) program supports efforts to provide elementary and secondary school students with increased career exploration opportunities that allow them to develop, expand, and prioritize the skills and knowledge needed to excel in high-demand fields. To support this goal, the CPE program provides competitive grants to States to build their capacity to integrate career exploration into statewide career pathways and workforce readiness programs. The CPE program will help ensure access to opportunities that expose students to real-life workforce realities through a variety of career pathways programs that are aligned with State workforce priorities.In support of returning education to the States, ED believes this program is uniquely suited for State applicants. State applicants, as designated or endorsed by the Governors, are best positioned to coordinate K-12 career exploration initiatives that integrate education, workforce, and economic development systems. The CPE program is designed to allow Governors, in coordination with State agencies and their local educational agencies (LEAs), to align career exploration opportunities for schools with real-time labor market needs to create statewide opportunities for students to explore careers early, scale access to learning and employment records (LERs) and talent marketplaces, and align with local workforce boards and system partners so students can act on the knowledge gained in a meaningful way.State applicants are encouraged to align proposed activities with the State\"s Unified or Combined Workforce Innovation and Opportunity Act (WIOA) State Plan to ensure coherence with broader workforce development strategies and labor market priorities.This program is being established with funds from the two percent reservation for technical assistance and capacity building under section 4103(a)(3) of the Elementary and Secondary Education Act of 1965, as amended, 20 U.S.C. § 6301 (ESEA), which is intended to support State educational agencies and LEAs in carrying out activities authorized under the Student Support and Academic Enrichment Grants program in title IV, part A of the ESEA through technical assistance and capacity building. Specifically, the CPE program is intended to help build the capacity of States and LEAs to provide well-rounded educational opportunities, consistent with the description of such opportunities in ESEA section 4107, through initiatives that make career pathways exploration programs broadly available to students. In support of this goal, grantees will share with other States and LEAs how career pathways exploration initiatives can be successfully implemented.",
+      "fit": 90,
+      "matchedTerms": [
+        "learning",
+        "workforce",
+        "k-12",
+        "pathways"
+      ]
+    },
+    {
+      "id": "362076",
+      "number": "ED-GRANTS-042726-003",
+      "title": "Office of Elementary and Secondary Education (OESE): Office of Indian Education (OIE): State Tribal Education Partnership (STEP) Grant Program; Assistance Listing Number 84.415A",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-06-11",
+      "posted": "2026-04-27",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362076",
+      "awardCeiling": "",
+      "estimatedFunding": "2000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: The Bureau of Indian Education at the U.S. Department of Interior (DOI) is soliciting applications in support of the administration of the State Tribal Education Partnerships (STEP) program on behalf of the U.S. Department of Education (ED). The purpose of State Tribal Education Partnership (STEP) is to promote Tribal self-determination in education; improve the academic achievement of Indian children and youth; and promote the coordination and collaboration between Tribal Educational Agencies (TEAs), State Educational Agencies (SEAs), and Local Educational Agencies (LEAs) to meet the unique education and culturally related academic needs of Indian students. STEP is authorized under section 6132 of the Elementary and Secondary Education Act, as amended (ESEA). The intent of this competition is to return education to the Tribes and create opportunities where Tribes can exert sovereignty and self-determination. ED expects that TEA-SEA-LEA coordination will result in TEAs maintaining greater systemic connections with their Native children in public schools. The requirement for a draft written agreement (DWA), as defined in this notice, helps to ensure that all relevant partners needed to achieve the project goals are included from the outset. For example, applicants could propose projects that include developing a TEA aimed at creating a Tribal education system that provides policies, structures and oversight that improves such student outcomes as attendance, graduation rate, academic achievement, workforce development, and career readiness. ED remains committed to engaging in regular and meaningful consultation with Indian Tribes and sourced the design of this competition using input recently received from Tribal leaders on August 26, 2025, and previous input as published in the Federal Register on December 28, 2022 (87 FR 79824). On August 26, 2025, Tribal leaders expressed strong support for the STEP program's role in fostering collaboration between LEAs and Tribes, particularly in areas like college readiness and student advising. Several leaders noted that maintaining Tribal control over education is essential for preserving culture and language opportunities for Native students, especially in off-reservation schools. Assistance Listing Number: 84.415A. Applicants should refer to the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs, published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions .",
+      "fit": 58,
+      "matchedTerms": [
+        "outcomes",
+        "workforce",
+        "advising"
+      ]
+    },
+    {
+      "id": "362389",
+      "number": "DOL-OESE-34092",
+      "title": "High School Equivalency Program 84.141A",
+      "source": "Office of Elementary and Secondary Education",
+      "agencyCode": "DOL-OESE",
+      "deadline": "2026-06-12",
+      "posted": "2026-05-13",
+      "status": "posted",
+      "url": "https://www.ed.gov/grants-and-programs/grants-special-populations/grants-migrant-students/high-school-equivalency-program",
+      "awardCeiling": "550000",
+      "estimatedFunding": "11550000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) and the Secretary of Education are soliciting applications in support of the administration of the High School Equivalency Program (HEP) on behalf of the U.S. Department of Education (ED). The purpose of HEP is to assist migratory or seasonal farmworkers (or immediate family members of such workers) to obtain the equivalent of a secondary school diploma and subsequently to gain improved employment, enter military service, or be placed in an institution of higher education (IHE) or other postsecondary education or training, which includes Registered Apprenticeships.",
+      "fit": 68,
+      "matchedTerms": [
+        "postsecondary",
+        "higher education"
+      ]
+    },
+    {
+      "id": "362390",
+      "number": "DOL-OESE-34111",
+      "title": "College Assistance Migrant Program 84.149A",
+      "source": "Office of Elementary and Secondary Education",
+      "agencyCode": "DOL-OESE",
+      "deadline": "2026-06-12",
+      "posted": "2026-05-13",
+      "status": "posted",
+      "url": "https://www.ed.gov/grants-and-programs/grants-special-populations/grants-migrant-students/college-assistance-migrant-program",
+      "awardCeiling": "550000",
+      "estimatedFunding": "13014675",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) and Secretary of Education are soliciting applications in support of the administration of the College Assistance Migrant Program (CAMP) on behalf of the U.S. Department of Education (ED). The purpose of CAMP is to assist migratory or seasonal farmworkers (or immediate family members of such workers) who are enrolled or are admitted for enrollment on a full-time basis at an institution of higher education (IHE) to complete their first academic year.",
+      "fit": 64,
+      "matchedTerms": [
+        "higher education"
+      ]
+    },
+    {
+      "id": "362142",
+      "number": "DOL-OESE-34017",
+      "title": "Competitive Grants for State Assessments",
+      "source": "Office of Elementary and Secondary Education",
+      "agencyCode": "DOL-OESE",
+      "deadline": "2026-06-16",
+      "posted": "2026-04-30",
+      "status": "posted",
+      "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/school-and-community-improvement-grants/competitive-grants-state-assessments",
+      "awardCeiling": "4000000",
+      "estimatedFunding": "16556000",
+      "eligibility": [
+        "State governments"
+      ],
+      "description": "The purpose of the CGSA program is to enhance the quality of assessment instruments and assessment systems used by States for measuring the academic achievement and growth of elementary and secondary school students. The FY 2026 competition includes two absolute priorities, three competitive preference priorities, two invitational priorities, selection criteria, and requirements. The absolute priorities are: 1) Developing Innovative Assessment Item Types and Design Approaches and 2) Meaningful Learning Opportunities. The competitive preference priorities are: 1) Improving Assessment Scoring and Score Reporting, 2) Assessing Student Growth, and 3) Comprehensive Academic Assessment Instruments. The invitational priorities are: 1) Assessment and Data Literacy and 2) Comprehensive Assessment Systems.",
+      "fit": 90,
+      "matchedTerms": [
+        "data",
+        "learning",
+        "literacy",
+        "assessment"
+      ]
+    },
+    {
+      "id": "361904",
+      "number": "ED-GRANTS-041526-001",
+      "title": "Office of Special Education and Rehabilitative Services (OSERS): Office of Special Education Programs (OSEP): State Personnel Development Grants (SPDG) Program, Assistance Listing Number 84.323A",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-06-16",
+      "posted": "2026-04-15",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/361904",
+      "awardCeiling": "",
+      "estimatedFunding": "7301695",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "For the addresses for obtaining and submitting an application, please refer to our Common Instructions for Applicants to Department of Education Discretionary Grant Programs, published in the Federal Register on August 29, 2025 (90 FR 42234), and available at https://www.federalregister.gov/documents/2025/08/29/2025- 16571/common-instructions-and-information-for-applicants-todepartment-of-education-discretionary-grantams. Program Purpose: The purpose of the SPDG program is to assist State educational agencies (SEAs) in reforming and improving their systems for personnel preparation and professional development in early intervention, educational, and transition services to improve results for children with disabilities. The U.S. Department of Education (ED) shall award grants, on a competitive basis, to SEAs to carry out the activities described in the State plan submitted under section 653 of the Individuals with Disabilities Education Act (IDEA) ( 20 U.S.C. 1453 ). Assistance Listing Number: 84.323A.",
+      "fit": 68,
+      "matchedTerms": [
+        "intervention",
+        "professional development"
+      ]
+    },
+    {
+      "id": "362300",
+      "number": "DOL-OESE-34066",
+      "title": "FY 26 Teacher Quality Partnership (TQP) Program Competition",
+      "source": "Office of Elementary and Secondary Education",
+      "agencyCode": "DOL-OESE",
+      "deadline": "2026-06-23",
+      "posted": "2026-05-07",
+      "status": "posted",
+      "url": "https://www.ed.gov/grants-and-programs/teacher-preparation-grants/teacher-quality-partnership-program",
+      "awardCeiling": "",
+      "estimatedFunding": "70000000",
+      "eligibility": [
+        "City or township governments",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Independent school districts",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Native American tribal governments (Federally recognized)",
+        "Private institutions of higher education",
+        "For profit organizations other than small businesses",
+        "County governments",
+        "Public and State controlled institutions of higher education",
+        "Special district governments",
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\"",
+        "State governments",
+        "Native American tribal organizations (other than Federally recognized tribal governments)",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting application in support of the administration of the Teacher Quality Partnership (TQP) program on behalf of the U.S. Department of Education (ED). The purpose of the TQP program is to improve student achievement; improve the quality of prospective and new teachers by improving teacher preparation and enhancing professional development to hold teacher preparation programs at institutions of higher education (IHEs) accountable for preparing teachers who meet applicable State certification and licensure requirements; and recruit highly qualified individuals into the teaching force. The TQP program also supports the use of Registered Apprenticeships as a high-quality, work-based learning pathway for preparing and credentialing new teachers based on demonstrated skill and merit, particularly in high-need schools and subject areas experiencing teacher shortages.",
+      "fit": 90,
+      "matchedTerms": [
+        "learning",
+        "teacher",
+        "professional development",
+        "higher education"
+      ]
+    },
+    {
+      "id": "362516",
+      "number": "ED-GRANT-26-033",
+      "title": "Historically Black Colleges and Universities (HBCU) and Tribally Controlled Colleges and Universities (TCCU) Research and Development Infrastructure Grants Program",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-06-23",
+      "posted": "2026-05-21",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362516",
+      "awardCeiling": "5000000",
+      "estimatedFunding": "15000000",
+      "eligibility": [
+        "Public and State controlled institutions of higher education",
+        "Native American tribal governments (Federally recognized)",
+        "Private institutions of higher education",
+        "Native American tribal organizations (other than Federally recognized tribal governments)"
+      ],
+      "description": "The RDI grant program is designed to provide HBCUs and TCCUs with funds to implement transformational investments in research infrastructure, including research productivity, faculty expertise, graduate programs, physical infrastructure, human capital development, and partnerships leading to increases in external and sustained funding.",
+      "fit": 86,
+      "matchedTerms": [
+        "infrastructure",
+        "postsecondary",
+        "hbcu"
+      ]
+    },
+    {
+      "id": "362518",
+      "number": "ED-GRANT-26-036",
+      "title": "Rural Postsecondary and Economic Development Grant Program",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-06-23",
+      "posted": "2026-05-21",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362518",
+      "awardCeiling": "2500000",
+      "estimatedFunding": "45000000",
+      "eligibility": [
+        "Public and State controlled institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+      ],
+      "description": "The purpose of the RPED Grant Program is to improve rates of postsecondary enrollment, persistence, and completion among rural students through development of career pathways aligned to high-skill, high-wage, and in-demand industry sectors and occupations in the region.",
+      "fit": 76,
+      "matchedTerms": [
+        "rural",
+        "postsecondary",
+        "completion",
+        "pathways"
+      ]
+    },
+    {
+      "id": "362001",
+      "number": "ED-GRANTS-042226-001",
+      "title": "Office of Elementary and Secondary Education (OESE): Well-Rounded Education Programs: Jacob K. Javits Gifted and Talented Students Education (Javits) Program, Assistance Listing Number 84.206A",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-06-23",
+      "posted": "2026-04-22",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362001",
+      "awardCeiling": "",
+      "estimatedFunding": "9000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: The Jacob K. Javits Gifted and Talented Students Education Program (Javits) supports evidence-based research, demonstration projects, innovative strategies, and similar activities designed to build and enhance the ability of elementary schools and secondary schools nationwide to identify gifted and talented students and meet their special educational needs. A major emphasis of the program is on implementing evidence-based activities that accelerate learning and improve student outcomes. Assistance Listing Number: 84.206A. Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage .",
+      "fit": 72,
+      "matchedTerms": [
+        "learning",
+        "outcomes",
+        "evidence"
+      ]
+    },
+    {
+      "id": "362508",
+      "number": "ED-GRANT-26-034",
+      "title": "Basic Needs for Postsecondary Students Program",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-06-23",
+      "posted": "2026-05-21",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362508",
+      "awardCeiling": "5000000",
+      "estimatedFunding": "10000000",
+      "eligibility": [
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The purpose of the FIPSE-Basic Needs Program is to advance systemic and sustainable solutions to student basic needs insecurity through support programs that address the basic needs of students and to report on practices that improve outcomes for students.",
+      "fit": 72,
+      "matchedTerms": [
+        "outcomes",
+        "postsecondary",
+        "basic needs"
+      ]
+    },
+    {
+      "id": "362511",
+      "number": "ED-GRANT-26-035",
+      "title": "Open Textbook Pilot Program",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-06-23",
+      "posted": "2026-05-21",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362511",
+      "awardCeiling": "2000000",
+      "estimatedFunding": "7000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+      ],
+      "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Open Textbook Pilot Program (OTP) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the OTP program is to support projects at eligible institutions of higher education (IHEs) or State higher education agencies that create new open textbooks and expand the use of open textbooks and course materials in courses that are part of a degree-granting program, particularly those with high enrollments. This pilot program emphasizes the development of projects that demonstrate the greatest potential to achieve the highest level of savings for students through sustainable, expanded use of open textbooks in high-enrollment courses or in programs that prepare individuals for in-demand fields.",
+      "fit": 72,
+      "matchedTerms": [
+        "open",
+        "postsecondary",
+        "higher education"
+      ]
+    },
+    {
+      "id": "362514",
+      "number": "ED-GRANT-26-031",
+      "title": "Centers of Excellence for Veteran Student Success (CEVSS) Program",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-06-23",
+      "posted": "2026-05-21",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362514",
+      "awardCeiling": "3000000",
+      "estimatedFunding": "9000000",
+      "eligibility": [
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education"
+      ],
+      "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Centers of Excellence for Veteran Student Success Program (CEVSS) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the CEVSS Program is to encourage institutions of higher education (IHEs) to develop model programs to support veteran student success in postsecondary education by coordinating services to address the academic, financial, physical, and social needs of veteran students.",
+      "fit": 72,
+      "matchedTerms": [
+        "postsecondary",
+        "higher education",
+        "student success"
+      ]
+    },
+    {
+      "id": "362513",
+      "number": "ED-GRANT-26-025",
+      "title": "Strengthening Institutions Program FY 2026 Competition",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-06-23",
+      "posted": "2026-05-21",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362513",
+      "awardCeiling": "3000000",
+      "estimatedFunding": "350000000",
+      "eligibility": [
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education"
+      ],
+      "description": "The purpose of SIP is to provide assistance to eligible institutions of higher education to improve their academic programs, institutional management, and fiscal stability in order to increase their self-sufficiency.",
+      "fit": 68,
+      "matchedTerms": [
+        "postsecondary",
+        "higher education"
+      ]
+    },
+    {
+      "id": "362505",
+      "number": "ED-GRANT-26-032",
+      "title": "FY 2026 Transitioning Gang-Involved Youth to Higher Education (TGIY) Program",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-06-23",
+      "posted": "2026-05-21",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362505",
+      "awardCeiling": "1700000",
+      "estimatedFunding": "5000000",
+      "eligibility": [
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The purpose of the Transitioning Gang-Involved Youth to Higher Education Program is to provide gang-involved youth with postsecondary education opportunities that will lead to certification or credentials.",
+      "fit": 68,
+      "matchedTerms": [
+        "postsecondary",
+        "higher education"
+      ]
+    },
+    {
+      "id": "362074",
+      "number": "ED-GRANTS-042726-001",
+      "title": "Office of Special Education and Rehabilitative Services (OSERS): Office of Special Education Programs (OSEP): Accessible Education Video Projects; Assistance Listing Number (ALN) 84.327C",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-06-26",
+      "posted": "2026-04-27",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362074",
+      "awardCeiling": "1050000",
+      "estimatedFunding": "3150000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: The purpose of the Educational Technology, Media, and Materials for Individuals with Disabilities Program is to improve results for children with disabilities by (1) promoting the development, demonstration, and use of technology; (2) supporting educational activities designed to be of educational value in the classroom for students with disabilities; (3) providing support for captioning and video description that is appropriate for use in the classroom; and (4) providing accessible educational materials to students with disabilities in a timely manner. This competition establishes Accessible Education Video Projects that are designed to meet requirements under the Individuals with Disabilities Education Act (IDEA). Specifically, section 674(c) of IDEA requires, in part, that the Secretary of Education support audio description, open captioning, and closed captioning that is appropriate for use in early learning and kindergarten through grade 12 (K-12) settings of (a) television programs; (b) videos; or (c) other materials, including programs and materials associated with new and emerging technologies. ALN: 84.327C. Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs, published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions. Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage .",
+      "fit": 62,
+      "matchedTerms": [
+        "open",
+        "learning",
+        "k-12",
+        "technology"
+      ]
+    },
+    {
+      "id": "362075",
+      "number": "ED-GRANTS-042726-002",
+      "title": "Office of Special Education and Rehabilitative Services (OSERS): Office of Special Education Programs (OSEP): National Center for Accessible Education Videos; Assistance Listing Number: 84.327N",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-06-26",
+      "posted": "2026-04-27",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362075",
+      "awardCeiling": "",
+      "estimatedFunding": "2600000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: The purpose of the Educational Technology, Media, and Materials for Individuals with Disabilities Program is designed to improve results for children with disabilities by (1) promoting the development, demonstration, and use of technology; (2) supporting educational activities designed to be of educational value in the classroom for students with disabilities; (3) providing support for captioning and video description that is appropriate for use in the classroom; and (4) providing accessible educational materials to students with disabilities in a timely manner. In alignment with the requirements in the Individuals with Disabilities Education Act (IDEA), this competition establishes a National Center on Accessible Education Videos. Specifically, section 674(c) requires, in part, that the Secretary of Education support video and audio description, open captioning, and closed captioning, which is appropriate for use in early learning and kindergarten through grade 12 (K-12) settings of (a) television programs, (b) videos, and (c) other materials, including programs and materials associated with new and emerging technologies. Additionally, this section requires support of distributing such materials through such mechanisms as a loan service. ALN: 84.327N. Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage .",
+      "fit": 62,
+      "matchedTerms": [
+        "open",
+        "learning",
+        "k-12",
+        "technology"
+      ]
+    },
+    {
+      "id": "362602",
+      "number": "ED-GRANT-26-038",
+      "title": "FY 26 Postsecondary Student Success Grant 84.116M",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-06-29",
+      "posted": "2026-05-28",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362602",
+      "awardCeiling": "8000000",
+      "estimatedFunding": "45000000",
+      "eligibility": [
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education"
+      ],
+      "description": "The purpose of PSSG is to improve postsecondary student outcomes, including retention, transfer, credit accumulation, and completion, by leveraging data and implementing, scaling, and rigorously evaluating evidence-based strategies.",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
+        "outcomes",
+        "evidence",
+        "postsecondary",
+        "student success",
+        "retention",
+        "completion",
+        "transfer"
+      ]
+    },
+    {
+      "id": "362346",
+      "number": "ED-GRANTS-051126-001",
+      "title": "Office of Elementary and Secondary Education (OESE): Comprehensive Centers Program: National Comprehensive Center on Improving Literacy for Students with Disabilities; ALN 84.283D",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-06-30",
+      "posted": "2026-05-11",
+      "status": "posted",
+      "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/school-and-community-improvement-grants/comprehensive-centers-program-national-comprehensive-center-improving-literacy-students",
+      "awardCeiling": "1500000",
+      "estimatedFunding": "1485000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: The purpose of the Comprehensive Centers (CC) program is to provide capacity-building services to state educational agencies (SEAs), regional educational agencies (REAs), local educational agencies (LEAs), and schools that improve educational opportunities and student outcomes, close achievement gaps, and improve the quality of instruction for all students, particularly for groups of students with the greatest need. The Department intends to fund one Content Center, a National Comprehensive Center on Improving Literacy for Students with Disabilities (NCIL) focused on children in early childhood education programs through high school at risk of not attaining full literacy skills due to a disability, including dyslexia impacting reading or writing, or developmental delay impacting reading, writing, language processing, comprehension, or executive functioning. Assistance Listing Number: 84.283D Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
+      "fit": 58,
+      "matchedTerms": [
+        "outcomes",
+        "literacy",
+        "disability"
+      ]
+    },
+    {
+      "id": "362342",
+      "number": "ED-GRANTS-050826-001",
+      "title": "Office of Elementary and Secondary Education (OESE): Program and Grantee Support Services: Comprehensive Centers Program, Assistance Listing Number 84.283B",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-06-30",
+      "posted": "2026-05-08",
+      "status": "posted",
+      "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/school-and-community-improvement-grants/comprehensive-centers-program",
+      "awardCeiling": "",
+      "estimatedFunding": "46015000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: The purpose of the Comprehensive Centers (CC) program is to provide capacity-building services to state educational agencies (SEAs), regional educational agencies (REAs), local educational agencies (LEAs), and schools that improve educational opportunities and student outcomes, close achievement gaps, and improve the quality of instruction for all students, particularly for groups of students with the greatest need. Assistance Listing Number: 84.283B Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
+      "fit": 50,
+      "matchedTerms": [
+        "outcomes"
+      ]
+    },
+    {
+      "id": "362374",
+      "number": "ED-GRANTS-051326-002",
+      "title": "OSERS-OSEP: Personnel Preparation of Special Education, Early Intervention, and Related Services Personnel, Assistance Listing Number (ALN) 84.325K",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-07-02",
+      "posted": "2026-05-13",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362374",
+      "awardCeiling": "350000",
+      "estimatedFunding": "8750000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: The purposes of the Personnel Development to Improve Services and Results for Children with Disabilities program are to (1) help address State-identified shortages and needs for personnel preparation in special education and early intervention, including infants and toddlers, and youth with disabilities; and (2) ensure that those personnel have the necessary skills and knowledge, derived from practices that have been determined through scientifically based research, to be successful in serving those children. The purpose of the Personnel Preparation of Special Education, Early Intervention, and Related Services Personnel (84.325K) competition is to prepare and increase the number of personnel who have the necessary qualifications to serve children with disabilities. Under this absolute priority, ED will fund grantees that use evidence-based strategies to prepare scholars in special education, early intervention, and related services at the bachelor’s degree, certification, master’s degree, educational specialist degree, or clinical doctoral degree levels to serve in a variety of settings, including natural environments (the home and community settings in which children with and without disabilities participate), early learning programs, child care, classrooms, and schools. Assistance Listing Number (ALN): 84.325K. Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
+      "fit": 72,
+      "matchedTerms": [
+        "learning",
+        "intervention",
+        "evidence"
+      ]
+    },
+    {
+      "id": "362512",
+      "number": "ED-GRANT-26-026",
+      "title": "Training Program for Federal TRIO Programs",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-07-06",
+      "posted": "2026-05-21",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362512",
+      "awardCeiling": "1100000",
+      "estimatedFunding": "4100000",
+      "eligibility": [
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+      ],
+      "description": "Administration at the U.S. Department of Labor (Labor), is soliciting applications in support of the administration of the TRIO Training Program on behalf of the U.S. Department of Education (ED). The purpose of the Training Program for Federal TRIO Programs (Training Program) provides grants to train the staff and leadership personnel employed in, participating in, or preparing for employment in, projects funded under the Federal TRIO Programs, to improve project operation.",
+      "fit": 68,
+      "matchedTerms": [
+        "postsecondary",
+        "trio"
+      ]
+    },
+    {
+      "id": "362705",
+      "number": "ED-GRANTS-060526-001",
+      "title": "Office of Postsecondary Education (OPE): Centers Aligned with Areas for National Need (CAANN) Program Assistance Listing Number: 84.015C",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-07-07",
+      "posted": "2026-06-05",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362705",
+      "awardCeiling": "",
+      "estimatedFunding": "70000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: In coordination with the Bureau of Educational and Cultural Affairs at the U.S. Department of State (State), the U.S. Department of Education (ED) is soliciting applications in support of the administration of the Centers Aligned with Areas for National Need program. This program provides grants to institutions of higher education (IHEs) or consortia of IHEs to address one or more of the following areas of national need by teaching languages of strategic importance to the United States’ national security and economic prosperity, such as Spanish, Portuguese, Italian, Hungarian, Polish, Russian, Czech, Arabic, Swahili, Hausa, Hindi, Urdu, Mandarin, Korean, Japanese, Farsi, Bahasa, Thai, and other languages; providing instruction in fields needed to provide understanding of areas, regions, or countries in which the language is used; supporting research and training in international studies and the international and foreign language aspects of professional and other fields of study; and advancing the national security interests of the United States by providing instruction on critical regions such as Latin America, Europe, Eurasia, Middle East, Africa, and Asia. Assistance Listing Number: 84.015C. Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions .",
+      "fit": 54,
+      "matchedTerms": [
+        "postsecondary",
+        "higher education"
+      ]
+    },
+    {
+      "id": "362563",
+      "number": "DOL-OESE-34068",
+      "title": "American History and Civics National Activities - 84.422B",
+      "source": "Office of Elementary and Secondary Education",
+      "agencyCode": "DOL-OESE",
+      "deadline": "2026-07-13",
+      "posted": "2026-05-26",
+      "status": "posted",
+      "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/well-rounded-education-grants/american-history-and-civics-national-activities-grants",
+      "awardCeiling": "",
+      "estimatedFunding": "19800000",
+      "eligibility": [
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education"
+      ],
+      "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the American History and Civics Education – National Activities (AHC-NA) program on behalf of the U.S. Department of Education (ED). The purpose of the AHC-NA program is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit students from low-income backgrounds and other underserved populations. America\"s 250th anniversary is a particularly appropriate time to promote innovative teaching and learning that unites our country, honors our history, promotes informed citizenship, and cherishes our freedom as we build the golden age of opportunity. ED encourages applications to include strong partnerships and active collaboration between eligible entities, local educational agencies, and State educational agencies in their design and proposed implementation. Project activities should reflect the best available research and practice in teaching and learning.",
+      "fit": 86,
+      "matchedTerms": [
+        "learning",
+        "evidence",
+        "professional development",
+        "implementation"
+      ]
+    },
+    {
+      "id": "362373",
+      "number": "ED-GRANTS-051326-001",
+      "title": "OSERS-OSEP: Expanding Career Pathways and Workforce Readiness of Special Education Teachers and Early Intervention Personnel Through Registered Apprenticeships, Assistance Listing Number (ALN) 84.325J",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-07-13",
+      "posted": "2026-05-13",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362373",
+      "awardCeiling": "1000000",
+      "estimatedFunding": "7000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: The purposes of the Personnel Development to Improve Services and Results for Children with Disabilities program are to (1) help address State-identified shortages and needs for personnel preparation in special education and early intervention, including infants, toddlers, children, and youth with disabilities; and (2) ensure that those personnel have the necessary skills and knowledge, derived from practices that have been determined through scientifically based research, to be successful in serving those children. The purpose of the Expanding Career Pathways and Workforce Readiness of Special Education Teachers and Early Intervention Personnel Through Registered Apprenticeships competition is to fund cooperative agreements that support registered apprenticeship1 programs that attract, prepare, and retain special education teachers or early intervention personnel. This priority is particularly relevant for special education and early intervention, where high-quality preparation must be accessible, practice-based, and closely integrated with service delivery systems. Preparing qualified special education teachers and early intervention personnel through registered apprenticeship programs addresses critical workforce shortages, integrating work-based learning, and connecting preparation with local and State labor demands. 1Note: ED encourages applicants to consider the definition of Registered Apprenticeship Program as defined in 5 CFR 362.102 and 29 CFR part 29. Assistance Listing Number: 84.325J. Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
+      "fit": 58,
+      "matchedTerms": [
+        "learning",
+        "intervention",
+        "workforce",
+        "pathways"
+      ]
+    },
+    {
+      "id": "362416",
+      "number": "DOL-OESE-34120",
+      "title": "National Professional Development Program",
+      "source": "Office of Elementary and Secondary Education",
+      "agencyCode": "DOL-OESE",
+      "deadline": "2026-07-14",
+      "posted": "2026-05-15",
+      "status": "posted",
+      "url": "https://www.ed.gov/grants-and-programs/teacher-preparation-grants/national-professional-development-program",
+      "awardCeiling": "1000000",
+      "estimatedFunding": "49000000",
+      "eligibility": [
+        "Public and State controlled institutions of higher education"
+      ],
+      "description": "The NPD program provides grants to public and private nonprofit institutions of higher education (IHEs) and public and private entities with relevant experience and capacity, in consortia with State educational agencies (SEAs) and/or local educational agencies (LEAs) to implement pre-service and in-service professional development activities.",
+      "fit": 78,
+      "matchedTerms": [
+        "professional development",
+        "higher education"
+      ]
+    },
+    {
+      "id": "344124",
+      "number": "23-510",
+      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-07-15",
+      "posted": "2022-10-20",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23510",
+      "awardCeiling": "2000000",
+      "estimatedFunding": "61000000",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "Synopsis of Program: The fields of science, technology, engineering, and mathematics (STEM) hold much promise as sectors of the economy where we can expect to see continuous vigorous growth in the coming decades. STEM job creation is expected to outpace non-STEM job creation significantly, according to the Commerce Department, reflecting the importance of STEM knowledge to the US economy. The National Science Foundation (NSF) plays a leadership role in developing and implementing efforts to enhance and improve STEM education in the United States. Through the NSF Improving Undergraduate STEM Education (IUSE) initiative, the agency continues to make a substantial commitment to the highest caliber undergraduate STEM education through a Foundation-wide framework of investments. The IUSE: EDU is a core NSF STEM education program that seeks to promote novel, creative, and transformative approaches to generating and using new knowledge about STEM teaching and learning to improve STEM education for undergraduate students. The program is open to application from all institutions of higher education and associated organizations. NSF places high value on educating students to be leaders and innovators in emerging and rapidly changing STEM fields as well as educating a scientifically literate public. In pursuit of this goal, IUSE: EDU supports projects that seek to bring recent advances in STEM knowledge into undergraduate education, that adapt, improve, and incorporate evidence-based practices into STEM teaching and learning, and that lay the groundwork for institutional improvement in STEM education. In addition to innovative work at the frontier of STEM education, this program also encourages replication of research studies at different types of institutions and with different student bodies to produce deeper knowledge about the effectiveness and transferability of findings. IUSE: EDU also seeks to support projects that have high potential for broader societal impacts, including improved diversity of students and instructors participating in STEM education, professional development for instructors to ensure adoption of new and effective pedagogical techniques that meet the changing needs of students, and projects that promote institutional partnerships for collaborative research and development. IUSE: EDU especially welcomes proposals that will pair well with the efforts of NSF INCLUDES ( https://www.nsf.gov/news/special_reports/nsfincludes/index.jsp ) to develop STEM talent from all sectors and groups in our society. For all the above objectives, the National Science Foundation invests primarily in evidence-based and knowledge-generating approaches to understand and improve STEM learning and learning environments, improve the diversity of STEM students and majors, and prepare STEM majors for the workforce. In addition to contributing to STEM education in the host institution(s), proposals should have the promise of adding more broadly to our understanding of effective teaching and learning practices. The IUSE: EDU program features two tracks: (1) Engaged Student Learning and (2) Institutional and Community Transformation.",
+      "fit": 100,
+      "matchedTerms": [
+        "open",
+        "learning",
+        "evidence",
+        "workforce",
+        "professional development",
+        "stem",
+        "higher education",
+        "undergraduate"
+      ]
+    },
+    {
+      "id": "45812",
+      "number": "PD-98-1311",
+      "title": "Linguistics",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-07-15",
+      "posted": "2009-03-06",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5408",
+      "awardCeiling": "",
+      "estimatedFunding": "6000000",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Linguistics Program supports basic science in the domain of human language, encompassing investigations of the grammatical properties of individual human languages, and of natural language in general. Research areas include syntax, semantics, morphology, phonetics and phonology. The program encourages projects that are interdisciplinary in methodological or theoretical perspective, and that address questions that cross disciplinary boundaries, such as (but not limited to): What are the psychological processes involved in the production, perception, and comprehension of language? What are the computational properties of language and/or the language processor that make fluent production, incremental comprehension or rapid learning possible? How do the acoustic and physiological properties of speech inform our theories of natural language and/or language processing? What role does human neurobiology play in shaping the various grammatical properties of language? How does language develop in natural learning contexts across the life-span? What social and cultural factors underlie language variation and change? Because NSF's mandate is to support basic research, the Linguistics Program does not fund research that takes as its primary goal improved clinical practice or applied policy, nor does it support work to develop or assess pedagogical methods or tools for language instruction. The Linguistics Program accepts proposals for a variety of project types: research proposals from scholars with PhDs or equivalent degrees, proposals for Doctoral Dissertation Research Improvement (LING-DDRI) awards, and CAREER proposals. We will also consider proposals for conferences. Funding requests for conference support should be submitted in accordance with the Conference Proposals section of Chapter II of NSF's Proposal & Award Policies & Procedures Guide (PAPPG) . NSF's Division of Behavioral and Cognitive Sciences (BCS), in partnership with the National Endowment for the Humanities and in collaboration with programs in other NSF Directorates, supports efforts to develop and advance knowledge and infrastructure that will enable the analysis of languages that are both understudied and at risk of falling out of use. In recognition of the critical relevance of these languages to understanding the range and limits of human linguistic and cultural variation, BCS accepts research and dissertation proposals in response to solicitations NSF Dynamic Language Infrastructure - NEH Documenting Endangered Languages (DLI-DEL) and Dynamic Language Infrastructure - Doctoral Dissertation Research Improvement Grants (DLI-DDRI) . For more information about Multidisciplinary Research and Training Opportunities, please visit the SBE Office of Multidisciplinary Activities web site.",
+      "fit": 82,
+      "matchedTerms": [
+        "infrastructure",
+        "learning",
+        "science"
+      ]
+    },
+    {
+      "id": "361664",
+      "number": "26-508",
+      "title": "TechAccess: AI-Ready America",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-07-16",
+      "posted": "2026-03-25",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26508",
+      "awardCeiling": "4000000",
+      "estimatedFunding": "224000000",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "TechAccess: AI-Ready America is a national-scale initiative to accelerate Artificial Intelligence (AI) readiness and adoption across the U.S. by strengthening coordination, leveraging partnerships and resources, filling gaps, and scaling what works-so local and state priorities can lead in shaping an AI-driven economy that benefits all Americans. Unlike initiatives centered around K-16 education, AI-Ready America additionally reaches businesses, public-serving organizations, and individuals, among others, expanding access to AI knowledge, tools, and resources. The program also emphasizes practical implementation through hands-on assistance and workforce upskilling, including experiential learning such as internships, project-based work, and apprenticeships, to ensure stakeholders can effectively apply and innovate with AI. The program supports: (1) State/Territory Coordination Hubs (Coordination Hubs) - one inevery state, the District of Columbia (DC), or territory inthe United States - connecting partners, strengthening planning and deployment, and rapidly scaling approaches; (2) A National Coordination Lead (National Lead) - facilitating collaboration and knowledge sharing among Coordination Hubs, coordinating priority economic sectors, and informing national AI strategies; and (3) AI-Ready Catalyst Award Competitions - a series of topic-driven competitions issued over the course of the program to pilot and scale innovative approaches that address critical national AI readiness needs. This funding opportunity focuses on Coordination Hubs. The National Lead will be funded as an Other Transaction (OT) offered through an Other Transaction Agreement Solutions Offering.AI-Ready Catalyst Award Competitions will be announced through an NSF-approved mechanism, with proposals submitted according to the instructions provided at the time of announcement.",
+      "fit": 98,
+      "matchedTerms": [
+        "ai",
+        "artificial intelligence",
+        "learning",
+        "workforce",
+        "implementation",
+        "district",
+        "science"
+      ]
+    },
+    {
+      "id": "362496",
+      "number": "ED-GRANTS-052026-001",
+      "title": "OSERS-OSEP: National Assessment Center, Assistance Listing Number (ALN) 84.326G",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-07-20",
+      "posted": "2026-05-20",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362496",
+      "awardCeiling": "1000000",
+      "estimatedFunding": "1000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: The purpose of this grant competition is to establish a National Assessment Center to improve children with disabilities’ participation in and performance on State and districtwide assessments. This award is funded under the Technical Assistance and Dissemination to Improve Services and Results for Children with Disabilities program. The goal of this program is to promote academic achievement and to improve results for children with disabilities by providing technical assistance (TA), supporting model demonstration projects, disseminating useful information, and implementing activities supported by scientifically based research. This award aligns to requirements in the Individuals with Disabilities Education Act (IDEA). Specifically, section 612(a)(16) requires that all children with disabilities are included with appropriate accommodations in general State and districtwide assessments as indicated in their individualized education programs, including assessments described under section 1111 of the Elementary and Secondary Education Act (ESEA) and alternate assessments. Many States have also adopted kindergarten entry assessments to assess multiple developmental domains and support early learning. Additionally, Section 663(b)(2) of IDEA requires that the Secretary use funds to support activities to improve the participation of children with disabilities in State assessments. ALN: 84.326G. Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage .",
+      "fit": 64,
+      "matchedTerms": [
+        "learning",
+        "assessment"
+      ]
+    },
+    {
+      "id": "357725",
+      "number": "25-523",
+      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Collaborations for Optimizing Research Ecosystems",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-07-21",
+      "posted": "2024-12-14",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25523",
+      "awardCeiling": "",
+      "estimatedFunding": "37500000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Established Program to Stimulate Competitive Research (EPSCoR) supports the U.S. National Science Foundation (NSF) mission by promoting nationwide scientific progress. Through this program, NSF fosters partnerships among academic institutions, government entities, industry, and non-profits. These collaborations aim to drive long-term improvements in research infrastructure, enhance R&D capacity, and boost the research competitiveness of eligible EPSCoR jurisdictions, including states, territories, and commonwealths. A jurisdiction's research ecosystem is the interconnected network of organizations, researchers, trainees, community stakeholders, and resources that contribute to the process of research and innovation that advances fundamental knowledge, generates use-inspired products, and ultimately cultivates beneficial impacts for a jurisdiction. E-CORE supports jurisdictions in building significant and sustainable research capacity and research infrastructure for targeted areas of focus, hereinafter referred to as \"cores,\" that underlie a jurisdiction's research ecosystem. Based on the evidence-based and self-identified needs of a jurisdiction, the types of cores supported by E-CORE may include (but are not limited to) development, enhancement, and/or ensuring the sustainability of: research administration; research facilities and infrastructure (including cyberinfrastructure); STEM education (K-12) pathways; higher education pathways; early career investigator pathways; broadening participation; workforce development; national and global partnerships; community engagement and outreach; technology transfer; economic development; and use-inspired research pathways. E-CORE projects must be designed to support the sustainability of the research infrastructure cores beyond the award period. Projects will also support the development and growth of new jurisdiction-wide connections, and the leveraging of existing jurisdiction-wide connections, to drive substantive and sustainable impacts.",
+      "fit": 100,
+      "matchedTerms": [
+        "infrastructure",
+        "evidence",
+        "workforce",
+        "stem",
+        "k-12",
+        "higher education",
+        "transfer",
+        "science"
+      ]
+    },
+    {
+      "id": "361238",
+      "number": "26-503",
+      "title": "CyberAICorps Scholarship for Service",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-07-21",
+      "posted": "2026-02-04",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26503",
+      "awardCeiling": "2500000",
+      "estimatedFunding": "2500000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Government and the nation face a talent shortfall in artificial intelligence (AI) and cybersecurity. The CyberAICorps Scholarship for Service (CyberAI SFS) program welcomes proposals that address AI and cybersecurity education and workforce development. CyberAI refers to using AI in cybersecurity as well as providing security and resilience for AI systems. The Scholarship Track provides funding to establish, or to continue, scholarship for service programs with integrated AI and cybersecurity components (CyberAI). Scholarship recipients must be U.S. citizens or lawful permanent residents and work after graduation in the AI or cybersecurity mission of a government organization for a period of at least the length of the scholarship. The Innovation Tracksupports projects that enhance preparation of AI and/or cybersecurity professionals. Projects may expand existing educational opportunities, curricula, degree programs, educational pathways, methods and interventions, and partnerships among institutions of higher education, government, and employers. Two statutesauthorize this program: 15 USC &sect;7442 (cybersecurity) and 42 USC &sect;18993 (AI). CyberAI SFS aligns with the Executive Order 14277 to prioritize AI within scholarship for service programs. CyberAI is managed by NSF's Directorate for STEM Education in collaboration with the U.S. Office of Personnel Management (OPM) and U.S. Department of Homeland Security (DHS).",
+      "fit": 84,
+      "matchedTerms": [
+        "ai",
+        "artificial intelligence",
+        "workforce",
+        "stem",
+        "higher education",
+        "science",
+        "pathways"
+      ]
+    },
+    {
+      "id": "339594",
+      "number": "22-586",
+      "title": "Faculty Early Career Development Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-07-22",
+      "posted": "2022-04-19",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22586",
+      "awardCeiling": "",
+      "estimatedFunding": "250000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "CAREER:The Faculty Early Career Development (CAREER) Program is a Foundation-wide activity that offers the National Science Foundation's most prestigious awards in support of early-career faculty who have the potential to serve as academic role models in research and education and to lead advances in the mission of their department or organization. Activities pursued by early-career faculty should build a firm foundation for a lifetime of leadership in integrating education and research. NSF encourages submission of CAREER proposals from early-career faculty at all CAREER-eligible organizations . PECASE:Each year NSF selects nominees for the Presidential Early Career Awards for Scientists and Engineers (PECASE) from among the most meritorious recent CAREER awardees.Selection for this award is based on twoimportant criteria:The criteria are 1) performance of innovative research at the frontiers of science, engineering, and technology that is relevant to the mission of the sponsoring organization or agency; and 2) community service demonstrated through scientific leadership, education or community outreach.These awards foster innovative developments in science and technology, increase awareness of careers in science and engineering, give recognition to the scientific missions of the participating agencies, enhance connections between fundamental research and national goals, and highlight the importance of science and technology for the Nation's future. Individuals cannot apply for PECASE. These awards are initiated by the participating federal agencies. At NSF, up to twenty-six nominees for this award are selected each year from among the PECASE-eligible CAREER awardees most likely to become the leaders of academic research and education in the twenty-first century. The White House Office of Science and Technology Policy makes the final selection and announcement of the awardees.",
+      "fit": 56,
+      "matchedTerms": [
+        "science",
+        "technology",
+        "engineering"
+      ]
+    },
+    {
+      "id": "361915",
+      "number": "26-509",
+      "title": "Integrated Data Systems & Services",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-07-28",
+      "posted": "2026-04-15",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26509",
+      "awardCeiling": "30000000",
+      "estimatedFunding": "60000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Integrated Data Systems and Services (IDSS) program supports operations-level national-scale cyberinfrastructure systems and services that broadly advance and facilitate open, data-intensive and artificial intelligence-driven science and engineering research, innovation, and education. Through this solicitation, the IDSS program is accepting proposals for three categories of projects: Category I . Development, deployment, and operation of novel national-scale integrated data systems and services, which may include interfacing with or leveraging other existing capabilities, systems and services, as appropriate to the project; Category II. Transition of established smaller scale, regional, pilot, or prototype data-focused systems and services to national-scale production/operational quality/level. This may also include enhancement and expansion of existing national-scale data-focused operational systems and services; and Category III. Planning grants for future potential development/deployment or transition/enhancement IDSS projects. NSF and the Office of Advanced Cyberinfrastructure (OAC) have long supported the development of innovative foundational and application-specific cyberinfrastructure resources and systems to address data-intensive research needs at the campus, regional, and community scales, through programs such as Cyberinfrastructure for Sustained Scientific Innovation (CSSI) , Campus Cyberinfrastructure (CC*) , and other investments. The primary goal of the IDSS program is to support national-scale foundational data cyberinfrastructure that broadly enables data- and artificial intelligence-driven research for many communities. The IDSS program supports foundational transdisciplinary and demonstrably multi-disciplinary projects aimed to broadly impact the science and engineering research and education community. Projects that aim to primarily benefit a single science discipline, domain, project, or application are not supported. It is recommended that prospective PIs contact program officer(s) from the list of Cognizant Program Officers to gain insight about alignment of their project ideas with the priorities of the IDSS program and Office of Advanced Cyberinfrastructure. As part of contacting Cognizant Program Officers, prospective PIs are also encouraged to ascertain that the focus and budget of their proposed work are appropriate for this solicitation.",
+      "fit": 90,
+      "matchedTerms": [
+        "artificial intelligence",
+        "data",
+        "open",
+        "science",
+        "engineering"
+      ]
+    },
+    {
+      "id": "362632",
+      "number": "ED-GRANTS-060126-001",
+      "title": "OSERS-OSEP: National Technical Assistance Center for Postsecondary Education and Training for Individuals who are Deaf or Hard of Hearing, Assistance Listing Number 84.326D",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-07-30",
+      "posted": "2026-06-01",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362632",
+      "awardCeiling": "4000000",
+      "estimatedFunding": "4000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description- The Individuals with Disabilities Education Act (IDEA) requires the Secretary to provide annually at least $4,000,000 to address the postsecondary, vocational, technical, continuing, and adult education needs of individuals who are deaf or hard of hearing. [1] Aligned with this requirement, through this competition the Department intends to establish a National Technical Assistance Center for Postsecondary Education and Training for Individuals who are Deaf or Hard of Hearing. This competition uses funds from three Department programs: the Technical Assistance and Dissemination to Improve Services and Results for Children with Disabilities (TA&D) program; the Personnel Development to Improve Services and Results for Children with Disabilities (PD) program; and the Educational Technology, Media, and Materials for Individuals with Disabilities (ETechM2) program. Assistance Listing Number: 84.326D. [1] See IDEA Section 682(d)(1)(B). Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions .",
+      "fit": 64,
+      "matchedTerms": [
+        "postsecondary",
+        "technology"
+      ]
+    },
+    {
+      "id": "328573",
+      "number": "PD-20-1260",
+      "title": "Mathematical Sciences Infrastructure Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-08-04",
+      "posted": "2020-08-07",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=12756",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The primary aim of the Mathematical Sciences Infrastructure Program is to foster the continuing health of the mathematical sciences research community as a whole. In addition,the program complements the Workforce Program in the Mathematical Sciences in its goal to increase the number of well-prepared U.S. based individuals who successfully pursue careers in the mathematical sciences and in other professions in which expertise in the mathematical sciences plays an increasingly important role. The DMS Infrastructure program invites projects that support core research in the mathematical sciences, including: 1) novel projects supporting research infrastructure across the mathematical sciences community; 2) training projects complementing the Workforce Program, and 3) conference, workshop, and travel support requests that include cross-disciplinary activities or have an impact at the national scale. Proposals under this solicitation submitted to DMS Infrastructure must show engagement in developing or enhancing the mathematical sciences research infrastructure in the U.S., including, but not limited to, broadening participation activities; professional development training; or involvement of students and early career researchers. Proposals must explain the regional or national scale impact of the activity that goes substantially beyond the submitting institution or the location of the event. Full proposals (with exception of conference proposals, which are subject to lead-time requirements) must be submitted close to one of the Full Proposal Target Dates. See below for more information about each category of Infrastructure projects. (1)Novel projects that serve to strengthen the research infrastructure: The DMS Infrastructure Program will consider novel projects that support and strengthen the research infrastructure across the mathematical sciences community. These projects most often cut across multiple sub-disciplines supported by DMS or involve interdisciplinary collaborations. The main goal of these projects should be to create a new research infrastructure or substantially enhance or transform an existing infrastructure with regional or national impact that goes substantially beyond the submitting institution or the location of the project. Full proposals must be submitted by the Full ProposalTarget Date. (2)Training projects: Training proposals submitted to DMS Infrastructure must not fit into one of the areas covered by solicitations in the Workforce Program in the Mathematical Sciences ; they must be submitted by the Full ProposalTarget Date; and they must: A. Include a core research component for trainees in mathematical sciences; B. Demonstrate promise for an impact at the regional or national scale that goes substantially beyond the submitting institution or the location of the project; C. Satisfy at least one of the following criteria: i. Serve as models to be replicated, ii. Promote partnerships with non-academic entities, minority-serving institutions, or community colleges, or iii. Include a substantial broadening participation initiative. In addition, all proposals of this type must clearly identify: Goals to be achieved; Specific new activities to be conducted, the way in which these address the goals, and the way in which the activities significantly differ from or enhance common practice; Measurable outcomes for the project; Plans and methods for assessment of progress toward the goals to be achieved, and for evaluation of the success of the activity; Recruitment, selection, and retention plans for participants, including members of underrepresented groups; Sustainability plans to continue the pursuit of the project's goals when funding terminates; and A budget commensurate with the proposed activity. 3) Conferences, Symposia, Working Research Sessions, Travel Support Requests: Principal Investigators should carefully read the program solicitation Conferences and Workshops in the Mathematical Sciences to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, international travel support, and similar activities.Conference/workshop proposals that concern topics within a particular subdiscipline of mathematics or statistics should be submitted to the appropriate DMS disciplinary program(s). These submissions are subject to the lead-time requirements specified by the disciplinary program(s); see the program web pages listed on the DMS home page . Conference/workshop proposals may be submitted to the DMS Infrastructure program only if the intended topical areas span a wide range of the mathematical sciences and are consequently not within the scope of DMS disciplinary programs. The required lead time for submission of such proposals is: 6 months in advance of the meeting date for proposals requesting no more than $50,000 to support a domestic meeting; 9 months in advance of the meeting date for proposals requesting more than $50,000 to support a domestic meeting; 12 months in advance of the meeting date for proposals requesting support for participation in a meeting taking place outside the United States.",
+      "fit": 100,
+      "matchedTerms": [
+        "infrastructure",
+        "outcomes",
+        "evaluation",
+        "assessment",
+        "workforce",
+        "professional development",
+        "retention",
+        "science"
+      ]
+    },
+    {
+      "id": "320753",
+      "number": "PD-19-127Y",
+      "title": "Science of Learning and Augmented Intelligence",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-08-05",
+      "posted": "2019-09-19",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505731",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "Science of Learning and Augmented Intelligence (SL) supports potentially transformative research that develops basic theoretical insights and fundamental knowledge about principles, processes and mechanisms of learning, and about augmented intelligence - how human cognitive function can be augmented through interactions with others or with technology, or through variations in context. The program supportsresearch addressing learning in individuals and in groups, across a wide range of domains at one or more levels of analysis, including molecular and cellular mechanisms; brain systems; cognitive, affective and behavioral processes; and social and cultural influences. The program also supports research on augmented intelligence that clearly articulates principled ways in which human approaches to learning and related processes, such as in design, complex decision-making and problem-solving, can be improved through interactions with others or through the use of artificial intelligence in technology. These could include ways of using knowledge about human functioning to improve the design of collaborative technologies that have the capacity to learn to adapt to humans. For both aspects of the program, there is special interest in collaborative and collective models of learning and intelligence that are supported by the unprecedented speed and scale of technological connectivity.This includes emphasis on how people and technology working together in new ways and at scale can achieve more than either can attain alone. The program also seeks explanations for how the emergent intelligence of groups, organizations and networks intersects with processes of learning, behavior and cognition in individuals. Projects that are convergent or interdisciplinary may be especially valuable in advancing basic understanding of these areas, but research within a single discipline or methodology is also appropriate.Connections between proposed research and specific technological, educational and workforce applications will be considered as valuable broader impacts but are not necessarily central to the intellectual merit of proposed research. The program supports a variety of approaches, including experiments, field studies, surveys, computational modeling, and artificial intelligence or machine learning methods. Examples of general research questions within scope of Science of Learning and Augmented Intelligence (SL)include: What are the underlying mechanisms that support transfer of learning from one context to another or from one domain to another?How is learning generalized from a small set of specific experiences?What is the basis for robust learning that is resilient against potential interference from new experiences?How is learning consolidated and reconsolidated from transient experience to stable memory? How do human interactions with technologies, imbued with artificial intelligence, provide improved human task performance?What models best describe the interplay of the individual and collaborative processes that lead to co-creation of knowledge and collective intelligence? In what ways do the capacities and constraints of human cognition inform improved methods of human-artificial intelligence collaboration? How can we integrate research findings and insights across levels of analysis, relating understanding of cellular and molecular mechanisms of learning in the neurons, to circuit and systems-level computations of learning in the brain, to cognitive, affective, social and behavioral processes of learning? What is the relationship between assembly of new networks (development) and learning new knowledge in a maturing or mature brain? What concepts, tools (including Big Data, machine learning, and other computational models) or questions will provide the most productive linkages across levels of analysis? How can insights from biological learners contribute and derive new theoretical perspectives to artificial intelligence, neuromorphic engineering, materials science and nanotechnology? How can the ability of biological systems to learn from relatively few examples improve efficiency of artificial systems?How do learning systems (biological and artificial) address complex issues of causal reasoning?How can knowledge about the ways in which humans learn help in the design of human-machine interfaces?",
+      "fit": 100,
+      "matchedTerms": [
+        "artificial intelligence",
+        "machine learning",
+        "data",
+        "learning",
+        "workforce",
+        "transfer",
+        "science",
+        "technology"
+      ]
+    },
+    {
+      "id": "359061",
+      "number": "24-562",
+      "title": "Centers of Research Excellence in Science and Technology - Research Infrastructure for Science and Engineering",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-08-07",
+      "posted": "2025-05-21",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24562",
+      "awardCeiling": "2000000",
+      "estimatedFunding": "6000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Centers of Research Excellence in Science and Technology (CREST) program provides support to enhance the research capabilities of minority-serving institutions (MSIs) as defined in this solicitation's Eligibility section, through effective integration of education and research. The CREST program, composed of the CREST Centers, the CREST Postdoctoral Research Program, and the projects supported by this CREST-RISE solicitation, promotes the development of new knowledge, enhancements of the research productivity of individual faculty and postdoctoral scholars, and an expanded presence of research doctoral students in science, technology, engineering, and mathematics (STEM) disciplines, especially those from underrepresented groups. CREST-RISE is the component of the CREST program that supports the expansion of institutional research capacity by increasing the strength of institutional graduate programs and the successful production of research doctoral students, especially those from groups underrepresented in STEM. The CREST-RISE component supports STEM research doctoral programs in all NSF supported areas and encourages proposals in areas of national interest, such as artificial intelligence, data science and analytics; advanced materials, manufacturing, robotics; cybersecurity; plant genetics/agricultural technologies; quantum information sciences; nanotechnology, semiconductors/microelectronics technologies; climate change and clean energy. CREST-RISE projects must have a direct connection to the long-term plans of the host department(s) and the institution's strategic plan and mission. Project plans should emphasize activities designed to increase the production of research doctoral students, especially those underrepresented in STEM as well as expand institutional research capacity. The goals of CREST-RISE are to increase: 1) the number of STEM research doctoral programs at MSIs (as defined in the Eligibility section), 2) the number of STEM research doctoral students graduating from MSIs, especially those from groups underrepresented in STEM, and 3) institutional research capacity to increase doctoral students' graduation rates.To achieve these goals, the CREST-RISE program includes three tracks as follows: CREST-RISE STEM Doctoral Programs Support Initiative (CREST-RISE DPSI) CREST-RISE Research Advancement and Development (CREST-RISE RAD) CREST-RISE Equipment & Instrumentation (CREST-RISE E&I)",
+      "fit": 100,
+      "matchedTerms": [
+        "artificial intelligence",
+        "data",
+        "infrastructure",
+        "stem",
+        "science",
+        "technology",
+        "engineering",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "357724",
+      "number": "25-522",
+      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Incubators for STEM Excellence",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-08-11",
+      "posted": "2024-12-14",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25522",
+      "awardCeiling": "",
+      "estimatedFunding": "31500000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Established Program to Stimulate Competitive Research (EPSCoR) supports the mission of the U.S. National Science Foundation (NSF) by promoting nationwide scientific progress. Through this program, NSF fosters partnerships among academic institutions, government entities, industry, and non-profits. These collaborations aim to drive long-term improvements in research infrastructure, enhance R&D capacity, and boost the research competitiveness of eligible EPSCoR jurisdictions, including states, territories, and commonwealths. A jurisdiction's research ecosystem is the interconnected network of institutions, organizations, researchers, trainees, community stakeholders, and resources that contribute to the process of research and innovation that advances fundamental knowledge, generates use-inspired products, and ultimately cultivates beneficial societal impacts for a jurisdiction. E-RISE supports hypothesis-driven or problem-driven research and fosters the development of research teams and products in a scientific topical area that aligns with a jurisdiction's research ecosystem and priorities, as detailed in the jurisdiction's Science and Technology (S&T) Plan or drawn from other jurisdiction plans, reports, or publications prepared by appropriate authorities or bodies.E-RISE invitesinnovativeproposalswithin the chosen research area thatwillleadto development and implementation of sustainable broad networks of individuals, institutions, and organizations, and that will transform the science, technology, engineering and mathematics (STEM) research capacity and competitiveness in a jurisdiction. E-RISE is particularly interested in proposals that justify exploring emerging or interdisciplinary research areas with high potential impact. E-RISE projects must have a clearly articulated research goal that will lead to new knowledge by addressing a clear hypothesis or problem. The E-RISE projectshould promote (i) areas of research capacity-building within a chosen research topic; (ii) development of a skilled workforce that is relevant to the research topic, as well as the project and its outcomes; (iii) a culture of collaboration and engagement across different types of academic institutions and organizations, as well as non-academic sectors (e.g., industry and government); (iv) integration of the research with societal impacts; and (v) a clear sustainability plan to preserve the resulting research incubator's team and products beyond E-RISE funding.",
+      "fit": 100,
+      "matchedTerms": [
+        "infrastructure",
+        "outcomes",
+        "workforce",
+        "implementation",
+        "stem",
+        "science",
+        "technology",
+        "engineering"
+      ]
+    },
+    {
+      "id": "353962",
+      "number": "24-570",
+      "title": "Research Training Groups in the Mathematical Sciences",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-08-11",
+      "posted": "2024-05-03",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24570",
+      "awardCeiling": "600000",
+      "estimatedFunding": "12000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The long-range goal of the Research Training Groups in the Mathematical Sciences (RTG) program is to strengthen the nation's scientific competitiveness by increasing the number of well-prepared U.S. citizens, nationals, and permanent residents who pursue careers in the mathematical sciences, be they in academia, government, or industry. The RTG program supports efforts to improve graduate student research training and professional development through structured groups pursuing collaborative research. In addition to graduate student trainees working with faculty members, RTG supported research teams may, but are not required to, include undergraduate or postdoctoral trainees. The RTG program invites submissions in all fields within mathematical sciences; especially encouraged in 2024-2025 are those that align and integrate research in mathematics and statistics with emerging areas such asArtificial Intelligence, Biotechnology,Quantum Computing, and Cybersecurity.",
+      "fit": 86,
+      "matchedTerms": [
+        "professional development",
+        "undergraduate",
+        "science",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "350561",
+      "number": "PD-24-1699",
+      "title": "Cognitive Neuroscience",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-08-17",
+      "posted": "2023-10-12",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506244",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Cognitive Neuroscience (CogNeuro) program seeks to fund proposals that can advance our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically relate precise and rich quantifications of physiological responses and behavior in ways that advance theory (Intellectual Merit). Funded proposal also typically strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists, and/or increasing awareness and utilization of the research the field produces (Broader Impacts). Intellectual Merit In general, successful proposals provide a theoretical motivation and consist of a series of experiments/analyses that test the differential predictions of that theory; they go beyond quantifying physiology during certain tasks and behaviors. Research topics considered for funding include but are not limited to: perception, recognition, categorization, implicit and explicit memory, working memory, attention, language, decision-making, and social reasoning. Commensurate with the inherently multidisciplinary nature of the field and the limitations of any single technique, a wide variety of physiological methods are considered, including but not limited to: neuroimaging (e.g., fMRI, EEG, MEG), non-invasive stimulation (e.g. TMS, tDCS), lesion analysis, intracranial recording, optogenetics, genetics, optical imaging, computational modeling, and pharmacological interventions in both human and non-human primates and other animal models. The program is particularly interested in proposals that achieve or enable convergence across multiple techniques. Critically, proposals will be returned without review if they are focused on: 1) either behavior or physiology and lack a specific link between them, 2) understanding clinical populations, 3) non-human animals without a clear benefit to our understanding of humans. Broader Impacts In general, successful proposals make impacts beyond traditional academic routes, such as publishing research or teaching undergraduate courses. Strong broader impacts can be quite varied but will typically involve specific efforts strengthening the field and/or increasing its visibility that leverage the characteristics of the institution, department, and/or researcher. Consider the following non-exhaustive examples: 1) STEM education and outreach, particularly in underserved communities, 2) directly involving undergraduates and high-school students in research, 3) making tools and applications for the general public, 4) science journalism or advocacy. These efforts can, but need not, directly relate to the proposed research. It is also encouraged to include budget for these efforts if warranted. Mentoring Plans Strong mentoring plans generally go beyond inclusion in standard lab activities and incorporate specific ideas for forwarding the careers of young scientists and trainees that leverage the setting and content of the proposed research. General Directions Prior to the development of a full proposal, investigators are strongly encouraged to submit a one-page summary of the proposed research to a program director to evaluate its appropriateness for the CogNeuro program. Please contact the director early enough to allow for revisions and incorporation what may be extensive feedback. The summary should include an overview of your research and statements of intellectual merit and broader impacts, the two NSF review criteria. See the Merit Review Fact Sheet for more important facts about the NSF merit review process. Please read the NSF Proposal & Award Policies & Procedures Guide (PAPPG) carefully, as it will be strictly adhered to even if other directives or communications appear to contradict it. Currently, the average standard/CAREER award size is $175,000-$225,000 per year for 3-5 years. Awards in excess of $1.0 million are exceptionally rare and almost always multidisciplinary. Please be judicious in your requests, understanding the realities of the limited funding available for all proposals. See the Listing of Active Cognitive Neuroscience Awards for additional award information. Declined proposals are ineligible for resubmission until a minimum of one year has passed since the due date of their initial submission, unless specifically allowed by the PO in the feedback received during the decline process. This moratorium allows investigators the time required to digest the results of the merit review and revise their proposal accordingly. A proposal that has not been substantially revised will be returned without review as per the PAPPG. PIs are strongly encouraged to submit the Single Copy Document titled \"List of Suggested Reviewers\" with their full proposal. Sharing of data and other materials is an expectation for funded research. Please consult the NSF Dear Colleague Letter: Effective Practices for Data for more details. Interested in talking with a program director? Send a one-page description of the proposed research to sbe-cogneuro@nsf.gov.",
+      "fit": 86,
+      "matchedTerms": [
+        "data",
+        "stem",
+        "undergraduate",
+        "science"
+      ]
+    },
+    {
+      "id": "348985",
+      "number": "23-601",
+      "title": "Research Experiences for Undergraduates",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-08-19",
+      "posted": "2023-06-29",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23601",
+      "awardCeiling": "500000",
+      "estimatedFunding": "84800000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Research Experiences for Undergraduates (REU) program supports active research participation by undergraduate students in any of the areas of research funded by the National Science Foundation. REU projects involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU program. This solicitation features two mechanisms for supporting student research: REU Sites are based on independent proposals to initiate and conduct projects that engage a number of students in research. REU Sites may be based in a single discipline or academic department or may offer interdisciplinary or multi-department research opportunities with a coherent intellectual theme. REU Supplements may be included as a component of proposals for new or renewal NSF grants or cooperative agreements or may be requested for ongoing NSF-funded research projects. REU projects with an international dimension are welcome. Undergraduate student participants in either REU Sites or REU Supplements must be U.S. citizens, U.S. nationals,or U.S. permanent residents. Students do not apply to NSF to participate in REU activities, and NSF does not select students for the opportunities. Investigators who receive REU awards establish their own process for receiving and reviewing applications and selecting students, and students follow the instructions provided by each REU Site or REU Supplement to apply. (In some cases, investigators pre-select students for REU Supplements.) To identify appropriate REU Sites, students should consult the directory of active REU Sites on the Web at https://www.nsf.gov/crssprgm/reu/reu_search.cfm .",
+      "fit": 52,
+      "matchedTerms": [
+        "undergraduate",
+        "science"
+      ]
+    },
+    {
+      "id": "348012",
+      "number": "23-586",
+      "title": "Robert Noyce Teacher Scholarship Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-08-25",
+      "posted": "2023-05-09",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23586",
+      "awardCeiling": "3250000",
+      "estimatedFunding": "68000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The National Science FoundationRobert Noyce Teacher Scholarship Program (Noyce)invites innovative proposals that address the critical need for recruiting, preparing, and retaining highly effective elementary and secondary mathematics and science teachers and teacher leaders who persist as classroom teachers in high-need Local Education Agencies (LEA), (a.k.a. high-need school district). To achieve this goal, Noyce supports talented science, technology, engineering, and mathematics (STEM) undergraduate majors and professionals to become effective K-12 STEM teachers. It also supports experienced, exemplary K-12 STEM teachers to become teacher leaders who continue as classroom teachers in high-need school districts. NSF welcomes submission of proposals to this funding opportunity that include the participation of the full spectrum of talent in STEM, e.g., as PI, co-PI, senior personnel, postdoctoral scholars, graduate or undergraduate students or trainees. In addition, the Noyce program supports research on the effectiveness and retention of K-12 STEM teachers in high-need school districts. Noyce offers four program tracks:Track 1: The RobertNoyce Teacher Scholarships and Stipends (S&S) Track, Track 2: The NSF Teaching Fellowships (TF) Track, Track 3: The NSFMaster Teaching Fellowships (MTF) Track, and Track 4: The Noyce Research Track. In addition,Capacity Buildingproposals are accepted from proposers intending to develop a proposal in any of the program's tracks. Noyce also supports conference proposals focused on improving STEM teacher preparation. Proposals that support authentic Research Experiences in STEM Settings (RESS) for Noyce and/or non-Noyce pre-service and in-service STEM teachers are also invited. Table 1:Categories of Noyce Funding* Intended Outcome Eligible Scholars and Fellows Length of Required Teaching Commitment Track 1: Scholarships and Stipends (S&S) up to $1,200,000 with a duration of up to 5 years Develop K-12 STEM teachers in high-need school districts (a.k.a. high-need LEA) Noyce-eligible STEM undergraduate majors & STEM professionals 2 years/year for which scholarship support was received Track 2: Teaching Fellowships (TF) up to $3,000,000, with a duration of up to 6 years Noyce-eligible STEM professionals 4 years Track 3: Master Teaching Fellowships (MTF) up to $3,000,000, with a duration of up to 6 years Develop K-12 STEM teacher leaders in high- need school districts(a.k.a. high-need LEA) Experienced and exemplary K-12 STEM teachers with a bachelor's degree or master's degree in their field 5 years Track 4: Noyce Research up to $1,000,000, with a duration of up to 5 years Research effectiveness and retention of K-12 STEM teachers in high-need school districts(a.k.a. high-need LEA) N/A N/A Capacity Building up to $100,000 , with a duration of up to 1 year Prepare for future Noyce submission N/A N/A *Awards may exceed the budget maximums through Collaboration Incentives for engagement of community colleges in Capacity Building or Track 1 projects, engagement with Noyce awards in Track 4 projects. See Section III: Award Information for additional details. The budgets for conference proposals or for authentic Research Experiences in STEM Settings should be commensurate with the proposed work and must be discussed with a Noyce Program Officer prior to submission.",
+      "fit": 96,
+      "matchedTerms": [
+        "teacher",
+        "district",
+        "stem",
+        "k-12",
+        "undergraduate",
+        "retention",
+        "science",
+        "technology"
+      ]
+    },
+    {
+      "id": "314743",
+      "number": "19-575",
+      "title": "Methodology, Measurement, and Statistics",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-08-27",
+      "posted": "2019-04-10",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19575",
+      "awardCeiling": "",
+      "estimatedFunding": "3760000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Methodology, Measurement, and Statistics (MMS) Program is an interdisciplinary program in the Directorate for Social, Behavioral, and Economic Sciences that supports the development of innovative analytical and statistical methods and models for those sciences. MMS seeks proposals that are methodologically innovative, grounded in theory, and have potential utility for multiple fields within the social, behavioral, and economicsciences. As part of its larger portfolio, the MMS Program partners with a consortium of federal statistical agencies to support research proposals that further the production and use of official statistics. The MMS Program provides support through a number of different funding mechanisms. The following mechanisms are addressed in this solicitation: Regular Research Awards Awards for conferences and community-development activities Doctoral Dissertation Research Improvement (DDRI) Grants Research Experience for Undergraduates (REU) Supplements MMS also supports Faculty Early Career Development (CAREER) awards. Please see the CAREER Program Web Site for more informationabout this activity.",
+      "fit": 66,
+      "matchedTerms": [
+        "science",
+        "statistical"
+      ]
+    },
+    {
+      "id": "361333",
+      "number": "26-506",
+      "title": "Pathways to Enable Secure Open-Source Ecosystems",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-09-01",
+      "posted": "2026-02-19",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26506",
+      "awardCeiling": "",
+      "estimatedFunding": "40000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Pathways to Enable Secure Open-Source Ecosystems (PESOSE) program supports the translation of open-source science and engineering-focused research products into safe and sustainable ecosystems that address national and societal challenges. Open-source tools such as software, hardware, machine learning models, languages, and data platforms are designed to be shared as they are publicly-accessible and modifiable. These tools spark innovation in critical fields as varied as artificial intelligence (AI) and cloud computing, banking, healthcare, research, education, next-gen manufacturing, mobility, and National security (including cybersecurity). PESOSE supports the creation of managing organizations for these ecosystems, ensuring strong governance, distributed development, and broad user communities across academia, industry, and government. PESOSE also supports enhancements to the safety, security, and privacy of Open-Source Ecosystems (OSE) by addressing significant vulnerabilities, both technical and socio-technical, to improve the resistance of the ecosystem against threats. This solicitation seeks three types of proposals, allowing teams to propose specific activities to:1) scope and planthe establishment of an OSE, 2)establishand expand a sustainable OSE based on a robust, promising open-source product that meets an emergent societal or national need, and 3) improve the safety, security, and privacy of an existing OSE and its products.",
+      "fit": 100,
+      "matchedTerms": [
+        "ai",
+        "artificial intelligence",
+        "machine learning",
+        "data",
+        "open",
+        "privacy",
+        "learning",
+        "science"
+      ]
+    },
+    {
+      "id": "356119",
+      "number": "24-597",
+      "title": "U.S. National Science Foundation Research Traineeship (NRT) Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-09-08",
+      "posted": "2024-08-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24597",
+      "awardCeiling": "3000000",
+      "estimatedFunding": "53000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The NSF Research Traineeship (NRT) program seeks proposals that explore ways for graduate students in research-based master's and doctoral degree programs to develop the skills, knowledge, and competencies needed to pursue a range of STEM careers. The program is dedicated to effective training of STEM graduate students in high priority interdisciplinary or convergent research areas, through a comprehensive traineeship model that is innovative, evidence-based, and aligned with changing workforce and research needs. Proposals are requested that address any interdisciplinary or convergent research theme of national priority, as described in section II.D below. The NRT program addresses workforce development, emphasizing broad participation, and institutional capacity building needs in graduate education. The program encourages proposals that involve strategic collaborations with the private sector, non-governmental organizations (NGOs), government agencies, national laboratories, field stations, teaching and learning centers, informal science centers, and academic partners. NRT especially welcomes proposals that reflect collaborations between NRT proposals and existing NSF Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES) Initiative , Research Experiences for Undergraduates (REU) , Louis Stokes Alliances for Minority Participation (LSAMP) , NSF Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM) , and NSF STEM Ed Organizational Postdoctoral Fellowship program (STEM Ed OPRF) projects, provided the collaboration will strengthen both projects. Researchers at minority serving institutions and emerging research institutions are strongly encouraged to submit proposals. Collaborations between NRT proposals and existing NSF INCLUDES projects should strengthen both NRT and INCLUDES projects.",
+      "fit": 100,
+      "matchedTerms": [
+        "learning",
+        "evidence",
+        "workforce",
+        "stem",
+        "science",
+        "technology",
+        "engineering",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "353413",
+      "number": "24-564",
+      "title": "IUSE/Professional Formation of Engineers: Revolutionizing Engineering Departments",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-09-08",
+      "posted": "2024-04-05",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24564",
+      "awardCeiling": "2000000",
+      "estimatedFunding": "8000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Revolutionizing Engineering Departments (hereinafter referred to as RED) is designed to build upon previous efforts in engineering education research. Specifically, previous and ongoing evaluations of the NSF Engineering Education and Centers Division program and its predecessors, as well as those related programs in the Directorate for STEM Education, have shown that prior investments have significantly improved the first year of engineering students' experiences, incorporating engineering material, active learning approaches, design instruction, and a broad introduction to professional skills and a sense of professional practice - giving students an idea of what it means to become an engineer. Similarly, the senior year has seen notable change through capstone design experiences, which ask students to synthesize the technical knowledge, skills, and abilities they have gained with professional capacities, using reflective judgment to make decisions and communicate these effectively. However, this ideal of the senior year has not yet been fully realized, because many of the competencies required in capstone design, or required of professional engineers, are only partially introduced in the first year and not carried forward with significant emphasis through the sophomore and junior years. The Directorates for Engineering (ENG) and STEM Education (EDU) are funding projects as part of the RED program, in alignment with the Improving Undergraduate STEM Education (IUSE) framework and Professional Formation of Engineers (PFE) initiative. These projects are designing revolutionary new approaches to engineering education, ranging from changing the canon of engineering to fundamentally altering the way courses are structured to creating new departmental structures and educational collaborations with industry. A common thread across these projects is a focus on organizational and cultural change within the departments, involving students, faculty, staff, and industry in rethinking what it means to provide an engineering program. In order to continue to catalyze revolutionary approaches, while expanding the reach of those that have proved efficacious in particular contexts, the RED program supports four tracks: RED Planning (Track 1), RED Adaptation and Implementation (Track 2), RED Innovation (Track 3), and RED Innovation Partnerships (Track 4). Two- and four-year institutions are encouraged to submit to any track as appropriate for their goals and context. RED Planning (Track 1) projects will support capacity-building activities at institutions of special interest to NSF's mission, specifically two-year engineering-centered programs building transfer partnerships, two-year or four-year institutions in EPSCoR jurisdictions, Primarily Undergraduate Institutions (PUIs), and Institutions of Higher Education (IHEs)seeking to level the number of degrees acrossof the full spectrum of diverse talent in engineering. Planning projects should provide the support for such institutions to explore the development of a RED Projects in Tracks 2, 3, & 4. RED Adaptation and Implementation (Track 2) projects will adapt and implement evidence-based organizational change strategies and actions to the local context, which helps propagate this transformation of undergraduate engineering education. RED Innovation (Track 3) projects will develop new, revolutionary approaches and change strategies that enable the transformation of undergraduate engineering education. RED Innovation Partnerships (Track 4) projects will achieve the same goals as Track 3 projects across multiple institutions. Of particular interest to this track are projects partnering two-year institutions with other eligible institutions. Projects in tracks 2, 3, & 4 will include consideration of the cultural, organizational, structural, and pedagogical changes needed to transform one or more departments to ones in which students are engaged, develop their technical and professional skills, and establish identities as professional engineers or technologists. The focus of projects in these tracks should be on the department's disciplinary courses and program. RED project initiatives are expected to be institutionalized at the end of the funding period. Proposals are especially encouraged that address areas of increased national interest including but not limited to advanced manufacturing, advanced wireless, artificial intelligence, biotechnology, microelectronics and semiconductors, net zero technologies, sustainability, systems engineering, and quantum engineering.",
+      "fit": 100,
+      "matchedTerms": [
+        "artificial intelligence",
+        "learning",
+        "evidence",
+        "implementation",
+        "stem",
+        "higher education",
+        "undergraduate",
+        "transfer"
+      ]
+    },
+    {
+      "id": "347026",
+      "number": "23-569",
+      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-09-09",
+      "posted": "2023-03-21",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23569",
+      "awardCeiling": "250000",
+      "estimatedFunding": "2000000",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The National Science Foundation (NSF) and the National Institutes of Health (NIH) are interested in proposals that will propel our understanding of the biomedical research enterprise by drawing from the scientific expertise of the science of science policy research community. NSF promotes the progress of science by maintaining the general health of research and education across all fields of science and engineering. The Social, Behavioral and Economic Sciences (SBE) Directorate within NSF supports basic research on people and society. The SBE sciences focus on human behavior and social organizations; how social, economic, political, cultural and environmental forces affect the lives of people from birth to old age; and how people in turn shape those forces. SBE's Science of Science: Discovery, Communication and Impact Program (SoS:DCI) supports research designed to advance the scientific basis of science and innovation policy. The NIH is the U.S. federal agency charged with supporting biomedical research in the U.S.The National Institute of General Medical Sciences (NIGMS) within the NIH supports basic biomedical research that increases understanding of biological processes and lays the foundation for advances in disease diagnosis, treatment and prevention. Both NSF and NIH believe that there are opportunities and needs for building and supporting research projects with a focus on the scientific research enterprise. The two agencies also recognize that when programmatic goals are compatible, coordinated management and funding of a research program can have a positive synergistic effect on the level and scope of research and can leverage the investments of both agencies. Therefore, NIGMS and SBE are partnering to enable collaboration in research between theSoS:DCI program and NIGMS. This partnership will result in a portfolio of high-quality research to provide scientific analysis of important aspects of the biomedical research enterprise and efforts to foster a diverse, innovative, productive and efficient scientific workforce, from which future scientific leaders will emerge. Prospective investigators are strongly encouraged to discuss theirproposals with the program officers before submission to determine project relevance to the priorities of both SBE and NIGMS. Specific questions pertaining to this solicitation can also be directed to the SBE and NIGMS program officers.",
+      "fit": 68,
+      "matchedTerms": [
+        "workforce",
+        "science",
+        "engineering"
+      ]
+    },
+    {
+      "id": "360149",
+      "number": "25-543",
+      "title": "Computer and Information Science and Engineering (CISE): Future Computing Research",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-09-10",
+      "posted": "2025-07-25",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25543",
+      "awardCeiling": "12000000",
+      "estimatedFunding": "280000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The NSF CISE Directorate supports research and education projects that develop new knowledge in all aspects of computing, communications, and information science and engineering through the following Future Computing Research (Future CoRe) programs: Algorithmic Foundations (AF) program; Communications and Information Foundations (CIF) program; Computer Systems Research (CSR) program; Computing Education Research (CER) program; Cyber-Physical System Foundations and Connected Communities (CPS) program; Foundations of Emerging Technologies (FET) program; Human-Centered Computing (HCC) program; Information Integration and Informatics (III) program; Networking Technology and Systems (NeTS) program; Robust Intelligence (RI) program;and Software and Hardware Foundations (SHF) program; The CISE Future Computing Research program anticipates a portfolio of awards with a range of budgets and durations, including projects of smaller scope. Project durations and budgets must be commensurate with the scope of the proposed work up to the maximum limit of $1,000,000 with a duration up to 4 years. Typical projects are approximately $150,000 to $250,000 per year and are 3 to 4 years in duration. Projects are discouraged from exceeding $300,000 in any single year. Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.",
+      "fit": 72,
+      "matchedTerms": [
+        "science",
+        "technology",
+        "engineering",
+        "cyber"
+      ]
+    },
+    {
+      "id": "359966",
+      "number": "25-540",
+      "title": "National Science Foundation Translation to Practice",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-09-15",
+      "posted": "2025-07-09",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25540",
+      "awardCeiling": "2000000",
+      "estimatedFunding": "30000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The U.S. NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) partners across sectors to advance three primary focus areas - accelerating technology translation and development, fostering regional innovation and economic growth, and preparing the American workforce for future high-wage jobs in STEM fields. The translation of research to practice ensures that the insights and innovations developed through scientific study and experimentation have tangible, positive impacts for the Nation. These impacts include improving the quality of life, promoting economic and job growth, ensuring national security, and maintaining global competitiveness. Indeed, scientific and engineering breakthroughs have the potential to address critical societal challenges in industries such as aerospace, agriculture, communications, education, energy, healthcare, national security, and transportation - but the translation of discoveries and innovations from the laboratory to society often takes many forms including non-linear pathways. The NSF TTP program was developed with several goals in mind: To identify and support use-inspired research and translational activities enabling a continuum from foundational research to practice; To develop partnerships and collaborations between institutions of higher education and other entities (e.g., industry, state/local/national government agencies, philanthropies, open-source ecosystems, for-benefit, for-profit and non-profit organizations, international organizations, etc.); To promote and advance the education and training of students and postdoctoral researchers, encouraging the participation of all Americans in STEM including innovation and entrepreneurship; and To identify future customer needs and opportunities and bring these to the forefront in the conduct of use-inspired research and translational activities. The NSF TTP program offers three tracks that represent different starting points or stages in moving discoveries and innovations from the laboratory to practice: NSF TTP-Explore (NSF TTP-E) is a pilot track that is likely to be the first step for researchers seeking to translate their basic research to practice. To be eligible for the NSF TTP-E track, proposers must have an active, eligible, NSF research award (see Eligibility Information for further details). TTP-E is designed to encourage current, eligible NSF awardees to intentionally pursue applications of their research with the potential for societal impact. The NSF TTP-E track provides the opportunity to obtain an extension of the initial award period of a current NSF award for up to two years in order to offer investigators an opportunity to explore adventurous, high-risk, use-inspired research and initial translational activities as the starting point for translation that was not covered by the original research award. NSF TTP-Translate (NSF TTP-T) starts with use-inspired research and initial translational activities and further matures the idea(s), iterates and improves the solution(s), and lowers the barrier(s) to effective translation of research from lab to practice. NSF TTP-Partner (NSF TTP-P) supports translational efforts that demand one or more partnerships for technology development and deployment. Here, strategic partnerships with stakeholders beyond U.S. institutions of higher education are essential ingredients for success and may include industry partners, government entities at all levels, philanthropies, international organizations, or other groups associated with large scale productization and distribution. The NSF TTP-P track requires an NSF-Catalyzed Partnership with an organization that will assist in the translation to practice. In addition to the Principal Investigator (PI), NSF TTP-P proposals must include a co-PI or Senior/Key Personnel who is a member or employee of the NSF-Catalyzed Partner. Partnerships with U.S. institutions of higher education are valued, but NSF TTP strongly prioritizes NSF-Catalyzed Partnerships that are able to help bring the product, process, or service to the market, potentially through licensing agreements, startup or small business formation, incorporation into an existing open-source ecosystem, development into standards setting arrangements, etc.",
+      "fit": 88,
+      "matchedTerms": [
+        "open",
+        "workforce",
+        "stem",
+        "higher education",
+        "science",
+        "technology",
+        "engineering",
+        "pathways"
+      ]
+    },
+    {
+      "id": "353353",
+      "number": "PD-18-1263",
+      "title": "Probability",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-09-15",
+      "posted": "2024-04-03",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5555",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Probability Program supports research on the theory and applications of probability. Subfields include discrete probability, stochastic processes, limit theory, interacting particle systems, stochastic differential and partial differential equations, and Markov processes. Research in probability which involves applications to other areas of science and engineering is especially encouraged. Conferences Principal Investigators should carefully read the program solicitation &quot;Conferences and Workshops in the Mathematical Sciences&quot; (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities. Conference and workshop proposals should be submitted eight months before the requested start date.",
+      "fit": 24,
+      "matchedTerms": [
+        "science",
+        "engineering"
+      ]
+    },
+    {
+      "id": "302270",
+      "number": "PD-18-1268",
+      "title": "Foundations",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-09-22",
+      "posted": "2018-03-29",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5548",
+      "awardCeiling": "",
+      "estimatedFunding": "2300000",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The program in Foundations supports research in mathematical logic and the foundations of mathematics, including proof theory, recursion theory, model theory, set theory, and infinitary combinatorics. Conferences Principal Investigators should carefully read the program solicitation &quot;Conferences and Workshops in the Mathematical Sciences&quot; (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities. Conference and workshop proposals should be submitted eight months before the requested start date.",
+      "fit": 24,
+      "matchedTerms": [
+        "science",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "302273",
+      "number": "PD-18-7970",
+      "title": "Combinatorics",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-09-22",
+      "posted": "2018-03-29",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503570",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Combinatorics program supports research on discrete structures and includes algebraic, enumerative, existential, extremal, geometric, and probabilistic combinatorics, including graph theory. Conferences Principal Investigators should carefully read the program solicitation &quot;Conferences and Workshops in the Mathematical Sciences&quot; (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities. Conference proposals must be submitted at least six months in advance of the conference, and in the same fiscal year (which begins October 1) if possible.",
+      "fit": 20,
+      "matchedTerms": [
+        "science"
+      ]
+    },
+    {
+      "id": "357554",
+      "number": "25-515",
+      "title": "Security, Privacy, and Trust in Cyberspace",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-09-28",
+      "posted": "2024-12-06",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25515",
+      "awardCeiling": "1200000",
+      "estimatedFunding": "60000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Our world is at a pivotal moment where the boundaries dividing the physical and social worlds from the cyber world have become blurred. Cyberspace has evolved from an interconnected digital environment into a complex and interdependent cyber ecosystem that involves hardware, software, networks, data, people, organizations, countries, and the physical world. Critical functions of everyday life are deeply intertwined with computing, including health, government, commerce, the public sphere, education, critical infrastructure, interpersonal communication, and transportation. The complexity and inter-dependencies in cyberspace can be misused and exploited by malicious actors. These in turn can trigger adverse outcomes such as disruption of critical infrastructure and systems; theft of intellectual property and sensitive data; amplification of inequalities; disclosure of private information of individuals, organizations, and governments; and threats to lives, livelihoods, and reputations. Furthermore, constant attacks on the data and assets of corporations, governments, and individuals undermine people's trust in decision-making and processes that depend critically on these cyber systems. The Security, Privacy, and Trust in Cyberspace (SaTC 2.0) program aims to build trust in global cyber ecosystems. Trust is the core tenet of this program and, for the purposes of this solicitation, is broadly defined to include our confidence in the security, privacy, and resilience of cyberspace, particularly in the face of malicious intent. Achieving this level of confidence in cyberspace requires not only understanding the vulnerabilities in a system that could be exploited and how they can be addressed, but also understanding the social and technical dimensions of trust in cyber systems, along with the educational efforts needed to increase public awareness of risks in cyberspace, and building a well-trained corps of privacy and security professionals. SaTC 2.0 spans the interests of NSF's Directorates for Computer and Information Science and Engineering (CISE), Mathematical and Physical Sciences (MPS), Social, Behavioral and Economic Sciences (SBE), and STEM Education (EDU). Proposals must be submitted pursuant to one of the following designations, each of which may have additional requirements: RES: The Research (RES) designation is the focus of the multidisciplinary SaTC 2.0 research program. RES projects are limited to $1,200,000 in total budget, with durations of up to four years. Proposals with a total budget of more than $600,000 have additional requirements including Broadening Participation in Computing and collaboration plans. RES proposals may include an optional Transition to Education (TTE) plan with a budget up to $50,000 (within the RES total budget request) to co-evolve novel educational initiatives in the context of the proposed research. EDU: The Education (EDU) designation is used to identify proposals focusing on education and workforce training in building trust in security, privacy, and resilience of cyberspace. EDU proposals are limited to $500,000 in total budget, with durations of up to three years. EDU proposals that primarily focus on education research with demonstrated collaboration, as reflected in the PI team between cybersecurity subject matter experts and education researcher(s), may request an additional $100,000 beyond the $500,000 limit. SEED: The Seedling (SEED) category is intended for special topics defined by accompanying Dear Colleague Letters. SEED projects are limited to $300,000 in total budget, with durations of up to two years.",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
+        "infrastructure",
+        "privacy",
+        "outcomes",
+        "workforce",
+        "stem",
+        "science",
+        "engineering"
+      ]
+    },
+    {
+      "id": "355100",
+      "number": "24-584",
+      "title": "Advanced Technological Education",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-10-01",
+      "posted": "2024-06-25",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24584",
+      "awardCeiling": "7500000",
+      "estimatedFunding": "74000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "With a focus on two-year Institutions of Higher Education (IHEs), the Advanced Technological Education (ATE) program supports the education of technicians for the high-technology fields that drive our nation's economy. The program involves partnerships between academic institutions (grades 7-12, IHEs), industry, and economic development agencies to promote improvement in the education of science and engineering technicians. It is strongly recommended that projects be faculty-led and required that courses and programs are credit-bearing, although materials developed may also be used for incumbent worker education. Materials may also be adapted and implemented as credit-bearing courses. The ATE program supports curriculum development; professional development of college faculty and secondary school teachers; career pathway development for both students and incumbent workers; and other activities including applied research projects that advance the knowledge base related to technician education. The ATE program encourages partnerships with other entities that may impact technician education. For example, with the National Institute of Standards and Technology (NIST) Manufacturing Extension Partnerships (MEPs) ( http://www.nist.gov/mep/index.cfm ) as applicable to support technician education programs and the industries they serve; and Manufacturing USA Institutes( https://manufacturing.gov/ ) addressing workforce development issues. The ATE program encourages proposals from Minority Serving Institutions as well as other institutions that support the recruitment, retention, and completion (certificate, degree, program)of the full spectrum of diverse talent that society has to offer, which includes underrepresented and underserved communities, in STEM technician education programs that award associate degrees.",
+      "fit": 100,
+      "matchedTerms": [
+        "workforce",
+        "professional development",
+        "stem",
+        "higher education",
+        "retention",
+        "completion",
+        "science",
+        "technology"
+      ]
+    },
+    {
+      "id": "362422",
+      "number": "21-588",
+      "title": "EDU Core Research",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-10-01",
+      "posted": "2026-05-15",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21588",
+      "awardCeiling": "2500000",
+      "estimatedFunding": "35000000",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The EDU Core Research (ECR) program offers this ECR:Core solicitation and invites proposals for fundamental research (curiosity-driven basic research and use-inspired basic research) that contributes to the general, explanatory knowledge that underlies STEM education in one or more of the three broadly conceived Research Areas: Research onSTEM Learning and Learning Environments, Research on Broadening Participation in STEM fields, andResearch on STEM Workforce Development. Within this framework, the ECR program supports a wide range of fundamental STEM education research activities, aimed at learners of all groups and ages in formal and informal settings. Fundamental researchgenerates knowledge and understanding with the potential for broad relevance. The potential implications of ECR fundamental research for improving STEM education practice may be indirect and long-term rather than direct and immediate. Moreover, whether they include basic or use-inspired basic research, all successful ECR:Core proposals focus on the advancement or refinement of foundational knowledge for STEM education. The amount of funding and duration requested in proposals submitted to the ECR:Core solicitation should align with the maturity of the proposed work and the size and scope of the empirical effort. The solicitation has three levels of funding with a range of budget sizes, and proposals may request a duration of 3 to 5 years for any level: (1)Level I proposals may request up to $500,000; (2)Level II proposals may request up to $1,500,000; (3)Level III proposalsmay request up to $2,500,000. All proposals should justify the level of funding and duration in the project description.",
+      "fit": 76,
+      "matchedTerms": [
+        "learning",
+        "workforce",
+        "stem",
+        "science",
+        "broadening participation"
+      ]
+    },
+    {
+      "id": "353936",
+      "number": "24-569",
+      "title": "Mathematical Foundations of Artificial Intelligence",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-10-09",
+      "posted": "2024-05-02",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24569",
+      "awardCeiling": "1500000",
+      "estimatedFunding": "8500000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Machine Learning and Artificial Intelligence (AI) are enabling extraordinary scientific breakthroughs in fields ranging from protein folding, natural language processing, drug synthesis, and recommender systems to the discovery of novel engineering materials and products. These achievements lie at the confluence of mathematics, statistics, engineering and computer science, yet a clear explanation of the remarkable power and also the limitations of such AI systems has eluded scientists from all disciplines. Critical foundational gaps remain that, if not properly addressed, will soon limit advances in machine learning, curbing progress in artificial intelligence. It appears increasingly unlikely that these critical gaps can be surmounted with increased computational power and experimentation alone. Deeper mathematical understanding is essential to ensuring that AI can be harnessed to meet the future needs of society and enable broad scientific discovery, while forestalling the unintended consequences of a disruptive technology. The National Science Foundation Directorates for Mathematical and Physical Sciences (MPS), Computer and Information Science and Engineering (CISE), Engineering (ENG), and Social, Behavioral and Economic Sciences (SBE) will jointly sponsor research collaborations consisting of mathematicians, statisticians, computer scientists, engineers, and social and behavioral scientists focused on the mathematical and theoretical foundations of AI. Research activities should focus on the most challenging mathematical and theoretical questions aimed at understanding the capabilities, limitations, and emerging properties of AI methods as well as the development of novel, and mathematically grounded, design and analysis principles for the current and next generation of AI approaches. Specific research goals include: establishing a fundamental mathematical understanding of the factors determining the capabilities and limitations of current and emerging generation s of AI systems, including, but not limited to, foundation models, generative models, deep learning, statistical learning, federated learning, and other evolving paradigms; the development of mathematically grounded design and analysis principles for the current and next generations of AI systems; rigorous approaches for characterizing and validating machine learning algorithms and their predictions; research enabling provably reliable, translational, general-purpose AI systems and algorithms; e ncouragement of new collaborations &#8239;in this interdisciplinary research community and between institution s. The overall goal is to establish innovative and principled design and analysis approaches for AI technology using creative yet theoretically grounded mathematical and statistical frameworks, yielding explainable and interpretable models that can enable sustainable, socially responsible, and trustworthy AI.",
+      "fit": 100,
+      "matchedTerms": [
+        "ai",
+        "artificial intelligence",
+        "machine learning",
+        "learning",
+        "science",
+        "technology",
+        "engineering",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "329325",
+      "number": "PD-20-1264",
+      "title": "Algebra and Number Theory",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-10-09",
+      "posted": "2020-10-06",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5431",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Algebra and Number Theory program supports research in algebra, algebraic and arithmetic geometry, number theory, and representation theory. Conference proposals The Algebra and Number Theory program also provides support for conferences, workshops, summer/winter schools, and similar activities. Proposals should be submitted to PD 20-1264 using the \"Conference\" proposal type in research.gov. Proposals with budgets not exceeding $50,000, which in accordance with NSF policy can be reviewed internally, should be submitted: in May for events that will take place in January through April of the following year in October for events that will take place in May through December of the following year. In order to allow time for external review, proposals with budget requests exceeding $50,000 should be submitted nine to twelve months before the event is scheduled to take place.",
+      "fit": 48,
+      "matchedTerms": [
+        "science"
+      ]
+    },
+    {
+      "id": "350802",
+      "number": "24-503",
+      "title": "Research Experiences for Teachers (RET) in Engineering and Computer Science",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-10-14",
+      "posted": "2023-10-31",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24503",
+      "awardCeiling": "",
+      "estimatedFunding": "5800000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Research Experiences for Teachers (RET) in Engineering and Computer Science program supports authentic summer research experiences for K-14 educators to foster long-term collaborations between universities, community colleges, school districts, and industry partners. With this solicitation, the Directorates for Engineering (ENG) and Computer and Information Science and Engineering (CISE) focus on a reciprocal exchange of expertise between K-14 educators and research faculty and (when applicable) industry mentors. K-14 educators will enhance their scientific disciplinary knowledge in engineering or computer science and translate their research experiences into classroom activities and curricula to broaden their students' awareness of and participation in computing and engineering pathways. At the same time, the hosting research faculty will deepen their understanding of classroom practices, current curricula, pedagogy, and K-14 educational environments.",
+      "fit": 72,
+      "matchedTerms": [
+        "science",
+        "engineering",
+        "computer science",
+        "pathways"
+      ]
+    },
+    {
+      "id": "359103",
+      "number": "22-622",
+      "title": "NSF's Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES) Initiative",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-10-27",
+      "posted": "2025-05-23",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22622",
+      "awardCeiling": "",
+      "estimatedFunding": "5500000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "In 2016, the National Science Foundation (NSF) unveiled a set of \"Big Ideas,\" 10 bold, long-term research and process ideas that identify areas for future investment at the frontiers of science and engineering (see https://www.nsf.gov/news/special_reports/big_ideas/index.jsp ). The Big Ideas represent unique opportunities to position our Nation at the cutting edge of global science and engineering leadership by bringing together diverse disciplinary perspectives to support convergence research. As such, when responding to this solicitation, even though proposals must be submitted to the Directorate for STEM Education (EDU) / Division of Equity for Excellence in STEM (EES), once received, the proposals will be managed by a cross-disciplinary team of NSF Program Directors. The INCLUDES Initiative is a comprehensive , national effort to enhance U.S. leadership in science, technology, engineering, and mathematics (STEM) discovery and innovation, focused on NSF ' s commitment to ensuring accessibility and inclusivity in STEM fields, as communicated in the NSF Strategic Plan for Fiscal Years (FY) 2022 - 2026 . The vision of the INCLUDES Initiative is to catalyze the STEM enterprise to work collaboratively for inclusive change, resulting in a STEM workforce that reflects the Nation's population. More specifically, the INCLUDES Initiative seeks to motivate and accelerate collaborative infrastructure building to sustain systemic change to broaden participation in STEM fields at scale. Significant advancement of the INCLUDES Initiative's goals will result in a new generation of STEM talent and leadership to secure the Nation's future and long-term economic competitiveness . With this solicitation, NSF offers support for five types of projects that connect and contribute to the National Network : (1) Design and Development Launch Pilot s , (2) Collaborative Change Consortia, (3) Alliances, (4) Network Connectors, and (5) Conferences. T he INCLUDES National Network is a multifaceted collaboration of agencies, organizations, and individuals working collectively to broaden participation in STEM. The INCLUDES National Network serves as a testbed for designing, implementing, studying, refining, and scaling collaborative change models and is composed of: INCLUDES funded projects Other NSF funded projects Subcommittee on Federal Coordination in STEM Education (FC-STEM) agencies S cholars engaged in broadening participation research and evaluation, and O rganizations that support the development of talent from all sectors of society to build an inclusive STEM workforce . All INCLUDES funded projects must operationalize five design elements of collaborative infrastructure - (1) shared vision, (2) partnerships, (3) goals and metrics, (4) leadership and communication, and (5) expansion, sustainability, and scale - to create systemic change that broadens participation in STEM .",
+      "fit": 100,
+      "matchedTerms": [
+        "infrastructure",
+        "evaluation",
+        "workforce",
+        "equity",
+        "accessibility",
+        "stem",
+        "science",
+        "technology"
+      ]
+    }
+  ]
+}
