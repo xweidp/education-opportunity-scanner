@@ -320,15 +320,51 @@ textarea {
   padding: 14px 16px;
 }
 
+.section-primary .section-heading {
+  background: #173c35;
+  color: white;
+  border-top: 0;
+  padding: 18px 16px;
+}
+
+.section-foundation .section-heading {
+  background: #f6efe8;
+  border-left: 4px solid var(--accent-2);
+}
+
+.section-state .section-heading {
+  background: #eef4fb;
+  border-left: 4px solid var(--accent-3);
+}
+
+.section-other .section-heading {
+  background: #f4f4ef;
+  border-left: 4px solid var(--warn);
+}
+
 .section-heading h3 {
   margin: 0;
-  font-size: 0.98rem;
+  font-size: 1rem;
 }
 
 .section-heading span,
 .section-empty {
   color: var(--muted);
   font-size: 0.84rem;
+}
+
+.section-primary .section-heading span,
+.section-primary .section-kicker {
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.section-kicker {
+  margin: 0 0 3px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 900;
+  letter-spacing: 0;
+  text-transform: uppercase;
 }
 
 .section-empty {

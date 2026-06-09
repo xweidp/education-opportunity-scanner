@@ -320,20 +320,29 @@ function render() {
     return;
   }
 
-  const federalItems = state.filtered.filter((item) => !item.sourceType || item.sourceType === "Federal/other");
-  const watchlistItems = state.filtered.filter((item) => item.sourceType && item.sourceType !== "Federal/other");
+  const federalItems = state.filtered.filter((item) => !item.sourceType || item.sourceType === "Federal/other" || item.sourceType === "Federal education research");
+  const foundationItems = state.filtered.filter((item) => item.sourceType === "Private foundation");
+  const stateItems = state.filtered.filter((item) => item.sourceType === "State funding");
+  const otherItems = state.filtered.filter(
+    (item) => item.sourceType && !["Federal/other", "Federal education research", "Private foundation", "State funding"].includes(item.sourceType)
+  );
   els.resultsList.innerHTML = [
-    renderResultSection("Grants.gov and Federal Opportunities", federalItems),
-    renderResultSection("Private Foundations, State Funding, and Other Watchlist Sources", watchlistItems)
+    renderResultSection("Grants.gov and Federal Opportunities", federalItems, "primary"),
+    renderResultSection("Private Foundation Opportunities", foundationItems, "foundation"),
+    renderResultSection("State Funding Opportunities", stateItems, "state"),
+    renderResultSection("Other Watchlist Sources", otherItems, "other")
   ].join("");
 }
 
-function renderResultSection(title, items) {
+function renderResultSection(title, items, variant = "") {
   const subtitle = items.length === 1 ? "1 opportunity" : `${items.length} opportunities`;
   return `
-    <div class="result-section">
+    <div class="result-section ${variant ? `section-${variant}` : ""}">
       <div class="section-heading">
-        <h3>${escapeHtml(title)}</h3>
+        <div>
+          <p class="section-kicker">${escapeHtml(getSectionKicker(variant))}</p>
+          <h3>${escapeHtml(title)}</h3>
+        </div>
         <span>${escapeHtml(subtitle)}</span>
       </div>
       ${
@@ -343,6 +352,13 @@ function renderResultSection(title, items) {
       }
     </div>
   `;
+}
+
+function getSectionKicker(variant) {
+  if (variant === "primary") return "Primary source";
+  if (variant === "foundation") return "Private funders";
+  if (variant === "state") return "State agencies";
+  return "Additional sources";
 }
 
 function renderRow(item) {
