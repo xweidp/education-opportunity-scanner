@@ -306,6 +306,36 @@ textarea {
   background: #fbfcfb;
 }
 
+.result-section + .result-section {
+  border-top: 10px solid var(--bg);
+}
+
+.section-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  background: #f7faf7;
+  border-top: 1px solid var(--line);
+  padding: 14px 16px;
+}
+
+.section-heading h3 {
+  margin: 0;
+  font-size: 0.98rem;
+}
+
+.section-heading span,
+.section-empty {
+  color: var(--muted);
+  font-size: 0.84rem;
+}
+
+.section-empty {
+  border-top: 1px solid var(--line);
+  padding: 16px;
+}
+
 .opportunity-title {
   margin: 0 0 6px;
   font-weight: 800;

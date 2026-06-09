@@ -343,7 +343,29 @@ function render() {
     return;
   }
 
-  els.resultsList.innerHTML = state.filtered.map(renderRow).join("");
+  const federalItems = state.filtered.filter((item) => !item.sourceType || item.sourceType === "Federal/other");
+  const watchlistItems = state.filtered.filter((item) => item.sourceType && item.sourceType !== "Federal/other");
+  els.resultsList.innerHTML = [
+    renderResultSection("Grants.gov and Federal Opportunities", federalItems),
+    renderResultSection("Private Foundations, State Funding, and Other Watchlist Sources", watchlistItems)
+  ].join("");
+}
+
+function renderResultSection(title, items) {
+  const subtitle = items.length === 1 ? "1 opportunity" : `${items.length} opportunities`;
+  return `
+    <div class="result-section">
+      <div class="section-heading">
+        <h3>${escapeHtml(title)}</h3>
+        <span>${escapeHtml(subtitle)}</span>
+      </div>
+      ${
+        items.length
+          ? items.map(renderRow).join("")
+          : `<div class="section-empty">No matching opportunities in this section.</div>`
+      }
+    </div>
+  `;
 }
 
 function renderRow(item) {
