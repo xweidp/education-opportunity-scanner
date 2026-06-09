@@ -133,7 +133,6 @@ const els = {
   scanButton: document.querySelector("#scanButton"),
   loadSampleButton: document.querySelector("#loadSampleButton"),
   profileSelect: document.querySelector("#profileSelect"),
-  keywordInput: document.querySelector("#keywordInput"),
   searchInput: document.querySelector("#searchInput"),
   resultsList: document.querySelector("#resultsList"),
   exportButton: document.querySelector("#exportButton"),
@@ -228,21 +227,8 @@ function extractUrl(value) {
   return match ? match[0] : "";
 }
 
-function getKeywords() {
-  const profileTerms = getProfileTerms();
-  const extraTerms = getExtraTerms();
-  return [...new Set([...profileTerms, ...extraTerms])];
-}
-
 function getProfileTerms() {
   return profiles[els.profileSelect.value] || [];
-}
-
-function getExtraTerms() {
-  return els.keywordInput.value
-    .split(",")
-    .map((term) => term.trim().toLowerCase())
-    .filter(Boolean);
 }
 
 function getSelectedTopicLabel() {
@@ -256,18 +242,9 @@ function getTopicMatch(opportunity) {
   return profileTerms.filter((term) => termMatches(haystack, term));
 }
 
-function getExtraMatch(opportunity) {
-  const extraTerms = els.keywordInput.value
-    ? getExtraTerms()
-    : [];
-  const haystack = `${opportunity.title} ${opportunity.source} ${opportunity.description}`.toLowerCase();
-  return extraTerms.filter((term) => termMatches(haystack, term));
-}
-
 function scoreOpportunity(opportunity) {
   const topicMatched = getTopicMatch(opportunity);
-  const extraMatched = getExtraMatch(opportunity);
-  const matched = [...new Set([...topicMatched, ...extraMatched])];
+  const matched = els.profileSelect.value === "all" ? opportunity.matchedTerms || [] : topicMatched;
   const haystack = `${opportunity.title} ${opportunity.source} ${opportunity.description}`.toLowerCase();
   const sourceBoost = /(nsf|ies|education|school|district|foundation|agency|philanthropy)/i.test(opportunity.source) ? 10 : 0;
   const methodBoost = /(evaluation|randomized|mixed-method|longitudinal|evidence|validity|implementation|pilot)/i.test(haystack) ? 12 : 0;
@@ -455,7 +432,6 @@ els.loadSampleButton.addEventListener("click", () => {
 });
 
 els.profileSelect.addEventListener("change", applyFilters);
-els.keywordInput.addEventListener("input", applyFilters);
 els.searchInput.addEventListener("input", applyFilters);
 els.exportButton.addEventListener("click", exportCsv);
 
