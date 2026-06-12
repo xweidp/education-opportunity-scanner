@@ -6,6 +6,8 @@ const SEARCH_QUERIES = [
   "teacher professional development STEM education workforce data",
   "education research public goods data infrastructure digital equity",
   "postsecondary student success higher education retention completion transfer",
+  "postsecondary workforce career pathways adult learning competency-based education",
+  "adult education workforce development career technical education credentials pathways",
   "community college workforce pathways undergraduate STEM education",
   "STEM education broadening participation undergraduate teacher pathways",
   "secondary data analysis education research longitudinal administrative data",
@@ -49,6 +51,19 @@ const PROFILE_TERMS = [
   "undergraduate",
   "community college",
   "student success",
+  "career",
+  "career pathways",
+  "workforce development",
+  "adult learning",
+  "adult education",
+  "adult learners",
+  "competency-based education",
+  "competency based education",
+  "cbe",
+  "credential",
+  "credentials",
+  "skills",
+  "upskilling",
   "retention",
   "completion",
   "transfer",
@@ -236,7 +251,7 @@ function normalizeUrl(value, baseUrl) {
 function isWatchlistLinkRelevant(link, source) {
   const haystack = `${link.title} ${link.url}`.toLowerCase();
   const sourceKeywords = (source.keywords || []).some((keyword) => termMatches(haystack, keyword.toLowerCase()));
-  const generalKeywords = /(grant|funding|rfp|rfa|opportunit|application|award|research|education|postsecondary|student|teacher|learning|stem|data)/i.test(
+  const generalKeywords = /(grant|funding|rfp|rfa|opportunit|application|award|research|education|postsecondary|student|teacher|learning|stem|data|career|workforce|adult learning|adult education|pathways|credential|competency)/i.test(
     haystack
   );
   const skip =
@@ -323,14 +338,14 @@ function scoreOpportunity(item) {
   )
     ? 14
     : 0;
-  const digitalPromiseBoost = /(ai|artificial intelligence|learning science|digital|equity|accessibility|teacher|k-12|stem|postsecondary|higher education|student success|data)/i.test(
+  const digitalPromiseBoost = /(ai|artificial intelligence|learning science|digital|equity|accessibility|teacher|k-12|stem|postsecondary|higher education|student success|career|workforce|adult learning|pathways|competency-based|credential|data)/i.test(
     haystack
   )
     ? 12
     : 0;
   const urgentBoost = daysUntil(item.deadline) >= 0 && daysUntil(item.deadline) <= 30 ? 4 : 0;
   const focusBoost =
-    /(education|student success|teacher|learning|professional development|workforce|pathways|broadening participation|assessment|secondary data|postsecondary|higher education|undergraduate|community college)/i.test(
+    /(education|student success|teacher|learning|professional development|workforce|career|pathways|adult learning|adult education|competency-based education|credential|broadening participation|assessment|secondary data|postsecondary|higher education|undergraduate|community college)/i.test(
       haystack
     )
       ? 12
@@ -338,7 +353,7 @@ function scoreOpportunity(item) {
   const weakStemPenalty =
     /(anthropology|astronomy|biology|chemistry|physics|plasma|oceanographic|arctic|mathematical sciences|social psychology|developmental sciences)/i.test(
       haystack
-    ) && !/(education|student|teacher|learning|workforce|pathways|postsecondary|undergraduate|community college|secondary data|assessment)/i.test(haystack)
+    ) && !/(education|student|teacher|learning|workforce|career|pathways|adult learning|adult education|credential|competency|postsecondary|undergraduate|community college|secondary data|assessment)/i.test(haystack)
       ? 28
       : 0;
   const fit = Math.min(
@@ -359,15 +374,15 @@ function scoreOpportunity(item) {
 function isRelevant(item) {
   const title = `${item.title}`.toLowerCase();
   const haystack = `${item.title} ${item.source} ${item.description}`.toLowerCase();
-  const educationFocus = /(education|teacher|educator|learning|student|school|assessment|literacy|postsecondary|higher education|undergraduate|community college|student success|retention|completion|transfer|professional development|workforce|pathways|broadening participation|secondary data|administrative data|longitudinal|nces|ies|ipeds)/i;
+  const educationFocus = /(education|teacher|educator|learning|student|school|assessment|literacy|postsecondary|higher education|undergraduate|community college|student success|retention|completion|transfer|professional development|workforce|career|pathways|adult learning|adult education|credential|competency|broadening participation|secondary data|administrative data|longitudinal|nces|ies|ipeds)/i;
   const weakDisciplineOnly = /(arctic|astronomy|biology|chemistry|physics|plasma|oceanographic|anthropology|mathematical biology|geometric|topology|forensics|defense|naval|brain initiative|social psychology|developmental sciences)/i;
   if (weakDisciplineOnly.test(haystack) && !educationFocus.test(haystack)) {
     return false;
   }
-  if (weakDisciplineOnly.test(title) && !/(education|teacher|educator|learning|student|school|postsecondary|undergraduate|community college|workforce|pathways|assessment|secondary data)/i.test(title)) {
+  if (weakDisciplineOnly.test(title) && !/(education|teacher|educator|learning|student|school|postsecondary|undergraduate|community college|workforce|career|pathways|adult learning|credential|competency|assessment|secondary data)/i.test(title)) {
     return false;
   }
-  return /(education|teacher|learning|student|school|stem education|assessment|literacy|accessibility|artificial intelligence education|ai education|workforce|professional development|postsecondary|higher education|undergraduate|community college|secondary data|longitudinal|administrative data|student success|broadening participation)/i.test(
+  return /(education|teacher|learning|student|school|stem education|assessment|literacy|accessibility|artificial intelligence education|ai education|workforce|career|pathways|adult learning|adult education|credential|competency|professional development|postsecondary|higher education|undergraduate|community college|secondary data|longitudinal|administrative data|student success|broadening participation)/i.test(
     haystack
   );
 }

@@ -1,55 +1,8 @@
 {
-  "scannedAt": "2026-06-09T19:45:49.808Z",
+  "scannedAt": "2026-06-12T16:26:18.694Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "362311",
-      "number": "DOL-OESE-34043",
-      "title": "Career Pathways Exploration Grant Program 84.424J",
-      "source": "Office of Elementary and Secondary Education",
-      "agencyCode": "DOL-OESE",
-      "deadline": "2026-06-09",
-      "posted": "2026-05-07",
-      "status": "posted",
-      "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/school-and-community-improvement-grants/career-pathways-exploration-grant-program-84424j",
-      "awardCeiling": "9000000",
-      "estimatedFunding": "44000000",
-      "eligibility": [
-        "State governments"
-      ],
-      "description": "The Career Pathways Exploration (CPE) program supports efforts to provide elementary and secondary school students with increased career exploration opportunities that allow them to develop, expand, and prioritize the skills and knowledge needed to excel in high-demand fields. To support this goal, the CPE program provides competitive grants to States to build their capacity to integrate career exploration into statewide career pathways and workforce readiness programs. The CPE program will help ensure access to opportunities that expose students to real-life workforce realities through a variety of career pathways programs that are aligned with State workforce priorities.In support of returning education to the States, ED believes this program is uniquely suited for State applicants. State applicants, as designated or endorsed by the Governors, are best positioned to coordinate K-12 career exploration initiatives that integrate education, workforce, and economic development systems. The CPE program is designed to allow Governors, in coordination with State agencies and their local educational agencies (LEAs), to align career exploration opportunities for schools with real-time labor market needs to create statewide opportunities for students to explore careers early, scale access to learning and employment records (LERs) and talent marketplaces, and align with local workforce boards and system partners so students can act on the knowledge gained in a meaningful way.State applicants are encouraged to align proposed activities with the State\"s Unified or Combined Workforce Innovation and Opportunity Act (WIOA) State Plan to ensure coherence with broader workforce development strategies and labor market priorities.This program is being established with funds from the two percent reservation for technical assistance and capacity building under section 4103(a)(3) of the Elementary and Secondary Education Act of 1965, as amended, 20 U.S.C. § 6301 (ESEA), which is intended to support State educational agencies and LEAs in carrying out activities authorized under the Student Support and Academic Enrichment Grants program in title IV, part A of the ESEA through technical assistance and capacity building. Specifically, the CPE program is intended to help build the capacity of States and LEAs to provide well-rounded educational opportunities, consistent with the description of such opportunities in ESEA section 4107, through initiatives that make career pathways exploration programs broadly available to students. In support of this goal, grantees will share with other States and LEAs how career pathways exploration initiatives can be successfully implemented.",
-      "fit": 90,
-      "matchedTerms": [
-        "learning",
-        "workforce",
-        "k-12",
-        "pathways"
-      ]
-    },
-    {
-      "id": "362076",
-      "number": "ED-GRANTS-042726-003",
-      "title": "Office of Elementary and Secondary Education (OESE): Office of Indian Education (OIE): State Tribal Education Partnership (STEP) Grant Program; Assistance Listing Number 84.415A",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-06-11",
-      "posted": "2026-04-27",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362076",
-      "awardCeiling": "",
-      "estimatedFunding": "2000000",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description: The Bureau of Indian Education at the U.S. Department of Interior (DOI) is soliciting applications in support of the administration of the State Tribal Education Partnerships (STEP) program on behalf of the U.S. Department of Education (ED). The purpose of State Tribal Education Partnership (STEP) is to promote Tribal self-determination in education; improve the academic achievement of Indian children and youth; and promote the coordination and collaboration between Tribal Educational Agencies (TEAs), State Educational Agencies (SEAs), and Local Educational Agencies (LEAs) to meet the unique education and culturally related academic needs of Indian students. STEP is authorized under section 6132 of the Elementary and Secondary Education Act, as amended (ESEA). The intent of this competition is to return education to the Tribes and create opportunities where Tribes can exert sovereignty and self-determination. ED expects that TEA-SEA-LEA coordination will result in TEAs maintaining greater systemic connections with their Native children in public schools. The requirement for a draft written agreement (DWA), as defined in this notice, helps to ensure that all relevant partners needed to achieve the project goals are included from the outset. For example, applicants could propose projects that include developing a TEA aimed at creating a Tribal education system that provides policies, structures and oversight that improves such student outcomes as attendance, graduation rate, academic achievement, workforce development, and career readiness. ED remains committed to engaging in regular and meaningful consultation with Indian Tribes and sourced the design of this competition using input recently received from Tribal leaders on August 26, 2025, and previous input as published in the Federal Register on December 28, 2022 (87 FR 79824). On August 26, 2025, Tribal leaders expressed strong support for the STEP program's role in fostering collaboration between LEAs and Tribes, particularly in areas like college readiness and student advising. Several leaders noted that maintaining Tribal control over education is essential for preserving culture and language opportunities for Native students, especially in off-reservation schools. Assistance Listing Number: 84.415A. Applicants should refer to the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs, published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions .",
-      "fit": 58,
-      "matchedTerms": [
-        "outcomes",
-        "workforce",
-        "advising"
-      ]
-    },
     {
       "id": "362389",
       "number": "DOL-OESE-34092",
@@ -152,20 +105,20 @@
       "awardCeiling": "",
       "estimatedFunding": "70000000",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Native American tribal organizations (other than Federally recognized tribal governments)",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "State governments",
-        "County governments",
+        "Public and State controlled institutions of higher education",
         "City or township governments",
-        "Native American tribal governments (Federally recognized)",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Special district governments",
-        "Independent school districts",
-        "Private institutions of higher education",
         "For profit organizations other than small businesses",
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+        "Special district governments",
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\"",
+        "Native American tribal governments (Federally recognized)",
+        "Private institutions of higher education",
+        "Independent school districts",
+        "County governments",
+        "State governments",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting application in support of the administration of the Teacher Quality Partnership (TQP) program on behalf of the U.S. Department of Education (ED). The purpose of the TQP program is to improve student achievement; improve the quality of prospective and new teachers by improving teacher preparation and enhancing professional development to hold teacher preparation programs at institutions of higher education (IHEs) accountable for preparing teachers who meet applicable State certification and licensure requirements; and recruit highly qualified individuals into the teaching force. The TQP program also supports the use of Registered Apprenticeships as a high-quality, work-based learning pathway for preparing and credentialing new teachers based on demonstrated skill and merit, particularly in high-need schools and subject areas experiencing teacher shortages.",
       "fit": 90,
@@ -189,10 +142,10 @@
       "awardCeiling": "5000000",
       "estimatedFunding": "15000000",
       "eligibility": [
-        "Private institutions of higher education",
-        "Native American tribal governments (Federally recognized)",
+        "Native American tribal organizations (other than Federally recognized tribal governments)",
         "Public and State controlled institutions of higher education",
-        "Native American tribal organizations (other than Federally recognized tribal governments)"
+        "Native American tribal governments (Federally recognized)",
+        "Private institutions of higher education"
       ],
       "description": "The RDI grant program is designed to provide HBCUs and TCCUs with funds to implement transformational investments in research infrastructure, including research productivity, faculty expertise, graduate programs, physical infrastructure, human capital development, and partnerships leading to increases in external and sustained funding.",
       "fit": 86,
@@ -216,16 +169,18 @@
       "estimatedFunding": "45000000",
       "eligibility": [
         "Private institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "Public and State controlled institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education"
       ],
       "description": "The purpose of the RPED Grant Program is to improve rates of postsecondary enrollment, persistence, and completion among rural students through development of career pathways aligned to high-skill, high-wage, and in-demand industry sectors and occupations in the region.",
-      "fit": 76,
+      "fit": 84,
       "matchedTerms": [
         "rural",
         "postsecondary",
+        "career",
+        "career pathways",
         "completion",
         "pathways"
       ]
@@ -266,9 +221,9 @@
       "awardCeiling": "5000000",
       "estimatedFunding": "10000000",
       "eligibility": [
+        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education",
-        "Public and State controlled institutions of higher education",
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The purpose of the FIPSE-Basic Needs Program is to advance systemic and sustainable solutions to student basic needs insecurity through support programs that address the basic needs of students and to report on practices that improve outcomes for students.",
@@ -292,10 +247,10 @@
       "awardCeiling": "2000000",
       "estimatedFunding": "7000000",
       "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
         "Private institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+        "Public and State controlled institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Open Textbook Pilot Program (OTP) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the OTP program is to support projects at eligible institutions of higher education (IHEs) or State higher education agencies that create new open textbooks and expand the use of open textbooks and course materials in courses that are part of a degree-granting program, particularly those with high enrollments. This pilot program emphasizes the development of projects that demonstrate the greatest potential to achieve the highest level of savings for students through sustainable, expanded use of open textbooks in high-enrollment courses or in programs that prepare individuals for in-demand fields.",
       "fit": 72,
@@ -318,8 +273,8 @@
       "awardCeiling": "3000000",
       "estimatedFunding": "9000000",
       "eligibility": [
-        "Private institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Centers of Excellence for Veteran Student Success Program (CEVSS) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the CEVSS Program is to encourage institutions of higher education (IHEs) to develop model programs to support veteran student success in postsecondary education by coordinating services to address the academic, financial, physical, and social needs of veteran students.",
       "fit": 72,
@@ -327,29 +282,6 @@
         "postsecondary",
         "higher education",
         "student success"
-      ]
-    },
-    {
-      "id": "362513",
-      "number": "ED-GRANT-26-025",
-      "title": "Strengthening Institutions Program FY 2026 Competition",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-06-23",
-      "posted": "2026-05-21",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362513",
-      "awardCeiling": "3000000",
-      "estimatedFunding": "350000000",
-      "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Private institutions of higher education"
-      ],
-      "description": "The purpose of SIP is to provide assistance to eligible institutions of higher education to improve their academic programs, institutional management, and fiscal stability in order to increase their self-sufficiency.",
-      "fit": 68,
-      "matchedTerms": [
-        "postsecondary",
-        "higher education"
       ]
     },
     {
@@ -365,13 +297,37 @@
       "awardCeiling": "1700000",
       "estimatedFunding": "5000000",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education"
+        "Private institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "The purpose of the Transitioning Gang-Involved Youth to Higher Education Program is to provide gang-involved youth with postsecondary education opportunities that will lead to certification or credentials.",
+      "fit": 72,
+      "matchedTerms": [
+        "postsecondary",
+        "higher education",
+        "credentials"
+      ]
+    },
+    {
+      "id": "362513",
+      "number": "ED-GRANT-26-025",
+      "title": "Strengthening Institutions Program FY 2026 Competition",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-06-23",
+      "posted": "2026-05-21",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362513",
+      "awardCeiling": "3000000",
+      "estimatedFunding": "350000000",
+      "eligibility": [
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education"
+      ],
+      "description": "The purpose of SIP is to provide assistance to eligible institutions of higher education to improve their academic programs, institutional management, and fiscal stability in order to increase their self-sufficiency.",
       "fit": 68,
       "matchedTerms": [
         "postsecondary",
@@ -472,11 +428,12 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Program Description: The purpose of the Comprehensive Centers (CC) program is to provide capacity-building services to state educational agencies (SEAs), regional educational agencies (REAs), local educational agencies (LEAs), and schools that improve educational opportunities and student outcomes, close achievement gaps, and improve the quality of instruction for all students, particularly for groups of students with the greatest need. The Department intends to fund one Content Center, a National Comprehensive Center on Improving Literacy for Students with Disabilities (NCIL) focused on children in early childhood education programs through high school at risk of not attaining full literacy skills due to a disability, including dyslexia impacting reading or writing, or developmental delay impacting reading, writing, language processing, comprehension, or executive functioning. Assistance Listing Number: 84.283D Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
-      "fit": 58,
+      "fit": 62,
       "matchedTerms": [
         "outcomes",
         "literacy",
-        "disability"
+        "disability",
+        "skills"
       ]
     },
     {
@@ -516,11 +473,12 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Program Description: The purposes of the Personnel Development to Improve Services and Results for Children with Disabilities program are to (1) help address State-identified shortages and needs for personnel preparation in special education and early intervention, including infants and toddlers, and youth with disabilities; and (2) ensure that those personnel have the necessary skills and knowledge, derived from practices that have been determined through scientifically based research, to be successful in serving those children. The purpose of the Personnel Preparation of Special Education, Early Intervention, and Related Services Personnel (84.325K) competition is to prepare and increase the number of personnel who have the necessary qualifications to serve children with disabilities. Under this absolute priority, ED will fund grantees that use evidence-based strategies to prepare scholars in special education, early intervention, and related services at the bachelor’s degree, certification, master’s degree, educational specialist degree, or clinical doctoral degree levels to serve in a variety of settings, including natural environments (the home and community settings in which children with and without disabilities participate), early learning programs, child care, classrooms, and schools. Assistance Listing Number (ALN): 84.325K. Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
-      "fit": 72,
+      "fit": 76,
       "matchedTerms": [
         "learning",
         "intervention",
-        "evidence"
+        "evidence",
+        "skills"
       ]
     },
     {
@@ -537,9 +495,9 @@
       "estimatedFunding": "4100000",
       "eligibility": [
         "Private institutions of higher education",
-        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education"
       ],
       "description": "Administration at the U.S. Department of Labor (Labor), is soliciting applications in support of the administration of the TRIO Training Program on behalf of the U.S. Department of Education (ED). The purpose of the Training Program for Federal TRIO Programs (Training Program) provides grants to train the staff and leadership personnel employed in, participating in, or preparing for employment in, projects funded under the Federal TRIO Programs, to improve project operation.",
       "fit": 68,
@@ -583,11 +541,11 @@
       "awardCeiling": "",
       "estimatedFunding": "19800000",
       "eligibility": [
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education",
         "Private institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "For profit organizations other than small businesses",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the American History and Civics Education – National Activities (AHC-NA) program on behalf of the U.S. Department of Education (ED). The purpose of the AHC-NA program is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit students from low-income backgrounds and other underserved populations. America\"s 250th anniversary is a particularly appropriate time to promote innovative teaching and learning that unites our country, honors our history, promotes informed citizenship, and cherishes our freedom as we build the golden age of opportunity. ED encourages applications to include strong partnerships and active collaboration between eligible entities, local educational agencies, and State educational agencies in their design and proposed implementation. Project activities should reflect the best available research and practice in teaching and learning.",
       "fit": 86,
@@ -614,11 +572,14 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Program Description: The purposes of the Personnel Development to Improve Services and Results for Children with Disabilities program are to (1) help address State-identified shortages and needs for personnel preparation in special education and early intervention, including infants, toddlers, children, and youth with disabilities; and (2) ensure that those personnel have the necessary skills and knowledge, derived from practices that have been determined through scientifically based research, to be successful in serving those children. The purpose of the Expanding Career Pathways and Workforce Readiness of Special Education Teachers and Early Intervention Personnel Through Registered Apprenticeships competition is to fund cooperative agreements that support registered apprenticeship1 programs that attract, prepare, and retain special education teachers or early intervention personnel. This priority is particularly relevant for special education and early intervention, where high-quality preparation must be accessible, practice-based, and closely integrated with service delivery systems. Preparing qualified special education teachers and early intervention personnel through registered apprenticeship programs addresses critical workforce shortages, integrating work-based learning, and connecting preparation with local and State labor demands. 1Note: ED encourages applicants to consider the definition of Registered Apprenticeship Program as defined in 5 CFR 362.102 and 29 CFR part 29. Assistance Listing Number: 84.325J. Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
-      "fit": 58,
+      "fit": 70,
       "matchedTerms": [
         "learning",
         "intervention",
         "workforce",
+        "career",
+        "career pathways",
+        "skills",
         "pathways"
       ]
     },
@@ -688,10 +649,11 @@
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "The Linguistics Program supports basic science in the domain of human language, encompassing investigations of the grammatical properties of individual human languages, and of natural language in general. Research areas include syntax, semantics, morphology, phonetics and phonology. The program encourages projects that are interdisciplinary in methodological or theoretical perspective, and that address questions that cross disciplinary boundaries, such as (but not limited to): What are the psychological processes involved in the production, perception, and comprehension of language? What are the computational properties of language and/or the language processor that make fluent production, incremental comprehension or rapid learning possible? How do the acoustic and physiological properties of speech inform our theories of natural language and/or language processing? What role does human neurobiology play in shaping the various grammatical properties of language? How does language develop in natural learning contexts across the life-span? What social and cultural factors underlie language variation and change? Because NSF's mandate is to support basic research, the Linguistics Program does not fund research that takes as its primary goal improved clinical practice or applied policy, nor does it support work to develop or assess pedagogical methods or tools for language instruction. The Linguistics Program accepts proposals for a variety of project types: research proposals from scholars with PhDs or equivalent degrees, proposals for Doctoral Dissertation Research Improvement (LING-DDRI) awards, and CAREER proposals. We will also consider proposals for conferences. Funding requests for conference support should be submitted in accordance with the Conference Proposals section of Chapter II of NSF's Proposal & Award Policies & Procedures Guide (PAPPG) . NSF's Division of Behavioral and Cognitive Sciences (BCS), in partnership with the National Endowment for the Humanities and in collaboration with programs in other NSF Directorates, supports efforts to develop and advance knowledge and infrastructure that will enable the analysis of languages that are both understudied and at risk of falling out of use. In recognition of the critical relevance of these languages to understanding the range and limits of human linguistic and cultural variation, BCS accepts research and dissertation proposals in response to solicitations NSF Dynamic Language Infrastructure - NEH Documenting Endangered Languages (DLI-DEL) and Dynamic Language Infrastructure - Doctoral Dissertation Research Improvement Grants (DLI-DDRI) . For more information about Multidisciplinary Research and Training Opportunities, please visit the SBE Office of Multidisciplinary Activities web site.",
-      "fit": 82,
+      "fit": 86,
       "matchedTerms": [
         "infrastructure",
         "learning",
+        "career",
         "science"
       ]
     },
@@ -711,7 +673,7 @@
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "TechAccess: AI-Ready America is a national-scale initiative to accelerate Artificial Intelligence (AI) readiness and adoption across the U.S. by strengthening coordination, leveraging partnerships and resources, filling gaps, and scaling what works-so local and state priorities can lead in shaping an AI-driven economy that benefits all Americans. Unlike initiatives centered around K-16 education, AI-Ready America additionally reaches businesses, public-serving organizations, and individuals, among others, expanding access to AI knowledge, tools, and resources. The program also emphasizes practical implementation through hands-on assistance and workforce upskilling, including experiential learning such as internships, project-based work, and apprenticeships, to ensure stakeholders can effectively apply and innovate with AI. The program supports: (1) State/Territory Coordination Hubs (Coordination Hubs) - one inevery state, the District of Columbia (DC), or territory inthe United States - connecting partners, strengthening planning and deployment, and rapidly scaling approaches; (2) A National Coordination Lead (National Lead) - facilitating collaboration and knowledge sharing among Coordination Hubs, coordinating priority economic sectors, and informing national AI strategies; and (3) AI-Ready Catalyst Award Competitions - a series of topic-driven competitions issued over the course of the program to pilot and scale innovative approaches that address critical national AI readiness needs. This funding opportunity focuses on Coordination Hubs. The National Lead will be funded as an Other Transaction (OT) offered through an Other Transaction Agreement Solutions Offering.AI-Ready Catalyst Award Competitions will be announced through an NSF-approved mechanism, with proposals submitted according to the instructions provided at the time of announcement.",
-      "fit": 98,
+      "fit": 100,
       "matchedTerms": [
         "ai",
         "artificial intelligence",
@@ -719,6 +681,7 @@
         "workforce",
         "implementation",
         "district",
+        "upskilling",
         "science"
       ]
     },
@@ -768,8 +731,8 @@
         "stem",
         "k-12",
         "higher education",
-        "transfer",
-        "science"
+        "career",
+        "workforce development"
       ]
     },
     {
@@ -788,13 +751,14 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Government and the nation face a talent shortfall in artificial intelligence (AI) and cybersecurity. The CyberAICorps Scholarship for Service (CyberAI SFS) program welcomes proposals that address AI and cybersecurity education and workforce development. CyberAI refers to using AI in cybersecurity as well as providing security and resilience for AI systems. The Scholarship Track provides funding to establish, or to continue, scholarship for service programs with integrated AI and cybersecurity components (CyberAI). Scholarship recipients must be U.S. citizens or lawful permanent residents and work after graduation in the AI or cybersecurity mission of a government organization for a period of at least the length of the scholarship. The Innovation Tracksupports projects that enhance preparation of AI and/or cybersecurity professionals. Projects may expand existing educational opportunities, curricula, degree programs, educational pathways, methods and interventions, and partnerships among institutions of higher education, government, and employers. Two statutesauthorize this program: 15 USC &sect;7442 (cybersecurity) and 42 USC &sect;18993 (AI). CyberAI SFS aligns with the Executive Order 14277 to prioritize AI within scholarship for service programs. CyberAI is managed by NSF's Directorate for STEM Education in collaboration with the U.S. Office of Personnel Management (OPM) and U.S. Department of Homeland Security (DHS).",
-      "fit": 84,
+      "fit": 88,
       "matchedTerms": [
         "ai",
         "artificial intelligence",
         "workforce",
         "stem",
         "higher education",
+        "workforce development",
         "science",
         "pathways"
       ]
@@ -815,8 +779,9 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "CAREER:The Faculty Early Career Development (CAREER) Program is a Foundation-wide activity that offers the National Science Foundation's most prestigious awards in support of early-career faculty who have the potential to serve as academic role models in research and education and to lead advances in the mission of their department or organization. Activities pursued by early-career faculty should build a firm foundation for a lifetime of leadership in integrating education and research. NSF encourages submission of CAREER proposals from early-career faculty at all CAREER-eligible organizations . PECASE:Each year NSF selects nominees for the Presidential Early Career Awards for Scientists and Engineers (PECASE) from among the most meritorious recent CAREER awardees.Selection for this award is based on twoimportant criteria:The criteria are 1) performance of innovative research at the frontiers of science, engineering, and technology that is relevant to the mission of the sponsoring organization or agency; and 2) community service demonstrated through scientific leadership, education or community outreach.These awards foster innovative developments in science and technology, increase awareness of careers in science and engineering, give recognition to the scientific missions of the participating agencies, enhance connections between fundamental research and national goals, and highlight the importance of science and technology for the Nation's future. Individuals cannot apply for PECASE. These awards are initiated by the participating federal agencies. At NSF, up to twenty-six nominees for this award are selected each year from among the PECASE-eligible CAREER awardees most likely to become the leaders of academic research and education in the twenty-first century. The White House Office of Science and Technology Policy makes the final selection and announcement of the awardees.",
-      "fit": 56,
+      "fit": 72,
       "matchedTerms": [
+        "career",
         "science",
         "technology",
         "engineering"
@@ -863,9 +828,10 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Program Description- The Individuals with Disabilities Education Act (IDEA) requires the Secretary to provide annually at least $4,000,000 to address the postsecondary, vocational, technical, continuing, and adult education needs of individuals who are deaf or hard of hearing. [1] Aligned with this requirement, through this competition the Department intends to establish a National Technical Assistance Center for Postsecondary Education and Training for Individuals who are Deaf or Hard of Hearing. This competition uses funds from three Department programs: the Technical Assistance and Dissemination to Improve Services and Results for Children with Disabilities (TA&D) program; the Personnel Development to Improve Services and Results for Children with Disabilities (PD) program; and the Educational Technology, Media, and Materials for Individuals with Disabilities (ETechM2) program. Assistance Listing Number: 84.326D. [1] See IDEA Section 682(d)(1)(B). Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions .",
-      "fit": 64,
+      "fit": 68,
       "matchedTerms": [
         "postsecondary",
+        "adult education",
         "technology"
       ]
     },
@@ -893,8 +859,8 @@
         "assessment",
         "workforce",
         "professional development",
-        "retention",
-        "science"
+        "career",
+        "retention"
       ]
     },
     {
@@ -1021,11 +987,12 @@
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "The Cognitive Neuroscience (CogNeuro) program seeks to fund proposals that can advance our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically relate precise and rich quantifications of physiological responses and behavior in ways that advance theory (Intellectual Merit). Funded proposal also typically strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists, and/or increasing awareness and utilization of the research the field produces (Broader Impacts). Intellectual Merit In general, successful proposals provide a theoretical motivation and consist of a series of experiments/analyses that test the differential predictions of that theory; they go beyond quantifying physiology during certain tasks and behaviors. Research topics considered for funding include but are not limited to: perception, recognition, categorization, implicit and explicit memory, working memory, attention, language, decision-making, and social reasoning. Commensurate with the inherently multidisciplinary nature of the field and the limitations of any single technique, a wide variety of physiological methods are considered, including but not limited to: neuroimaging (e.g., fMRI, EEG, MEG), non-invasive stimulation (e.g. TMS, tDCS), lesion analysis, intracranial recording, optogenetics, genetics, optical imaging, computational modeling, and pharmacological interventions in both human and non-human primates and other animal models. The program is particularly interested in proposals that achieve or enable convergence across multiple techniques. Critically, proposals will be returned without review if they are focused on: 1) either behavior or physiology and lack a specific link between them, 2) understanding clinical populations, 3) non-human animals without a clear benefit to our understanding of humans. Broader Impacts In general, successful proposals make impacts beyond traditional academic routes, such as publishing research or teaching undergraduate courses. Strong broader impacts can be quite varied but will typically involve specific efforts strengthening the field and/or increasing its visibility that leverage the characteristics of the institution, department, and/or researcher. Consider the following non-exhaustive examples: 1) STEM education and outreach, particularly in underserved communities, 2) directly involving undergraduates and high-school students in research, 3) making tools and applications for the general public, 4) science journalism or advocacy. These efforts can, but need not, directly relate to the proposed research. It is also encouraged to include budget for these efforts if warranted. Mentoring Plans Strong mentoring plans generally go beyond inclusion in standard lab activities and incorporate specific ideas for forwarding the careers of young scientists and trainees that leverage the setting and content of the proposed research. General Directions Prior to the development of a full proposal, investigators are strongly encouraged to submit a one-page summary of the proposed research to a program director to evaluate its appropriateness for the CogNeuro program. Please contact the director early enough to allow for revisions and incorporation what may be extensive feedback. The summary should include an overview of your research and statements of intellectual merit and broader impacts, the two NSF review criteria. See the Merit Review Fact Sheet for more important facts about the NSF merit review process. Please read the NSF Proposal & Award Policies & Procedures Guide (PAPPG) carefully, as it will be strictly adhered to even if other directives or communications appear to contradict it. Currently, the average standard/CAREER award size is $175,000-$225,000 per year for 3-5 years. Awards in excess of $1.0 million are exceptionally rare and almost always multidisciplinary. Please be judicious in your requests, understanding the realities of the limited funding available for all proposals. See the Listing of Active Cognitive Neuroscience Awards for additional award information. Declined proposals are ineligible for resubmission until a minimum of one year has passed since the due date of their initial submission, unless specifically allowed by the PO in the feedback received during the decline process. This moratorium allows investigators the time required to digest the results of the merit review and revise their proposal accordingly. A proposal that has not been substantially revised will be returned without review as per the PAPPG. PIs are strongly encouraged to submit the Single Copy Document titled \"List of Suggested Reviewers\" with their full proposal. Sharing of data and other materials is an expectation for funded research. Please consult the NSF Dear Colleague Letter: Effective Practices for Data for more details. Interested in talking with a program director? Send a one-page description of the proposed research to sbe-cogneuro@nsf.gov.",
-      "fit": 86,
+      "fit": 90,
       "matchedTerms": [
         "data",
         "stem",
         "undergraduate",
+        "career",
         "science"
       ]
     },
@@ -1095,8 +1062,9 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The Methodology, Measurement, and Statistics (MMS) Program is an interdisciplinary program in the Directorate for Social, Behavioral, and Economic Sciences that supports the development of innovative analytical and statistical methods and models for those sciences. MMS seeks proposals that are methodologically innovative, grounded in theory, and have potential utility for multiple fields within the social, behavioral, and economicsciences. As part of its larger portfolio, the MMS Program partners with a consortium of federal statistical agencies to support research proposals that further the production and use of official statistics. The MMS Program provides support through a number of different funding mechanisms. The following mechanisms are addressed in this solicitation: Regular Research Awards Awards for conferences and community-development activities Doctoral Dissertation Research Improvement (DDRI) Grants Research Experience for Undergraduates (REU) Supplements MMS also supports Faculty Early Career Development (CAREER) awards. Please see the CAREER Program Web Site for more informationabout this activity.",
-      "fit": 66,
+      "fit": 82,
       "matchedTerms": [
+        "career",
         "science",
         "statistical"
       ]
@@ -1130,6 +1098,34 @@
       ]
     },
     {
+      "id": "334326",
+      "number": "21-595",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-09-01",
+      "posted": "2021-06-24",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21595",
+      "awardCeiling": "3500000",
+      "estimatedFunding": "10799836",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Tribal Colleges and Universities Program (TCUP) provides awards to federally recognized 1 Tribal Colleges and Universities, Alaska Native-serving institutions, and Native Hawaiian-serving institutions to promote high quality science (including sociology, psychology, anthropology, linguistics, economics and bioeconomics, statistics, and other social and behavioral sciences; natural sciences; computer science, including, but not limited to, artificial intelligence, quantum information science, and cybersecurity), technology, engineering and mathematics (STEM), STEM education, research, and outreach. Support is available to TCUP-eligible institutions (see the Additional Eligibility subsection of Section IV of this solicitation) for transformative capacity-building or community engagement projects through Instructional Capacity Excellence in TCUP Institutions (ICE-TI), Targeted STEM Infusion Projects (TSIP),TCUP for Secondary and Elementary Teachers in STEM (TSETS), TCU Enterprise Advancement Centers (TEA Centers), Cyberinfrastructure Health, Assistance, and Improvements (CHAI), and Preparing for TCUP Implementation (Pre-TI). Collaborations led by TCUP institutions that involve non-TCUP institutions of higher education are supported through TCUP Partnerships, with the participation of other NSF programs to support the work of non-TCUP institutions. Finally, research studies that further the scholarly activity of individual faculty members are supported through Small Grants for Research (SGR). Through the opportunities highlighted above, as well as collaborations with other National Science Foundation (NSF) divisions and directorates, and other organizations,TCUPaims toincrease Native individuals' participation in STEM careers, improve the quality of STEM programs atTCUP-eligible institutions, and facilitate the development of a strong STEM enterprise in TCUP institutions' service areas. TCUP supports transformative capacity-building, community engagement, or research projects at TCUP-eligible institutions through the following funding tracks: Instructional Capacity Excellence in TCUP Institutions (ICE-TI) projects provide support to design, implement, and assess comprehensive institutional improvements in STEM education and research capacity at TCUP-eligible institutions of higher education. By strengthening STEM education and STEM education research, successful projects will increase the number of STEM students and improve the quality of their preparation. ICE-TI projects create and/or adapt and assess innovative models and materials for teaching and learning in STEM, embody knowledge about how students learn most effectively in STEM teaching and learning activities, and bring STEM disciplinary advances into the undergraduate or graduate experience. The objective of this strand is to expand STEM degrees offered by TCUP-eligible institutions or significantly enhance instructional approaches. Targeted STEM Infusion Projects (TSIP) support the attainment of a short-term, well-defined goal to improve the quality of STEM education at an eligible institution. Targeted STEM Infusion Projects could, for example, enhance academic infrastructure by systematically adding traditional knowledge to the scope or content of a STEM course, updating curricula, modernizing laboratory research equipment, developing and delivering professional development for K-12 STEM educators, or improving the computational infrastructure.The objective of this strand is to expand STEM degrees or significantly enhance instructional approaches. TCUP for Secondary & Elementary Teachers in STEM (TSETS) supports in-service professional development in STEM disciplinary or STEM education content and/or research for K-12 STEM teachers in the relevant service area. Examples of project activities include, but are not limited to, professional development involving seminar series and engagement in STEM instruction and content during the academic year, structured series of summer intensive workshops and trainings, and summer research opportunities. The objective of this strand is to broaden the instructional capacity for STEM in the K-12 workforce and thereby to the entire community, and to build the capacity for STEM disciplinary or education research among participating educational professionals. TCU Enterprise Advancement Centers (TEA Centers) coalesce the STEM and/or STEM education expertise into a team, designed to support and promote the STEM goals, needs, aspirations, or interests of the chartering reservation or tribe(s). TEA Centers may address a critical tribal or community need or focus on a realm of research or design that is beyond the scope of individual research grants or that is of interest to multiple tribes. The objective of this strand is to build on the capacity developed through prior TCUP support and apply expertise to collaborations with communities in the institution's service area, or nationally. The Cyberinfrastructure Health, Assistance, and Improvements (CHAI) strand supports projects at TCUP-eligible institutions of higher education to upgrade the cyberinfrastructure necessary to conduct, expand, manage and administer STEM programs of study, including research. The objective of this strand is to equip TCUP institutions to meet the demands of virtual instruction, advanced computing, and data science opportunities. Preparing for TCUP Implementation (Pre-TI) provides support for activities that prepare an institution for Implementation-level projects.Consequently, they are available only to TCUP-eligible institutions of higher education that have never received TCUP support, have not received TCUP support within the previous five years, or are embarking on a significantly novel STEM strategic plan. Examples of supported activities include completing an institutional assessment of its current STEM instructional capacity, or engaging in conversations necessary to formulate a shared vision of what that capacity should be and how to achieve it. Pre-TI awards can support staff and faculty release time, travel, stakeholder gatherings, and associated administrative costs.The objective of this strand is to conduct self-studies and formulate strategic plans for the development of STEM instructional programs of study. The TCUP Partnerships strand provides support for collaborations that will improve TCUP institutions' instructional and research capacity in STEM fields supported by NSF; attract, retain, and support TCUP students in internships and research endeavors deemed to be necessary for a complete curriculum offering; and engage partner universities to provide an academic grounding and a successful transition for students who wish to study or attain degrees in STEM fields supported by NSF. TCUP Partnerships broaden the number of scientific disciplines available to students at TCUP institution through collaborations with non-TCUP institutions. Active Pre-Engineering Education Collaboratives or Partnerships in Geoscience Education awards are not affected by this revision. The objective of this strand is the development, through instructional and research capacity-building, of academic and career pathways for TCUP students through supporting collaborative projects between and among TCUP and non-TCUP institutions. Interested teams of collaborators for which a TCUP institution serves as lead should contact the TCUP program directors. Support for non-TCUP partners must be obtained from other NSF programs, which follows the procedures of the prior Partnership strands. Small Grants for Research (SGR) strand support STEM or STEM Education faculty members at TCUP-eligible institutions to initiate or pursue research projects or programs that may include undergraduate or graduate student engagement. Awards are intended to help further the faculty member's research capability and effectiveness; improve research and teaching at his or her home institution and create and study new models and innovations in STEM teaching and learning. International research or collaborations are strongly encouraged. TCUP students may seek support for international research opportunities under the guidance of a TCUP STEM or STEM education faculty member and an international research collaborator. These awards are particularly appropriate as a means of recruiting and retaining highly qualified scientists, engineers, and educators at TCUP-eligible institutions. The objective of this strand is to support faculty research and professional development that build research capacity at TCUP institutions. [1] Executive Order 13021 defines Tribal Colleges and Universities (\"tribal colleges\") as those institutions cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note), and other institutions that qualify for funding under the Tribally Controlled Community College Assistance Act of 1978, (25 U.S.C. 1801 et seq.), as well as Navajo Community College as authorized in the Navajo Community College Assistance Act of 1978, Public Law 95-471, Title II (25 U.S.C. 640a note). The term \"Alaska Native-serving institution\" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; and that, at the time of submission, has an undergraduate enrollment that is at least 20 percent Alaska Native students. The term \"Native Hawaiian-serving institution\" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; and that, at the time of submission, has an undergraduate enrollment that is at least 10 percent Native Hawaiian students. Most TCUP-eligible institutions of higher education are two-year or community colleges. See the Who May Submit Proposals section in this solicitation for further details.",
+      "fit": 100,
+      "matchedTerms": [
+        "artificial intelligence",
+        "data",
+        "infrastructure",
+        "learning",
+        "assessment",
+        "workforce",
+        "professional development",
+        "implementation"
+      ]
+    },
+    {
       "id": "356119",
       "number": "24-597",
       "title": "U.S. National Science Foundation Research Traineeship (NRT) Program",
@@ -1151,10 +1147,10 @@
         "evidence",
         "workforce",
         "stem",
+        "workforce development",
+        "skills",
         "science",
-        "technology",
-        "engineering",
-        "mathematics"
+        "technology"
       ]
     },
     {
@@ -1182,7 +1178,7 @@
         "stem",
         "higher education",
         "undergraduate",
-        "transfer"
+        "skills"
       ]
     },
     {
@@ -1375,10 +1371,10 @@
         "professional development",
         "stem",
         "higher education",
+        "career",
+        "workforce development",
         "retention",
-        "completion",
-        "science",
-        "technology"
+        "completion"
       ]
     },
     {
@@ -1397,11 +1393,12 @@
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "The EDU Core Research (ECR) program offers this ECR:Core solicitation and invites proposals for fundamental research (curiosity-driven basic research and use-inspired basic research) that contributes to the general, explanatory knowledge that underlies STEM education in one or more of the three broadly conceived Research Areas: Research onSTEM Learning and Learning Environments, Research on Broadening Participation in STEM fields, andResearch on STEM Workforce Development. Within this framework, the ECR program supports a wide range of fundamental STEM education research activities, aimed at learners of all groups and ages in formal and informal settings. Fundamental researchgenerates knowledge and understanding with the potential for broad relevance. The potential implications of ECR fundamental research for improving STEM education practice may be indirect and long-term rather than direct and immediate. Moreover, whether they include basic or use-inspired basic research, all successful ECR:Core proposals focus on the advancement or refinement of foundational knowledge for STEM education. The amount of funding and duration requested in proposals submitted to the ECR:Core solicitation should align with the maturity of the proposed work and the size and scope of the empirical effort. The solicitation has three levels of funding with a range of budget sizes, and proposals may request a duration of 3 to 5 years for any level: (1)Level I proposals may request up to $500,000; (2)Level II proposals may request up to $1,500,000; (3)Level III proposalsmay request up to $2,500,000. All proposals should justify the level of funding and duration in the project description.",
-      "fit": 76,
+      "fit": 80,
       "matchedTerms": [
         "learning",
         "workforce",
         "stem",
+        "workforce development",
         "science",
         "broadening participation"
       ]
@@ -1508,6 +1505,28 @@
       ]
     },
     {
+      "id": "343980",
+      "number": "23-500",
+      "title": "SBE Postdoctoral Research Fellowships",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-11-04",
+      "posted": "2022-10-08",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23500",
+      "awardCeiling": "170000",
+      "estimatedFunding": "3000000",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Directorate for Social, Behavioral and Economic Sciences (SBE) offers Postdoctoral Research Fellowships to encourageindependence earlyin the fellow'scareerby supporting his or herresearch and training goals.The research and training plan of each fellowship must address important scientific questions within thescope of the SBE directorate and the specific guidelines in this solicitation. The SPRF program offers two tracks: (I) Fundamental Research in the SBE Sciences (SPRF-FR) and (II) Broadening Participation in the SBE Sciences (SPRF-BP). See the full text of the solicitation for a detailed description of these tracks.",
+      "fit": 64,
+      "matchedTerms": [
+        "science",
+        "broadening participation"
+      ]
+    },
+    {
       "id": "watchlist-california-department-of-education-funding-3",
       "number": "",
       "title": "Become a Teacher",
@@ -1525,6 +1544,47 @@
       "fit": 68,
       "matchedTerms": [
         "teacher"
+      ]
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-4",
+      "number": "",
+      "title": "Career Technical Education",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/ci/ct/",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. Career Technical Education",
+      "fit": 68,
+      "matchedTerms": [
+        "career"
+      ]
+    },
+    {
+      "id": "watchlist-texas-education-agency-grants-6",
+      "number": "",
+      "title": "Educator Workforce and HR",
+      "source": "Texas Education Agency Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://tea.texas.gov/school-district-leaders/educator-workforce-and-hr",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Texas Education Agency Grants. Educator Workforce and HR",
+      "fit": 58,
+      "matchedTerms": [
+        "educator",
+        "workforce"
       ]
     },
     {
@@ -1608,6 +1668,46 @@
       ]
     },
     {
+      "id": "watchlist-lumina-foundation-7",
+      "number": "",
+      "title": "Today’s Credentials &rarr;",
+      "source": "Lumina Foundation",
+      "sourceType": "Private foundation",
+      "agencyCode": "Private foundation",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.luminafoundation.org/topics/todays-credentials/",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [],
+      "description": "Private foundation. Matched source page for Lumina Foundation. Today’s Credentials &rarr;",
+      "fit": 54,
+      "matchedTerms": [
+        "credentials"
+      ]
+    },
+    {
+      "id": "watchlist-new-york-state-education-department-funding-3",
+      "number": "",
+      "title": "Career & Technical Education",
+      "source": "New York State Education Department Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.nysed.gov/career-technical-education",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for New York State Education Department Funding. Career & Technical Education",
+      "fit": 54,
+      "matchedTerms": [
+        "career"
+      ]
+    },
+    {
       "id": "watchlist-new-york-state-education-department-funding-7",
       "number": "",
       "title": "Higher Education",
@@ -1642,24 +1742,6 @@
       "estimatedFunding": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. California Department of Education",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-4",
-      "number": "",
-      "title": "Career Technical Education",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/ci/ct/",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Career Technical Education",
       "fit": 52,
       "matchedTerms": []
     },
@@ -1718,26 +1800,6 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-lumina-foundation-7",
-      "number": "",
-      "title": "Quality in Higher Learning",
-      "source": "Lumina Foundation",
-      "sourceType": "Private foundation",
-      "agencyCode": "Private foundation",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.luminafoundation.org/topics/todays-credentials/quality-in-higher-learning/",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "eligibility": [],
-      "description": "Private foundation. Matched source page for Lumina Foundation. Quality in Higher Learning",
-      "fit": 42,
-      "matchedTerms": [
-        "learning"
-      ]
-    },
-    {
       "id": "watchlist-walton-family-foundation-1",
       "number": "",
       "title": "Learning",
@@ -1755,6 +1817,26 @@
       "fit": 42,
       "matchedTerms": [
         "learning"
+      ]
+    },
+    {
+      "id": "watchlist-new-york-state-education-department-funding-1",
+      "number": "",
+      "title": "Adult Education",
+      "source": "New York State Education Department Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.acces.nysed.gov/aepp/welcome-adult-education-programs-and-policy-aepp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for New York State Education Department Funding. Adult Education",
+      "fit": 42,
+      "matchedTerms": [
+        "adult education"
       ]
     },
     {
@@ -1814,24 +1896,6 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-new-york-state-education-department-funding-1",
-      "number": "",
-      "title": "Adult Education",
-      "source": "New York State Education Department Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.acces.nysed.gov/aepp/welcome-adult-education-programs-and-policy-aepp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for New York State Education Department Funding. Adult Education",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
       "id": "watchlist-new-york-state-education-department-funding-2",
       "number": "",
       "title": "Bilingual Education & World Languages",
@@ -1846,24 +1910,6 @@
       "estimatedFunding": "",
       "eligibility": [],
       "description": "State funding. Matched source page for New York State Education Department Funding. Bilingual Education & World Languages",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-new-york-state-education-department-funding-3",
-      "number": "",
-      "title": "Career & Technical Education",
-      "source": "New York State Education Department Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.nysed.gov/career-technical-education",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for New York State Education Department Funding. Career & Technical Education",
       "fit": 38,
       "matchedTerms": []
     },
@@ -1906,6 +1952,24 @@
     {
       "id": "watchlist-texas-education-agency-grants-0",
       "number": "",
+      "title": "Parent Support Hub",
+      "source": "Texas Education Agency Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://tea.texas.gov/families-and-students/parent-support-hub",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Texas Education Agency Grants. Parent Support Hub",
+      "fit": 38,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-texas-education-agency-grants-1",
+      "number": "",
       "title": "ECOS for Educators",
       "source": "Texas Education Agency Grants",
       "sourceType": "State funding",
@@ -1922,7 +1986,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-texas-education-agency-grants-1",
+      "id": "watchlist-texas-education-agency-grants-2",
       "number": "",
       "title": "Grant Opportunities",
       "source": "Texas Education Agency Grants",
@@ -1940,7 +2004,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-texas-education-agency-grants-2",
+      "id": "watchlist-texas-education-agency-grants-3",
       "number": "",
       "title": "TSDS",
       "source": "Texas Education Agency Grants",
@@ -1958,7 +2022,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-texas-education-agency-grants-3",
+      "id": "watchlist-texas-education-agency-grants-4",
       "number": "",
       "title": "access all secure TEA applications",
       "source": "Texas Education Agency Grants",
@@ -1976,7 +2040,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-texas-education-agency-grants-4",
+      "id": "watchlist-texas-education-agency-grants-5",
       "number": "",
       "title": "Finance, Grants, and Funding",
       "source": "Texas Education Agency Grants",
@@ -1994,7 +2058,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-texas-education-agency-grants-5",
+      "id": "watchlist-texas-education-agency-grants-7",
       "number": "",
       "title": "Student Programs and Services",
       "source": "Texas Education Agency Grants",
@@ -2008,42 +2072,6 @@
       "estimatedFunding": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Texas Education Agency Grants. Student Programs and Services",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-texas-education-agency-grants-6",
-      "number": "",
-      "title": "Student Discipline",
-      "source": "Texas Education Agency Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://tea.texas.gov/health-safety-and-discipline/student-discipline",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Texas Education Agency Grants. Student Discipline",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-texas-education-agency-grants-7",
-      "number": "",
-      "title": "Education Service Centers (ESC) Services",
-      "source": "Texas Education Agency Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://tea.texas.gov/school-district-leaders/esc-services",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Texas Education Agency Grants. Education Service Centers (ESC) Services",
       "fit": 38,
       "matchedTerms": []
     },
