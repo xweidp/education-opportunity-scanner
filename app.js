@@ -151,6 +151,7 @@ const els = {
   scanButton: document.querySelector("#scanButton"),
   loadSampleButton: document.querySelector("#loadSampleButton"),
   profileSelect: document.querySelector("#profileSelect"),
+  sourceSelect: document.querySelector("#sourceSelect"),
   resultsList: document.querySelector("#resultsList"),
   exportButton: document.querySelector("#exportButton"),
   totalCount: document.querySelector("#totalCount"),
@@ -256,6 +257,10 @@ function getSelectedTopicLabel() {
   return els.profileSelect.options[els.profileSelect.selectedIndex]?.textContent || "selected topic";
 }
 
+function getSelectedSourceLabel() {
+  return els.sourceSelect?.options[els.sourceSelect.selectedIndex]?.textContent || "all agencies / sources";
+}
+
 function getTopicMatch(opportunity) {
   if (els.profileSelect.value === "all") return ["all"];
   const profileTerms = getProfileTerms();
@@ -299,24 +304,41 @@ function daysUntil(deadline) {
 }
 
 function applyFilters() {
-  state.filtered = state.opportunities
+  const topicItems = state.opportunities
     .map(scoreOpportunity)
     .filter((item) => item.topicMatched.length > 0)
-    .filter((item) => item.fit >= state.minFit)
+    .filter((item) => item.fit >= state.minFit);
+  populateSourceFilter(topicItems);
+  const selectedSource = els.sourceSelect?.value || "all";
+
+  state.filtered = topicItems
+    .filter((item) => selectedSource === "all" || formatSource(item) === selectedSource)
     .sort((a, b) => a.days - b.days || b.fit - a.fit);
 
-  render();
+  render(topicItems);
 }
 
-function render() {
-  const topicItems = state.opportunities.map(scoreOpportunity).filter((item) => item.topicMatched.length > 0);
-  els.totalCount.textContent = String(topicItems.length);
-  els.hotCount.textContent = String(topicItems.filter((item) => item.fit >= 85).length);
-  els.deadlineCount.textContent = String(topicItems.filter((item) => item.days >= 0 && item.days <= 21).length);
+function populateSourceFilter(items) {
+  if (!els.sourceSelect) return;
+  const currentValue = els.sourceSelect.value || "all";
+  const sources = [...new Set(items.map(formatSource).filter(Boolean))].sort((a, b) => a.localeCompare(b));
+  const nextValue = currentValue === "all" || sources.includes(currentValue) ? currentValue : "all";
+  els.sourceSelect.innerHTML = [
+    `<option value="all">All agencies / sources</option>`,
+    ...sources.map((source) => `<option value="${escapeHtml(source)}">${escapeHtml(source)}</option>`)
+  ].join("");
+  els.sourceSelect.value = nextValue;
+}
+
+function render(topicItems = state.filtered) {
+  els.totalCount.textContent = String(state.filtered.length);
+  els.hotCount.textContent = String(state.filtered.filter((item) => item.fit >= 85).length);
+  els.deadlineCount.textContent = String(state.filtered.filter((item) => item.days >= 0 && item.days <= 21).length);
+  const sourceLabel = els.sourceSelect?.value === "all" ? "" : ` from ${getSelectedSourceLabel()}`;
   els.viewTitle.textContent = state.filtered.length
     ? els.profileSelect.value === "all"
-      ? `${state.filtered.length} funding opportunities`
-      : `${state.filtered.length} ${getSelectedTopicLabel()} opportunities`
+      ? `${state.filtered.length} funding opportunities${sourceLabel}`
+      : `${state.filtered.length} ${getSelectedTopicLabel()} opportunities${sourceLabel}`
     : state.opportunities.length
       ? els.profileSelect.value === "all"
         ? "No opportunities under the current filters"
@@ -324,7 +346,7 @@ function render() {
       : "No opportunities scanned yet";
   const scanLabel = state.scannedAt ? `Last scanned ${formatDateTime(state.scannedAt)}` : "Using local fallback data";
   els.scanMeta.textContent = `${scanLabel}. Source: ${state.source}.`;
-  els.viewMeta.textContent = `${scanLabel}. ${topicItems.length} matching opportunities in this research area.`;
+  els.viewMeta.textContent = `${scanLabel}. ${topicItems.length} matching opportunities before agency/source selection.`;
 
   if (!state.filtered.length) {
     els.resultsList.innerHTML = `
@@ -552,6 +574,7 @@ els.loadSampleButton?.addEventListener("click", () => {
 });
 
 els.profileSelect?.addEventListener("change", applyFilters);
+els.sourceSelect?.addEventListener("change", applyFilters);
 els.exportButton?.addEventListener("click", exportCsv);
 
 document.querySelectorAll("[data-min-fit]").forEach((button) => {
