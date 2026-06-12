@@ -383,41 +383,28 @@ function renderRow(item) {
     ? `${item.deadline}${Number.isFinite(item.days) ? ` (${formatDays(item.days)})` : ""}`
     : "Not listed";
   const reasons = item.matched.length ? item.matched : ["education relevance"];
-  const detailRows = [
-    ["Eligibility", summarizeEligibility(item)],
-    ["Posted", item.posted || "Not listed"],
-    ["Award", formatAward(item)],
-    ["Indirect", formatIndirectRate(item)]
-  ];
 
   return `
     <article class="result-row">
-      <div>
+      <div class="table-cell opportunity-cell" data-label="Opportunity">
         <p class="opportunity-title">${item.url ? `<a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(item.title)}</a>` : escapeHtml(item.title)}</p>
-        <p class="meta">${escapeHtml([item.source, item.sourceType, item.number].filter(Boolean).join(" | "))}</p>
-      </div>
-      <div class="fit-meter">
-        <span class="fit-number">${item.fit}</span>
-        <span class="meter-track"><span class="meter-fill" style="--fit-width: ${item.fit}%"></span></span>
-      </div>
-      <div class="deadline ${deadlineClass}">${escapeHtml(deadlineLabel)}</div>
-      <div class="detail-cell">
-        <dl class="opportunity-details">
-          ${detailRows
-            .map(
-              ([label, value]) => `
-                <div>
-                  <dt>${escapeHtml(label)}</dt>
-                  <dd>${escapeHtml(value)}</dd>
-                </div>
-              `
-            )
-            .join("")}
-        </dl>
+        <p class="meta">${escapeHtml([item.number, `Fit ${item.fit}`].filter(Boolean).join(" | "))}</p>
         <div class="reasons">${reasons.map((reason) => `<span class="reason">${escapeHtml(reason)}</span>`).join("")}</div>
+      </div>
+      <div class="table-cell source-cell" data-label="Agency / Source">${escapeHtml(formatSource(item))}</div>
+      <div class="table-cell deadline ${deadlineClass}" data-label="Deadline">${escapeHtml(deadlineLabel)}</div>
+      <div class="table-cell" data-label="Posted Date">${escapeHtml(item.posted || "Not listed")}</div>
+      <div class="table-cell" data-label="Award Ceiling / Estimated Funding">${escapeHtml(formatAward(item))}</div>
+      <div class="table-cell" data-label="Eligibility Categories">${escapeHtml(summarizeEligibility(item))}</div>
+      <div class="table-cell description-cell" data-label="Description">
+        ${escapeHtml(formatDescription(item.description))}
       </div>
     </article>
   `;
+}
+
+function formatSource(item) {
+  return [item.source, item.sourceType].filter(Boolean).join(" | ") || "Unknown source";
 }
 
 function summarizeEligibility(item) {
@@ -476,6 +463,12 @@ function formatMoney(value) {
 
 function formatIndirectRate(item) {
   return item.indirectRate || "Check NOFO";
+}
+
+function formatDescription(value) {
+  const text = String(value || "").replace(/\s+/g, " ").trim();
+  if (!text) return "Not listed";
+  return text.length > 360 ? `${text.slice(0, 357)}...` : text;
 }
 
 function formatDateTime(value) {

@@ -69,14 +69,14 @@ button.chip.active {
 
 .app-shell {
   display: grid;
-  grid-template-columns: minmax(300px, 360px) 1fr;
+  grid-template-columns: minmax(280px, 320px) 1fr;
   min-height: 100vh;
 }
 
 .sidebar {
   border-right: 1px solid var(--line);
   background: rgba(255, 255, 255, 0.74);
-  padding: 28px;
+  padding: 24px 22px;
   overflow: auto;
 }
 
@@ -213,7 +213,7 @@ textarea {
 
 .workspace {
   min-width: 0;
-  padding: 24px;
+  padding: 20px;
 }
 
 .toolbar {
@@ -268,15 +268,23 @@ textarea {
   border: 1px solid var(--line);
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.86);
-  overflow: hidden;
+  overflow-x: auto;
 }
 
 .table-header,
 .result-row {
   display: grid;
-  grid-template-columns: minmax(220px, 1.35fr) 76px 120px minmax(280px, 1.55fr);
-  gap: 16px;
-  align-items: center;
+  grid-template-columns:
+    minmax(190px, 1.08fr)
+    minmax(130px, 0.78fr)
+    110px
+    96px
+    minmax(150px, 0.9fr)
+    minmax(170px, 1fr)
+    minmax(230px, 1.25fr);
+  min-width: 1130px;
+  gap: 12px;
+  align-items: start;
 }
 
 .table-header {
@@ -432,26 +440,19 @@ textarea {
   font-size: 0.85rem;
 }
 
-.fit-meter {
-  display: grid;
-  gap: 8px;
+.table-cell {
+  min-width: 0;
+  color: var(--ink);
+  font-size: 0.86rem;
+  font-weight: 700;
+  line-height: 1.35;
+  overflow-wrap: break-word;
 }
 
-.fit-number {
-  font-weight: 900;
-}
-
-.meter-track {
-  height: 8px;
-  border-radius: 999px;
-  background: #e6ebe6;
-  overflow: hidden;
-}
-
-.meter-fill {
-  height: 100%;
-  width: var(--fit-width);
-  background: var(--accent);
+.source-cell,
+.description-cell {
+  color: var(--muted);
+  font-weight: 600;
 }
 
 .deadline {
@@ -470,44 +471,6 @@ textarea {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
-}
-
-.detail-cell {
-  display: grid;
-  gap: 10px;
-}
-
-.opportunity-details {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 8px 12px;
-  margin: 0;
-}
-
-.opportunity-details div {
-  min-width: 0;
-}
-
-.opportunity-details div:first-child {
-  grid-column: 1 / -1;
-}
-
-.opportunity-details dt {
-  margin: 0 0 2px;
-  color: var(--muted);
-  font-size: 0.68rem;
-  font-weight: 900;
-  letter-spacing: 0;
-  text-transform: uppercase;
-}
-
-.opportunity-details dd {
-  margin: 0;
-  color: var(--ink);
-  font-size: 0.82rem;
-  font-weight: 700;
-  line-height: 1.25;
-  overflow-wrap: break-word;
 }
 
 .reason {
@@ -546,6 +509,7 @@ textarea {
   .toolbar,
   .table-header,
   .result-row {
+    min-width: 0;
     grid-template-columns: 1fr;
   }
 
@@ -555,5 +519,20 @@ textarea {
 
   .result-row {
     gap: 10px;
+  }
+
+  .table-cell::before {
+    content: attr(data-label);
+    display: block;
+    margin-bottom: 3px;
+    color: var(--muted);
+    font-size: 0.68rem;
+    font-weight: 900;
+    letter-spacing: 0;
+    text-transform: uppercase;
+  }
+
+  .opportunity-cell::before {
+    display: none;
   }
 }
