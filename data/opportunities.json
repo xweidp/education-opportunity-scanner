@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-12T16:30:38.566Z",
+  "scannedAt": "2026-06-12T21:40:32.380Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
@@ -43,9 +43,10 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) and Secretary of Education are soliciting applications in support of the administration of the College Assistance Migrant Program (CAMP) on behalf of the U.S. Department of Education (ED). The purpose of CAMP is to assist migratory or seasonal farmworkers (or immediate family members of such workers) who are enrolled or are admitted for enrollment on a full-time basis at an institution of higher education (IHE) to complete their first academic year.",
-      "fit": 64,
+      "fit": 68,
       "matchedTerms": [
-        "higher education"
+        "higher education",
+        "college"
       ]
     },
     {
@@ -110,20 +111,20 @@
       "estimatedFunding": "70000000",
       "indirectRate": "",
       "eligibility": [
-        "Independent school districts",
-        "County governments",
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\"",
-        "Special district governments",
-        "Native American tribal organizations (other than Federally recognized tribal governments)",
-        "State governments",
-        "For profit organizations other than small businesses",
-        "Public and State controlled institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
         "Native American tribal governments (Federally recognized)",
-        "City or township governments",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education",
+        "Native American tribal organizations (other than Federally recognized tribal governments)",
+        "Independent school districts",
+        "For profit organizations other than small businesses",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "State governments",
+        "County governments",
+        "Public and State controlled institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "City or township governments",
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\"",
+        "Special district governments"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting application in support of the administration of the Teacher Quality Partnership (TQP) program on behalf of the U.S. Department of Education (ED). The purpose of the TQP program is to improve student achievement; improve the quality of prospective and new teachers by improving teacher preparation and enhancing professional development to hold teacher preparation programs at institutions of higher education (IHEs) accountable for preparing teachers who meet applicable State certification and licensure requirements; and recruit highly qualified individuals into the teaching force. The TQP program also supports the use of Registered Apprenticeships as a high-quality, work-based learning pathway for preparing and credentialing new teachers based on demonstrated skill and merit, particularly in high-need schools and subject areas experiencing teacher shortages.",
       "fit": 90,
@@ -132,6 +133,38 @@
         "teacher",
         "professional development",
         "higher education"
+      ]
+    },
+    {
+      "id": "362518",
+      "number": "ED-GRANT-26-036",
+      "title": "Rural Postsecondary and Economic Development Grant Program",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-06-23",
+      "posted": "2026-05-21",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362518",
+      "awardCeiling": "2500000",
+      "estimatedFunding": "45000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education"
+      ],
+      "description": "The purpose of the RPED Grant Program is to improve rates of postsecondary enrollment, persistence, and completion among rural students through development of career pathways aligned to high-skill, high-wage, and in-demand industry sectors and occupations in the region.",
+      "fit": 88,
+      "matchedTerms": [
+        "rural",
+        "postsecondary",
+        "persistence",
+        "career",
+        "career pathways",
+        "completion",
+        "pathways"
       ]
     },
     {
@@ -149,9 +182,9 @@
       "indirectRate": "",
       "eligibility": [
         "Private institutions of higher education",
-        "Native American tribal organizations (other than Federally recognized tribal governments)",
         "Public and State controlled institutions of higher education",
-        "Native American tribal governments (Federally recognized)"
+        "Native American tribal governments (Federally recognized)",
+        "Native American tribal organizations (other than Federally recognized tribal governments)"
       ],
       "description": "The RDI grant program is designed to provide HBCUs and TCCUs with funds to implement transformational investments in research infrastructure, including research productivity, faculty expertise, graduate programs, physical infrastructure, human capital development, and partnerships leading to increases in external and sustained funding.",
       "fit": 86,
@@ -159,37 +192,6 @@
         "infrastructure",
         "postsecondary",
         "hbcu"
-      ]
-    },
-    {
-      "id": "362518",
-      "number": "ED-GRANT-26-036",
-      "title": "Rural Postsecondary and Economic Development Grant Program",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-06-23",
-      "posted": "2026-05-21",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362518",
-      "awardCeiling": "2500000",
-      "estimatedFunding": "45000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "Private institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education"
-      ],
-      "description": "The purpose of the RPED Grant Program is to improve rates of postsecondary enrollment, persistence, and completion among rural students through development of career pathways aligned to high-skill, high-wage, and in-demand industry sectors and occupations in the region.",
-      "fit": 84,
-      "matchedTerms": [
-        "rural",
-        "postsecondary",
-        "career",
-        "career pathways",
-        "completion",
-        "pathways"
       ]
     },
     {
@@ -230,8 +232,8 @@
       "estimatedFunding": "10000000",
       "indirectRate": "",
       "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
         "Public and State controlled institutions of higher education"
       ],
@@ -257,10 +259,10 @@
       "estimatedFunding": "7000000",
       "indirectRate": "",
       "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education",
-        "Public and State controlled institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "Public and State controlled institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Open Textbook Pilot Program (OTP) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the OTP program is to support projects at eligible institutions of higher education (IHEs) or State higher education agencies that create new open textbooks and expand the use of open textbooks and course materials in courses that are part of a degree-granting program, particularly those with high enrollments. This pilot program emphasizes the development of projects that demonstrate the greatest potential to achieve the highest level of savings for students through sustainable, expanded use of open textbooks in high-enrollment courses or in programs that prepare individuals for in-demand fields.",
       "fit": 72,
@@ -284,8 +286,8 @@
       "estimatedFunding": "9000000",
       "indirectRate": "",
       "eligibility": [
-        "Private institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Centers of Excellence for Veteran Student Success Program (CEVSS) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the CEVSS Program is to encourage institutions of higher education (IHEs) to develop model programs to support veteran student success in postsecondary education by coordinating services to address the academic, financial, physical, and social needs of veteran students.",
       "fit": 72,
@@ -310,10 +312,10 @@
       "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education"
+        "Private institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "The purpose of the Transitioning Gang-Involved Youth to Higher Education Program is to provide gang-involved youth with postsecondary education opportunities that will lead to certification or credentials.",
       "fit": 72,
@@ -337,8 +339,8 @@
       "estimatedFunding": "350000000",
       "indirectRate": "",
       "eligibility": [
-        "Private institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education"
       ],
       "description": "The purpose of SIP is to provide assistance to eligible institutions of higher education to improve their academic programs, institutional management, and fiscal stability in order to increase their self-sufficiency.",
       "fit": 68,
@@ -515,9 +517,9 @@
       "indirectRate": "",
       "eligibility": [
         "Public and State controlled institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "Administration at the U.S. Department of Labor (Labor), is soliciting applications in support of the administration of the TRIO Training Program on behalf of the U.S. Department of Education (ED). The purpose of the Training Program for Federal TRIO Programs (Training Program) provides grants to train the staff and leadership personnel employed in, participating in, or preparing for employment in, projects funded under the Federal TRIO Programs, to improve project operation.",
       "fit": 68,
@@ -563,11 +565,11 @@
       "estimatedFunding": "19800000",
       "indirectRate": "",
       "eligibility": [
-        "Private institutions of higher education",
-        "For profit organizations other than small businesses",
-        "Public and State controlled institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Public and State controlled institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Private institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the American History and Civics Education – National Activities (AHC-NA) program on behalf of the U.S. Department of Education (ED). The purpose of the AHC-NA program is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit students from low-income backgrounds and other underserved populations. America\"s 250th anniversary is a particularly appropriate time to promote innovative teaching and learning that unites our country, honors our history, promotes informed citizenship, and cherishes our freedom as we build the golden age of opportunity. ED encourages applications to include strong partnerships and active collaboration between eligible entities, local educational agencies, and State educational agencies in their design and proposed implementation. Project activities should reflect the best available research and practice in teaching and learning.",
       "fit": 86,
@@ -1425,10 +1427,10 @@
         "professional development",
         "stem",
         "higher education",
+        "college",
         "career",
         "workforce development",
-        "retention",
-        "completion"
+        "retention"
       ]
     },
     {
@@ -1535,6 +1537,29 @@
       ]
     },
     {
+      "id": "348599",
+      "number": "23-598",
+      "title": "Historically Black Colleges and Universities - Excellence in Research",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-10-20",
+      "posted": "2023-06-08",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23598",
+      "awardCeiling": "",
+      "estimatedFunding": "28000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Historically Black Colleges and Universities - Excellence in Research (HBCU-EiR) program was established in response to direction provided in the Senate Commerce and Justice, Science and Related Agencies Appropriations Subcommittee Report (Senate Report 115-139), and is built on prior and continuing efforts by the National Science Foundation (NSF) to strengthen research capacity at Historically Black Colleges and Universities (HBCUs). This report provided guidance to NSF to establish the HBCU Excellence in Research program \"to provide opportunities for both public and private HBCUs, particularly for those who have not been successful in larger NSF Research & Related Activities competitions, in order to stimulate sustainable improvement in their research and development capacity\" ( https://congress.gov/congressional-report/115th-congress/senate-report/139/1 ). EiR supports such capacity building by funding research projects aligned with NSF's research programs. The program aims to establish stronger connections between researchers at HBCUs and NSF's research programs.",
+      "fit": 64,
+      "matchedTerms": [
+        "hbcu",
+        "science"
+      ]
+    },
+    {
       "id": "359103",
       "number": "22-622",
       "title": "NSF's Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES) Initiative",
@@ -1564,26 +1589,29 @@
       ]
     },
     {
-      "id": "343980",
-      "number": "23-500",
-      "title": "SBE Postdoctoral Research Fellowships",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-11-04",
-      "posted": "2022-10-08",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23500",
-      "awardCeiling": "170000",
-      "estimatedFunding": "3000000",
+      "id": "watchlist-arnold-ventures-3",
+      "number": "",
+      "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Due: 06.14.2026",
+      "source": "Arnold Ventures",
+      "sourceType": "Private foundation",
+      "agencyCode": "Private foundation",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://assets.arnoldventures.org/uploads/PDFs/202605-AV_RFP_PT-Student-Success.pdf",
+      "awardCeiling": "",
+      "estimatedFunding": "",
       "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Directorate for Social, Behavioral and Economic Sciences (SBE) offers Postdoctoral Research Fellowships to encourageindependence earlyin the fellow'scareerby supporting his or herresearch and training goals.The research and training plan of each fellowship must address important scientific questions within thescope of the SBE directorate and the specific guidelines in this solicitation. The SPRF program offers two tracks: (I) Fundamental Research in the SBE Sciences (SPRF-FR) and (II) Broadening Participation in the SBE Sciences (SPRF-BP). See the full text of the solicitation for a detailed description of these tracks.",
-      "fit": 64,
+      "eligibility": [],
+      "description": "Private foundation. Matched source page for Arnold Ventures. Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Due: 06.14.2026",
+      "fit": 74,
       "matchedTerms": [
-        "science",
-        "broadening participation"
+        "outcomes",
+        "higher education",
+        "career",
+        "career pathways",
+        "pathways",
+        "causal"
       ]
     },
     {
@@ -1626,6 +1654,28 @@
       "fit": 68,
       "matchedTerms": [
         "career"
+      ]
+    },
+    {
+      "id": "watchlist-ecmc-foundation-2",
+      "number": "",
+      "title": "Learning and Evaluation",
+      "source": "ECMC Foundation",
+      "sourceType": "Private foundation",
+      "agencyCode": "Private foundation",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.ecmcfoundation.org/what-we-do/learning-and-evaluation/",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "Private foundation. Matched source page for ECMC Foundation. Learning and Evaluation",
+      "fit": 60,
+      "matchedTerms": [
+        "learning",
+        "evaluation"
       ]
     },
     {
@@ -1756,6 +1806,27 @@
       ]
     },
     {
+      "id": "watchlist-michael-susan-dell-foundation-1",
+      "number": "",
+      "title": "University Success",
+      "source": "Michael & Susan Dell Foundation",
+      "sourceType": "Private foundation",
+      "agencyCode": "Private foundation",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.dell.org/university-success/",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "Private foundation. Matched source page for Michael & Susan Dell Foundation. University Success",
+      "fit": 54,
+      "matchedTerms": [
+        "university"
+      ]
+    },
+    {
       "id": "watchlist-new-york-state-education-department-funding-3",
       "number": "",
       "title": "Career & Technical Education",
@@ -1874,6 +1945,28 @@
       "matchedTerms": []
     },
     {
+      "id": "watchlist-arnold-ventures-4",
+      "number": "",
+      "title": "Evidence & Evaluation Impacts of Cell Phone Policies in K‑ 12 Schools RFP RFP Closed",
+      "source": "Arnold Ventures",
+      "sourceType": "Private foundation",
+      "agencyCode": "Private foundation",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://assets.arnoldventures.org/uploads/PDFs/AV_RFP_Cell-Phones-in-Schools.pdf",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "Private foundation. Matched source page for Arnold Ventures. Evidence & Evaluation Impacts of Cell Phone Policies in K‑ 12 Schools RFP RFP Closed",
+      "fit": 48,
+      "matchedTerms": [
+        "evaluation",
+        "evidence"
+      ]
+    },
+    {
       "id": "watchlist-walton-family-foundation-1",
       "number": "",
       "title": "Learning",
@@ -1935,6 +2028,25 @@
       "matchedTerms": [
         "learning"
       ]
+    },
+    {
+      "id": "watchlist-michael-susan-dell-foundation-4",
+      "number": "",
+      "title": "Advancing Public Education in India",
+      "source": "Michael & Susan Dell Foundation",
+      "sourceType": "Private foundation",
+      "agencyCode": "Private foundation",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.dell.org/ideas/india-schools/",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "Private foundation. Matched source page for Michael & Susan Dell Foundation. Advancing Public Education in India",
+      "fit": 38,
+      "matchedTerms": []
     },
     {
       "id": "watchlist-walton-family-foundation-0",
@@ -2087,103 +2199,6 @@
       "description": "State funding. Matched source page for Texas Education Agency Grants. Grant Opportunities",
       "fit": 38,
       "matchedTerms": []
-    },
-    {
-      "id": "watchlist-texas-education-agency-grants-3",
-      "number": "",
-      "title": "TSDS",
-      "source": "Texas Education Agency Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.texasstudentdatasystem.org/",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Texas Education Agency Grants. TSDS",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-texas-education-agency-grants-4",
-      "number": "",
-      "title": "access all secure TEA applications",
-      "source": "Texas Education Agency Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://tea.texas.gov/node/9596",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Texas Education Agency Grants. access all secure TEA applications",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-texas-education-agency-grants-5",
-      "number": "",
-      "title": "Finance, Grants, and Funding",
-      "source": "Texas Education Agency Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://tea.texas.gov/school-district-leaders/finance-grants-and-funding",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Texas Education Agency Grants. Finance, Grants, and Funding",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-texas-education-agency-grants-7",
-      "number": "",
-      "title": "Student Programs and Services",
-      "source": "Texas Education Agency Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://tea.texas.gov/school-district-leaders/student-programs-and-services",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Texas Education Agency Grants. Student Programs and Services",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-ies-funding-opportunities-0",
-      "number": "",
-      "title": "Learn more",
-      "source": "IES Funding Opportunities",
-      "sourceType": "Federal education research",
-      "agencyCode": "Federal education research",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://ies.ed.gov/funding/deadlines",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "Federal education research. Matched source page for IES Funding Opportunities. Learn more",
-      "fit": 34,
-      "matchedTerms": [
-        "ies"
-      ]
     }
   ]
 }

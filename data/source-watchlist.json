@@ -25,6 +25,24 @@
       "keywords": ["postsecondary", "credential", "student success", "equity", "grant"]
     },
     {
+      "name": "ECMC Foundation",
+      "type": "Private foundation",
+      "url": "https://www.ecmcfoundation.org/funding-approach/grant-initiatives/",
+      "keywords": ["postsecondary", "college", "career readiness", "workforce", "student success", "grant initiatives"]
+    },
+    {
+      "name": "Michael & Susan Dell Foundation",
+      "type": "Private foundation",
+      "url": "https://www.dell.org/grants/?focus_areas=university-success",
+      "keywords": ["university success", "postsecondary", "college", "student success", "persistence", "grant"]
+    },
+    {
+      "name": "Arnold Ventures",
+      "type": "Private foundation",
+      "url": "https://www.arnoldventures.org/grantees#requests-for-proposals",
+      "keywords": ["request for proposals", "rfp", "higher education", "evidence", "research", "grant"]
+    },
+    {
       "name": "Bill & Melinda Gates Foundation",
       "type": "Private foundation",
       "url": "https://www.gatesfoundation.org/about/committed-grants",
