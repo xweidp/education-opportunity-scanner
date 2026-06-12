@@ -200,6 +200,7 @@ async function scanSourcePage(source) {
       url: link.url,
       awardCeiling: "",
       estimatedFunding: "",
+      indirectRate: "",
       eligibility: [],
       description: `${source.type}. Matched source page for ${source.name}. ${cleanHtml(link.text || pageText).slice(0, 700)}`
     }));
@@ -218,6 +219,7 @@ async function scanSourcePage(source) {
         url: source.url,
         awardCeiling: "",
         estimatedFunding: "",
+        indirectRate: "",
         eligibility: [],
         description: `${source.type}. Source page to monitor for education funding opportunities. The scan could not extract page details this run.`
       }
@@ -302,6 +304,7 @@ async function fetchDetails(hit) {
       url,
       awardCeiling: normalizeMoney(synopsis.awardCeiling),
       estimatedFunding: normalizeMoney(synopsis.estimatedFunding),
+      indirectRate: extractIndirectRate(description),
       eligibility: (synopsis.applicantTypes || []).map((item) => item.description).filter(Boolean),
       description
     };
@@ -318,6 +321,7 @@ async function fetchDetails(hit) {
       url: `https://www.grants.gov/search-results-detail/${hit.id}`,
       awardCeiling: "",
       estimatedFunding: "",
+      indirectRate: "",
       eligibility: [],
       description: ""
     };
@@ -431,6 +435,11 @@ function normalizeMoney(value) {
   return String(number);
 }
 
+function extractIndirectRate(text) {
+  const match = String(text || "").match(/indirect (?:cost )?rate[^.]{0,80}?(\d+(?:\.\d+)?%)/i);
+  return match ? match[1] : "";
+}
+
 function daysUntil(deadline) {
   if (!deadline) return Number.POSITIVE_INFINITY;
   const date = new Date(`${deadline}T23:59:59Z`);
@@ -445,12 +454,32 @@ function csvEscape(value) {
 }
 
 function makeCsv(items) {
-  const header = ["title", "source", "source_type", "deadline", "fit", "number", "url", "matched_terms", "description"];
+  const header = [
+    "title",
+    "source",
+    "source_type",
+    "deadline",
+    "posted",
+    "award_ceiling",
+    "estimated_funding",
+    "indirect_rate",
+    "eligibility",
+    "fit",
+    "number",
+    "url",
+    "matched_terms",
+    "description"
+  ];
   const rows = items.map((item) => [
     item.title,
     item.source,
     item.sourceType || "",
     item.deadline,
+    item.posted || "",
+    item.awardCeiling || "",
+    item.estimatedFunding || "",
+    item.indirectRate || "",
+    (item.eligibility || []).join("; "),
     item.fit,
     item.number,
     item.url,
@@ -474,6 +503,10 @@ function makeBrief(items, scannedAt) {
   top.forEach((item, index) => {
     lines.push(`${index + 1}. ${item.title}`);
     lines.push(`   Deadline: ${item.deadline || "Not listed"} | Fit: ${item.fit} | Source: ${item.source}`);
+    lines.push(
+      `   Posted: ${item.posted || "Not listed"} | Award ceiling: ${item.awardCeiling || "Not listed"} | Indirect rate: ${item.indirectRate || "Check NOFO"}`
+    );
+    lines.push(`   Eligibility: ${(item.eligibility || []).join("; ") || "Check NOFO"}`);
     lines.push(`   Terms: ${item.matchedTerms.join(", ") || "education relevance"}`);
     lines.push(`   Link: ${item.url}`);
     lines.push("");

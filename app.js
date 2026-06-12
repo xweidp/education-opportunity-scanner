@@ -202,7 +202,11 @@ function normalizeLoadedOpportunity(item, index) {
     description: item.description || item.summary || "",
     url: item.url || "",
     number: item.number || "",
-    posted: item.posted || "",
+    posted: normalizeDeadline(item.posted || item.postedDate || ""),
+    awardCeiling: item.awardCeiling || "",
+    estimatedFunding: item.estimatedFunding || "",
+    indirectRate: item.indirectRate || item.indirectCostRate || "",
+    eligibility: Array.isArray(item.eligibility) ? item.eligibility : [],
     fit: item.fit,
     matchedTerms: Array.isArray(item.matchedTerms) ? item.matchedTerms : []
   };
@@ -259,7 +263,7 @@ function getTopicMatch(opportunity) {
 function scoreOpportunity(opportunity) {
   const topicMatched = getTopicMatch(opportunity);
   const matched = els.profileSelect.value === "all" ? opportunity.matchedTerms || [] : topicMatched;
-  const haystack = `${opportunity.title} ${opportunity.source} ${opportunity.description}`.toLowerCase();
+  const haystack = `${opportunity.title} ${opportunity.source} ${opportunity.description} ${(opportunity.eligibility || []).join(" ")}`.toLowerCase();
   const sourceBoost = /(nsf|ies|education|school|district|foundation|agency|philanthropy)/i.test(opportunity.source) ? 10 : 0;
   const methodBoost = /(evaluation|randomized|mixed-method|longitudinal|evidence|validity|implementation|pilot)/i.test(haystack) ? 12 : 0;
   const urgencyBoost = daysUntil(opportunity.deadline) <= 30 && daysUntil(opportunity.deadline) >= 0 ? 6 : 0;
@@ -376,6 +380,12 @@ function renderRow(item) {
     ? `${item.deadline}${Number.isFinite(item.days) ? ` (${formatDays(item.days)})` : ""}`
     : "Not listed";
   const reasons = item.matched.length ? item.matched : ["education relevance"];
+  const detailRows = [
+    ["Eligibility", summarizeEligibility(item)],
+    ["Posted", item.posted || "Not listed"],
+    ["Award", formatAward(item)],
+    ["Indirect", formatIndirectRate(item)]
+  ];
 
   return `
     <article class="result-row">
@@ -388,9 +398,81 @@ function renderRow(item) {
         <span class="meter-track"><span class="meter-fill" style="--fit-width: ${item.fit}%"></span></span>
       </div>
       <div class="deadline ${deadlineClass}">${escapeHtml(deadlineLabel)}</div>
-      <div class="reasons">${reasons.map((reason) => `<span class="reason">${escapeHtml(reason)}</span>`).join("")}</div>
+      <div class="detail-cell">
+        <dl class="opportunity-details">
+          ${detailRows
+            .map(
+              ([label, value]) => `
+                <div>
+                  <dt>${escapeHtml(label)}</dt>
+                  <dd>${escapeHtml(value)}</dd>
+                </div>
+              `
+            )
+            .join("")}
+        </dl>
+        <div class="reasons">${reasons.map((reason) => `<span class="reason">${escapeHtml(reason)}</span>`).join("")}</div>
+      </div>
     </article>
   `;
+}
+
+function summarizeEligibility(item) {
+  const tags = inferOpportunityTags(item);
+  const applicantTypes = (item.eligibility || [])
+    .map(cleanEligibilityLabel)
+    .filter(Boolean)
+    .slice(0, 2);
+  const summary = [...tags, ...applicantTypes].filter(Boolean);
+  return summary.length ? summary.join("; ") : "Check NOFO";
+}
+
+function inferOpportunityTags(item) {
+  const haystack = `${item.title} ${item.source} ${item.description} ${(item.eligibility || []).join(" ")}`.toLowerCase();
+  const tags = [];
+  if (/(nonprofit|non-profit|non profit|research|university|institution of higher education|\bihe\b)/i.test(haystack)) {
+    tags.push("Nonprofit/research");
+  }
+  if (/(postsecondary|higher education|undergraduate|community college|\bihe\b|college|career|workforce|adult education|credential|pathway)/i.test(haystack)) {
+    tags.push("Postsecondary/workforce");
+  }
+  if (/(literacy|reading|writing|english language arts|\bela\b|english learner|language arts)/i.test(haystack)) {
+    tags.push("ELA/literacy");
+  }
+  if (/(state educational agency|\bsea\b|local educational agency|\blea\b|district|school|k-12|secondary school)/i.test(haystack)) {
+    tags.push("K-12/agency");
+  }
+  return [...new Set(tags)].slice(0, 3);
+}
+
+function cleanEligibilityLabel(value) {
+  return String(value || "")
+    .replace(/\s*\(see text field entitled "Additional Information on Eligibility" for clarification\)/i, "")
+    .replace(/Others/i, "Other eligible applicants")
+    .trim();
+}
+
+function formatAward(item) {
+  const ceiling = formatMoney(item.awardCeiling);
+  const estimated = formatMoney(item.estimatedFunding);
+  if (ceiling && estimated) return `${ceiling} ceiling; ${estimated} total`;
+  if (ceiling) return `${ceiling} ceiling`;
+  if (estimated) return `${estimated} total`;
+  return "Not listed";
+}
+
+function formatMoney(value) {
+  const number = Number(String(value || "").replace(/[$,]/g, ""));
+  if (!Number.isFinite(number) || number <= 0) return "";
+  return new Intl.NumberFormat("en-US", {
+    style: "currency",
+    currency: "USD",
+    maximumFractionDigits: 0
+  }).format(number);
+}
+
+function formatIndirectRate(item) {
+  return item.indirectRate || "Check NOFO";
 }
 
 function formatDateTime(value) {
@@ -424,11 +506,28 @@ function escapeHtml(value) {
 
 function exportCsv() {
   if (!state.filtered.length) return;
-  const header = ["title", "source", "deadline", "fit", "matched_terms", "description"];
+  const header = [
+    "title",
+    "source",
+    "source_type",
+    "deadline",
+    "posted",
+    "award_amount",
+    "indirect_rate",
+    "eligibility",
+    "fit",
+    "matched_terms",
+    "description"
+  ];
   const rows = state.filtered.map((item) => [
     item.title,
     item.source,
+    item.sourceType || "",
     item.deadline,
+    item.posted || "",
+    formatAward(item),
+    formatIndirectRate(item),
+    summarizeEligibility(item),
     item.fit,
     item.matched.join("; "),
     item.description

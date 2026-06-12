@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-12T16:26:18.694Z",
+  "scannedAt": "2026-06-12T16:30:38.566Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
@@ -15,6 +15,7 @@
       "url": "https://www.ed.gov/grants-and-programs/grants-special-populations/grants-migrant-students/high-school-equivalency-program",
       "awardCeiling": "550000",
       "estimatedFunding": "11550000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -37,6 +38,7 @@
       "url": "https://www.ed.gov/grants-and-programs/grants-special-populations/grants-migrant-students/college-assistance-migrant-program",
       "awardCeiling": "550000",
       "estimatedFunding": "13014675",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -58,6 +60,7 @@
       "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/school-and-community-improvement-grants/competitive-grants-state-assessments",
       "awardCeiling": "4000000",
       "estimatedFunding": "16556000",
+      "indirectRate": "",
       "eligibility": [
         "State governments"
       ],
@@ -82,6 +85,7 @@
       "url": "https://www.grants.gov/search-results-detail/361904",
       "awardCeiling": "",
       "estimatedFunding": "7301695",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -104,21 +108,22 @@
       "url": "https://www.ed.gov/grants-and-programs/teacher-preparation-grants/teacher-quality-partnership-program",
       "awardCeiling": "",
       "estimatedFunding": "70000000",
+      "indirectRate": "",
       "eligibility": [
-        "Native American tribal organizations (other than Federally recognized tribal governments)",
-        "Public and State controlled institutions of higher education",
-        "City or township governments",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses",
-        "Special district governments",
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\"",
-        "Native American tribal governments (Federally recognized)",
-        "Private institutions of higher education",
         "Independent school districts",
         "County governments",
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\"",
+        "Special district governments",
+        "Native American tribal organizations (other than Federally recognized tribal governments)",
         "State governments",
+        "For profit organizations other than small businesses",
+        "Public and State controlled institutions of higher education",
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Native American tribal governments (Federally recognized)",
+        "City or township governments",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting application in support of the administration of the Teacher Quality Partnership (TQP) program on behalf of the U.S. Department of Education (ED). The purpose of the TQP program is to improve student achievement; improve the quality of prospective and new teachers by improving teacher preparation and enhancing professional development to hold teacher preparation programs at institutions of higher education (IHEs) accountable for preparing teachers who meet applicable State certification and licensure requirements; and recruit highly qualified individuals into the teaching force. The TQP program also supports the use of Registered Apprenticeships as a high-quality, work-based learning pathway for preparing and credentialing new teachers based on demonstrated skill and merit, particularly in high-need schools and subject areas experiencing teacher shortages.",
       "fit": 90,
@@ -141,11 +146,12 @@
       "url": "https://www.grants.gov/search-results-detail/362516",
       "awardCeiling": "5000000",
       "estimatedFunding": "15000000",
+      "indirectRate": "",
       "eligibility": [
+        "Private institutions of higher education",
         "Native American tribal organizations (other than Federally recognized tribal governments)",
         "Public and State controlled institutions of higher education",
-        "Native American tribal governments (Federally recognized)",
-        "Private institutions of higher education"
+        "Native American tribal governments (Federally recognized)"
       ],
       "description": "The RDI grant program is designed to provide HBCUs and TCCUs with funds to implement transformational investments in research infrastructure, including research productivity, faculty expertise, graduate programs, physical infrastructure, human capital development, and partnerships leading to increases in external and sustained funding.",
       "fit": 86,
@@ -167,10 +173,11 @@
       "url": "https://www.grants.gov/search-results-detail/362518",
       "awardCeiling": "2500000",
       "estimatedFunding": "45000000",
+      "indirectRate": "",
       "eligibility": [
-        "Private institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "Private institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education"
       ],
@@ -197,6 +204,7 @@
       "url": "https://www.grants.gov/search-results-detail/362001",
       "awardCeiling": "",
       "estimatedFunding": "9000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -220,11 +228,12 @@
       "url": "https://www.grants.gov/search-results-detail/362508",
       "awardCeiling": "5000000",
       "estimatedFunding": "10000000",
+      "indirectRate": "",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "Public and State controlled institutions of higher education"
       ],
       "description": "The purpose of the FIPSE-Basic Needs Program is to advance systemic and sustainable solutions to student basic needs insecurity through support programs that address the basic needs of students and to report on practices that improve outcomes for students.",
       "fit": 72,
@@ -246,11 +255,12 @@
       "url": "https://www.grants.gov/search-results-detail/362511",
       "awardCeiling": "2000000",
       "estimatedFunding": "7000000",
+      "indirectRate": "",
       "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "Private institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Open Textbook Pilot Program (OTP) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the OTP program is to support projects at eligible institutions of higher education (IHEs) or State higher education agencies that create new open textbooks and expand the use of open textbooks and course materials in courses that are part of a degree-granting program, particularly those with high enrollments. This pilot program emphasizes the development of projects that demonstrate the greatest potential to achieve the highest level of savings for students through sustainable, expanded use of open textbooks in high-enrollment courses or in programs that prepare individuals for in-demand fields.",
       "fit": 72,
@@ -272,9 +282,10 @@
       "url": "https://www.grants.gov/search-results-detail/362514",
       "awardCeiling": "3000000",
       "estimatedFunding": "9000000",
+      "indirectRate": "",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Private institutions of higher education"
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Centers of Excellence for Veteran Student Success Program (CEVSS) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the CEVSS Program is to encourage institutions of higher education (IHEs) to develop model programs to support veteran student success in postsecondary education by coordinating services to address the academic, financial, physical, and social needs of veteran students.",
       "fit": 72,
@@ -296,12 +307,13 @@
       "url": "https://www.grants.gov/search-results-detail/362505",
       "awardCeiling": "1700000",
       "estimatedFunding": "5000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Private institutions of higher education"
       ],
       "description": "The purpose of the Transitioning Gang-Involved Youth to Higher Education Program is to provide gang-involved youth with postsecondary education opportunities that will lead to certification or credentials.",
       "fit": 72,
@@ -323,6 +335,7 @@
       "url": "https://www.grants.gov/search-results-detail/362513",
       "awardCeiling": "3000000",
       "estimatedFunding": "350000000",
+      "indirectRate": "",
       "eligibility": [
         "Private institutions of higher education",
         "Public and State controlled institutions of higher education"
@@ -346,6 +359,7 @@
       "url": "https://www.grants.gov/search-results-detail/362074",
       "awardCeiling": "1050000",
       "estimatedFunding": "3150000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -370,6 +384,7 @@
       "url": "https://www.grants.gov/search-results-detail/362075",
       "awardCeiling": "",
       "estimatedFunding": "2600000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -394,6 +409,7 @@
       "url": "https://www.grants.gov/search-results-detail/362602",
       "awardCeiling": "8000000",
       "estimatedFunding": "45000000",
+      "indirectRate": "",
       "eligibility": [
         "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
@@ -424,6 +440,7 @@
       "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/school-and-community-improvement-grants/comprehensive-centers-program-national-comprehensive-center-improving-literacy-students",
       "awardCeiling": "1500000",
       "estimatedFunding": "1485000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -448,6 +465,7 @@
       "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/school-and-community-improvement-grants/comprehensive-centers-program",
       "awardCeiling": "",
       "estimatedFunding": "46015000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -469,6 +487,7 @@
       "url": "https://www.grants.gov/search-results-detail/362374",
       "awardCeiling": "350000",
       "estimatedFunding": "8750000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -493,11 +512,12 @@
       "url": "https://www.grants.gov/search-results-detail/362512",
       "awardCeiling": "1100000",
       "estimatedFunding": "4100000",
+      "indirectRate": "",
       "eligibility": [
-        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Private institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "Administration at the U.S. Department of Labor (Labor), is soliciting applications in support of the administration of the TRIO Training Program on behalf of the U.S. Department of Education (ED). The purpose of the Training Program for Federal TRIO Programs (Training Program) provides grants to train the staff and leadership personnel employed in, participating in, or preparing for employment in, projects funded under the Federal TRIO Programs, to improve project operation.",
       "fit": 68,
@@ -518,6 +538,7 @@
       "url": "https://www.grants.gov/search-results-detail/362705",
       "awardCeiling": "",
       "estimatedFunding": "70000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -540,11 +561,12 @@
       "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/well-rounded-education-grants/american-history-and-civics-national-activities-grants",
       "awardCeiling": "",
       "estimatedFunding": "19800000",
+      "indirectRate": "",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
         "Private institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "For profit organizations other than small businesses",
+        "Public and State controlled institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the American History and Civics Education – National Activities (AHC-NA) program on behalf of the U.S. Department of Education (ED). The purpose of the AHC-NA program is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit students from low-income backgrounds and other underserved populations. America\"s 250th anniversary is a particularly appropriate time to promote innovative teaching and learning that unites our country, honors our history, promotes informed citizenship, and cherishes our freedom as we build the golden age of opportunity. ED encourages applications to include strong partnerships and active collaboration between eligible entities, local educational agencies, and State educational agencies in their design and proposed implementation. Project activities should reflect the best available research and practice in teaching and learning.",
@@ -568,6 +590,7 @@
       "url": "https://www.grants.gov/search-results-detail/362373",
       "awardCeiling": "1000000",
       "estimatedFunding": "7000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -595,6 +618,7 @@
       "url": "https://www.ed.gov/grants-and-programs/teacher-preparation-grants/national-professional-development-program",
       "awardCeiling": "1000000",
       "estimatedFunding": "49000000",
+      "indirectRate": "",
       "eligibility": [
         "Public and State controlled institutions of higher education"
       ],
@@ -617,6 +641,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23510",
       "awardCeiling": "2000000",
       "estimatedFunding": "61000000",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -645,6 +670,7 @@
       "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5408",
       "awardCeiling": "",
       "estimatedFunding": "6000000",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -669,6 +695,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26508",
       "awardCeiling": "4000000",
       "estimatedFunding": "224000000",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -697,6 +724,7 @@
       "url": "https://www.grants.gov/search-results-detail/362496",
       "awardCeiling": "1000000",
       "estimatedFunding": "1000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -719,6 +747,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25523",
       "awardCeiling": "",
       "estimatedFunding": "37500000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -747,6 +776,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26503",
       "awardCeiling": "2500000",
       "estimatedFunding": "2500000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -775,6 +805,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22586",
       "awardCeiling": "",
       "estimatedFunding": "250000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -799,6 +830,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26509",
       "awardCeiling": "30000000",
       "estimatedFunding": "60000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -824,6 +856,7 @@
       "url": "https://www.grants.gov/search-results-detail/362632",
       "awardCeiling": "4000000",
       "estimatedFunding": "4000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -847,6 +880,7 @@
       "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=12756",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -875,6 +909,7 @@
       "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505731",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -903,6 +938,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24562",
       "awardCeiling": "2000000",
       "estimatedFunding": "6000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -931,6 +967,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25522",
       "awardCeiling": "",
       "estimatedFunding": "31500000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -959,6 +996,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24570",
       "awardCeiling": "600000",
       "estimatedFunding": "12000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -983,6 +1021,7 @@
       "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506244",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -1008,6 +1047,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23601",
       "awardCeiling": "500000",
       "estimatedFunding": "84800000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1030,6 +1070,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23586",
       "awardCeiling": "3250000",
       "estimatedFunding": "68000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1058,6 +1099,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19575",
       "awardCeiling": "",
       "estimatedFunding": "3760000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1081,6 +1123,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26506",
       "awardCeiling": "",
       "estimatedFunding": "40000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1109,6 +1152,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21595",
       "awardCeiling": "3500000",
       "estimatedFunding": "10799836",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1137,6 +1181,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24597",
       "awardCeiling": "3000000",
       "estimatedFunding": "53000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1165,6 +1210,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24564",
       "awardCeiling": "2000000",
       "estimatedFunding": "8000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1193,6 +1239,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23569",
       "awardCeiling": "250000",
       "estimatedFunding": "2000000",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -1216,6 +1263,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25543",
       "awardCeiling": "12000000",
       "estimatedFunding": "280000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1240,6 +1288,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25540",
       "awardCeiling": "2000000",
       "estimatedFunding": "30000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1268,6 +1317,7 @@
       "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5555",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -1290,6 +1340,7 @@
       "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5548",
       "awardCeiling": "",
       "estimatedFunding": "2300000",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -1312,6 +1363,7 @@
       "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503570",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -1333,6 +1385,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25515",
       "awardCeiling": "1200000",
       "estimatedFunding": "60000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1361,6 +1414,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24584",
       "awardCeiling": "7500000",
       "estimatedFunding": "74000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1389,6 +1443,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21588",
       "awardCeiling": "2500000",
       "estimatedFunding": "35000000",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -1415,6 +1470,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24569",
       "awardCeiling": "1500000",
       "estimatedFunding": "8500000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1443,6 +1499,7 @@
       "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5431",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -1464,6 +1521,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24503",
       "awardCeiling": "",
       "estimatedFunding": "5800000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1488,6 +1546,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22622",
       "awardCeiling": "",
       "estimatedFunding": "5500000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1516,6 +1575,7 @@
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23500",
       "awardCeiling": "170000",
       "estimatedFunding": "3000000",
+      "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
@@ -1539,6 +1599,7 @@
       "url": "https://www.cde.ca.gov/ci/be/become-a-teacher.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Become a Teacher",
       "fit": 68,
@@ -1559,6 +1620,7 @@
       "url": "https://www.cde.ca.gov/ci/ct/",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Career Technical Education",
       "fit": 68,
@@ -1579,6 +1641,7 @@
       "url": "https://tea.texas.gov/school-district-leaders/educator-workforce-and-hr",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Texas Education Agency Grants. Educator Workforce and HR",
       "fit": 58,
@@ -1600,6 +1663,7 @@
       "url": "https://www.cde.ca.gov/fg/fo/#",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Teaching & Learning",
       "fit": 56,
@@ -1620,6 +1684,7 @@
       "url": "https://www.cde.ca.gov/ci/",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Teaching & Learning Home",
       "fit": 56,
@@ -1640,6 +1705,7 @@
       "url": "https://www.cde.ca.gov/ci/ct/ie/",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Industrial & Technology Education",
       "fit": 56,
@@ -1660,6 +1726,7 @@
       "url": "https://www.cde.ca.gov/ci/cr/dl/",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Distance Learning",
       "fit": 56,
@@ -1680,6 +1747,7 @@
       "url": "https://www.luminafoundation.org/topics/todays-credentials/",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "Private foundation. Matched source page for Lumina Foundation. Today’s Credentials &rarr;",
       "fit": 54,
@@ -1700,6 +1768,7 @@
       "url": "https://www.nysed.gov/career-technical-education",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for New York State Education Department Funding. Career & Technical Education",
       "fit": 54,
@@ -1720,6 +1789,7 @@
       "url": "https://www.nysed.gov/higher-education",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for New York State Education Department Funding. Higher Education",
       "fit": 54,
@@ -1740,6 +1810,7 @@
       "url": "https://www.cde.ca.gov/",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. California Department of Education",
       "fit": 52,
@@ -1758,6 +1829,7 @@
       "url": "https://www.cde.ca.gov/ci/ct/we/",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Work Experience Education (WEE)",
       "fit": 52,
@@ -1776,6 +1848,7 @@
       "url": "https://www.spencer.org/grant_types",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "Private foundation. Source page to monitor for education funding opportunities. The scan could not extract page details this run.",
       "fit": 50,
@@ -1794,6 +1867,7 @@
       "url": "https://wtgrantfoundation.org/grants",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "Private foundation. Source page to monitor for education funding opportunities. The scan could not extract page details this run.",
       "fit": 50,
@@ -1812,6 +1886,7 @@
       "url": "https://www.waltonfamilyfoundation.org/learning",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "Private foundation. Matched source page for Walton Family Foundation. Learning",
       "fit": 42,
@@ -1832,6 +1907,7 @@
       "url": "https://www.acces.nysed.gov/aepp/welcome-adult-education-programs-and-policy-aepp",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for New York State Education Department Funding. Adult Education",
       "fit": 42,
@@ -1852,6 +1928,7 @@
       "url": "https://www.nysed.gov/early-learning",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for New York State Education Department Funding. Early Learning",
       "fit": 42,
@@ -1872,6 +1949,7 @@
       "url": "https://www.waltonfamilyfoundation.org/our-work/education-program",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "Private foundation. Matched source page for Walton Family Foundation. Education",
       "fit": 38,
@@ -1890,6 +1968,7 @@
       "url": "https://www.nysed.gov/new-york-state-education-department-foil-requests",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for New York State Education Department Funding. Freedom of Information (FOIL)",
       "fit": 38,
@@ -1908,6 +1987,7 @@
       "url": "https://www.nysed.gov/program-offices/office-bilingual-education-and-world-languages-obewl",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for New York State Education Department Funding. Bilingual Education & World Languages",
       "fit": 38,
@@ -1926,6 +2006,7 @@
       "url": "https://www.oce.nysed.gov/",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for New York State Education Department Funding. Cultural Education",
       "fit": 38,
@@ -1944,6 +2025,7 @@
       "url": "https://www.nysed.gov/essa",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for New York State Education Department Funding. Every Student Succeeds Act (ESSA)",
       "fit": 38,
@@ -1962,6 +2044,7 @@
       "url": "https://tea.texas.gov/families-and-students/parent-support-hub",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Texas Education Agency Grants. Parent Support Hub",
       "fit": 38,
@@ -1980,6 +2063,7 @@
       "url": "https://tea.texas.gov/educators/certification/educator-certification-online-system",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Texas Education Agency Grants. ECOS for Educators",
       "fit": 38,
@@ -1998,6 +2082,7 @@
       "url": "https://tea.texas.gov/GrantOpportunities",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Texas Education Agency Grants. Grant Opportunities",
       "fit": 38,
@@ -2016,6 +2101,7 @@
       "url": "https://www.texasstudentdatasystem.org/",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Texas Education Agency Grants. TSDS",
       "fit": 38,
@@ -2034,6 +2120,7 @@
       "url": "https://tea.texas.gov/node/9596",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Texas Education Agency Grants. access all secure TEA applications",
       "fit": 38,
@@ -2052,6 +2139,7 @@
       "url": "https://tea.texas.gov/school-district-leaders/finance-grants-and-funding",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Texas Education Agency Grants. Finance, Grants, and Funding",
       "fit": 38,
@@ -2070,6 +2158,7 @@
       "url": "https://tea.texas.gov/school-district-leaders/student-programs-and-services",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Texas Education Agency Grants. Student Programs and Services",
       "fit": 38,
@@ -2088,6 +2177,7 @@
       "url": "https://ies.ed.gov/funding/deadlines",
       "awardCeiling": "",
       "estimatedFunding": "",
+      "indirectRate": "",
       "eligibility": [],
       "description": "Federal education research. Matched source page for IES Funding Opportunities. Learn more",
       "fit": 34,

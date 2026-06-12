@@ -274,7 +274,7 @@ textarea {
 .table-header,
 .result-row {
   display: grid;
-  grid-template-columns: minmax(220px, 1.6fr) 90px 120px minmax(220px, 1.4fr);
+  grid-template-columns: minmax(220px, 1.35fr) 76px 120px minmax(280px, 1.55fr);
   gap: 16px;
   align-items: center;
 }
@@ -470,6 +470,44 @@ textarea {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
+}
+
+.detail-cell {
+  display: grid;
+  gap: 10px;
+}
+
+.opportunity-details {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px 12px;
+  margin: 0;
+}
+
+.opportunity-details div {
+  min-width: 0;
+}
+
+.opportunity-details div:first-child {
+  grid-column: 1 / -1;
+}
+
+.opportunity-details dt {
+  margin: 0 0 2px;
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.opportunity-details dd {
+  margin: 0;
+  color: var(--ink);
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1.25;
+  overflow-wrap: break-word;
 }
 
 .reason {
