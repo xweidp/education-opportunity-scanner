@@ -55,22 +55,310 @@
       "keywords": ["education", "grant", "schools", "students", "innovation"]
     },
     {
+      "name": "Alabama Department of Education Funding",
+      "type": "State funding",
+      "url": "https://www.alabamaachieves.org/finance/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Alaska Department of Education Grants",
+      "type": "State funding",
+      "url": "https://education.alaska.gov/grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Arizona Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.azed.gov/grants-management",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Arkansas Department of Education Grants",
+      "type": "State funding",
+      "url": "https://dese.ade.arkansas.gov/Offices/fiscal-and-administrative-services/grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
       "name": "California Department of Education Funding",
       "type": "State funding",
       "url": "https://www.cde.ca.gov/fg/fo/",
-      "keywords": ["funding", "grant", "education", "application", "request for applications"]
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application", "request for applications"]
+    },
+    {
+      "name": "Colorado Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.cde.state.co.us/cdefisgrant",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Connecticut Department of Education Grants",
+      "type": "State funding",
+      "url": "https://portal.ct.gov/sde/financial-aid/grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Delaware Department of Education Grants",
+      "type": "State funding",
+      "url": "https://education.delaware.gov/community/funding-grants/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "District of Columbia OSSE Grants",
+      "type": "State funding",
+      "url": "https://osse.dc.gov/service/grants-and-funding",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Florida Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.fldoe.org/finance/contracts-grants-procurement/grants-management/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Georgia Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.gadoe.org/Finance-and-Business-Operations/Grants/Pages/default.aspx",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Hawaii Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.hawaiipublicschools.org/ConnectWithUs/Organization/Offices/FiscalServices/Pages/Grants.aspx",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Idaho Department of Education Funding",
+      "type": "State funding",
+      "url": "https://www.sde.idaho.gov/finance/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Illinois State Board of Education Grants",
+      "type": "State funding",
+      "url": "https://www.isbe.net/Pages/Grants.aspx",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Indiana Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.in.gov/doe/grants/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Iowa Department of Education Funding",
+      "type": "State funding",
+      "url": "https://educate.iowa.gov/pk-12/education-funding",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Kansas State Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.ksde.org/Agency/Fiscal-and-Administrative-Services/School-Finance/Grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Kentucky Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.education.ky.gov/districts/fin/Pages/Grants.aspx",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Louisiana Department of Education Funding",
+      "type": "State funding",
+      "url": "https://www.louisianabelieves.com/resources/funding",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Maine Department of Education Funding",
+      "type": "State funding",
+      "url": "https://www.maine.gov/doe/funding",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Maryland State Department of Education Grants",
+      "type": "State funding",
+      "url": "https://marylandpublicschools.org/about/Pages/DEE/Grant-Funding.aspx",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Massachusetts Department of Elementary and Secondary Education Grants",
+      "type": "State funding",
+      "url": "https://www.doe.mass.edu/grants/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Michigan Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.michigan.gov/mde/services/financial-management/grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Minnesota Department of Education Grants",
+      "type": "State funding",
+      "url": "https://education.mn.gov/MDE/dse/PROD081169",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Mississippi Department of Education Funding",
+      "type": "State funding",
+      "url": "https://www.mdek12.org/OSF",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Missouri Department of Elementary and Secondary Education Grants",
+      "type": "State funding",
+      "url": "https://dese.mo.gov/financial-admin-services/general-federal-guidance/grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Montana Office of Public Instruction Grants",
+      "type": "State funding",
+      "url": "https://opi.mt.gov/Leadership/Finance-Grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Nebraska Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.education.ne.gov/financial-services/grants/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Nevada Department of Education Grants",
+      "type": "State funding",
+      "url": "https://doe.nv.gov/Grants/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "New Hampshire Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.education.nh.gov/who-we-are/division-of-educator-and-analytic-resources/bureau-of-federal-compliance/federal-funds",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "New Jersey Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.nj.gov/education/grants/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "New Mexico Public Education Department Grants",
+      "type": "State funding",
+      "url": "https://webnew.ped.state.nm.us/bureaus/grants-management/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
     },
     {
       "name": "New York State Education Department Funding",
       "type": "State funding",
       "url": "https://www.nysed.gov/funding-opportunities",
-      "keywords": ["funding", "grant", "education", "rfp", "application"]
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "North Carolina Department of Public Instruction Grants",
+      "type": "State funding",
+      "url": "https://www.dpi.nc.gov/districts-schools/district-operations/financial-and-business-services/grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "North Dakota Department of Public Instruction Grants",
+      "type": "State funding",
+      "url": "https://www.nd.gov/dpi/districtsschools/grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Ohio Department of Education and Workforce Grants",
+      "type": "State funding",
+      "url": "https://education.ohio.gov/Topics/Finance-and-Funding/Grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Oklahoma State Department of Education Grants",
+      "type": "State funding",
+      "url": "https://sde.ok.gov/grants-management",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Oregon Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.oregon.gov/ode/schools-and-districts/grants/Pages/default.aspx",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Pennsylvania Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.pa.gov/agencies/education/programs-and-services/grants.html",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Rhode Island Department of Education Funding",
+      "type": "State funding",
+      "url": "https://ride.ri.gov/funding-finance",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "South Carolina Department of Education Grants",
+      "type": "State funding",
+      "url": "https://ed.sc.gov/finance/grants/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "South Dakota Department of Education Grants",
+      "type": "State funding",
+      "url": "https://doe.sd.gov/ofm/grants.aspx",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Tennessee Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.tn.gov/education/districts/federal-programs-and-oversight/grants.html",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
     },
     {
       "name": "Texas Education Agency Grants",
       "type": "State funding",
       "url": "https://tea.texas.gov/finance-and-grants/grants",
-      "keywords": ["grant", "education", "rfa", "application", "funding"]
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Utah State Board of Education Funding",
+      "type": "State funding",
+      "url": "https://schools.utah.gov/financialoperations",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Vermont Agency of Education Finance and Grants",
+      "type": "State funding",
+      "url": "https://education.vermont.gov/finance-and-grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Virginia Department of Education Grants",
+      "type": "State funding",
+      "url": "https://www.doe.virginia.gov/programs-services/school-operations-support-services/grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Washington OSPI Grants",
+      "type": "State funding",
+      "url": "https://ospi.k12.wa.us/policy-funding/grants-grant-management",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "West Virginia Department of Education Grants",
+      "type": "State funding",
+      "url": "https://wvde.us/finance-and-administration/grants/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Wisconsin Department of Public Instruction Grants",
+      "type": "State funding",
+      "url": "https://dpi.wi.gov/grants",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
+    },
+    {
+      "name": "Wyoming Department of Education Grants",
+      "type": "State funding",
+      "url": "https://edu.wyoming.gov/for-district-leadership/school-foundation/school-finance/grants/",
+      "keywords": ["funding", "grant", "education", "rfp", "rfa", "application"]
     }
   ]
 }

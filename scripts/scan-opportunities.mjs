@@ -255,14 +255,20 @@ function normalizeUrl(value, baseUrl) {
 
 function isWatchlistLinkRelevant(link, source) {
   const haystack = `${link.title} ${link.url}`.toLowerCase();
+  const linkTitle = `${link.title}`.toLowerCase();
   const sourceKeywords = (source.keywords || []).some((keyword) => termMatches(haystack, keyword.toLowerCase()));
+  const fundingKeywords = /(grant|funding|rfp|rfa|opportunit|application|award|contract|procurement|competitive|request for)/i.test(haystack);
+  const stateFundingTitle = /(grant|funding|rfp|rfa|application|award|contract|procurement|competitive|request for)/i.test(linkTitle);
   const generalKeywords = /(grant|funding|rfp|rfa|opportunit|application|award|research|education|postsecondary|student|teacher|learning|stem|data|career|workforce|adult learning|adult education|pathways|credential|competency)/i.test(
     haystack
   );
   const skip =
-    /(skip to|privacy|contact|newsletter|twitter|facebook|linkedin|instagram|youtube|donate|careers|staff|board|annual report|home$|accessibility)/i.test(
+    /(skip to|privacy|contact|newsletter|twitter|facebook|linkedin|instagram|youtube|donate|careers|job opportunit|staff|board|annual report|home$|accessibility|opens menu|employees|administrators|superintendents|principals|all entities)/i.test(
       haystack
     );
+  if (source.type === "State funding") {
+    return !skip && stateFundingTitle;
+  }
   return !skip && (sourceKeywords || generalKeywords);
 }
 
@@ -539,7 +545,7 @@ async function main() {
     .filter(isRelevant)
     .map(scoreOpportunity)
     .sort((a, b) => daysUntil(a.deadline) - daysUntil(b.deadline) || b.fit - a.fit)
-    .slice(0, 30);
+    .slice(0, 160);
 
   const opportunities = [...federalOpportunities, ...sourceWatchlistOpportunities].sort(
     (a, b) => daysUntil(a.deadline) - daysUntil(b.deadline) || b.fit - a.fit
