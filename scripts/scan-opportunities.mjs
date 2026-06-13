@@ -182,6 +182,10 @@ async function scanSourcePage(source) {
       .filter((link) => isWatchlistLinkRelevant(link, source))
       .slice(0, 8);
 
+    if (source.type === "State funding" && !links.length) {
+      return [];
+    }
+
     if (!links.length && isWatchlistTextRelevant(pageText, source)) {
       links.push({
         title: `${source.name} funding page`,
@@ -208,6 +212,10 @@ async function scanSourcePage(source) {
       description: `${source.type}. Matched source page for ${source.name}. ${cleanHtml(link.text || pageText).slice(0, 700)}`
     }));
   } catch (error) {
+    if (source.type === "State funding") {
+      return [];
+    }
+
     return [
       {
         id: `watchlist-${source.name.toLowerCase().replace(/[^a-z0-9]+/g, "-")}-source`,
@@ -258,12 +266,12 @@ function isWatchlistLinkRelevant(link, source) {
   const linkTitle = `${link.title}`.toLowerCase();
   const sourceKeywords = (source.keywords || []).some((keyword) => termMatches(haystack, keyword.toLowerCase()));
   const fundingKeywords = /(grant|funding|rfp|rfa|opportunit|application|award|contract|procurement|competitive|request for)/i.test(haystack);
-  const stateFundingTitle = /(grant|funding|rfp|rfa|application|award|contract|procurement|competitive|request for)/i.test(linkTitle);
+  const stateFundingTitle = /(grant|rfp|rfa|application|competitive|request for|available funding)/i.test(linkTitle);
   const generalKeywords = /(grant|funding|rfp|rfa|opportunit|application|award|research|education|postsecondary|student|teacher|learning|stem|data|career|workforce|adult learning|adult education|pathways|credential|competency)/i.test(
     haystack
   );
   const skip =
-    /(skip to|privacy|contact|newsletter|twitter|facebook|linkedin|instagram|youtube|donate|careers|job opportunit|staff|board|annual report|home$|accessibility|opens menu|employees|administrators|superintendents|principals|all entities)/i.test(
+    /(skip to|privacy|contact|newsletter|twitter|facebook|linkedin|instagram|youtube|donate|careers|job opportunit|staff|board|annual report|home$|accessibility|opens menu|employees|administrators|superintendents|principals|all entities|awards and recognition|uniform grant guidance|system for award management|grants team|grants\.management@|managing your grant|grants management system|financial grants administrative forms|finance & grants home|grant list with analysts|grant allocations|reporting system|other topics|monitoring|instructions|step-by-step|forms?\\b|request form|office of grants|fiscal|budget|sample construction|recognition|administration)/i.test(
       haystack
     );
   if (source.type === "State funding") {
@@ -567,7 +575,9 @@ async function main() {
   console.log(`Wrote ${opportunities.length} opportunities.`);
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exit(1);
-});
+main()
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });

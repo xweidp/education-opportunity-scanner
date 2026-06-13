@@ -1,6 +1,6 @@
 # Weekly Education Research Opportunity Scan
 
-Scanned at: 2026-06-13T04:18:26.040Z
+Scanned at: 2026-06-13T04:32:39.578Z
 
 ## Top Matches
 
@@ -21,21 +21,21 @@ Scanned at: 2026-06-13T04:18:26.040Z
 3. FY 26 Teacher Quality Partnership (TQP) Program Competition
    Deadline: 2026-06-23 | Fit: 90 | Source: Office of Elementary and Secondary Education
    Posted: 2026-05-07 | Award ceiling: Not listed | Indirect rate: Check NOFO
-   Eligibility: Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education; For profit organizations other than small businesses; Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled "Additional Information on Eligibility"; Native American tribal governments (Federally recognized); Independent school districts; State governments; County governments; Others (see text field entitled "Additional Information on Eligibility" for clarification); Special district governments; Public and State controlled institutions of higher education; Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education; Private institutions of higher education; City or township governments; Native American tribal organizations (other than Federally recognized tribal governments)
+   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification); Public and State controlled institutions of higher education; Native American tribal organizations (other than Federally recognized tribal governments); Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled "Additional Information on Eligibility"; Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education; Independent school districts; Private institutions of higher education; State governments; Special district governments; Native American tribal governments (Federally recognized); City or township governments; County governments; For profit organizations other than small businesses; Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education
    Terms: learning, teacher, professional development, higher education
    Link: https://www.ed.gov/grants-and-programs/teacher-preparation-grants/teacher-quality-partnership-program
 
 4. Rural Postsecondary and Economic Development Grant Program
    Deadline: 2026-06-23 | Fit: 88 | Source: Office of Postsecondary Education
    Posted: 2026-05-21 | Award ceiling: 2500000 | Indirect rate: Check NOFO
-   Eligibility: Private institutions of higher education; Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education; Public and State controlled institutions of higher education; Others (see text field entitled "Additional Information on Eligibility" for clarification); Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education
+   Eligibility: Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education; Private institutions of higher education; Others (see text field entitled "Additional Information on Eligibility" for clarification); Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education; Public and State controlled institutions of higher education
    Terms: rural, postsecondary, persistence, career, career pathways, completion, pathways
    Link: https://www.grants.gov/search-results-detail/362518
 
 5. Historically Black Colleges and Universities (HBCU) and Tribally Controlled Colleges and Universities (TCCU) Research and Development Infrastructure Grants Program
    Deadline: 2026-06-23 | Fit: 86 | Source: Office of Postsecondary Education
    Posted: 2026-05-21 | Award ceiling: 5000000 | Indirect rate: Check NOFO
-   Eligibility: Public and State controlled institutions of higher education; Native American tribal governments (Federally recognized); Private institutions of higher education; Native American tribal organizations (other than Federally recognized tribal governments)
+   Eligibility: Private institutions of higher education; Public and State controlled institutions of higher education; Native American tribal organizations (other than Federally recognized tribal governments); Native American tribal governments (Federally recognized)
    Terms: infrastructure, postsecondary, hbcu
    Link: https://www.grants.gov/search-results-detail/362516
 
@@ -49,35 +49,35 @@ Scanned at: 2026-06-13T04:18:26.040Z
 7. Basic Needs for Postsecondary Students Program
    Deadline: 2026-06-23 | Fit: 72 | Source: Office of Postsecondary Education
    Posted: 2026-05-21 | Award ceiling: 5000000 | Indirect rate: Check NOFO
-   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification); Private institutions of higher education; Public and State controlled institutions of higher education; Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education
+   Eligibility: Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education; Others (see text field entitled "Additional Information on Eligibility" for clarification); Private institutions of higher education; Public and State controlled institutions of higher education
    Terms: outcomes, postsecondary, basic needs
    Link: https://www.grants.gov/search-results-detail/362508
 
 8. Open Textbook Pilot Program
    Deadline: 2026-06-23 | Fit: 72 | Source: Office of Postsecondary Education
    Posted: 2026-05-21 | Award ceiling: 2000000 | Indirect rate: Check NOFO
-   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification); Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education; Private institutions of higher education; Public and State controlled institutions of higher education
+   Eligibility: Private institutions of higher education; Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education; Others (see text field entitled "Additional Information on Eligibility" for clarification); Public and State controlled institutions of higher education
    Terms: open, postsecondary, higher education
    Link: https://www.grants.gov/search-results-detail/362511
 
 9. Centers of Excellence for Veteran Student Success (CEVSS) Program
    Deadline: 2026-06-23 | Fit: 72 | Source: Office of Postsecondary Education
    Posted: 2026-05-21 | Award ceiling: 3000000 | Indirect rate: Check NOFO
-   Eligibility: Public and State controlled institutions of higher education; Private institutions of higher education
+   Eligibility: Private institutions of higher education; Public and State controlled institutions of higher education
    Terms: postsecondary, higher education, student success
    Link: https://www.grants.gov/search-results-detail/362514
 
 10. FY 2026 Transitioning Gang-Involved Youth to Higher Education (TGIY) Program
    Deadline: 2026-06-23 | Fit: 72 | Source: Office of Postsecondary Education
    Posted: 2026-05-21 | Award ceiling: 1700000 | Indirect rate: Check NOFO
-   Eligibility: Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education; Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education; Public and State controlled institutions of higher education; Others (see text field entitled "Additional Information on Eligibility" for clarification); Private institutions of higher education
+   Eligibility: Public and State controlled institutions of higher education; Others (see text field entitled "Additional Information on Eligibility" for clarification); Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education; Private institutions of higher education; Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education
    Terms: postsecondary, higher education, credentials
    Link: https://www.grants.gov/search-results-detail/362505
 
 11. Strengthening Institutions Program FY 2026 Competition
    Deadline: 2026-06-23 | Fit: 68 | Source: Office of Postsecondary Education
    Posted: 2026-05-21 | Award ceiling: 3000000 | Indirect rate: Check NOFO
-   Eligibility: Public and State controlled institutions of higher education; Private institutions of higher education
+   Eligibility: Private institutions of higher education; Public and State controlled institutions of higher education
    Terms: postsecondary, higher education
    Link: https://www.grants.gov/search-results-detail/362513
 
@@ -98,7 +98,7 @@ Scanned at: 2026-06-13T04:18:26.040Z
 14. FY 26 Postsecondary Student Success Grant 84.116M
    Deadline: 2026-06-29 | Fit: 100 | Source: Office of Postsecondary Education
    Posted: 2026-05-28 | Award ceiling: 8000000 | Indirect rate: Check NOFO
-   Eligibility: Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education; Private institutions of higher education; Public and State controlled institutions of higher education
+   Eligibility: Public and State controlled institutions of higher education; Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education; Private institutions of higher education
    Terms: data, outcomes, evidence, postsecondary, student success, retention, completion, transfer
    Link: https://www.grants.gov/search-results-detail/362602
 
