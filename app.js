@@ -156,6 +156,8 @@ const els = {
   exportButton: document.querySelector("#exportButton"),
   totalCount: document.querySelector("#totalCount"),
   hotCount: document.querySelector("#hotCount"),
+  withDeadlineCount: document.querySelector("#withDeadlineCount"),
+  withoutDeadlineCount: document.querySelector("#withoutDeadlineCount"),
   deadlineCount: document.querySelector("#deadlineCount"),
   viewTitle: document.querySelector("#viewTitle"),
   scanMeta: document.querySelector("#scanMeta"),
@@ -331,8 +333,12 @@ function populateSourceFilter(items) {
 }
 
 function render(topicItems = state.filtered) {
+  const withDeadlineCount = state.filtered.filter((item) => Boolean(item.deadline)).length;
+  const withoutDeadlineCount = state.filtered.length - withDeadlineCount;
   els.totalCount.textContent = String(state.filtered.length);
   els.hotCount.textContent = String(state.filtered.filter((item) => item.fit >= 85).length);
+  els.withDeadlineCount.textContent = String(withDeadlineCount);
+  els.withoutDeadlineCount.textContent = String(withoutDeadlineCount);
   els.deadlineCount.textContent = String(state.filtered.filter((item) => item.days >= 0 && item.days <= 21).length);
   const sourceLabel = els.sourceSelect?.value === "all" ? "" : ` from ${getSelectedSourceLabel()}`;
   els.viewTitle.textContent = state.filtered.length
@@ -346,7 +352,7 @@ function render(topicItems = state.filtered) {
       : "No opportunities scanned yet";
   const scanLabel = state.scannedAt ? `Last scanned ${formatDateTime(state.scannedAt)}` : "Using local fallback data";
   els.scanMeta.textContent = `${scanLabel}. Source: ${state.source}.`;
-  els.viewMeta.textContent = `${scanLabel}. ${topicItems.length} matching opportunities before agency/source selection.`;
+  els.viewMeta.textContent = `${scanLabel}. ${withDeadlineCount} with deadline, ${withoutDeadlineCount} without deadline in this view. ${topicItems.length} matching opportunities before agency/source selection.`;
 
   if (!state.filtered.length) {
     els.resultsList.innerHTML = `
