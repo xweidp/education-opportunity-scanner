@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-13T04:32:39.578Z",
+  "scannedAt": "2026-06-15T18:00:24.707Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
@@ -65,20 +65,20 @@
       "estimatedFunding": "70000000",
       "indirectRate": "",
       "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "Public and State controlled institutions of higher education",
         "Native American tribal organizations (other than Federally recognized tribal governments)",
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education",
+        "City or township governments",
+        "Special district governments",
+        "Independent school districts",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\"",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Independent school districts",
-        "Private institutions of higher education",
-        "State governments",
-        "Special district governments",
-        "Native American tribal governments (Federally recognized)",
-        "City or township governments",
-        "County governments",
         "For profit organizations other than small businesses",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "State governments",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "County governments",
+        "Native American tribal governments (Federally recognized)"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting application in support of the administration of the Teacher Quality Partnership (TQP) program on behalf of the U.S. Department of Education (ED). The purpose of the TQP program is to improve student achievement; improve the quality of prospective and new teachers by improving teacher preparation and enhancing professional development to hold teacher preparation programs at institutions of higher education (IHEs) accountable for preparing teachers who meet applicable State certification and licensure requirements; and recruit highly qualified individuals into the teaching force. The TQP program also supports the use of Registered Apprenticeships as a high-quality, work-based learning pathway for preparing and credentialing new teachers based on demonstrated skill and merit, particularly in high-need schools and subject areas experiencing teacher shortages.",
       "fit": 90,
@@ -104,10 +104,10 @@
       "indirectRate": "",
       "eligibility": [
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Private institutions of higher education",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The purpose of the RPED Grant Program is to improve rates of postsecondary enrollment, persistence, and completion among rural students through development of career pathways aligned to high-skill, high-wage, and in-demand industry sectors and occupations in the region.",
       "fit": 88,
@@ -136,8 +136,8 @@
       "indirectRate": "",
       "eligibility": [
         "Private institutions of higher education",
-        "Public and State controlled institutions of higher education",
         "Native American tribal organizations (other than Federally recognized tribal governments)",
+        "Public and State controlled institutions of higher education",
         "Native American tribal governments (Federally recognized)"
       ],
       "description": "The RDI grant program is designed to provide HBCUs and TCCUs with funds to implement transformational investments in research infrastructure, including research productivity, faculty expertise, graduate programs, physical infrastructure, human capital development, and partnerships leading to increases in external and sustained funding.",
@@ -186,10 +186,10 @@
       "estimatedFunding": "10000000",
       "indirectRate": "",
       "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "Private institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education"
       ],
       "description": "The purpose of the FIPSE-Basic Needs Program is to advance systemic and sustainable solutions to student basic needs insecurity through support programs that address the basic needs of students and to report on practices that improve outcomes for students.",
       "fit": 72,
@@ -265,11 +265,11 @@
       "estimatedFunding": "5000000",
       "indirectRate": "",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The purpose of the Transitioning Gang-Involved Youth to Higher Education Program is to provide gang-involved youth with postsecondary education opportunities that will lead to certification or credentials.",
       "fit": 72,
@@ -470,10 +470,10 @@
       "estimatedFunding": "4100000",
       "indirectRate": "",
       "eligibility": [
-        "Private institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "Administration at the U.S. Department of Labor (Labor), is soliciting applications in support of the administration of the TRIO Training Program on behalf of the U.S. Department of Education (ED). The purpose of the Training Program for Federal TRIO Programs (Training Program) provides grants to train the staff and leadership personnel employed in, participating in, or preparing for employment in, projects funded under the Federal TRIO Programs, to improve project operation.",
       "fit": 68,
@@ -519,14 +519,14 @@
       "estimatedFunding": "19800000",
       "indirectRate": "",
       "eligibility": [
+        "For profit organizations other than small businesses",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education",
         "Private institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses"
+        "Public and State controlled institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the American History and Civics Education – National Activities (AHC-NA) program on behalf of the U.S. Department of Education (ED). The purpose of the AHC-NA program is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit students from low-income backgrounds and other underserved populations. America\"s 250th anniversary is a particularly appropriate time to promote innovative teaching and learning that unites our country, honors our history, promotes informed citizenship, and cherishes our freedom as we build the golden age of opportunity. ED encourages applications to include strong partnerships and active collaboration between eligible entities, local educational agencies, and State educational agencies in their design and proposed implementation. Project activities should reflect the best available research and practice in teaching and learning.",
-      "fit": 86,
+      "fit": 90,
       "matchedTerms": [
         "learning",
         "evidence",
@@ -551,7 +551,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Program Description: The purposes of the Personnel Development to Improve Services and Results for Children with Disabilities program are to (1) help address State-identified shortages and needs for personnel preparation in special education and early intervention, including infants, toddlers, children, and youth with disabilities; and (2) ensure that those personnel have the necessary skills and knowledge, derived from practices that have been determined through scientifically based research, to be successful in serving those children. The purpose of the Expanding Career Pathways and Workforce Readiness of Special Education Teachers and Early Intervention Personnel Through Registered Apprenticeships competition is to fund cooperative agreements that support registered apprenticeship1 programs that attract, prepare, and retain special education teachers or early intervention personnel. This priority is particularly relevant for special education and early intervention, where high-quality preparation must be accessible, practice-based, and closely integrated with service delivery systems. Preparing qualified special education teachers and early intervention personnel through registered apprenticeship programs addresses critical workforce shortages, integrating work-based learning, and connecting preparation with local and State labor demands. 1Note: ED encourages applicants to consider the definition of Registered Apprenticeship Program as defined in 5 CFR 362.102 and 29 CFR part 29. Assistance Listing Number: 84.325J. Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
-      "fit": 70,
+      "fit": 74,
       "matchedTerms": [
         "learning",
         "intervention",
@@ -579,7 +579,7 @@
         "Public and State controlled institutions of higher education"
       ],
       "description": "The NPD program provides grants to public and private nonprofit institutions of higher education (IHEs) and public and private entities with relevant experience and capacity, in consortia with State educational agencies (SEAs) and/or local educational agencies (LEAs) to implement pre-service and in-service professional development activities.",
-      "fit": 78,
+      "fit": 82,
       "matchedTerms": [
         "professional development",
         "higher education"
@@ -637,6 +637,28 @@
         "learning",
         "career",
         "science"
+      ]
+    },
+    {
+      "id": "362799",
+      "number": "ED-GRANTS-061526-001",
+      "title": "Office of Postsecondary Education (OPE):Mutual Educational and Cultural Exchange (MECE) Program, Assistance Listing Number 84.021C",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-07-15",
+      "posted": "2026-06-15",
+      "status": "posted",
+      "url": "https://www.ed.gov/grants-and-programs/grants-higher-education/international-and-foreign-language-education/centers-aligned-areas-national-need-caann-program-84015c",
+      "awardCeiling": "",
+      "estimatedFunding": "10193170",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: In coordination with the Bureau of Educational and Cultural Affairs at the U.S. Department of State (State), the U.S. Department of Education (ED) is soliciting applications in support of the administration of the Mutual Educational and Cultural Exchange (MECE) program. The purpose of the program is to promote, improve, and develop the study of modern foreign language training and area studies in U.S. schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers. The program provides opportunities for teachers and prospective teachers to improve their skill in languages, their knowledge of the culture of the people of other countries, and finances visits by teachers from those other countries to the United States for the purpose of participating in foreign language training and area studies in U.S. schools, colleges, and universities. Assistance Listing Number: 84.021C Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions .",
+      "fit": 46,
+      "matchedTerms": [
+        "postsecondary"
       ]
     },
     {
@@ -908,6 +930,33 @@
         "science",
         "technology",
         "engineering",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "362807",
+      "number": "ED-GRANTS-061526-002",
+      "title": "OSERS-OSEP: National Center on Academic Interventions Assistance Listing Number (ALN): 84.326Q",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-08-10",
+      "posted": "2026-06-15",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362807",
+      "awardCeiling": "3700000",
+      "estimatedFunding": "3700000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Program Description: The purpose of the Technical Assistance and Dissemination to Improve Services and Results for Children with Disabilities program is to promote academic achievement and to improve results for children with disabilities by providing technical assistance (TA), supporting model demonstration projects, disseminating useful information, and implementing activities that are supported by scientifically based research. The 2024 National Assessment of Education Progress results illustrate the significant achievement gaps in reading and mathematics for students with disabilities. [1] Local educational agencies (LEAs) and schools need to continuously improve their systems and practices to address achievement gaps of students with disabilities and support educators’ implementation of evidence-based literacy and mathematics instruction that meet the individualized needs of students with disabilities so they are prepared for success in school and postsecondary opportunities. Through this competition and to address these needs, the Department intends to establish a National Center on Academic Interventions. [1] The National Assessment of Educational Progress (2024). https://www.nationsreportcard.gov/dashboards/achievement_gaps.aspx . ALN: 84.326Q Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage .",
+      "fit": 80,
+      "matchedTerms": [
+        "evidence",
+        "literacy",
+        "assessment",
+        "implementation",
+        "postsecondary",
         "mathematics"
       ]
     },
@@ -1543,57 +1592,6 @@
       ]
     },
     {
-      "id": "343980",
-      "number": "23-500",
-      "title": "SBE Postdoctoral Research Fellowships",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-11-04",
-      "posted": "2022-10-08",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23500",
-      "awardCeiling": "170000",
-      "estimatedFunding": "3000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Directorate for Social, Behavioral and Economic Sciences (SBE) offers Postdoctoral Research Fellowships to encourageindependence earlyin the fellow'scareerby supporting his or herresearch and training goals.The research and training plan of each fellowship must address important scientific questions within thescope of the SBE directorate and the specific guidelines in this solicitation. The SPRF program offers two tracks: (I) Fundamental Research in the SBE Sciences (SPRF-FR) and (II) Broadening Participation in the SBE Sciences (SPRF-BP). See the full text of the solicitation for a detailed description of these tracks.",
-      "fit": 64,
-      "matchedTerms": [
-        "science",
-        "broadening participation"
-      ]
-    },
-    {
-      "id": "344610",
-      "number": "23-519",
-      "title": "Major Research Instrumentation Program",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-11-16",
-      "posted": "2022-11-22",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23519",
-      "awardCeiling": "4000000",
-      "estimatedFunding": "75000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Major Research Instrumentation (MRI) Program ( MRI Program Website) serves to increase access to multi-user scientific and engineering instrumentation for research and research training in our Nation's institutions of higher education and not-for-profit scientific/engineering research organizations. An MRI award supports the acquisition of a multi-user research instrument that is commercially available through direct purchase from a vendor, or for the personnel costs and equipment that are required for the development of an instrument with new capabilities, thereby advancing instrumentation capabilities and enhancing expertise for instrument design and fabrication at academic institutions. MRI instruments are, in general, too costly and/or not appropriate for support through other NSF programs. MRI provides support to acquire critical research instrumentation without which advances in fundamental science and engineering research may not otherwise occur. MRI also provides support to obtain next-generation research instruments by developing instruments with new capabilities that open new opportunities to advance the frontiers in science and engineering research. Additionally, an MRI award is expected to enhance research training of students who will become the next generation of instrument users, designers and builders. An MRI proposal may request from NSF up to $4 million for either acquisition or development of a research instrument. Each performing organization may submit in revised \"Tracks\" as defined below, with no more than two (2) submissions in Track 1 and no more than one (1) submission in Track 2. For the newly defined Track 3, no more than one (1) submission per competition is permitted. As a result, it is now possible for an institution to submit up to four MRI proposals within the Track limits as described above. Track 1: Track 1 MRI proposals are those that request funds from NSF greater than $100,000 [1] and less than $1,400,000. Track 2: Track 2 MRI proposals are those that request funds from NSF greater than or equal to $1,400,000 up to and including $4,000,000. Track 3: Track 3 MRI proposals are those that request funds from NSF greater than or equal to $100,000 [1] and less than or equal to $4,000,000 that include the purchase, installation, operation, and maintenance of equipment and instrumentation to conserve or reduce the consumption of helium. Institutions may submit no more than one Track 3 proposal. Submission of a Track 3 proposal does not impact limits that apply for Track 1 and Track 2 proposals. Cost sharing requirements for new awards in the MRI Program are waived for a period of 5 years beginning with the FY 2023 MRI competition. Institutional submission limits for Track 1, Track 2 and Track 3 proposals remain. The MRI Program especially seeks broad representation of groups, institutions, and geographic regions that are underrepresented in STEM disciplines. Proposals from women, underrepresented minorities, persons with disabilities and early-career PIs are encouraged, as are proposals that benefit early-career researchers and proposals with PIs from geographically underserved regions, including EPSCoR jurisdictions. Additionally, proposals are encouraged from under-resourced institutions, including from emerging research institutions, where MRI can significantly build capacity for research. ___________________________ [1] Track 1 proposals requesting funds from NSF less than $100,000 will be accepted only from: a) eligible performing organizations requesting instrumentation supporting research in the disciplines of mathematics or social, behavioral and economic sciences; or b) non-Ph.D.-granting institutions of higher education requesting instrumentation supporting research in any NSF-supported disciplines.",
-      "fit": 84,
-      "matchedTerms": [
-        "open",
-        "stem",
-        "higher education",
-        "career",
-        "science",
-        "engineering",
-        "mathematics"
-      ]
-    },
-    {
       "id": "watchlist-arnold-ventures-3",
       "number": "",
       "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Due: 06.14.2026",
@@ -2004,25 +2002,6 @@
     {
       "id": "watchlist-california-department-of-education-funding-4",
       "number": "",
-      "title": "21CSLA Cohort 3 Request for Applications",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r12/csla26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. 21CSLA Cohort 3 Request for Applications",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-5",
-      "number": "",
       "title": "Request for Applications",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
@@ -2036,6 +2015,25 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-5",
+      "number": "",
+      "title": "CTEIG 25-26 Round 11 RFA",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r17/cteig25rfa.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. CTEIG 25-26 Round 11 RFA",
       "fit": 52,
       "matchedTerms": []
     },
