@@ -1,56 +1,8 @@
 {
-  "scannedAt": "2026-06-15T18:00:24.707Z",
+  "scannedAt": "2026-06-22T17:27:40.666Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "362142",
-      "number": "DOL-OESE-34017",
-      "title": "Competitive Grants for State Assessments",
-      "source": "Office of Elementary and Secondary Education",
-      "agencyCode": "DOL-OESE",
-      "deadline": "2026-06-16",
-      "posted": "2026-04-30",
-      "status": "posted",
-      "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/school-and-community-improvement-grants/competitive-grants-state-assessments",
-      "awardCeiling": "4000000",
-      "estimatedFunding": "16556000",
-      "indirectRate": "",
-      "eligibility": [
-        "State governments"
-      ],
-      "description": "The purpose of the CGSA program is to enhance the quality of assessment instruments and assessment systems used by States for measuring the academic achievement and growth of elementary and secondary school students. The FY 2026 competition includes two absolute priorities, three competitive preference priorities, two invitational priorities, selection criteria, and requirements. The absolute priorities are: 1) Developing Innovative Assessment Item Types and Design Approaches and 2) Meaningful Learning Opportunities. The competitive preference priorities are: 1) Improving Assessment Scoring and Score Reporting, 2) Assessing Student Growth, and 3) Comprehensive Academic Assessment Instruments. The invitational priorities are: 1) Assessment and Data Literacy and 2) Comprehensive Assessment Systems.",
-      "fit": 90,
-      "matchedTerms": [
-        "data",
-        "learning",
-        "literacy",
-        "assessment"
-      ]
-    },
-    {
-      "id": "361904",
-      "number": "ED-GRANTS-041526-001",
-      "title": "Office of Special Education and Rehabilitative Services (OSERS): Office of Special Education Programs (OSEP): State Personnel Development Grants (SPDG) Program, Assistance Listing Number 84.323A",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-06-16",
-      "posted": "2026-04-15",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/361904",
-      "awardCeiling": "",
-      "estimatedFunding": "7301695",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "For the addresses for obtaining and submitting an application, please refer to our Common Instructions for Applicants to Department of Education Discretionary Grant Programs, published in the Federal Register on August 29, 2025 (90 FR 42234), and available at https://www.federalregister.gov/documents/2025/08/29/2025- 16571/common-instructions-and-information-for-applicants-todepartment-of-education-discretionary-grantams. Program Purpose: The purpose of the SPDG program is to assist State educational agencies (SEAs) in reforming and improving their systems for personnel preparation and professional development in early intervention, educational, and transition services to improve results for children with disabilities. The U.S. Department of Education (ED) shall award grants, on a competitive basis, to SEAs to carry out the activities described in the State plan submitted under section 653 of the Individuals with Disabilities Education Act (IDEA) ( 20 U.S.C. 1453 ). Assistance Listing Number: 84.323A.",
-      "fit": 68,
-      "matchedTerms": [
-        "intervention",
-        "professional development"
-      ]
-    },
     {
       "id": "362300",
       "number": "DOL-OESE-34066",
@@ -65,20 +17,20 @@
       "estimatedFunding": "70000000",
       "indirectRate": "",
       "eligibility": [
-        "Native American tribal organizations (other than Federally recognized tribal governments)",
         "Public and State controlled institutions of higher education",
-        "Private institutions of higher education",
-        "City or township governments",
-        "Special district governments",
-        "Independent school districts",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\"",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "County governments",
         "For profit organizations other than small businesses",
         "State governments",
+        "Independent school districts",
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "County governments",
-        "Native American tribal governments (Federally recognized)"
+        "Special district governments",
+        "Native American tribal organizations (other than Federally recognized tribal governments)",
+        "City or township governments",
+        "Native American tribal governments (Federally recognized)",
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting application in support of the administration of the Teacher Quality Partnership (TQP) program on behalf of the U.S. Department of Education (ED). The purpose of the TQP program is to improve student achievement; improve the quality of prospective and new teachers by improving teacher preparation and enhancing professional development to hold teacher preparation programs at institutions of higher education (IHEs) accountable for preparing teachers who meet applicable State certification and licensure requirements; and recruit highly qualified individuals into the teaching force. The TQP program also supports the use of Registered Apprenticeships as a high-quality, work-based learning pathway for preparing and credentialing new teachers based on demonstrated skill and merit, particularly in high-need schools and subject areas experiencing teacher shortages.",
       "fit": 90,
@@ -103,11 +55,11 @@
       "estimatedFunding": "45000000",
       "indirectRate": "",
       "eligibility": [
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
         "Private institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "The purpose of the RPED Grant Program is to improve rates of postsecondary enrollment, persistence, and completion among rural students through development of career pathways aligned to high-skill, high-wage, and in-demand industry sectors and occupations in the region.",
       "fit": 88,
@@ -135,9 +87,9 @@
       "estimatedFunding": "15000000",
       "indirectRate": "",
       "eligibility": [
-        "Private institutions of higher education",
-        "Native American tribal organizations (other than Federally recognized tribal governments)",
         "Public and State controlled institutions of higher education",
+        "Native American tribal organizations (other than Federally recognized tribal governments)",
+        "Private institutions of higher education",
         "Native American tribal governments (Federally recognized)"
       ],
       "description": "The RDI grant program is designed to provide HBCUs and TCCUs with funds to implement transformational investments in research infrastructure, including research productivity, faculty expertise, graduate programs, physical infrastructure, human capital development, and partnerships leading to increases in external and sustained funding.",
@@ -146,6 +98,34 @@
         "infrastructure",
         "postsecondary",
         "hbcu"
+      ]
+    },
+    {
+      "id": "362505",
+      "number": "ED-GRANT-26-032",
+      "title": "FY 2026 Transitioning Gang-Involved Youth to Higher Education (TGIY) Program",
+      "source": "Office of Postsecondary Education",
+      "agencyCode": "DOL-OPE",
+      "deadline": "2026-06-23",
+      "posted": "2026-05-21",
+      "status": "posted",
+      "url": "https://www.grants.gov/search-results-detail/362505",
+      "awardCeiling": "1700000",
+      "estimatedFunding": "5000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Public and State controlled institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The purpose of the Transitioning Gang-Involved Youth to Higher Education Program is to provide gang-involved youth with postsecondary education opportunities that will lead to certification or credentials.",
+      "fit": 72,
+      "matchedTerms": [
+        "postsecondary",
+        "higher education",
+        "credentials"
       ]
     },
     {
@@ -186,10 +166,10 @@
       "estimatedFunding": "10000000",
       "indirectRate": "",
       "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "Private institutions of higher education"
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The purpose of the FIPSE-Basic Needs Program is to advance systemic and sustainable solutions to student basic needs insecurity through support programs that address the basic needs of students and to report on practices that improve outcomes for students.",
       "fit": 72,
@@ -214,9 +194,9 @@
       "indirectRate": "",
       "eligibility": [
         "Private institutions of higher education",
+        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "Public and State controlled institutions of higher education"
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Open Textbook Pilot Program (OTP) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the OTP program is to support projects at eligible institutions of higher education (IHEs) or State higher education agencies that create new open textbooks and expand the use of open textbooks and course materials in courses that are part of a degree-granting program, particularly those with high enrollments. This pilot program emphasizes the development of projects that demonstrate the greatest potential to achieve the highest level of savings for students through sustainable, expanded use of open textbooks in high-enrollment courses or in programs that prepare individuals for in-demand fields.",
       "fit": 72,
@@ -240,8 +220,8 @@
       "estimatedFunding": "9000000",
       "indirectRate": "",
       "eligibility": [
-        "Private institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Centers of Excellence for Veteran Student Success Program (CEVSS) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the CEVSS Program is to encourage institutions of higher education (IHEs) to develop model programs to support veteran student success in postsecondary education by coordinating services to address the academic, financial, physical, and social needs of veteran students.",
       "fit": 72,
@@ -249,34 +229,6 @@
         "postsecondary",
         "higher education",
         "student success"
-      ]
-    },
-    {
-      "id": "362505",
-      "number": "ED-GRANT-26-032",
-      "title": "FY 2026 Transitioning Gang-Involved Youth to Higher Education (TGIY) Program",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-06-23",
-      "posted": "2026-05-21",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362505",
-      "awardCeiling": "1700000",
-      "estimatedFunding": "5000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The purpose of the Transitioning Gang-Involved Youth to Higher Education Program is to provide gang-involved youth with postsecondary education opportunities that will lead to certification or credentials.",
-      "fit": 72,
-      "matchedTerms": [
-        "postsecondary",
-        "higher education",
-        "credentials"
       ]
     },
     {
@@ -368,8 +320,8 @@
       "indirectRate": "",
       "eligibility": [
         "Public and State controlled institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education"
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "The purpose of PSSG is to improve postsecondary student outcomes, including retention, transfer, credit accumulation, and completion, by leveraging data and implementing, scaling, and rigorously evaluating evidence-based strategies.",
       "fit": 100,
@@ -470,10 +422,10 @@
       "estimatedFunding": "4100000",
       "indirectRate": "",
       "eligibility": [
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Private institutions of higher education"
       ],
       "description": "Administration at the U.S. Department of Labor (Labor), is soliciting applications in support of the administration of the TRIO Training Program on behalf of the U.S. Department of Education (ED). The purpose of the Training Program for Federal TRIO Programs (Training Program) provides grants to train the staff and leadership personnel employed in, participating in, or preparing for employment in, projects funded under the Federal TRIO Programs, to improve project operation.",
       "fit": 68,
@@ -519,11 +471,11 @@
       "estimatedFunding": "19800000",
       "indirectRate": "",
       "eligibility": [
-        "For profit organizations other than small businesses",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Public and State controlled institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Private institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the American History and Civics Education – National Activities (AHC-NA) program on behalf of the U.S. Department of Education (ED). The purpose of the AHC-NA program is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit students from low-income backgrounds and other underserved populations. America\"s 250th anniversary is a particularly appropriate time to promote innovative teaching and learning that unites our country, honors our history, promotes informed citizenship, and cherishes our freedom as we build the golden age of opportunity. ED encourages applications to include strong partnerships and active collaboration between eligible entities, local educational agencies, and State educational agencies in their design and proposed implementation. Project activities should reflect the best available research and practice in teaching and learning.",
       "fit": 90,
@@ -631,7 +583,7 @@
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "The Linguistics Program supports basic science in the domain of human language, encompassing investigations of the grammatical properties of individual human languages, and of natural language in general. Research areas include syntax, semantics, morphology, phonetics and phonology. The program encourages projects that are interdisciplinary in methodological or theoretical perspective, and that address questions that cross disciplinary boundaries, such as (but not limited to): What are the psychological processes involved in the production, perception, and comprehension of language? What are the computational properties of language and/or the language processor that make fluent production, incremental comprehension or rapid learning possible? How do the acoustic and physiological properties of speech inform our theories of natural language and/or language processing? What role does human neurobiology play in shaping the various grammatical properties of language? How does language develop in natural learning contexts across the life-span? What social and cultural factors underlie language variation and change? Because NSF's mandate is to support basic research, the Linguistics Program does not fund research that takes as its primary goal improved clinical practice or applied policy, nor does it support work to develop or assess pedagogical methods or tools for language instruction. The Linguistics Program accepts proposals for a variety of project types: research proposals from scholars with PhDs or equivalent degrees, proposals for Doctoral Dissertation Research Improvement (LING-DDRI) awards, and CAREER proposals. We will also consider proposals for conferences. Funding requests for conference support should be submitted in accordance with the Conference Proposals section of Chapter II of NSF's Proposal & Award Policies & Procedures Guide (PAPPG) . NSF's Division of Behavioral and Cognitive Sciences (BCS), in partnership with the National Endowment for the Humanities and in collaboration with programs in other NSF Directorates, supports efforts to develop and advance knowledge and infrastructure that will enable the analysis of languages that are both understudied and at risk of falling out of use. In recognition of the critical relevance of these languages to understanding the range and limits of human linguistic and cultural variation, BCS accepts research and dissertation proposals in response to solicitations NSF Dynamic Language Infrastructure - NEH Documenting Endangered Languages (DLI-DEL) and Dynamic Language Infrastructure - Doctoral Dissertation Research Improvement Grants (DLI-DDRI) . For more information about Multidisciplinary Research and Training Opportunities, please visit the SBE Office of Multidisciplinary Activities web site.",
-      "fit": 86,
+      "fit": 90,
       "matchedTerms": [
         "infrastructure",
         "learning",
@@ -656,7 +608,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Program Description: In coordination with the Bureau of Educational and Cultural Affairs at the U.S. Department of State (State), the U.S. Department of Education (ED) is soliciting applications in support of the administration of the Mutual Educational and Cultural Exchange (MECE) program. The purpose of the program is to promote, improve, and develop the study of modern foreign language training and area studies in U.S. schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers. The program provides opportunities for teachers and prospective teachers to improve their skill in languages, their knowledge of the culture of the people of other countries, and finances visits by teachers from those other countries to the United States for the purpose of participating in foreign language training and area studies in U.S. schools, colleges, and universities. Assistance Listing Number: 84.021C Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions .",
-      "fit": 46,
+      "fit": 50,
       "matchedTerms": [
         "postsecondary"
       ]
@@ -707,7 +659,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Program Description: The purpose of this grant competition is to establish a National Assessment Center to improve children with disabilities’ participation in and performance on State and districtwide assessments. This award is funded under the Technical Assistance and Dissemination to Improve Services and Results for Children with Disabilities program. The goal of this program is to promote academic achievement and to improve results for children with disabilities by providing technical assistance (TA), supporting model demonstration projects, disseminating useful information, and implementing activities supported by scientifically based research. This award aligns to requirements in the Individuals with Disabilities Education Act (IDEA). Specifically, section 612(a)(16) requires that all children with disabilities are included with appropriate accommodations in general State and districtwide assessments as indicated in their individualized education programs, including assessments described under section 1111 of the Elementary and Secondary Education Act (ESEA) and alternate assessments. Many States have also adopted kindergarten entry assessments to assess multiple developmental domains and support early learning. Additionally, Section 663(b)(2) of IDEA requires that the Secretary use funds to support activities to improve the participation of children with disabilities in State assessments. ALN: 84.326G. Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage .",
-      "fit": 64,
+      "fit": 68,
       "matchedTerms": [
         "learning",
         "assessment"
@@ -759,7 +711,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Government and the nation face a talent shortfall in artificial intelligence (AI) and cybersecurity. The CyberAICorps Scholarship for Service (CyberAI SFS) program welcomes proposals that address AI and cybersecurity education and workforce development. CyberAI refers to using AI in cybersecurity as well as providing security and resilience for AI systems. The Scholarship Track provides funding to establish, or to continue, scholarship for service programs with integrated AI and cybersecurity components (CyberAI). Scholarship recipients must be U.S. citizens or lawful permanent residents and work after graduation in the AI or cybersecurity mission of a government organization for a period of at least the length of the scholarship. The Innovation Tracksupports projects that enhance preparation of AI and/or cybersecurity professionals. Projects may expand existing educational opportunities, curricula, degree programs, educational pathways, methods and interventions, and partnerships among institutions of higher education, government, and employers. Two statutesauthorize this program: 15 USC &sect;7442 (cybersecurity) and 42 USC &sect;18993 (AI). CyberAI SFS aligns with the Executive Order 14277 to prioritize AI within scholarship for service programs. CyberAI is managed by NSF's Directorate for STEM Education in collaboration with the U.S. Office of Personnel Management (OPM) and U.S. Department of Homeland Security (DHS).",
-      "fit": 88,
+      "fit": 92,
       "matchedTerms": [
         "ai",
         "artificial intelligence",
@@ -1282,35 +1234,6 @@
       ]
     },
     {
-      "id": "359966",
-      "number": "25-540",
-      "title": "National Science Foundation Translation to Practice",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-09-15",
-      "posted": "2025-07-09",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25540",
-      "awardCeiling": "2000000",
-      "estimatedFunding": "30000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The U.S. NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) partners across sectors to advance three primary focus areas - accelerating technology translation and development, fostering regional innovation and economic growth, and preparing the American workforce for future high-wage jobs in STEM fields. The translation of research to practice ensures that the insights and innovations developed through scientific study and experimentation have tangible, positive impacts for the Nation. These impacts include improving the quality of life, promoting economic and job growth, ensuring national security, and maintaining global competitiveness. Indeed, scientific and engineering breakthroughs have the potential to address critical societal challenges in industries such as aerospace, agriculture, communications, education, energy, healthcare, national security, and transportation - but the translation of discoveries and innovations from the laboratory to society often takes many forms including non-linear pathways. The NSF TTP program was developed with several goals in mind: To identify and support use-inspired research and translational activities enabling a continuum from foundational research to practice; To develop partnerships and collaborations between institutions of higher education and other entities (e.g., industry, state/local/national government agencies, philanthropies, open-source ecosystems, for-benefit, for-profit and non-profit organizations, international organizations, etc.); To promote and advance the education and training of students and postdoctoral researchers, encouraging the participation of all Americans in STEM including innovation and entrepreneurship; and To identify future customer needs and opportunities and bring these to the forefront in the conduct of use-inspired research and translational activities. The NSF TTP program offers three tracks that represent different starting points or stages in moving discoveries and innovations from the laboratory to practice: NSF TTP-Explore (NSF TTP-E) is a pilot track that is likely to be the first step for researchers seeking to translate their basic research to practice. To be eligible for the NSF TTP-E track, proposers must have an active, eligible, NSF research award (see Eligibility Information for further details). TTP-E is designed to encourage current, eligible NSF awardees to intentionally pursue applications of their research with the potential for societal impact. The NSF TTP-E track provides the opportunity to obtain an extension of the initial award period of a current NSF award for up to two years in order to offer investigators an opportunity to explore adventurous, high-risk, use-inspired research and initial translational activities as the starting point for translation that was not covered by the original research award. NSF TTP-Translate (NSF TTP-T) starts with use-inspired research and initial translational activities and further matures the idea(s), iterates and improves the solution(s), and lowers the barrier(s) to effective translation of research from lab to practice. NSF TTP-Partner (NSF TTP-P) supports translational efforts that demand one or more partnerships for technology development and deployment. Here, strategic partnerships with stakeholders beyond U.S. institutions of higher education are essential ingredients for success and may include industry partners, government entities at all levels, philanthropies, international organizations, or other groups associated with large scale productization and distribution. The NSF TTP-P track requires an NSF-Catalyzed Partnership with an organization that will assist in the translation to practice. In addition to the Principal Investigator (PI), NSF TTP-P proposals must include a co-PI or Senior/Key Personnel who is a member or employee of the NSF-Catalyzed Partner. Partnerships with U.S. institutions of higher education are valued, but NSF TTP strongly prioritizes NSF-Catalyzed Partnerships that are able to help bring the product, process, or service to the market, potentially through licensing agreements, startup or small business formation, incorporation into an existing open-source ecosystem, development into standards setting arrangements, etc.",
-      "fit": 88,
-      "matchedTerms": [
-        "open",
-        "workforce",
-        "stem",
-        "higher education",
-        "science",
-        "technology",
-        "engineering",
-        "pathways"
-      ]
-    },
-    {
       "id": "353353",
       "number": "PD-18-1263",
       "title": "Probability",
@@ -1592,6 +1515,81 @@
       ]
     },
     {
+      "id": "343980",
+      "number": "23-500",
+      "title": "SBE Postdoctoral Research Fellowships",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-11-04",
+      "posted": "2022-10-08",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23500",
+      "awardCeiling": "170000",
+      "estimatedFunding": "3000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Directorate for Social, Behavioral and Economic Sciences (SBE) offers Postdoctoral Research Fellowships to encourageindependence earlyin the fellow'scareerby supporting his or herresearch and training goals.The research and training plan of each fellowship must address important scientific questions within thescope of the SBE directorate and the specific guidelines in this solicitation. The SPRF program offers two tracks: (I) Fundamental Research in the SBE Sciences (SPRF-FR) and (II) Broadening Participation in the SBE Sciences (SPRF-BP). See the full text of the solicitation for a detailed description of these tracks.",
+      "fit": 64,
+      "matchedTerms": [
+        "science",
+        "broadening participation"
+      ]
+    },
+    {
+      "id": "344610",
+      "number": "23-519",
+      "title": "Major Research Instrumentation Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-11-16",
+      "posted": "2022-11-22",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23519",
+      "awardCeiling": "4000000",
+      "estimatedFunding": "75000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Major Research Instrumentation (MRI) Program ( MRI Program Website) serves to increase access to multi-user scientific and engineering instrumentation for research and research training in our Nation's institutions of higher education and not-for-profit scientific/engineering research organizations. An MRI award supports the acquisition of a multi-user research instrument that is commercially available through direct purchase from a vendor, or for the personnel costs and equipment that are required for the development of an instrument with new capabilities, thereby advancing instrumentation capabilities and enhancing expertise for instrument design and fabrication at academic institutions. MRI instruments are, in general, too costly and/or not appropriate for support through other NSF programs. MRI provides support to acquire critical research instrumentation without which advances in fundamental science and engineering research may not otherwise occur. MRI also provides support to obtain next-generation research instruments by developing instruments with new capabilities that open new opportunities to advance the frontiers in science and engineering research. Additionally, an MRI award is expected to enhance research training of students who will become the next generation of instrument users, designers and builders. An MRI proposal may request from NSF up to $4 million for either acquisition or development of a research instrument. Each performing organization may submit in revised \"Tracks\" as defined below, with no more than two (2) submissions in Track 1 and no more than one (1) submission in Track 2. For the newly defined Track 3, no more than one (1) submission per competition is permitted. As a result, it is now possible for an institution to submit up to four MRI proposals within the Track limits as described above. Track 1: Track 1 MRI proposals are those that request funds from NSF greater than $100,000 [1] and less than $1,400,000. Track 2: Track 2 MRI proposals are those that request funds from NSF greater than or equal to $1,400,000 up to and including $4,000,000. Track 3: Track 3 MRI proposals are those that request funds from NSF greater than or equal to $100,000 [1] and less than or equal to $4,000,000 that include the purchase, installation, operation, and maintenance of equipment and instrumentation to conserve or reduce the consumption of helium. Institutions may submit no more than one Track 3 proposal. Submission of a Track 3 proposal does not impact limits that apply for Track 1 and Track 2 proposals. Cost sharing requirements for new awards in the MRI Program are waived for a period of 5 years beginning with the FY 2023 MRI competition. Institutional submission limits for Track 1, Track 2 and Track 3 proposals remain. The MRI Program especially seeks broad representation of groups, institutions, and geographic regions that are underrepresented in STEM disciplines. Proposals from women, underrepresented minorities, persons with disabilities and early-career PIs are encouraged, as are proposals that benefit early-career researchers and proposals with PIs from geographically underserved regions, including EPSCoR jurisdictions. Additionally, proposals are encouraged from under-resourced institutions, including from emerging research institutions, where MRI can significantly build capacity for research. ___________________________ [1] Track 1 proposals requesting funds from NSF less than $100,000 will be accepted only from: a) eligible performing organizations requesting instrumentation supporting research in the disciplines of mathematics or social, behavioral and economic sciences; or b) non-Ph.D.-granting institutions of higher education requesting instrumentation supporting research in any NSF-supported disciplines.",
+      "fit": 84,
+      "matchedTerms": [
+        "open",
+        "stem",
+        "higher education",
+        "career",
+        "science",
+        "engineering",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "358569",
+      "number": "PD-16-1266",
+      "title": "Applied Mathematics",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-11-16",
+      "posted": "2025-03-16",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5664",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Applied Mathematics program supports mathematics research motivated by and contributing to the solution of problems arising in science and engineering. Successful proposals must demonstrate mathematical innovation, as well as breadth and quality of impact on applications. Projects that additionally provide opportunities for rigorous mathematical training of junior applied mathematicians through their involvement in research are encouraged. The proposals considered by the Applied Mathematics program may range from single investigator to interdisciplinary team projects. Conferences Proposals to the Applied Mathematics program for conferences or workshops should be submitted through the program solicitation \"Conferences and Workshops in the Mathematical Sciences\" (link below). Principal Investigators should carefully read the program solicitation to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities. To facilitate timely notification of the availability of support: Proposals for conferences, workshops, etc., to be held in the US must be submitted 8 months in advance of the conference date; Proposals to support group travel to meetings outside the US must be submitted 12 months in advance of the meeting date; Proposals for conferences, workshops, etc., whose budget request exceeds $50,000 must be submitted during the annual November submission window.",
+      "fit": 28,
+      "matchedTerms": [
+        "science",
+        "engineering",
+        "mathematics"
+      ]
+    },
+    {
       "id": "watchlist-arnold-ventures-3",
       "number": "",
       "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Due: 06.14.2026",
@@ -1720,7 +1718,7 @@
       ]
     },
     {
-      "id": "watchlist-illinois-state-board-of-education-grants-6",
+      "id": "watchlist-illinois-state-board-of-education-grants-7",
       "number": "",
       "title": "Advanced Placement Course Implementation Grant",
       "source": "Illinois State Board of Education Grants",
@@ -1983,6 +1981,25 @@
     {
       "id": "watchlist-california-department-of-education-funding-3",
       "number": "",
+      "title": "Ag CTE Incentive Grant RFA FY 2026-27",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r17/agin26rfa.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. Ag CTE Incentive Grant RFA FY 2026-27",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-4",
+      "number": "",
       "title": "RFA-26: CTEIG",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
@@ -2000,7 +2017,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-california-department-of-education-funding-4",
+      "id": "watchlist-california-department-of-education-funding-5",
       "number": "",
       "title": "Request for Applications",
       "source": "California Department of Education Funding",
@@ -2015,44 +2032,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-5",
-      "number": "",
-      "title": "CTEIG 25-26 Round 11 RFA",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/cteig25rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. CTEIG 25-26 Round 11 RFA",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-6",
-      "number": "",
-      "title": "RFA-26: Title III Immigrant Student Program",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r28/imm26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: Title III Immigrant Student Program",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2993,7 +2972,7 @@
       ]
     },
     {
-      "id": "watchlist-illinois-state-board-of-education-grants-5",
+      "id": "watchlist-illinois-state-board-of-education-grants-6",
       "number": "",
       "title": "21st Century Community Learning Center Grants",
       "source": "Illinois State Board of Education Grants",
@@ -3075,6 +3054,25 @@
     {
       "id": "watchlist-illinois-state-board-of-education-grants-0",
       "number": "",
+      "title": "Grants",
+      "source": "Illinois State Board of Education Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.isbe.net/Pages/Grants.aspx",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Illinois State Board of Education Grants. Grants",
+      "fit": 38,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-illinois-state-board-of-education-grants-1",
+      "number": "",
       "title": "IWAS: ISBE Web Application Security",
       "source": "Illinois State Board of Education Grants",
       "sourceType": "State funding",
@@ -3092,7 +3090,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-illinois-state-board-of-education-grants-1",
+      "id": "watchlist-illinois-state-board-of-education-grants-2",
       "number": "",
       "title": "Grants Management",
       "source": "Illinois State Board of Education Grants",
@@ -3111,7 +3109,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-illinois-state-board-of-education-grants-2",
+      "id": "watchlist-illinois-state-board-of-education-grants-3",
       "number": "",
       "title": "Grant Periodic Reporting",
       "source": "Illinois State Board of Education Grants",
@@ -3130,7 +3128,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-illinois-state-board-of-education-grants-3",
+      "id": "watchlist-illinois-state-board-of-education-grants-4",
       "number": "",
       "title": "Grant Financial Information",
       "source": "Illinois State Board of Education Grants",
@@ -3149,7 +3147,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-illinois-state-board-of-education-grants-4",
+      "id": "watchlist-illinois-state-board-of-education-grants-5",
       "number": "",
       "title": "All State and Federal Grant Programs",
       "source": "Illinois State Board of Education Grants",
@@ -3164,25 +3162,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Illinois State Board of Education Grants. All State and Federal Grant Programs",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-illinois-state-board-of-education-grants-7",
-      "number": "",
-      "title": "Agricultural Education Grants",
-      "source": "Illinois State Board of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.isbe.net/Pages/Ag-Grants.aspx",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Illinois State Board of Education Grants. Agricultural Education Grants",
       "fit": 38,
       "matchedTerms": []
     },
