@@ -1,260 +1,8 @@
 {
-  "scannedAt": "2026-06-22T17:27:40.666Z",
+  "scannedAt": "2026-06-24T14:19:52.069Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "362300",
-      "number": "DOL-OESE-34066",
-      "title": "FY 26 Teacher Quality Partnership (TQP) Program Competition",
-      "source": "Office of Elementary and Secondary Education",
-      "agencyCode": "DOL-OESE",
-      "deadline": "2026-06-23",
-      "posted": "2026-05-07",
-      "status": "posted",
-      "url": "https://www.ed.gov/grants-and-programs/teacher-preparation-grants/teacher-quality-partnership-program",
-      "awardCeiling": "",
-      "estimatedFunding": "70000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "County governments",
-        "For profit organizations other than small businesses",
-        "State governments",
-        "Independent school districts",
-        "Private institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "Special district governments",
-        "Native American tribal organizations (other than Federally recognized tribal governments)",
-        "City or township governments",
-        "Native American tribal governments (Federally recognized)",
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting application in support of the administration of the Teacher Quality Partnership (TQP) program on behalf of the U.S. Department of Education (ED). The purpose of the TQP program is to improve student achievement; improve the quality of prospective and new teachers by improving teacher preparation and enhancing professional development to hold teacher preparation programs at institutions of higher education (IHEs) accountable for preparing teachers who meet applicable State certification and licensure requirements; and recruit highly qualified individuals into the teaching force. The TQP program also supports the use of Registered Apprenticeships as a high-quality, work-based learning pathway for preparing and credentialing new teachers based on demonstrated skill and merit, particularly in high-need schools and subject areas experiencing teacher shortages.",
-      "fit": 90,
-      "matchedTerms": [
-        "learning",
-        "teacher",
-        "professional development",
-        "higher education"
-      ]
-    },
-    {
-      "id": "362518",
-      "number": "ED-GRANT-26-036",
-      "title": "Rural Postsecondary and Economic Development Grant Program",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-06-23",
-      "posted": "2026-05-21",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362518",
-      "awardCeiling": "2500000",
-      "estimatedFunding": "45000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
-        "Private institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-      ],
-      "description": "The purpose of the RPED Grant Program is to improve rates of postsecondary enrollment, persistence, and completion among rural students through development of career pathways aligned to high-skill, high-wage, and in-demand industry sectors and occupations in the region.",
-      "fit": 88,
-      "matchedTerms": [
-        "rural",
-        "postsecondary",
-        "persistence",
-        "career",
-        "career pathways",
-        "completion",
-        "pathways"
-      ]
-    },
-    {
-      "id": "362516",
-      "number": "ED-GRANT-26-033",
-      "title": "Historically Black Colleges and Universities (HBCU) and Tribally Controlled Colleges and Universities (TCCU) Research and Development Infrastructure Grants Program",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-06-23",
-      "posted": "2026-05-21",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362516",
-      "awardCeiling": "5000000",
-      "estimatedFunding": "15000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Native American tribal organizations (other than Federally recognized tribal governments)",
-        "Private institutions of higher education",
-        "Native American tribal governments (Federally recognized)"
-      ],
-      "description": "The RDI grant program is designed to provide HBCUs and TCCUs with funds to implement transformational investments in research infrastructure, including research productivity, faculty expertise, graduate programs, physical infrastructure, human capital development, and partnerships leading to increases in external and sustained funding.",
-      "fit": 86,
-      "matchedTerms": [
-        "infrastructure",
-        "postsecondary",
-        "hbcu"
-      ]
-    },
-    {
-      "id": "362505",
-      "number": "ED-GRANT-26-032",
-      "title": "FY 2026 Transitioning Gang-Involved Youth to Higher Education (TGIY) Program",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-06-23",
-      "posted": "2026-05-21",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362505",
-      "awardCeiling": "1700000",
-      "estimatedFunding": "5000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The purpose of the Transitioning Gang-Involved Youth to Higher Education Program is to provide gang-involved youth with postsecondary education opportunities that will lead to certification or credentials.",
-      "fit": 72,
-      "matchedTerms": [
-        "postsecondary",
-        "higher education",
-        "credentials"
-      ]
-    },
-    {
-      "id": "362001",
-      "number": "ED-GRANTS-042226-001",
-      "title": "Office of Elementary and Secondary Education (OESE): Well-Rounded Education Programs: Jacob K. Javits Gifted and Talented Students Education (Javits) Program, Assistance Listing Number 84.206A",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-06-23",
-      "posted": "2026-04-22",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362001",
-      "awardCeiling": "",
-      "estimatedFunding": "9000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description: The Jacob K. Javits Gifted and Talented Students Education Program (Javits) supports evidence-based research, demonstration projects, innovative strategies, and similar activities designed to build and enhance the ability of elementary schools and secondary schools nationwide to identify gifted and talented students and meet their special educational needs. A major emphasis of the program is on implementing evidence-based activities that accelerate learning and improve student outcomes. Assistance Listing Number: 84.206A. Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage .",
-      "fit": 72,
-      "matchedTerms": [
-        "learning",
-        "outcomes",
-        "evidence"
-      ]
-    },
-    {
-      "id": "362508",
-      "number": "ED-GRANT-26-034",
-      "title": "Basic Needs for Postsecondary Students Program",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-06-23",
-      "posted": "2026-05-21",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362508",
-      "awardCeiling": "5000000",
-      "estimatedFunding": "10000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
-        "Public and State controlled institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The purpose of the FIPSE-Basic Needs Program is to advance systemic and sustainable solutions to student basic needs insecurity through support programs that address the basic needs of students and to report on practices that improve outcomes for students.",
-      "fit": 72,
-      "matchedTerms": [
-        "outcomes",
-        "postsecondary",
-        "basic needs"
-      ]
-    },
-    {
-      "id": "362511",
-      "number": "ED-GRANT-26-035",
-      "title": "Open Textbook Pilot Program",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-06-23",
-      "posted": "2026-05-21",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362511",
-      "awardCeiling": "2000000",
-      "estimatedFunding": "7000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Private institutions of higher education",
-        "Public and State controlled institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Open Textbook Pilot Program (OTP) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the OTP program is to support projects at eligible institutions of higher education (IHEs) or State higher education agencies that create new open textbooks and expand the use of open textbooks and course materials in courses that are part of a degree-granting program, particularly those with high enrollments. This pilot program emphasizes the development of projects that demonstrate the greatest potential to achieve the highest level of savings for students through sustainable, expanded use of open textbooks in high-enrollment courses or in programs that prepare individuals for in-demand fields.",
-      "fit": 72,
-      "matchedTerms": [
-        "open",
-        "postsecondary",
-        "higher education"
-      ]
-    },
-    {
-      "id": "362514",
-      "number": "ED-GRANT-26-031",
-      "title": "Centers of Excellence for Veteran Student Success (CEVSS) Program",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-06-23",
-      "posted": "2026-05-21",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362514",
-      "awardCeiling": "3000000",
-      "estimatedFunding": "9000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Private institutions of higher education"
-      ],
-      "description": "The Employment and Training Administration at the U.S. Department of Labor (Labor) is soliciting applications in support of the administration of the Centers of Excellence for Veteran Student Success Program (CEVSS) on behalf of the U.S. Department of Education (ED) and the Secretary of Education (Secretary). The purpose of the CEVSS Program is to encourage institutions of higher education (IHEs) to develop model programs to support veteran student success in postsecondary education by coordinating services to address the academic, financial, physical, and social needs of veteran students.",
-      "fit": 72,
-      "matchedTerms": [
-        "postsecondary",
-        "higher education",
-        "student success"
-      ]
-    },
-    {
-      "id": "362513",
-      "number": "ED-GRANT-26-025",
-      "title": "Strengthening Institutions Program FY 2026 Competition",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-06-23",
-      "posted": "2026-05-21",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362513",
-      "awardCeiling": "3000000",
-      "estimatedFunding": "350000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Private institutions of higher education",
-        "Public and State controlled institutions of higher education"
-      ],
-      "description": "The purpose of SIP is to provide assistance to eligible institutions of higher education to improve their academic programs, institutional management, and fiscal stability in order to increase their self-sufficiency.",
-      "fit": 68,
-      "matchedTerms": [
-        "postsecondary",
-        "higher education"
-      ]
-    },
     {
       "id": "362074",
       "number": "ED-GRANTS-042726-001",
@@ -424,8 +172,8 @@
       "eligibility": [
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education"
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "Administration at the U.S. Department of Labor (Labor), is soliciting applications in support of the administration of the TRIO Training Program on behalf of the U.S. Department of Education (ED). The purpose of the Training Program for Federal TRIO Programs (Training Program) provides grants to train the staff and leadership personnel employed in, participating in, or preparing for employment in, projects funded under the Federal TRIO Programs, to improve project operation.",
       "fit": 68,
@@ -471,10 +219,10 @@
       "estimatedFunding": "19800000",
       "indirectRate": "",
       "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "For profit organizations other than small businesses",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the American History and Civics Education – National Activities (AHC-NA) program on behalf of the U.S. Department of Education (ED). The purpose of the AHC-NA program is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit students from low-income backgrounds and other underserved populations. America\"s 250th anniversary is a particularly appropriate time to promote innovative teaching and learning that unites our country, honors our history, promotes informed citizenship, and cherishes our freedom as we build the golden age of opportunity. ED encourages applications to include strong partnerships and active collaboration between eligible entities, local educational agencies, and State educational agencies in their design and proposed implementation. Project activities should reflect the best available research and practice in teaching and learning.",
@@ -740,7 +488,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "CAREER:The Faculty Early Career Development (CAREER) Program is a Foundation-wide activity that offers the National Science Foundation's most prestigious awards in support of early-career faculty who have the potential to serve as academic role models in research and education and to lead advances in the mission of their department or organization. Activities pursued by early-career faculty should build a firm foundation for a lifetime of leadership in integrating education and research. NSF encourages submission of CAREER proposals from early-career faculty at all CAREER-eligible organizations . PECASE:Each year NSF selects nominees for the Presidential Early Career Awards for Scientists and Engineers (PECASE) from among the most meritorious recent CAREER awardees.Selection for this award is based on twoimportant criteria:The criteria are 1) performance of innovative research at the frontiers of science, engineering, and technology that is relevant to the mission of the sponsoring organization or agency; and 2) community service demonstrated through scientific leadership, education or community outreach.These awards foster innovative developments in science and technology, increase awareness of careers in science and engineering, give recognition to the scientific missions of the participating agencies, enhance connections between fundamental research and national goals, and highlight the importance of science and technology for the Nation's future. Individuals cannot apply for PECASE. These awards are initiated by the participating federal agencies. At NSF, up to twenty-six nominees for this award are selected each year from among the PECASE-eligible CAREER awardees most likely to become the leaders of academic research and education in the twenty-first century. The White House Office of Science and Technology Policy makes the final selection and announcement of the awardees.",
-      "fit": 72,
+      "fit": 76,
       "matchedTerms": [
         "career",
         "science",
@@ -1590,9 +1338,266 @@
       ]
     },
     {
+      "id": "359966",
+      "number": "25-540",
+      "title": "National Science Foundation Translation to Practice",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-11-17",
+      "posted": "2025-07-09",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25540",
+      "awardCeiling": "2000000",
+      "estimatedFunding": "30000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The U.S. NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) partners across sectors to advance three primary focus areas - accelerating technology translation and development, fostering regional innovation and economic growth, and preparing the American workforce for future high-wage jobs in STEM fields. The translation of research to practice ensures that the insights and innovations developed through scientific study and experimentation have tangible, positive impacts for the Nation. These impacts include improving the quality of life, promoting economic and job growth, ensuring national security, and maintaining global competitiveness. Indeed, scientific and engineering breakthroughs have the potential to address critical societal challenges in industries such as aerospace, agriculture, communications, education, energy, healthcare, national security, and transportation - but the translation of discoveries and innovations from the laboratory to society often takes many forms including non-linear pathways. The NSF TTP program was developed with several goals in mind: To identify and support use-inspired research and translational activities enabling a continuum from foundational research to practice; To develop partnerships and collaborations between institutions of higher education and other entities (e.g., industry, state/local/national government agencies, philanthropies, open-source ecosystems, for-benefit, for-profit and non-profit organizations, international organizations, etc.); To promote and advance the education and training of students and postdoctoral researchers, encouraging the participation of all Americans in STEM including innovation and entrepreneurship; and To identify future customer needs and opportunities and bring these to the forefront in the conduct of use-inspired research and translational activities. The NSF TTP program offers three tracks that represent different starting points or stages in moving discoveries and innovations from the laboratory to practice: NSF TTP-Explore (NSF TTP-E) is a pilot track that is likely to be the first step for researchers seeking to translate their basic research to practice. To be eligible for the NSF TTP-E track, proposers must have an active, eligible, NSF research award (see Eligibility Information for further details). TTP-E is designed to encourage current, eligible NSF awardees to intentionally pursue applications of their research with the potential for societal impact. The NSF TTP-E track provides the opportunity to obtain an extension of the initial award period of a current NSF award for up to two years in order to offer investigators an opportunity to explore adventurous, high-risk, use-inspired research and initial translational activities as the starting point for translation that was not covered by the original research award. NSF TTP-Translate (NSF TTP-T) starts with use-inspired research and initial translational activities and further matures the idea(s), iterates and improves the solution(s), and lowers the barrier(s) to effective translation of research from lab to practice. NSF TTP-Partner (NSF TTP-P) supports translational efforts that demand one or more partnerships for technology development and deployment. Here, strategic partnerships with stakeholders beyond U.S. institutions of higher education are essential ingredients for success and may include industry partners, government entities at all levels, philanthropies, international organizations, or other groups associated with large scale productization and distribution. The NSF TTP-P track requires an NSF-Catalyzed Partnership with an organization that will assist in the translation to practice. In addition to the Principal Investigator (PI), NSF TTP-P proposals must include a co-PI or Senior/Key Personnel who is a member or employee of the NSF-Catalyzed Partner. Partnerships with U.S. institutions of higher education are valued, but NSF TTP strongly prioritizes NSF-Catalyzed Partnerships that are able to help bring the product, process, or service to the market, potentially through licensing agreements, startup or small business formation, incorporation into an existing open-source ecosystem, development into standards setting arrangements, etc.",
+      "fit": 88,
+      "matchedTerms": [
+        "open",
+        "workforce",
+        "stem",
+        "higher education",
+        "science",
+        "technology",
+        "engineering",
+        "pathways"
+      ]
+    },
+    {
+      "id": "361604",
+      "number": "26-507",
+      "title": "National Science Foundation Fostering Interdisciplinary Networks to Develop Emergent and Responsive Solutions Foundry",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-11-18",
+      "posted": "2026-03-23",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26507",
+      "awardCeiling": "",
+      "estimatedFunding": "8500000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The NSF FINDERS FOUNDRY program supports collaboration among K-12 educators, technologists, and researchers to develop innovative solutions to persistent challenges in learning and workforce development. These challenges are identified by K-12 students, families, and educators. The program aims to create and scale evidence-based practices, tools, and technologies that improve learning outcomes and prepare students for a digital, Artificial Intelligence (AI)-driven future. A key focus is early exposure to AI to build curiosity, understanding, and readiness for future careers. The program encourages partnerships across sectors - schools, universities, industry, government, and nonprofits - to co-design responsive, technology-based solutions. NSF FINDERS FOUNDRY program includes two phases: Planning and Development. Planning proposals help teams explore one of several focus areas. Only teams awarded Planning grants may submit Development proposals, which support the growth and implementation of promising ideas. The program aligns with national priorities, including the Executive Order 14277, \"Advancing Artificial Intelligence Education for American Youth \" (April 23, 2025), and the CHIPS and Science Act of 2022, Public Law 117-167 , Sections 10381-10383 and 10395.",
+      "fit": 100,
+      "matchedTerms": [
+        "ai",
+        "artificial intelligence",
+        "learning",
+        "outcomes",
+        "evidence",
+        "workforce",
+        "implementation",
+        "k-12"
+      ]
+    },
+    {
+      "id": "359104",
+      "number": "24-563",
+      "title": "Louis Stokes Alliances for Minority Participation",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-11-20",
+      "posted": "2025-05-23",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24563",
+      "awardCeiling": "5000000",
+      "estimatedFunding": "38000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Louis Stokes Alliances for Minority Participation (LSAMP) program invests in the Nation's colleges and universities to aid student success to create a new generation of STEM discoverers for the national STEM enterprise. The program takes a comprehensive approach to the STEM Learning Ecosystem to impact STEM student development and retention. LSAMP is an alliance-based program, whereby a group of institutions of higher education (IHEs) work together to diversify the nation's science, technology, engineering, and mathematics (STEM) workforce by increasing the number of STEM baccalaureate and graduate degrees awarded to persons from LSAMP populations. LSAMP populations are defined as persons from groups underrepresented in the STEM enterprise: Blacks and African-Americans, Hispanic and Latino Americans, American Indians, Alaska Natives, Native Hawaiians, and Pacific Islanders. The LSAMP program provides funding to alliances that implement comprehensive, evidence-based, innovative, and sustained strategies that ultimately result in the graduation of well-prepared, highly competitive students from LSAMP populations who pursue graduate studies or careers in STEM, while also supporting knowledge generation, knowledge utilization, assessment of program impacts, dissemination activities and dissemination of scholarly research into the field. Projects supported by the LSAMP program include: --Alliance Development Grants (ADG) support the conceptualization and development of new B2B and new SPIO alliances. (New) --Bridge-to-the-Baccalaureate (B2B) alliances facilitate the successful transfer of students from LSAMP populations to four-year institutions in pursuit of STEM baccalaureate degrees. --STEM Pathways Implementation-Only (SPIO) alliances are designed for new and reconstituted alliances. These projects focus on building and strengthening strategies and approaches to assist Institutions of Higher Education (IHEs) increase STEM baccalaureate degrees to LSAMP populations and facilitate entry into STEM graduate degree programs. --STEM Pathways Research Alliances (SPRA) are designed for well-established alliances. These projects serve as models of excellence in STEM broadening participation by (1) steadily increasing STEM baccalaureate degrees to LSAMP populations and facilitating entry into STEM graduate degree programs; (2) producing and disseminating new scholarly research on the broadening participation of LSAMP populations (or underrepresented and underserved populations in STEM disciplines and the nation's STEM workforce) and, (3) holistically assess the state of institutionalization and sustainability of the alliance. --Bridge to STEM Graduate Degrees in National Priorities (BD-Master's) projects support cohorts of six graduate students pursuing a M. S. degree in STEM national priority areas, providing financial support (stipends and cost of education) and support to help develop and maintain academic and research skills that enable participants to successfully persist in STEM graduate degree programs at Master's comprehensive-degree producing institutions only. (New) --Bridge to STEM Graduate Degrees in National Priorities (BD-Doctoral) projects support cohorts of twelve graduate students pursuing a Ph.D. degree in STEM national priority areas, providing financial support (stipends and cost of education) and support to help develop and maintain academic and research skills that enable participants to successfully persist in STEM doctoral degree programs. --STEM Networking Incentives and Engagement (NETWORKS) projects provide support to incentivize the creation and participation of LSAMP populations in STEM networks. (New)",
+      "fit": 100,
+      "matchedTerms": [
+        "learning",
+        "evidence",
+        "assessment",
+        "workforce",
+        "implementation",
+        "stem",
+        "higher education",
+        "student success"
+      ]
+    },
+    {
+      "id": "348375",
+      "number": "23-595",
+      "title": "Centers of Research Excellence in Science and Technology",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-12-04",
+      "posted": "2023-05-25",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23595",
+      "awardCeiling": "",
+      "estimatedFunding": "8000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "CREST Center awards provide support to enhance the research capabilities of Minority-serving institutions (MSIs) through the establishment of centers that effectively integrate education and research. CREST Center awards promote the development of new knowledge, enhancements of the research productivity of individual faculty, and an expanded presence of students historically underrepresented in science, technology, engineering, and mathematics (STEM) disciplines. Successful CREST Center proposals will demonstrate a clear vision and integration of STEM research and education and will align with the mission of the Division of Equity for Excellence in STEM (EES) with respect to the development of a diverse STEM workforce. CREST Centers are also expected to provide leadership by meaningfully involving the efforts of those faculty, students, and postdoctoral researchers who are traditionally underrepresented in STEM at all levels. Centers are required to use evidence-based and innovative strategies to address salient broadening participation and workforce development issues, such as recruitment, retention, and mentorship of participants from underrepresented groups. Successful proposals are expected to achieve national research competitiveness, broaden participation in STEM, and generate sustained, non-CREST funding from federal, state, and/or private-sector sources. PhaseI and Phase II CREST Center Awards Preliminary proposals are required for Phase I and Phase II projects. Thus, an invitation from NSF must be received before submitting a full proposal. Both Phase I and Phase II CREST Center awards provide multi-year support for institutions that demonstrate a strong research base. Phase I CREST Center awards provide funding for five years of research on a specific NSF-supported topic. If invited, institutions may submit a Phase II CREST Center proposal requesting funding to continue research in the same disciplinary area as the Phase I Center or may submit a Phase I proposal focused on a disciplinary area that is significantly different from those of the previous award(s). CREST Partnership Supplements CREST Partnership Supplemental funding requests are invited from current CREST Center awardees. Supplements support the establishment or strengthening of partnerships and collaborations with active CREST Centers and other nationally or internationally recognized research centers (including NSF-supported research centers), private sector research laboratories, K-12 schools, and/or informal science entities, including museums and science centers, as appropriate. Such partnerships and collaborations should aid CREST Centers' quest in advancing knowledge and education on a research theme of national significance.",
+      "fit": 100,
+      "matchedTerms": [
+        "evidence",
+        "workforce",
+        "equity",
+        "stem",
+        "k-12",
+        "workforce development",
+        "retention",
+        "science"
+      ]
+    },
+    {
+      "id": "344608",
+      "number": "23-520",
+      "title": "Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-01-21",
+      "posted": "2022-11-22",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23520",
+      "awardCeiling": "1000000",
+      "estimatedFunding": "9300000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "This program seeks to prepare, nurture, and grow the national scientific research workforce for creating, utilizing, and supporting advanced cyberinfrastructure (CI) to enable and potentially transform fundamental science and engineering (S&E) research and education and contribute to the Nation's overall economic competitiveness and security. The goals of this solicitation are to (i) ensure broad adoption of CI tools, methods, and resources by the research community in order to catalyze major research advances and to enhance researchers' abilities to lead the development of new CI, and (ii) integrate core literacy and discipline-appropriate advanced skills in advanced CI as well as computational and data-driven methods for advancing fundamental research, into the Nation's undergraduate and graduate educational curriculum/instructional materials. Proposals responding to this solicitation may target one or both solicitation goals. For the purpose of this solicitation, advanced CI is broadly defined as the set of resources, tools, methods, and services for advanced computation, large-scale data handling and analytics, and networking and security for large-scale systems that collectively enable potentially transformative fundamental S&E research and education. This solicitation calls for innovative, scalable training, education, and curriculum/instructional materials-targeting one or more of the solicitation goals-to address emerging needs and unresolved bottlenecks in the S&E research workforce development, from the postsecondary level to active researchers to CI professionals. The funded activities, spanning targeted, multidisciplinary communities, should lead to transformative changes in the state of research workforce preparedness for advanced CI-enabled research in the short- and long-term. This solicitation also seeks to broaden CI access and adoption by (i) increasing the adoption of advanced CI and computational and data-driven methods to a broader range of S&E disciplines and institutions and (ii) effectively utilizing individual capabilities. Proposals from, and in partnership with, the aforementioned communities are especially encouraged. There are two project classes as defined below: Pilot Projects: up to $300,000 total budget with durations up to two years; and Implementation Projects: Small (with total budgets of up to $500,000) or Medium (with total budgets of up to $1,000,000) for durations of up to four years. Section II. Program Description provides a more complete description of the project classes. Section V.A. Proposal Preparation Instructions describes the proposal elements required for the various project classes in order to address the suitable set of solicitation-specific review criteria. The CyberTraining program is led by the Office of Advanced Cyberinfrastructure (OAC) in the Directorate for Computer and Information Science and Engineering (CISE) and has participation from other NSF directorates/divisions, as described in Section II. Program Description, Programmatic Areas of Interest. Not all directorates/divisions are participating at the same level, and some have specific research and education priorities. The appropriate contact for the CyberTraining program in any directorate/division is the Cognizant Program Officer (PO) for the respective directorate/division/office/program listed below. All projects are expected to clearly articulate how they will address important community needs and provide resources that will be widely available to and usable by the research community.Prospective principal investigators (PIs) are strongly encouraged to contact the Cognizant Program Officers in CISE/OAC and in the participating directorate/division relevant to the proposal to ascertain whether the focus and budget of their proposed activities are appropriate for this solicitation. Such consultations should be completed at least one month in advance of the submission deadline. PIs should include the names of the Cognizant Program Officers consulted in a Single Copy Document as described in Section V.A. Proposal Preparation Instructions. The intent of the CyberTraining program is to encourage collaboration between CI and S&E domain disciplines. (For this purpose, units of CISE other than OAC are considered domain disciplines.) To ensure relevance to community needs and to facilitate adoption, those proposals of interest to one or more domain divisions must include at least one PI/co-PI with expertise relevant to the targeted research discipline. All proposals shall include at least one PI/co-PI with expertise relevant to OAC. Prospective PIs contemplating submissions that primarily target communities relevant to directorates/divisions that are not participating in this solicitation are directed to instead explore the education and workforce development programs of the respective directorates/divisions.",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
+        "literacy",
+        "workforce",
+        "implementation",
+        "postsecondary",
+        "undergraduate",
+        "workforce development",
+        "skills"
+      ]
+    },
+    {
+      "id": "354269",
+      "number": "24-573",
+      "title": "EPSCoR Research Infrastructure Improvement Program: Focused EPSCoR Collaborations Program (FEC)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-01-26",
+      "posted": "2024-05-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24573",
+      "awardCeiling": "1500000",
+      "estimatedFunding": "18000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Established Program to Stimulate Competitive Research (EPSCoR) is designed to fulfill the mandate of the National Science Foundation (NSF) to promote scientific progress nationwide. EPSCoR eligibility status is yearly updated and reported in the EPSCoR website (see EPSCoR eligibility). Through this program, NSF establishes partnerships with government, higher education, and industry that are designed to affect sustainable improvements in a jurisdiction's research infrastructure, Research and Development (R&D) capacity, and hence, its R&D competitiveness. The FEC program (formerly known as \"EPSCoR Track-2 program\") builds interjurisdictional collaborative teams of EPSCoR investigators in Science, Technology, Engineering, and Mathematics (STEM) focus areas consistent with the current National Science Foundation Strategic Plan . Projects are investigator-driven and must include researchers from at least two EPSCoR eligible jurisdictions with complementary expertise and resources necessary to address challenges, which neither party could address as well or as rapidly independently. FEC projects have a comprehensive and integrated vision to drive discovery and build sustainable STEM capacity that exemplifies institutional, geographic, and disciplinary diversity. The projects' STEM research and education activities seek to broaden participation through the strategic inclusion and integration of all individuals, institutions, and sectors. Additionally, EPSCoR recognizes that the development of early-career faculty is critical to sustaining and advancing research capacity.",
+      "fit": 100,
+      "matchedTerms": [
+        "infrastructure",
+        "stem",
+        "higher education",
+        "career",
+        "science",
+        "technology",
+        "engineering",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "356129",
+      "number": "24-598",
+      "title": "Mid-scale Research Infrastructure-1",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-02-08",
+      "posted": "2024-08-20",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24598",
+      "awardCeiling": "19999999",
+      "estimatedFunding": "100000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "NSF-supported science and engineering research increasingly relies on cutting-edge infrastructure. With its Major Research Instrumentation (MRI) program and Major Multi-user Facilities (\"Major Facilities\") projects, NSF supports infrastructure projects at the lower and higher range of infrastructure project costs, Foundation-wide, across science and engineering research disciplines. The Foundation-wide Mid-scale Research Infrastructure opportunity is intended to provide NSF with an agile, Foundation-wide process to fund experimental research capabilities in the mid-scale range between MRI and Major Multi-user Facilities. NSF defines Research Infrastructure (RI) as any combination of facilities, equipment, instrumentation, or computational hardware or software, and the necessary human capital in support of the same. Major facilities and mid-scale projects are subsets of research infrastructure. The NSF Mid-scale Research Infrastructure-1 Program (Mid-scale RI-1) supports either design activities or implementation of unique and compelling RI projects. Mid-scale implementation projects may include any combination of equipment, instrumentation, cyberinfrastructure, broadly used large scale datasets and the personnel needed to successfully commission the project. Mid-scale RI-1 design activities include the design efforts intended to lead to eventual implementation of a mid-scale class RI project. Mid-scale RI-1 projects should involve the training of a diverse workforce engaged in the design and implementation of STEM research infrastructure. Mid-scale RI-1 projects should directly enable advances in any of the research domains supported by NSF. Projects may also include upgrades to existing research infrastructure. Mid-scale RI-1 emphasizes strong scientific merit, a response to an identified need of the research community and/or fulfillment of a national need to enable U.S. researchers to be competitive in a global research environment. Well-conceived technical and management plans are essential for both design and implementation proposals, as are well-developed plans (e.g., mentoring and professional development) for student training and the involvement of a diverse STEM workforce in all aspects of mid-scale design and/or implementation activities. The inclusion of individual project participants that will lead to a supportive working environment is especially encouraged at all levels of the project team. Within Mid-scale RI-1, proposers may submit two types of projects, \"Implementation\" (e.g., acquisition and/or construction) or \"Design\". The \"Design\" track is intended to facilitate progress toward readiness for a mid-scale range implementation project. Both Implementation projects and Design activities may involve new or upgraded research infrastructure. Mid-scale RI-1 \"Implementation\" projects may have a total project cost ranging from $4 million up to but not including $20 million. Mid-scale RI-1 \"Design\" activities may request less than $4 million, with a minimum request of $400,000 and a maximum request up to but not including $20 million, as appropriate, to prepare for a future mid-scale range implementation project. Note: Successful award of a Mid-scale RI-1 design activity does not imply NSF's commitment to the future implementation of the project being designed, nor is a Mid-scale RI-1 design award required for the submission of an implementation project. The Mid-scale RI-1 Program seeks to broaden the representation of PIs and institutions in its award portfolio, including a geographically diverse set of institutions (especially those in EPSCoR jurisdictions). Proposals submitted by, or involving partnerships between institutions are encouraged. Participation in this opportunity is encouraged for the full spectrum of diverse talent society has to offer to include PIs who are women, early-career researchers, persons with disabilities, or members of other groups underrepresented in STEM. To improve participation in science and engineering research for persons with disabilities, Mid-scale RI-1 encourages PIs to incorporate accessibility as part of Mid-scale RI-1 design activity and implementation projects. Please consult NSF's Research Infrastructure Guide, or RIG (available at https://www.nsf.gov/bfa/lfo/lfo_documents.jsp ), for definitions of certain terms used in this solicitation, such as the Project Execution Plan (PEP) and Design and Execution Plan (DEP). The RIG provides guidance specific to Mid-scale Research Infrastructure Projects, including references to other parts of the RIG as needed. Note that PEP or DEP should be appropriately scaled for the complexity of the project and may not require all of the elements described in the RIG. Mid-scale research infrastructure projects with total project costs beyond the Mid-scale RI-1 Program limit are separately solicited through the Mid-scale RI-2 Program. Proposals to the Mid-scale RI-1 Program with total project costs outside of this solicitation's budgetary limits, either during initial submission or after cost analyses/revisions during subsequent review, are subject to return without further review.",
+      "fit": 100,
+      "matchedTerms": [
+        "infrastructure",
+        "workforce",
+        "professional development",
+        "implementation",
+        "accessibility",
+        "stem",
+        "career",
+        "science"
+      ]
+    },
+    {
+      "id": "341086",
+      "number": "22-603",
+      "title": "Mid-Career Advancement",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-03-01",
+      "posted": "2022-06-11",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22603",
+      "awardCeiling": "",
+      "estimatedFunding": "18000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The MCA program offers an opportunity for scientists and engineers at the mid-career stage (see restrictions under Additional Eligibility Information) to substantively enhance and advance theirresearch program and career trajectory. Mid-career scientists are at a critical career transition stage where they need to advance their research programs to ensure long-term productivity and creativity but are often constrained by service, teaching, or other activities that limit the amount of time devoted to research. The MCA program provides protected time, resources, and the means to gain new skills through synergistic and mutually beneficial partnerships, typically at an institution other than the candidate's home institution. Partners from outside the Principal Investigator's (PI) own subdiscipline or discipline are encouraged, but not required, to enhance interdisciplinary networking and convergence across science and engineering fields. Research p rojects that envision new insights on existing problems or identify new problems made accessible with cutting-edge methodology or expertise from other fields are encouraged . A key component of a successful MCA will be the demonstration that the PI's currentresearch program could substantively benefit from the protected time, mentored partnership(s), and resources provided through this program, such thatthere is a substantial enhancement to the PI's research and career trajectory, enabling scientific and academic advancementnot likely without this support. The MCA is the only cross-directorate NSF program specifically aimed at providing protected time and resources to established scientists and engineers targeted at the mid-career stage.Participating programs in the Directorates for Biological Sciences (BIO), Geosciences (GEO), Social, Behavioral and Economic Sciences (SBE), and Education and Human Resources (EHR) will accept MCA proposals. To help identify the disciplinary program in which the MCA should be reviewed, PIs are urged to investigate the research areas supported by the different directorates and participating programs. PIs are strongly encouraged to discuss the suitability of their MCA proposal with a Program Officer from the appropriate directorate (see https://new.nsf.gov/funding/opportunities/mca-mid-career-advancement/announcements/111199 ).PIs from EPSCoR jurisdictions are especially encouraged to apply.",
+      "fit": 72,
+      "matchedTerms": [
+        "career",
+        "skills",
+        "science",
+        "engineering"
+      ]
+    },
+    {
+      "id": "357498",
+      "number": "25-514",
+      "title": "NSF Scholarships in Science, Technology, Engineering, and Mathematics Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-03-02",
+      "posted": "2024-12-03",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25514",
+      "awardCeiling": "5000000",
+      "estimatedFunding": "120000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The main goal of the S-STEM program is to enable academically talented, low-income students to pursue successful careers in promising STEM fields. Ultimately, the S-STEM program seeks to increase the number of academically promising low-income students who graduate with an S-STEM eligible degree and contribute to the American innovation economy with their STEM knowledge. Recognizing that financial aid alone cannot increase retention and graduation in STEM, the program provides awards to institutions of higher education (IHEs) not only to fund scholarships, but also to adapt, implement, and study evidence-based curricular and co-curricular [a] activities that have been shown to be effective in supporting recruitment, retention, transfer (if appropriate), student success, academic/career pathways, and graduation in STEM. To be eligible, scholars must be domestic low-income students with academic ability, talent, or potential and demonstrated unmet financial need who are enrolled in an associate, baccalaureate, or graduate degree program in an S-STEM eligible discipline. Proposers must provide an analysis that articulates the characteristics and academic needs of the population of students they are trying to serve. NSF is particularly interested in supporting the attainment of degrees in fields identified as critical needs for the Nation. It is up to the proposer to make a compelling case that such a field serves a critical need in the United States. [a] an activity at a school or college pursued in addition to the normal course of study. S-STEM Eligible Degree Programs Associate of Arts, Associate of Science, Associate of Engineering, and Associate of Applied Science Bachelor of Arts, Bachelor of Science, Bachelor of Engineering and Bachelor of Applied Science Master of Arts, Master of Science, and Master of Engineering Doctoral (Ph.D. or other comparable doctoral degree) S-STEM Eligible Disciplines Disciplinary fields in which research is funded by NSF, including technology fields associated with the S-STEM-eligible disciplines (e.g., biotechnology, chemical technology, engineering technology, information technology, etc.). The following degrees and disciplines areexcluded: Clinical degree programs, including medical degrees, nursing, veterinary medicine, pharmacy, physical therapy, and others not funded by NSF, are ineligible degrees. Programs for STEM teacher certification or licensure currently covered by the Robert Noyce Teacher Scholarship program (NOYCE) are ineligible for S-STEM funding. Business school programs that lead to Bachelor of Arts or Science in Business Administration degrees (BABA/BSBA/BBA) are not eligible for S-STEM funding. Masters and Doctoral degrees in Business Administration are also excluded. Proposers are strongly encouraged to contact Program Officers before submitting a proposal if they have questions concerning degree or disciplinary eligibility. The S-STEM program particularly encourages proposals from 2-year institutions, predominately undergraduate institutions, and urban, suburban, and rural public institutions.",
+      "fit": 100,
+      "matchedTerms": [
+        "evidence",
+        "teacher",
+        "rural",
+        "stem",
+        "higher education",
+        "undergraduate",
+        "college",
+        "student success"
+      ]
+    },
+    {
       "id": "watchlist-arnold-ventures-3",
       "number": "",
-      "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Due: 06.14.2026",
+      "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
       "source": "Arnold Ventures",
       "sourceType": "Private foundation",
       "agencyCode": "Private foundation",
@@ -1604,7 +1609,7 @@
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "Private foundation. Matched source page for Arnold Ventures. Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Due: 06.14.2026",
+      "description": "Private foundation. Matched source page for Arnold Ventures. Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
       "fit": 74,
       "matchedTerms": [
         "outcomes",
@@ -2000,19 +2005,19 @@
     {
       "id": "watchlist-california-department-of-education-funding-4",
       "number": "",
-      "title": "RFA-26: CTEIG",
+      "title": "RFA-25: CSESAP",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/cteig26rfa.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r14/csesap25rfa.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: CTEIG",
+      "description": "State funding. Matched source page for California Department of Education Funding. RFA-25: CSESAP",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2032,6 +2037,25 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-6",
+      "number": "",
+      "title": "RFA-26: CSESAP",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r14/csesap26rfa.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: CSESAP",
       "fit": 52,
       "matchedTerms": []
     },
@@ -3862,25 +3886,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "Private foundation. Matched source page for Lumina Foundation. Student Supports",
-      "fit": 26,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-montana-office-of-public-instruction-grants-3",
-      "number": "",
-      "title": "IT Resources for Schools - Programs & Grants",
-      "source": "Montana Office of Public Instruction Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://opi.mt.gov/Leadership/Management-Operations/IT-Resources-for-Schools-Programs-Grants",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Montana Office of Public Instruction Grants. IT Resources for Schools - Programs & Grants",
       "fit": 26,
       "matchedTerms": []
     },
