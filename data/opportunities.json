@@ -1,58 +1,8 @@
 {
-  "scannedAt": "2026-06-24T14:19:52.069Z",
+  "scannedAt": "2026-06-29T16:35:15.262Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "362074",
-      "number": "ED-GRANTS-042726-001",
-      "title": "Office of Special Education and Rehabilitative Services (OSERS): Office of Special Education Programs (OSEP): Accessible Education Video Projects; Assistance Listing Number (ALN) 84.327C",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-06-26",
-      "posted": "2026-04-27",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362074",
-      "awardCeiling": "1050000",
-      "estimatedFunding": "3150000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description: The purpose of the Educational Technology, Media, and Materials for Individuals with Disabilities Program is to improve results for children with disabilities by (1) promoting the development, demonstration, and use of technology; (2) supporting educational activities designed to be of educational value in the classroom for students with disabilities; (3) providing support for captioning and video description that is appropriate for use in the classroom; and (4) providing accessible educational materials to students with disabilities in a timely manner. This competition establishes Accessible Education Video Projects that are designed to meet requirements under the Individuals with Disabilities Education Act (IDEA). Specifically, section 674(c) of IDEA requires, in part, that the Secretary of Education support audio description, open captioning, and closed captioning that is appropriate for use in early learning and kindergarten through grade 12 (K-12) settings of (a) television programs; (b) videos; or (c) other materials, including programs and materials associated with new and emerging technologies. ALN: 84.327C. Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs, published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions. Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage .",
-      "fit": 62,
-      "matchedTerms": [
-        "open",
-        "learning",
-        "k-12",
-        "technology"
-      ]
-    },
-    {
-      "id": "362075",
-      "number": "ED-GRANTS-042726-002",
-      "title": "Office of Special Education and Rehabilitative Services (OSERS): Office of Special Education Programs (OSEP): National Center for Accessible Education Videos; Assistance Listing Number: 84.327N",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-06-26",
-      "posted": "2026-04-27",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362075",
-      "awardCeiling": "",
-      "estimatedFunding": "2600000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description: The purpose of the Educational Technology, Media, and Materials for Individuals with Disabilities Program is designed to improve results for children with disabilities by (1) promoting the development, demonstration, and use of technology; (2) supporting educational activities designed to be of educational value in the classroom for students with disabilities; (3) providing support for captioning and video description that is appropriate for use in the classroom; and (4) providing accessible educational materials to students with disabilities in a timely manner. In alignment with the requirements in the Individuals with Disabilities Education Act (IDEA), this competition establishes a National Center on Accessible Education Videos. Specifically, section 674(c) requires, in part, that the Secretary of Education support video and audio description, open captioning, and closed captioning, which is appropriate for use in early learning and kindergarten through grade 12 (K-12) settings of (a) television programs, (b) videos, and (c) other materials, including programs and materials associated with new and emerging technologies. Additionally, this section requires support of distributing such materials through such mechanisms as a loan service. ALN: 84.327N. Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage .",
-      "fit": 62,
-      "matchedTerms": [
-        "open",
-        "learning",
-        "k-12",
-        "technology"
-      ]
-    },
     {
       "id": "362602",
       "number": "ED-GRANT-26-038",
@@ -68,8 +18,8 @@
       "indirectRate": "",
       "eligibility": [
         "Public and State controlled institutions of higher education",
-        "Private institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education"
       ],
       "description": "The purpose of PSSG is to improve postsecondary student outcomes, including retention, transfer, credit accumulation, and completion, by leveraging data and implementing, scaling, and rigorously evaluating evidence-based strategies.",
       "fit": 100,
@@ -170,10 +120,10 @@
       "estimatedFunding": "4100000",
       "indirectRate": "",
       "eligibility": [
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "Administration at the U.S. Department of Labor (Labor), is soliciting applications in support of the administration of the TRIO Training Program on behalf of the U.S. Department of Education (ED). The purpose of the Training Program for Federal TRIO Programs (Training Program) provides grants to train the staff and leadership personnel employed in, participating in, or preparing for employment in, projects funded under the Federal TRIO Programs, to improve project operation.",
       "fit": 68,
@@ -219,11 +169,11 @@
       "estimatedFunding": "19800000",
       "indirectRate": "",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses",
+        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education"
+        "Private institutions of higher education",
+        "For profit organizations other than small businesses"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the American History and Civics Education – National Activities (AHC-NA) program on behalf of the U.S. Department of Education (ED). The purpose of the AHC-NA program is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit students from low-income backgrounds and other underserved populations. America\"s 250th anniversary is a particularly appropriate time to promote innovative teaching and learning that unites our country, honors our history, promotes informed citizenship, and cherishes our freedom as we build the golden age of opportunity. ED encourages applications to include strong partnerships and active collaboration between eligible entities, local educational agencies, and State educational agencies in their design and proposed implementation. Project activities should reflect the best available research and practice in teaching and learning.",
       "fit": 90,
@@ -513,7 +463,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The Integrated Data Systems and Services (IDSS) program supports operations-level national-scale cyberinfrastructure systems and services that broadly advance and facilitate open, data-intensive and artificial intelligence-driven science and engineering research, innovation, and education. Through this solicitation, the IDSS program is accepting proposals for three categories of projects: Category I . Development, deployment, and operation of novel national-scale integrated data systems and services, which may include interfacing with or leveraging other existing capabilities, systems and services, as appropriate to the project; Category II. Transition of established smaller scale, regional, pilot, or prototype data-focused systems and services to national-scale production/operational quality/level. This may also include enhancement and expansion of existing national-scale data-focused operational systems and services; and Category III. Planning grants for future potential development/deployment or transition/enhancement IDSS projects. NSF and the Office of Advanced Cyberinfrastructure (OAC) have long supported the development of innovative foundational and application-specific cyberinfrastructure resources and systems to address data-intensive research needs at the campus, regional, and community scales, through programs such as Cyberinfrastructure for Sustained Scientific Innovation (CSSI) , Campus Cyberinfrastructure (CC*) , and other investments. The primary goal of the IDSS program is to support national-scale foundational data cyberinfrastructure that broadly enables data- and artificial intelligence-driven research for many communities. The IDSS program supports foundational transdisciplinary and demonstrably multi-disciplinary projects aimed to broadly impact the science and engineering research and education community. Projects that aim to primarily benefit a single science discipline, domain, project, or application are not supported. It is recommended that prospective PIs contact program officer(s) from the list of Cognizant Program Officers to gain insight about alignment of their project ideas with the priorities of the IDSS program and Office of Advanced Cyberinfrastructure. As part of contacting Cognizant Program Officers, prospective PIs are also encouraged to ascertain that the focus and budget of their proposed work are appropriate for this solicitation.",
-      "fit": 90,
+      "fit": 94,
       "matchedTerms": [
         "artificial intelligence",
         "data",
@@ -1454,6 +1404,33 @@
       ]
     },
     {
+      "id": "355219",
+      "number": "24-587",
+      "title": "Research on the Science and Technology Enterprise: Indicators, Statistics, and Methods (NCSES S&T)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-01-19",
+      "posted": "2024-07-01",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24587",
+      "awardCeiling": "",
+      "estimatedFunding": "1500000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The National Center for Science and Engineering Statistics (NCSES) of the National Science Foundation (NSF) is one of the thirteen principal federal statistical agencies within the United States. It is responsible for the collection, acquisition, analysis, reporting and dissemination of objective, statistical data related to the science and technology (S&T) enterprise in the United States and other nations that is relevant and useful to practitioners, researchers, policymakers and the public. NCSES uses this information to prepare a number of statistical data reports including Women, Minorities and Persons with Disabilities in Science and Engineering and the National Science Board's biennial report, Science and Engineering (S&E) Indicators. The Center would like to enhance its efforts to support analytic and methodological research in support of its surveys as well as promote the education and training of researchers in the use of large-scale nationally representative datasets. NCSES welcomes efforts by the research community to use NCSES or other data to conduct research on the S&T enterprise, develop improved survey methodologies that could benefit NCSES surveys, explore alternate data sources that could supplement NCSES data, create and improve indicators of S&T activities and resources, strengthen methodologies to analyze S&T statistical data, and explore innovative ways to communicate S&T statistics. To that end, NCSES invites proposals for individual or multi-investigator research projects, doctoral dissertation improvement awards, conferences, experimental research, survey research and data collection, and dissemination projects under its program for Research on the Science and Technology Enterprise: Indicators, Statistics, and Methods (NCSES S&T).",
+      "fit": 94,
+      "matchedTerms": [
+        "data",
+        "science",
+        "technology",
+        "engineering",
+        "survey",
+        "statistical"
+      ]
+    },
+    {
       "id": "344608",
       "number": "23-520",
       "title": "Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining)",
@@ -1592,6 +1569,35 @@
         "undergraduate",
         "college",
         "student success"
+      ]
+    },
+    {
+      "id": "351947",
+      "number": "24-529",
+      "title": "Innovations in Graduate Education (IGE) Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-03-25",
+      "posted": "2024-01-24",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24529",
+      "awardCeiling": "1000000",
+      "estimatedFunding": "14000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Innovations in Graduate Education (IGE) Program is designed to encourage development and implementation of bold, new, and potentially transformative approaches to STEM graduate education training. The program seeks proposals that a) explore ways forgraduate students in STEM master's and doctoral degree programs to develop the skills, knowledge, and competencies needed to pursue a range of STEM careers, or b) support research on the graduate education system and outcomes of systemic interventions and policies. IGE projects are intendedto generate the knowledge required for the customization, implementation, and broader adoption of potentially transformative approaches to graduate education. The program supports piloting, testing, and validating novel models or activities and examining systemic innovations with high potential to enrich and extend the knowledge base on effective graduate education approaches. The program addresses both workforce development, emphasizing broad participation, and institutional capacity-building needs in graduate education. Strategic collaborations with the private sector, non-governmental organizations (NGOs), government agencies, national laboratories, field stations, teaching and learning centers, informal science organizations, and academic partners are encouraged.",
+      "fit": 100,
+      "matchedTerms": [
+        "learning",
+        "outcomes",
+        "workforce",
+        "implementation",
+        "stem",
+        "workforce development",
+        "skills",
+        "science"
       ]
     },
     {
