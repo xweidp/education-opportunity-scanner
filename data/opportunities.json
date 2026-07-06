@@ -1,111 +1,8 @@
 {
-  "scannedAt": "2026-06-29T16:35:15.262Z",
+  "scannedAt": "2026-07-06T16:14:03.275Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "362602",
-      "number": "ED-GRANT-26-038",
-      "title": "FY 26 Postsecondary Student Success Grant 84.116M",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-06-29",
-      "posted": "2026-05-28",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362602",
-      "awardCeiling": "8000000",
-      "estimatedFunding": "45000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education"
-      ],
-      "description": "The purpose of PSSG is to improve postsecondary student outcomes, including retention, transfer, credit accumulation, and completion, by leveraging data and implementing, scaling, and rigorously evaluating evidence-based strategies.",
-      "fit": 100,
-      "matchedTerms": [
-        "data",
-        "outcomes",
-        "evidence",
-        "postsecondary",
-        "student success",
-        "retention",
-        "completion",
-        "transfer"
-      ]
-    },
-    {
-      "id": "362346",
-      "number": "ED-GRANTS-051126-001",
-      "title": "Office of Elementary and Secondary Education (OESE): Comprehensive Centers Program: National Comprehensive Center on Improving Literacy for Students with Disabilities; ALN 84.283D",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-06-30",
-      "posted": "2026-05-11",
-      "status": "posted",
-      "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/school-and-community-improvement-grants/comprehensive-centers-program-national-comprehensive-center-improving-literacy-students",
-      "awardCeiling": "1500000",
-      "estimatedFunding": "1485000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description: The purpose of the Comprehensive Centers (CC) program is to provide capacity-building services to state educational agencies (SEAs), regional educational agencies (REAs), local educational agencies (LEAs), and schools that improve educational opportunities and student outcomes, close achievement gaps, and improve the quality of instruction for all students, particularly for groups of students with the greatest need. The Department intends to fund one Content Center, a National Comprehensive Center on Improving Literacy for Students with Disabilities (NCIL) focused on children in early childhood education programs through high school at risk of not attaining full literacy skills due to a disability, including dyslexia impacting reading or writing, or developmental delay impacting reading, writing, language processing, comprehension, or executive functioning. Assistance Listing Number: 84.283D Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
-      "fit": 62,
-      "matchedTerms": [
-        "outcomes",
-        "literacy",
-        "disability",
-        "skills"
-      ]
-    },
-    {
-      "id": "362342",
-      "number": "ED-GRANTS-050826-001",
-      "title": "Office of Elementary and Secondary Education (OESE): Program and Grantee Support Services: Comprehensive Centers Program, Assistance Listing Number 84.283B",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-06-30",
-      "posted": "2026-05-08",
-      "status": "posted",
-      "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/school-and-community-improvement-grants/comprehensive-centers-program",
-      "awardCeiling": "",
-      "estimatedFunding": "46015000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description: The purpose of the Comprehensive Centers (CC) program is to provide capacity-building services to state educational agencies (SEAs), regional educational agencies (REAs), local educational agencies (LEAs), and schools that improve educational opportunities and student outcomes, close achievement gaps, and improve the quality of instruction for all students, particularly for groups of students with the greatest need. Assistance Listing Number: 84.283B Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
-      "fit": 50,
-      "matchedTerms": [
-        "outcomes"
-      ]
-    },
-    {
-      "id": "362374",
-      "number": "ED-GRANTS-051326-002",
-      "title": "OSERS-OSEP: Personnel Preparation of Special Education, Early Intervention, and Related Services Personnel, Assistance Listing Number (ALN) 84.325K",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-07-02",
-      "posted": "2026-05-13",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362374",
-      "awardCeiling": "350000",
-      "estimatedFunding": "8750000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description: The purposes of the Personnel Development to Improve Services and Results for Children with Disabilities program are to (1) help address State-identified shortages and needs for personnel preparation in special education and early intervention, including infants and toddlers, and youth with disabilities; and (2) ensure that those personnel have the necessary skills and knowledge, derived from practices that have been determined through scientifically based research, to be successful in serving those children. The purpose of the Personnel Preparation of Special Education, Early Intervention, and Related Services Personnel (84.325K) competition is to prepare and increase the number of personnel who have the necessary qualifications to serve children with disabilities. Under this absolute priority, ED will fund grantees that use evidence-based strategies to prepare scholars in special education, early intervention, and related services at the bachelor’s degree, certification, master’s degree, educational specialist degree, or clinical doctoral degree levels to serve in a variety of settings, including natural environments (the home and community settings in which children with and without disabilities participate), early learning programs, child care, classrooms, and schools. Assistance Listing Number (ALN): 84.325K. Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
-      "fit": 76,
-      "matchedTerms": [
-        "learning",
-        "intervention",
-        "evidence",
-        "skills"
-      ]
-    },
     {
       "id": "362512",
       "number": "ED-GRANT-26-026",
@@ -120,8 +17,8 @@
       "estimatedFunding": "4100000",
       "indirectRate": "",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education",
         "Private institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
@@ -169,11 +66,11 @@
       "estimatedFunding": "19800000",
       "indirectRate": "",
       "eligibility": [
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education",
-        "For profit organizations other than small businesses"
+        "Public and State controlled institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the American History and Civics Education – National Activities (AHC-NA) program on behalf of the U.S. Department of Education (ED). The purpose of the AHC-NA program is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit students from low-income backgrounds and other underserved populations. America\"s 250th anniversary is a particularly appropriate time to promote innovative teaching and learning that unites our country, honors our history, promotes informed citizenship, and cherishes our freedom as we build the golden age of opportunity. ED encourages applications to include strong partnerships and active collaboration between eligible entities, local educational agencies, and State educational agencies in their design and proposed implementation. Project activities should reflect the best available research and practice in teaching and learning.",
       "fit": 90,
@@ -489,7 +386,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Program Description- The Individuals with Disabilities Education Act (IDEA) requires the Secretary to provide annually at least $4,000,000 to address the postsecondary, vocational, technical, continuing, and adult education needs of individuals who are deaf or hard of hearing. [1] Aligned with this requirement, through this competition the Department intends to establish a National Technical Assistance Center for Postsecondary Education and Training for Individuals who are Deaf or Hard of Hearing. This competition uses funds from three Department programs: the Technical Assistance and Dissemination to Improve Services and Results for Children with Disabilities (TA&D) program; the Personnel Development to Improve Services and Results for Children with Disabilities (PD) program; and the Educational Technology, Media, and Materials for Individuals with Disabilities (ETechM2) program. Assistance Listing Number: 84.326D. [1] See IDEA Section 682(d)(1)(B). Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions .",
-      "fit": 68,
+      "fit": 72,
       "matchedTerms": [
         "postsecondary",
         "adult education",
@@ -1601,6 +1498,115 @@
       ]
     },
     {
+      "id": "324456",
+      "number": "20-544",
+      "title": "Expeditions in Computing",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-03-31",
+      "posted": "2020-02-14",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf20544",
+      "awardCeiling": "",
+      "estimatedFunding": "60000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The far-reaching impact and rate of innovation in the computer and information science and engineering &#64257;elds has been remarkable, generating economic prosperity and enhancing the quality of life for people throughout the world. More than a decade ago, the National Science Foundation's (NSF) Directorate for Computer and Information Science and Engineering (CISE) established the Expeditions in Computing (Expeditions) program to build on past successes and provide the CISE research and education community with the opportunity to pursue ambitious, fundamental research agendas that promise to de&#64257;ne the future of computing and information. In planning Expeditions projects, investigators are strongly encouraged to come together within or across departments or institutions to combine their creative talents in the identi&#64257;cation of compelling, transformative research agendas that look ahead by at least a decade and promise disruptive innovations in computer and information science and engineering for many years to come. Now funded at levels up to $15,000,000 for seven years, Expeditions projects represent some of the largest single investments currently made by the CISE directorate. Together with the Science and Technology Centers and the National Artificial Intelligence Research Institutes that CISE supports, Expeditions projects form the centerpiece of the directorate's center-scale award portfolio. With awards funded at levels that promote the formation of large research teams, CISE recognizes that concurrent research advances in multiple &#64257;elds or sub-&#64257;elds are often necessary to stimulate deep and enduring outcomes. The awards made in this program will complement research areas supported by other CISE programs, which target particular computer and information science and engineering &#64257;elds. Additionally, CISE offers Innovation Transition (InTrans) awards for teams nearing the end of their Expeditions as well as Secure and Trustworthy Cyberspace (SaTC) and Cyber-Physical Systems (CPS) Frontier projects. The goal of InTransis to continue the long-term vision and objectives of CISE's center-scale projects. Through InTrans awards, CISE will provide limited funds to match industry support.",
+      "fit": 80,
+      "matchedTerms": [
+        "artificial intelligence",
+        "outcomes",
+        "science",
+        "technology",
+        "engineering",
+        "cyber"
+      ]
+    },
+    {
+      "id": "355196",
+      "number": "24-586",
+      "title": "NSF National Quantum Virtual Laboratory - Quantum Testbeds",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-04-06",
+      "posted": "2024-06-28",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24586",
+      "awardCeiling": "",
+      "estimatedFunding": "32000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The National Quantum Initiative (NQI) Act 1 aims to ensure the continuing leadership of the United States (U.S.) in quantum information science and technology. In conformance with the NQI goals, an argument 2-5 was set forth for a renewed emphasis on identifying and fostering early adoption of quantum technologies to transform the field of Quantum Information Science and Engineering (QISE) and to accelerate broader impacts on society. A systematic approach to maturing quantum technology platforms by integrating end-users and potential customers from other fields of science and engineering and other sectors of the economy into cycles of research, development, and demonstration should lower the barriers for end-users to pioneer new applications. NSF support for use-inspired and translational research in QISE, combined with continued strong support of the underlying foundational research, is anticipated to accelerate development of a market for quantum technologies. With this program solicitation, the Foundation is taking the next step in implementing the National Quantum Virtual Laboratory (NQVL) concept as an overarching shared infrastructure designed to facilitate the translation from basic science and engineering to the resultant technology, while at the same time emphasizing and advancing its scientific and technical value. The NQVL aims to develop and utilize use-inspired and application-oriented quantum technologies. In the process, NQVL researchers will explore quantum frontiers 6 , foster the development of QISE education and workforce development strategies, engage in outreach activities at all levels, and promote input and participation from the full spectrum of talent in QISE, thereby lowering barriers at all entry points of the research enterprise. Engagement with all sectors of the United States (U.S.) QISE community will be necessary for this initiative to succeed, and, indeed, the project is designed to include participation from a full spectrum of organizations who have expertise to contribute. In particular, NSF recognizes that the involvement of industry partners is essential and will welcome these to be a part of the overall structure. Partnerships with other U.S. Federal agencies under the NQI umbrella are also encouraged. While this solicitation lays out the vision for the entire NQVL program that includes Quantum Science and Technology Demonstration (QSTD) projects, support for enabling technologies through Transformative Advances in Quantum Systems (TAQS), as well as a central coordination hub, only proposals for Design- and Implementation-phase QSTDs are solicited at this time. Submission of a QSTD:Design proposal is contingent upon the existence of a QSTD:Pilot project in the same topical area, and the positive recommendation from the Conceptual Design Review of the QSTD:Pilot project. The QSTD:Design project builds on progress made in the QSTD:Pilot phase. Submission of a QSTD:Implementation proposal is contingent upon the existence of a QSTD:Design project in the same topical area, and the positive recommendation from the Preliminary Design Review of the QSTD:Design project. The QSTD:Implementation project builds on progress made in the QSTD:Design phase. It is required that prospective PIs contact the NQVL Program Officer(s) as soon as possible, but not later than two weeks before submitting a proposal in response to this solicitation, to ascertain that the focus and budget of their proposal is appropriate for this solicitation. H.R.6227 - National Quantum Initiative Act, https://www.congress.gov/bill/115th-congress/house-bill/6227 Accelerating Progress Towards Practical Quantum Advantage, A National Science Foundation Project Scoping Workshop (2022), https://arxiv.org/abs/2210.14757 Quantum Computer Systems for Scientific Discovery, PRX Quantum 2, 017001 (2021) https://doi.org/10.1103/PRXQuantum.2.017001 Development of Quantum InterConnects for Next-Generation Information Technologies, PRX Quantum 2, 017002 (2021) https://doi.org/10.1103/PRXQuantum.2.017002 Quantum Simulators: Architectures and Opportunities, PRX Quantum 2, 017003 (2021) https://doi.org/10.1103/PRXQuantum.2.017003 Quantum Frontiers: Report on Community Input to the Nation's Strategy for Quantum Information Science, https://www.quantum.gov/wp-content/uploads/2020/10/QuantumFrontiers.pdf",
+      "fit": 98,
+      "matchedTerms": [
+        "infrastructure",
+        "workforce",
+        "implementation",
+        "workforce development",
+        "science",
+        "technology",
+        "engineering"
+      ]
+    },
+    {
+      "id": "351923",
+      "number": "24-528",
+      "title": "EPSCoR Research Infrastructure Improvement (RII): EPSCoR Research Fellows",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-04-13",
+      "posted": "2024-01-23",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24528",
+      "awardCeiling": "",
+      "estimatedFunding": "15000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Established Program to Stimulate Competitive Research is designed to fulfill the mandate of the National Science Foundation (NSF) to promote scientific progress nationwide. NSF EPSCoR facilitates the establishment of partnerships among academic institutions, government, industry, and non-profit sectors that are designed to promote sustainable improvements in a jurisdiction's research infrastructure, Research and Development (R&D) capacity, and R&D competitiveness of EPSCoR-eligible jurisdictions (i.e., states, territories, and commonwealths). Eligibility to participate in the EPSCoR funding opportunities, including the EPSCoR RII: EPSCoR Research Fellows program, is described on the NSF EPSCoR website . EPSCoR RII: EPSCoR Research Fellows directly aligns with the NSF EPSCoR strategic goal of establishing sustainable Science, Technology, Engineering, and Mathematics (STEM) professional development pathways that advance workforce development and effects engagement in STEM at national and global levels. EPSCoR RII: EPSCoR Research Fellows provides awards to build researchcapacityin institutions and transform the career trajectories of investigators and further develop their individual research potential through collaborations with investigators from the nation's premier private, governmental, or academic research institutions and/or centers. The fellowship provides opportunities to establish strong collaborations through extended or periodic collaborative visits to a selected host site.Through collaborative research activities with the host site, Fellows will be able to learn new techniques, develop new collaborations, advance existing partnerships, benefit from access to unique equipment and facilities, and/or shift their research toward potentially transformative new directions. The experiences gained through the fellowships are intended to have lasting impacts that will enhance the Fellows' research trajectories well beyond the award period. The benefits to the Fellows are also expected to improve the research capacity of their institutions and jurisdictions more broadly. EPSCoR Research Infrastructure Improvement (RII): EPSCoR Research Fellows offers the following two tracks: 1)EPSCoR Research Fellows: NSF; and 2) EPSCoR Research Fellows: @NASA&#8239; While the two tracks have similar goals, EPSCoR Research Fellows: NSF is open to a broad community and EPSCoR Research Fellows: @NASA supports faculty from eligible institutions (See Section\"IV. Eligibility Information\" for more details) to collaborate with researchers at the National Aeronautics and Space Administration (NASA) research centers. PIs who are eligible for both tracks may apply for only one track per competition cycle. Proposals from both tracks are submitted to and merit reviewed by NSF. Awards in the EPSCoR Research Fellows: @NASA track are referred to NASA EPSCoR for distribution of additional NASA funds and other needed NASA coordination required for the award. In both tracks, the EPSCoR RII: EPSCoR Research Fellows program provides opportunities for the participation of one trainee, who must be an undergraduate or graduate student enrolled full-time in an accredited degree program, or a postdoctoral researcher from an EPSCoR jurisdiction. Staff members, such as technicians or lab assistants could be considered as trainees when properly justified.",
+      "fit": 100,
+      "matchedTerms": [
+        "infrastructure",
+        "open",
+        "workforce",
+        "professional development",
+        "stem",
+        "undergraduate",
+        "career",
+        "workforce development"
+      ]
+    },
+    {
+      "id": "358036",
+      "number": "25-533",
+      "title": "Findable Accessible Interoperable Reusable Open Science",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-04-14",
+      "posted": "2025-01-07",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25533",
+      "awardCeiling": "",
+      "estimatedFunding": "6000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The FAIROS Program seeks to support a broad range of transformative open science activities including but not limited to&#8239;i.)&#8239;Research, education, and socio-technical cyberinfrastructure development capacities that advance sustainable multi-disciplinary findable, accessible, interoperable, reusable (FAIR) research data management (RDM) and open science capabilities,&#8239;ii.)&#8239;Piloting new models of scientific communication and publication that improve efficiency and accessibility,&#8239;iii.)&#8239;Developing FAIROS data portals, research data commons, RDM as a national service, and&#8239;iv.)&#8239;Lowering barriers to accessing, curating, integrating, linking, managing, sharing, and storing data across many disciplinary domains, irrespective of data size. The program supports innovation across the cyberinfrastructure (CI) ecosystem to address accessibility, data curation, research data management, discoverability, reliability, reproducibility, preservation, sustainability, and utility of research products, including data software, and code, developed as part of funded projects. FAIROS proposals must select one of two tracks to focus on, either: 1)&#8239;Disciplinary Improvements&#8239;to targeted scientific communities, or&#8239;2)&#8239;Cross-Cutting Improvements&#8239;that apply to many or most scientific disciplines.&#8239;In the case of proposals focused on Disciplinary Improvements, it is strongly recommended that prospective PIs contact a program officer from the list of Cognizant Program Officers in the directorate closest to the major disciplinary impact of the proposed work to ascertain that the scientific focus and budget of the proposed work are appropriate for this solicitation. In the case of proposals focused on Cross-Cutting Improvements, it is strongly recommended that prospective PIs contact the&#8239;cognizant program officer from the Office of Advanced Cyberinfrastructure (OAC). After selecting either Disciplinary Improvements or Cross-Cutting Improvements in which to focus research, the proposal must include the kinds of activities relevant to the selected track.&#8239;Standard research proposals are the only type of proposal accepted in response to this solicitation. The FAIROS Program is undertaken in support of the US NSF Public Access Initiative. For more information on the US NSF Public Access Initiative please visit&#8239; https://new.nsf.gov/public-access .",
+      "fit": 86,
+      "matchedTerms": [
+        "data",
+        "open",
+        "accessibility",
+        "science"
+      ]
+    },
+    {
       "id": "watchlist-arnold-ventures-3",
       "number": "",
       "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
@@ -1624,6 +1630,27 @@
         "career pathways",
         "pathways",
         "causal"
+      ]
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-7",
+      "number": "",
+      "title": "GSPP Planning and Implementation Grant RFA",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r17/gspppi23rfa.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. GSPP Planning and Implementation Grant RFA",
+      "fit": 70,
+      "matchedTerms": [
+        "implementation"
       ]
     },
     {
@@ -2011,24 +2038,43 @@
     {
       "id": "watchlist-california-department-of-education-funding-4",
       "number": "",
-      "title": "RFA-25: CSESAP",
+      "title": "RFA-26: CSESAP",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r14/csesap25rfa.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r14/csesap26rfa.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. RFA-25: CSESAP",
+      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: CSESAP",
       "fit": 52,
       "matchedTerms": []
     },
     {
       "id": "watchlist-california-department-of-education-funding-5",
+      "number": "",
+      "title": "RFA-26: CTEIG",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r17/cteig26rfa.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: CTEIG",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-6",
       "number": "",
       "title": "Request for Applications",
       "source": "California Department of Education Funding",
@@ -2043,25 +2089,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-6",
-      "number": "",
-      "title": "RFA-26: CSESAP",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r14/csesap26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: CSESAP",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2428,6 +2455,25 @@
     },
     {
       "id": "watchlist-nevada-department-of-education-grants-1",
+      "number": "",
+      "title": "7/1/2026 - Nevada Ready! Pre-K Common Application Launches July 1",
+      "source": "Nevada Department of Education Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://doe.nv.gov/news-media/2026-press-releases/nevada-ready-pre-k-common-application-launches-july-1",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Nevada Department of Education Grants. 7/1/2026 - Nevada Ready! Pre-K Common Application Launches July 1",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-nevada-department-of-education-grants-2",
       "number": "",
       "title": "3/23/2026 - Nevada Department of Education Seeks Public Comment on IDEA Application",
       "source": "Nevada Department of Education Grants",
