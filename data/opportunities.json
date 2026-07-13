@@ -1,57 +1,8 @@
 {
-  "scannedAt": "2026-07-06T16:14:03.275Z",
+  "scannedAt": "2026-07-13T15:40:01.384Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "362512",
-      "number": "ED-GRANT-26-026",
-      "title": "Training Program for Federal TRIO Programs",
-      "source": "Office of Postsecondary Education",
-      "agencyCode": "DOL-OPE",
-      "deadline": "2026-07-06",
-      "posted": "2026-05-21",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362512",
-      "awardCeiling": "1100000",
-      "estimatedFunding": "4100000",
-      "indirectRate": "",
-      "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education",
-        "Private institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-      ],
-      "description": "Administration at the U.S. Department of Labor (Labor), is soliciting applications in support of the administration of the TRIO Training Program on behalf of the U.S. Department of Education (ED). The purpose of the Training Program for Federal TRIO Programs (Training Program) provides grants to train the staff and leadership personnel employed in, participating in, or preparing for employment in, projects funded under the Federal TRIO Programs, to improve project operation.",
-      "fit": 68,
-      "matchedTerms": [
-        "postsecondary",
-        "trio"
-      ]
-    },
-    {
-      "id": "362705",
-      "number": "ED-GRANTS-060526-001",
-      "title": "Office of Postsecondary Education (OPE): Centers Aligned with Areas for National Need (CAANN) Program Assistance Listing Number: 84.015C",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-07-07",
-      "posted": "2026-06-05",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362705",
-      "awardCeiling": "",
-      "estimatedFunding": "70000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description: In coordination with the Bureau of Educational and Cultural Affairs at the U.S. Department of State (State), the U.S. Department of Education (ED) is soliciting applications in support of the administration of the Centers Aligned with Areas for National Need program. This program provides grants to institutions of higher education (IHEs) or consortia of IHEs to address one or more of the following areas of national need by teaching languages of strategic importance to the United States’ national security and economic prosperity, such as Spanish, Portuguese, Italian, Hungarian, Polish, Russian, Czech, Arabic, Swahili, Hausa, Hindi, Urdu, Mandarin, Korean, Japanese, Farsi, Bahasa, Thai, and other languages; providing instruction in fields needed to provide understanding of areas, regions, or countries in which the language is used; supporting research and training in international studies and the international and foreign language aspects of professional and other fields of study; and advancing the national security interests of the United States by providing instruction on critical regions such as Latin America, Europe, Eurasia, Middle East, Africa, and Asia. Assistance Listing Number: 84.015C. Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions .",
-      "fit": 54,
-      "matchedTerms": [
-        "postsecondary",
-        "higher education"
-      ]
-    },
     {
       "id": "362563",
       "number": "DOL-OESE-34068",
@@ -66,11 +17,11 @@
       "estimatedFunding": "19800000",
       "indirectRate": "",
       "eligibility": [
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "For profit organizations other than small businesses",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the American History and Civics Education – National Activities (AHC-NA) program on behalf of the U.S. Department of Education (ED). The purpose of the AHC-NA program is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit students from low-income backgrounds and other underserved populations. America\"s 250th anniversary is a particularly appropriate time to promote innovative teaching and learning that unites our country, honors our history, promotes informed citizenship, and cherishes our freedom as we build the golden age of opportunity. ED encourages applications to include strong partnerships and active collaboration between eligible entities, local educational agencies, and State educational agencies in their design and proposed implementation. Project activities should reflect the best available research and practice in teaching and learning.",
       "fit": 90,
@@ -497,7 +448,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Program Description: The purpose of the Technical Assistance and Dissemination to Improve Services and Results for Children with Disabilities program is to promote academic achievement and to improve results for children with disabilities by providing technical assistance (TA), supporting model demonstration projects, disseminating useful information, and implementing activities that are supported by scientifically based research. The 2024 National Assessment of Education Progress results illustrate the significant achievement gaps in reading and mathematics for students with disabilities. [1] Local educational agencies (LEAs) and schools need to continuously improve their systems and practices to address achievement gaps of students with disabilities and support educators’ implementation of evidence-based literacy and mathematics instruction that meet the individualized needs of students with disabilities so they are prepared for success in school and postsecondary opportunities. Through this competition and to address these needs, the Department intends to establish a National Center on Academic Interventions. [1] The National Assessment of Educational Progress (2024). https://www.nationsreportcard.gov/dashboards/achievement_gaps.aspx . ALN: 84.326Q Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage .",
-      "fit": 80,
+      "fit": 84,
       "matchedTerms": [
         "evidence",
         "literacy",
@@ -553,7 +504,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The long-range goal of the Research Training Groups in the Mathematical Sciences (RTG) program is to strengthen the nation's scientific competitiveness by increasing the number of well-prepared U.S. citizens, nationals, and permanent residents who pursue careers in the mathematical sciences, be they in academia, government, or industry. The RTG program supports efforts to improve graduate student research training and professional development through structured groups pursuing collaborative research. In addition to graduate student trainees working with faculty members, RTG supported research teams may, but are not required to, include undergraduate or postdoctoral trainees. The RTG program invites submissions in all fields within mathematical sciences; especially encouraged in 2024-2025 are those that align and integrate research in mathematics and statistics with emerging areas such asArtificial Intelligence, Biotechnology,Quantum Computing, and Cybersecurity.",
-      "fit": 86,
+      "fit": 90,
       "matchedTerms": [
         "professional development",
         "undergraduate",
@@ -1607,6 +1558,64 @@
       ]
     },
     {
+      "id": "356536",
+      "number": "PD-24-7789",
+      "title": "Geospace Cluster",
+      "source": "National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2024-09-26",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506312",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Geospace Cluster (GC) in the Division of Atmospheric and Geospace Sciences (AGS) supports fundamental and solutions-oriented research, technology development and education related to the Earth's near-space environment (including the mesosphere, thermosphere, ionosphere, exosphere, magnetosphere and radiation belts) and the inner heliosphere and solar atmosphere. The GC advances knowledge of the Sun--Earth system, including how various parts of the system are coupled through dynamical, electrodynamical and chemical processes. The GC supports research on the societal impacts of these processes including space weather and upper atmosphere climate change, with the aim of increasing resilience to such natural hazards. The GC supports research that uses ground-based or space-based observational facilities and instruments as well as data centers and a broad range of theoretical, modeling, observational, data analyses and laboratory activities. General research topics that are supported by the GC include, but are not limited to: Aeronomy, including studies of wave dynamics, ionization, recombination, chemical reaction, photo emission and transport of energy and momentum within and between the mesosphere, thermosphere and ionosphere of the Earth; how this global system is coupled to the stratosphere below and magnetosphere above; and the plasma physics of phenomena manifested in the coupled ionosphere-magnetosphere system. Magnetospheric physics, including studies of the magnetosphere, or the cavity carved out of the solar wind by the Earth's magnetic field, its energization by the solar wind and population by solar and ionospheric sources; waves and instabilities in such natural plasmas; the origin of planetary electric fields; the origin of geomagnetic storms and substorms; and the coupling among the radiation belts, magnetosphere, ionosphere and atmosphere. Solar-terrestrial physics, including how energy generation and eruptive processes occur in the solar atmosphere and how energy and momentum are transported within the Sun-Earth system; solar dynamo, solar activity cycle and magnetic flux emergence; eruptive activity including solar flares and coronal mass ejections; solar wind heating, solar energetic particles and interactions with cosmic rays; solar wind/magnetosphere boundary; and helioseismology. Space weather and space climate, including solar or terrestrial drivers of space weather; observations and modeling of the integrative geospace system that could lead to better predictive capabilities of the time-varying space environment; and characterization of space weather impacts on critical infrastructure and technological systems. Proposals to the GC are welcome at any time. However, the following solicitations in support of specific geospace science and community efforts have target dates or deadlines. They also may have PI and/or Institution restrictions. Please refer to the solicitation documents for further details: The Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR) targeted research program aims to understand the behavior of the Earth's atmospheric regions from the middle atmosphere upward through the thermosphere and ionosphere into the exosphere in terms of coupling, energetics, chemistry and dynamics on regional and global scales. The Geospace Environment Modeling (GEM) targeted research program supports investigations of the physics of the Earth's magnetosphere and the coupling of the magnetosphere to the atmosphere and solar wind, including for making accurate predictions of the geospace environment. The Solar, Heliospheric, and Interplanetary Environment (SHINE) targeted research program supports enhanced understanding of and predictive capabilities for the processes by which energy in the form of magnetic fields and particles are produced by the Sun and/or accelerated in interplanetary space and on the mechanisms by which these fields and particles are transported to the Earth through the inner heliosphere. The Faculty Development in geoSpace Science (FDSS) solicitation integrates topics in geospace science, including solar and space physics and space weather research, into natural sciences, engineering or related departments at U.S. institutions of higher education. The solicitation also stimulates the development of undergraduate or graduate programs or curricula to train the next generation of leaders in geospace science. The Geospace Cluster participates in other AGS, GEO and NSF programs and solicitations including but not limited to: Distributed Array of Small Instruments (DASI) ECosystem for Leading Innovation in Plasma Science and Engineering (ECLIPSE) AGS encourages and inspires scientific leaders by investing in the atmospheric and geospace sciences, enhancing educational opportunities and experiences and supporting faculty and researchers at all career stages. The Division expects that proposers will integrate education, outreach and dissemination activities into their research plans in compliance with NSF Broader Impacts Merit Review criteria. AGS invites proposals that include plans for workforce development, educational and outreach activities, open science initiatives and efforts to broaden participation and encourage diverse talent in the atmosphere and geospace sciences. Furthermore, AGS encourages proposals from all institutions, including Minority Serving Institutions, Emerging Research Institutions and institutions in EPSCoR jurisdictions. The Proposal & Award Policies & Procedures Guide (PAPPG) provides the instructions for submitting proposals to AGS. Additionally, Chapter II.F of the PAPPG defines \"Other Types of Proposals,\" including community-building proposals such as Conference, Travel or Planning Proposals and special categories of proposals, such as Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER). Proposals that are not compliant with the PAPPG will be returned without review. The following sections highlight specific NSF-, GEO-, or AGS-wide solicitations that may be relevant to the AGS Community. Please be aware that solicitations are frequently updated, so make sure that you are looking at the most recent version. Career Development AGS Postdoctoral Research Fellowship (AGS-PRF) : The AGS-PRF program supports researchers (also known as Fellows) for up to 24 months at the institution of their choice. The program is intended to recognize beginning investigators of significant potential and provide them with research experience that will broaden perspectives, facilitate interdisciplinary interactions, and establish them in leadership positions within the AGS community. Faculty Early Career Development Program (CAREER) : The CAREER program supports early career (assistant professor-level) faculty who have the potential to serve as academic role models in research and education and to lead advances for their department or organization. Awards are 5 years long and must integrate research and education. Mid-Career Advancement (MCA) : The MCA program provides opportunities for scientists and engineers at the associate professor rank (or equivalent) to substantively enhance and advance their research program through synergistic partnerships. Capacity Development EMpowering BRoader Academic Capacity and Education (EMBRACE) : The EMBRACE program supports research and educational efforts at \"non-R1\" institutions, including non-R1 minority serving institutions (MSIs), two-year colleges (2YCs), primarily undergraduate institutions (PUIs), and emerging research (ERIs) and master's level institutions. Historically Black Colleges and Universities Excellence in Research (HBCU - EiR) : The HBCU-EiR program supports research at public and private historically Black colleges and universities to strengthen research capacity and promote engagement with NSF. Facilitating Research at Primarily Undergraduate Institutions (RUI and ROA): RUI awards support PUI faculty in research that engages them in their professional field(s), build capacity for research at their home institution, and support the integration of research and undergraduate education. ROA awards similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators. Instrumentation and Facilities Major Research Instrumentation : The MRI program supports requests for up to $4 million from NSF for the development or acquisition of multi-user research instruments that are critical to the advancement of science and engineering. Mid-scale Research Infrastructure-1 : The MSRI-1 program supports the design and implementation of research infrastructure--including equipment, cyberinfrastructure, large-scale datasets and personnel--whose total project costs exceed the NSF Major Research Instrumentation program limit but are under $20 million. Mid-scale Research Infrastructure-2 : The MSRI-2 program supports the implementation of research infrastructure--including equipment, cyberinfrastructure, large-scale datasets and personnel--whose total project costs fall between $20 million and $100 million.",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
+        "infrastructure",
+        "open",
+        "workforce",
+        "implementation",
+        "higher education",
+        "undergraduate",
+        "career"
+      ]
+    },
+    {
+      "id": "353475",
+      "number": "PD-24-7414",
+      "title": "Cyberinfrastructure for Public Access and Open Science",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2024-04-10",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506307",
+      "awardCeiling": "600000",
+      "estimatedFunding": "600000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Cyberinfrastructure for Public Access and Open Science (CI PAOS) program within the Office of Advanced Cyberinfrastructure (OAC) aims to catalyze new and transformative socio-technical partnerships supporting research data infrastructure ecosystems across d omains through early-stage collaborative activities between cyberinfrastructure researchers, scie ntists , research computing experts, data management experts , research labs , university libraries , and other communities of practice. The CI PAOS program supports the NSF Public Access Initiative by encouraging innovation across the CI ecosystem t o address accessibility, discoverability, reliability, reproducibility, sustainability, and utility of data products in alignment with NSF and national goals for public access and open science [ See: NSF Public Access Initiative , Office of Science and Technology Policy Memorandum on Ensuring Free, Immediate, and equitable Access to Federally funded Research , and Desirable Characteristics of Data Repositories for Federally Funded Research ] . CI PAOS builds on previous investments including those through Dear Colleague Letters NSF 19-069 , NSF 20 -068 , NSF 23-018 , and the FAIROS R esearch C oordination N etworks ( RCN ) p rogram solicitation ( NSF 22-553 ) . NSF accepts proposals pursuant to this Program Description year-round. From time to time , NSF may also issue Dear Colleague Letters to encourage proposals on special thema tic interests and opportunities related to this progra m . GUIDANCE TO POTENTIAL PROPOSERS A primary feature of successful CI PAOS projects is a robust, synergistic collaborative team comprising skills from across communities of science/engineering, research data science, and information science discipline(s) and expertise in leveraging connections between cyberinfrastructure researchers and providers and data specialists . Leveraging international collaboration to build shared norms and address c hallenges related to developing and implementing PAOS policies and practices is encouraged . Research and education in science and engineering benefit immensely from international cooperation. P roposals with an international component are also welcome [See: International Collaborations Opportunities at NSF ] . Proposers must target one or more of th e following themes/pathways: Competency Building, Capability Building, and /or Community Building. Competency Building Open s cience /engineering-driven collaboration . A socio -technical collaborative approach in addressing disciplinary , interdisciplinary , domestic, and international data lifecycle challenges is critical to informing and guiding the development of principles, requirements , and standards of a CI ecosystem that fosters pipelines to good data management and pathways to access. Propos al s should clearly describe the goals, challenges, and rationale for the proposed data science and engineering project and include an explanation of the potential for transformative research and broader impacts on the open science ecosystem [ See: U.S. NSF Broader Impacts ] . Successful proposals will also clearly identify utilization science scenarios and use cases . C apability Building Exploratory and pilot activities. <span class=\"TextRun SCXW92189242 BCX4\" lang=\"EN-US\" xml:lang=\"EN-US\" d",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
+        "infrastructure",
+        "open",
+        "accessibility",
+        "university",
+        "skills",
+        "science",
+        "technology"
+      ]
+    },
+    {
       "id": "watchlist-arnold-ventures-3",
       "number": "",
       "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
@@ -1630,27 +1639,6 @@
         "career pathways",
         "pathways",
         "causal"
-      ]
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-7",
-      "number": "",
-      "title": "GSPP Planning and Implementation Grant RFA",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/gspppi23rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. GSPP Planning and Implementation Grant RFA",
-      "fit": 70,
-      "matchedTerms": [
-        "implementation"
       ]
     },
     {
@@ -2019,25 +2007,6 @@
     {
       "id": "watchlist-california-department-of-education-funding-3",
       "number": "",
-      "title": "Ag CTE Incentive Grant RFA FY 2026-27",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/agin26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Ag CTE Incentive Grant RFA FY 2026-27",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-4",
-      "number": "",
       "title": "RFA-26: CSESAP",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
@@ -2055,26 +2024,26 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-california-department-of-education-funding-5",
+      "id": "watchlist-california-department-of-education-funding-4",
       "number": "",
-      "title": "RFA-26: CTEIG",
+      "title": "Ag CTE Incentive Grant RFA FY 2026-27",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/cteig26rfa.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r17/agin26rfa.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: CTEIG",
+      "description": "State funding. Matched source page for California Department of Education Funding. Ag CTE Incentive Grant RFA FY 2026-27",
       "fit": 52,
       "matchedTerms": []
     },
     {
-      "id": "watchlist-california-department-of-education-funding-6",
+      "id": "watchlist-california-department-of-education-funding-5",
       "number": "",
       "title": "Request for Applications",
       "source": "California Department of Education Funding",
@@ -2089,6 +2058,25 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-6",
+      "number": "",
+      "title": "RFA-25: CSESAP",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r14/csesap25rfa.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. RFA-25: CSESAP",
       "fit": 52,
       "matchedTerms": []
     },
