@@ -1,193 +1,8 @@
 {
-  "scannedAt": "2026-07-13T15:40:01.384Z",
+  "scannedAt": "2026-07-20T15:04:04.421Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "362563",
-      "number": "DOL-OESE-34068",
-      "title": "American History and Civics National Activities - 84.422B",
-      "source": "Office of Elementary and Secondary Education",
-      "agencyCode": "DOL-OESE",
-      "deadline": "2026-07-13",
-      "posted": "2026-05-26",
-      "status": "posted",
-      "url": "https://www.ed.gov/grants-and-programs/grants-birth-grade-12/well-rounded-education-grants/american-history-and-civics-national-activities-grants",
-      "awardCeiling": "",
-      "estimatedFunding": "19800000",
-      "indirectRate": "",
-      "eligibility": [
-        "Private institutions of higher education",
-        "Public and State controlled institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-      ],
-      "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the American History and Civics Education – National Activities (AHC-NA) program on behalf of the U.S. Department of Education (ED). The purpose of the AHC-NA program is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit students from low-income backgrounds and other underserved populations. America\"s 250th anniversary is a particularly appropriate time to promote innovative teaching and learning that unites our country, honors our history, promotes informed citizenship, and cherishes our freedom as we build the golden age of opportunity. ED encourages applications to include strong partnerships and active collaboration between eligible entities, local educational agencies, and State educational agencies in their design and proposed implementation. Project activities should reflect the best available research and practice in teaching and learning.",
-      "fit": 90,
-      "matchedTerms": [
-        "learning",
-        "evidence",
-        "professional development",
-        "implementation"
-      ]
-    },
-    {
-      "id": "362373",
-      "number": "ED-GRANTS-051326-001",
-      "title": "OSERS-OSEP: Expanding Career Pathways and Workforce Readiness of Special Education Teachers and Early Intervention Personnel Through Registered Apprenticeships, Assistance Listing Number (ALN) 84.325J",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-07-13",
-      "posted": "2026-05-13",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362373",
-      "awardCeiling": "1000000",
-      "estimatedFunding": "7000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description: The purposes of the Personnel Development to Improve Services and Results for Children with Disabilities program are to (1) help address State-identified shortages and needs for personnel preparation in special education and early intervention, including infants, toddlers, children, and youth with disabilities; and (2) ensure that those personnel have the necessary skills and knowledge, derived from practices that have been determined through scientifically based research, to be successful in serving those children. The purpose of the Expanding Career Pathways and Workforce Readiness of Special Education Teachers and Early Intervention Personnel Through Registered Apprenticeships competition is to fund cooperative agreements that support registered apprenticeship1 programs that attract, prepare, and retain special education teachers or early intervention personnel. This priority is particularly relevant for special education and early intervention, where high-quality preparation must be accessible, practice-based, and closely integrated with service delivery systems. Preparing qualified special education teachers and early intervention personnel through registered apprenticeship programs addresses critical workforce shortages, integrating work-based learning, and connecting preparation with local and State labor demands. 1Note: ED encourages applicants to consider the definition of Registered Apprenticeship Program as defined in 5 CFR 362.102 and 29 CFR part 29. Assistance Listing Number: 84.325J. Applicants are required to follow the 2025 Common Instructions for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage.",
-      "fit": 74,
-      "matchedTerms": [
-        "learning",
-        "intervention",
-        "workforce",
-        "career",
-        "career pathways",
-        "skills",
-        "pathways"
-      ]
-    },
-    {
-      "id": "362416",
-      "number": "DOL-OESE-34120",
-      "title": "National Professional Development Program",
-      "source": "Office of Elementary and Secondary Education",
-      "agencyCode": "DOL-OESE",
-      "deadline": "2026-07-14",
-      "posted": "2026-05-15",
-      "status": "posted",
-      "url": "https://www.ed.gov/grants-and-programs/teacher-preparation-grants/national-professional-development-program",
-      "awardCeiling": "1000000",
-      "estimatedFunding": "49000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Public and State controlled institutions of higher education"
-      ],
-      "description": "The NPD program provides grants to public and private nonprofit institutions of higher education (IHEs) and public and private entities with relevant experience and capacity, in consortia with State educational agencies (SEAs) and/or local educational agencies (LEAs) to implement pre-service and in-service professional development activities.",
-      "fit": 82,
-      "matchedTerms": [
-        "professional development",
-        "higher education"
-      ]
-    },
-    {
-      "id": "344124",
-      "number": "23-510",
-      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-07-15",
-      "posted": "2022-10-20",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23510",
-      "awardCeiling": "2000000",
-      "estimatedFunding": "61000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "Synopsis of Program: The fields of science, technology, engineering, and mathematics (STEM) hold much promise as sectors of the economy where we can expect to see continuous vigorous growth in the coming decades. STEM job creation is expected to outpace non-STEM job creation significantly, according to the Commerce Department, reflecting the importance of STEM knowledge to the US economy. The National Science Foundation (NSF) plays a leadership role in developing and implementing efforts to enhance and improve STEM education in the United States. Through the NSF Improving Undergraduate STEM Education (IUSE) initiative, the agency continues to make a substantial commitment to the highest caliber undergraduate STEM education through a Foundation-wide framework of investments. The IUSE: EDU is a core NSF STEM education program that seeks to promote novel, creative, and transformative approaches to generating and using new knowledge about STEM teaching and learning to improve STEM education for undergraduate students. The program is open to application from all institutions of higher education and associated organizations. NSF places high value on educating students to be leaders and innovators in emerging and rapidly changing STEM fields as well as educating a scientifically literate public. In pursuit of this goal, IUSE: EDU supports projects that seek to bring recent advances in STEM knowledge into undergraduate education, that adapt, improve, and incorporate evidence-based practices into STEM teaching and learning, and that lay the groundwork for institutional improvement in STEM education. In addition to innovative work at the frontier of STEM education, this program also encourages replication of research studies at different types of institutions and with different student bodies to produce deeper knowledge about the effectiveness and transferability of findings. IUSE: EDU also seeks to support projects that have high potential for broader societal impacts, including improved diversity of students and instructors participating in STEM education, professional development for instructors to ensure adoption of new and effective pedagogical techniques that meet the changing needs of students, and projects that promote institutional partnerships for collaborative research and development. IUSE: EDU especially welcomes proposals that will pair well with the efforts of NSF INCLUDES ( https://www.nsf.gov/news/special_reports/nsfincludes/index.jsp ) to develop STEM talent from all sectors and groups in our society. For all the above objectives, the National Science Foundation invests primarily in evidence-based and knowledge-generating approaches to understand and improve STEM learning and learning environments, improve the diversity of STEM students and majors, and prepare STEM majors for the workforce. In addition to contributing to STEM education in the host institution(s), proposals should have the promise of adding more broadly to our understanding of effective teaching and learning practices. The IUSE: EDU program features two tracks: (1) Engaged Student Learning and (2) Institutional and Community Transformation.",
-      "fit": 100,
-      "matchedTerms": [
-        "open",
-        "learning",
-        "evidence",
-        "workforce",
-        "professional development",
-        "stem",
-        "higher education",
-        "undergraduate"
-      ]
-    },
-    {
-      "id": "45812",
-      "number": "PD-98-1311",
-      "title": "Linguistics",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-07-15",
-      "posted": "2009-03-06",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5408",
-      "awardCeiling": "",
-      "estimatedFunding": "6000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Linguistics Program supports basic science in the domain of human language, encompassing investigations of the grammatical properties of individual human languages, and of natural language in general. Research areas include syntax, semantics, morphology, phonetics and phonology. The program encourages projects that are interdisciplinary in methodological or theoretical perspective, and that address questions that cross disciplinary boundaries, such as (but not limited to): What are the psychological processes involved in the production, perception, and comprehension of language? What are the computational properties of language and/or the language processor that make fluent production, incremental comprehension or rapid learning possible? How do the acoustic and physiological properties of speech inform our theories of natural language and/or language processing? What role does human neurobiology play in shaping the various grammatical properties of language? How does language develop in natural learning contexts across the life-span? What social and cultural factors underlie language variation and change? Because NSF's mandate is to support basic research, the Linguistics Program does not fund research that takes as its primary goal improved clinical practice or applied policy, nor does it support work to develop or assess pedagogical methods or tools for language instruction. The Linguistics Program accepts proposals for a variety of project types: research proposals from scholars with PhDs or equivalent degrees, proposals for Doctoral Dissertation Research Improvement (LING-DDRI) awards, and CAREER proposals. We will also consider proposals for conferences. Funding requests for conference support should be submitted in accordance with the Conference Proposals section of Chapter II of NSF's Proposal & Award Policies & Procedures Guide (PAPPG) . NSF's Division of Behavioral and Cognitive Sciences (BCS), in partnership with the National Endowment for the Humanities and in collaboration with programs in other NSF Directorates, supports efforts to develop and advance knowledge and infrastructure that will enable the analysis of languages that are both understudied and at risk of falling out of use. In recognition of the critical relevance of these languages to understanding the range and limits of human linguistic and cultural variation, BCS accepts research and dissertation proposals in response to solicitations NSF Dynamic Language Infrastructure - NEH Documenting Endangered Languages (DLI-DEL) and Dynamic Language Infrastructure - Doctoral Dissertation Research Improvement Grants (DLI-DDRI) . For more information about Multidisciplinary Research and Training Opportunities, please visit the SBE Office of Multidisciplinary Activities web site.",
-      "fit": 90,
-      "matchedTerms": [
-        "infrastructure",
-        "learning",
-        "career",
-        "science"
-      ]
-    },
-    {
-      "id": "362799",
-      "number": "ED-GRANTS-061526-001",
-      "title": "Office of Postsecondary Education (OPE):Mutual Educational and Cultural Exchange (MECE) Program, Assistance Listing Number 84.021C",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-07-15",
-      "posted": "2026-06-15",
-      "status": "posted",
-      "url": "https://www.ed.gov/grants-and-programs/grants-higher-education/international-and-foreign-language-education/centers-aligned-areas-national-need-caann-program-84015c",
-      "awardCeiling": "",
-      "estimatedFunding": "10193170",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description: In coordination with the Bureau of Educational and Cultural Affairs at the U.S. Department of State (State), the U.S. Department of Education (ED) is soliciting applications in support of the administration of the Mutual Educational and Cultural Exchange (MECE) program. The purpose of the program is to promote, improve, and develop the study of modern foreign language training and area studies in U.S. schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers. The program provides opportunities for teachers and prospective teachers to improve their skill in languages, their knowledge of the culture of the people of other countries, and finances visits by teachers from those other countries to the United States for the purpose of participating in foreign language training and area studies in U.S. schools, colleges, and universities. Assistance Listing Number: 84.021C Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions .",
-      "fit": 50,
-      "matchedTerms": [
-        "postsecondary"
-      ]
-    },
-    {
-      "id": "361664",
-      "number": "26-508",
-      "title": "TechAccess: AI-Ready America",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-07-16",
-      "posted": "2026-03-25",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26508",
-      "awardCeiling": "4000000",
-      "estimatedFunding": "224000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "TechAccess: AI-Ready America is a national-scale initiative to accelerate Artificial Intelligence (AI) readiness and adoption across the U.S. by strengthening coordination, leveraging partnerships and resources, filling gaps, and scaling what works-so local and state priorities can lead in shaping an AI-driven economy that benefits all Americans. Unlike initiatives centered around K-16 education, AI-Ready America additionally reaches businesses, public-serving organizations, and individuals, among others, expanding access to AI knowledge, tools, and resources. The program also emphasizes practical implementation through hands-on assistance and workforce upskilling, including experiential learning such as internships, project-based work, and apprenticeships, to ensure stakeholders can effectively apply and innovate with AI. The program supports: (1) State/Territory Coordination Hubs (Coordination Hubs) - one inevery state, the District of Columbia (DC), or territory inthe United States - connecting partners, strengthening planning and deployment, and rapidly scaling approaches; (2) A National Coordination Lead (National Lead) - facilitating collaboration and knowledge sharing among Coordination Hubs, coordinating priority economic sectors, and informing national AI strategies; and (3) AI-Ready Catalyst Award Competitions - a series of topic-driven competitions issued over the course of the program to pilot and scale innovative approaches that address critical national AI readiness needs. This funding opportunity focuses on Coordination Hubs. The National Lead will be funded as an Other Transaction (OT) offered through an Other Transaction Agreement Solutions Offering.AI-Ready Catalyst Award Competitions will be announced through an NSF-approved mechanism, with proposals submitted according to the instructions provided at the time of announcement.",
-      "fit": 100,
-      "matchedTerms": [
-        "ai",
-        "artificial intelligence",
-        "learning",
-        "workforce",
-        "implementation",
-        "district",
-        "upskilling",
-        "science"
-      ]
-    },
     {
       "id": "362496",
       "number": "ED-GRANTS-052026-001",
@@ -529,7 +344,7 @@
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "The Cognitive Neuroscience (CogNeuro) program seeks to fund proposals that can advance our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically relate precise and rich quantifications of physiological responses and behavior in ways that advance theory (Intellectual Merit). Funded proposal also typically strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists, and/or increasing awareness and utilization of the research the field produces (Broader Impacts). Intellectual Merit In general, successful proposals provide a theoretical motivation and consist of a series of experiments/analyses that test the differential predictions of that theory; they go beyond quantifying physiology during certain tasks and behaviors. Research topics considered for funding include but are not limited to: perception, recognition, categorization, implicit and explicit memory, working memory, attention, language, decision-making, and social reasoning. Commensurate with the inherently multidisciplinary nature of the field and the limitations of any single technique, a wide variety of physiological methods are considered, including but not limited to: neuroimaging (e.g., fMRI, EEG, MEG), non-invasive stimulation (e.g. TMS, tDCS), lesion analysis, intracranial recording, optogenetics, genetics, optical imaging, computational modeling, and pharmacological interventions in both human and non-human primates and other animal models. The program is particularly interested in proposals that achieve or enable convergence across multiple techniques. Critically, proposals will be returned without review if they are focused on: 1) either behavior or physiology and lack a specific link between them, 2) understanding clinical populations, 3) non-human animals without a clear benefit to our understanding of humans. Broader Impacts In general, successful proposals make impacts beyond traditional academic routes, such as publishing research or teaching undergraduate courses. Strong broader impacts can be quite varied but will typically involve specific efforts strengthening the field and/or increasing its visibility that leverage the characteristics of the institution, department, and/or researcher. Consider the following non-exhaustive examples: 1) STEM education and outreach, particularly in underserved communities, 2) directly involving undergraduates and high-school students in research, 3) making tools and applications for the general public, 4) science journalism or advocacy. These efforts can, but need not, directly relate to the proposed research. It is also encouraged to include budget for these efforts if warranted. Mentoring Plans Strong mentoring plans generally go beyond inclusion in standard lab activities and incorporate specific ideas for forwarding the careers of young scientists and trainees that leverage the setting and content of the proposed research. General Directions Prior to the development of a full proposal, investigators are strongly encouraged to submit a one-page summary of the proposed research to a program director to evaluate its appropriateness for the CogNeuro program. Please contact the director early enough to allow for revisions and incorporation what may be extensive feedback. The summary should include an overview of your research and statements of intellectual merit and broader impacts, the two NSF review criteria. See the Merit Review Fact Sheet for more important facts about the NSF merit review process. Please read the NSF Proposal & Award Policies & Procedures Guide (PAPPG) carefully, as it will be strictly adhered to even if other directives or communications appear to contradict it. Currently, the average standard/CAREER award size is $175,000-$225,000 per year for 3-5 years. Awards in excess of $1.0 million are exceptionally rare and almost always multidisciplinary. Please be judicious in your requests, understanding the realities of the limited funding available for all proposals. See the Listing of Active Cognitive Neuroscience Awards for additional award information. Declined proposals are ineligible for resubmission until a minimum of one year has passed since the due date of their initial submission, unless specifically allowed by the PO in the feedback received during the decline process. This moratorium allows investigators the time required to digest the results of the merit review and revise their proposal accordingly. A proposal that has not been substantially revised will be returned without review as per the PAPPG. PIs are strongly encouraged to submit the Single Copy Document titled \"List of Suggested Reviewers\" with their full proposal. Sharing of data and other materials is an expectation for funded research. Please consult the NSF Dear Colleague Letter: Effective Practices for Data for more details. Interested in talking with a program director? Send a one-page description of the proposed research to sbe-cogneuro@nsf.gov.",
-      "fit": 90,
+      "fit": 94,
       "matchedTerms": [
         "data",
         "stem",
@@ -717,7 +532,7 @@
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "Revolutionizing Engineering Departments (hereinafter referred to as RED) is designed to build upon previous efforts in engineering education research. Specifically, previous and ongoing evaluations of the NSF Engineering Education and Centers Division program and its predecessors, as well as those related programs in the Directorate for STEM Education, have shown that prior investments have significantly improved the first year of engineering students' experiences, incorporating engineering material, active learning approaches, design instruction, and a broad introduction to professional skills and a sense of professional practice - giving students an idea of what it means to become an engineer. Similarly, the senior year has seen notable change through capstone design experiences, which ask students to synthesize the technical knowledge, skills, and abilities they have gained with professional capacities, using reflective judgment to make decisions and communicate these effectively. However, this ideal of the senior year has not yet been fully realized, because many of the competencies required in capstone design, or required of professional engineers, are only partially introduced in the first year and not carried forward with significant emphasis through the sophomore and junior years. The Directorates for Engineering (ENG) and STEM Education (EDU) are funding projects as part of the RED program, in alignment with the Improving Undergraduate STEM Education (IUSE) framework and Professional Formation of Engineers (PFE) initiative. These projects are designing revolutionary new approaches to engineering education, ranging from changing the canon of engineering to fundamentally altering the way courses are structured to creating new departmental structures and educational collaborations with industry. A common thread across these projects is a focus on organizational and cultural change within the departments, involving students, faculty, staff, and industry in rethinking what it means to provide an engineering program. In order to continue to catalyze revolutionary approaches, while expanding the reach of those that have proved efficacious in particular contexts, the RED program supports four tracks: RED Planning (Track 1), RED Adaptation and Implementation (Track 2), RED Innovation (Track 3), and RED Innovation Partnerships (Track 4). Two- and four-year institutions are encouraged to submit to any track as appropriate for their goals and context. RED Planning (Track 1) projects will support capacity-building activities at institutions of special interest to NSF's mission, specifically two-year engineering-centered programs building transfer partnerships, two-year or four-year institutions in EPSCoR jurisdictions, Primarily Undergraduate Institutions (PUIs), and Institutions of Higher Education (IHEs)seeking to level the number of degrees acrossof the full spectrum of diverse talent in engineering. Planning projects should provide the support for such institutions to explore the development of a RED Projects in Tracks 2, 3, & 4. RED Adaptation and Implementation (Track 2) projects will adapt and implement evidence-based organizational change strategies and actions to the local context, which helps propagate this transformation of undergraduate engineering education. RED Innovation (Track 3) projects will develop new, revolutionary approaches and change strategies that enable the transformation of undergraduate engineering education. RED Innovation Partnerships (Track 4) projects will achieve the same goals as Track 3 projects across multiple institutions. Of particular interest to this track are projects partnering two-year institutions with other eligible institutions. Projects in tracks 2, 3, & 4 will include consideration of the cultural, organizational, structural, and pedagogical changes needed to transform one or more departments to ones in which students are engaged, develop their technical and professional skills, and establish identities as professional engineers or technologists. The focus of projects in these tracks should be on the department's disciplinary courses and program. RED project initiatives are expected to be institutionalized at the end of the funding period. Proposals are especially encouraged that address areas of increased national interest including but not limited to advanced manufacturing, advanced wireless, artificial intelligence, biotechnology, microelectronics and semiconductors, net zero technologies, sustainability, systems engineering, and quantum engineering.",
+      "description": "Revolutionizing Engineering Departments (hereinafter referred to as RED) is designed to build upon previous efforts in engineering education research. Specifically, previous and ongoing evaluations of the NSF Engineering Education and Centers Division program and its predecessors, as well as those related programs in the Directorate for STEM Education, have shown that prior investments have significantly improved the first year of engineering students' experiences, incorporating engineering material, active learning approaches, design instruction, and a broad introduction to professional skills and a sense of professional practice - giving students an idea of what it means to become an engineer. Similarly, the senior year has seen notable change through capstone design experiences, which ask students to synthesize the technical knowledge, skills, and abilities they have gained with professional capacities, using reflective judgment to make decisions and communicate these effectively. However, this ideal of the senior year has not yet been fully realized, because many of the competencies required in capstone design, or required of professional engineers, are only partially introduced in the first year and not carried forward with significant emphasis through the sophomore and junior years. The Directorates for Engineering (ENG) and STEM Education (EDU) are funding projects as part of the RED program, in alignment with the Improving Undergraduate STEM Education (IUSE) framework and Professional Formation of Engineers (PFE) initiative. These projects are designing revolutionary new approaches to engineering education, ranging from changing the canon of engineering to fundamentally altering the way courses are structured to creating new departmental structures and educational collaborations with industry. A common thread across these projects is a focus on organizational and cultural change within the departments, involving students, faculty, staff, and industry in rethinking what it means to provide an engineering program. In order to continue to catalyze revolutionary approaches, while expanding the reach of those that have proved efficacious in particular contexts, the RED program supports four tracks: RED Planning (Track 1), RED Adaptation and Implementation (Track 2), RED Innovation (Track 3), and RED Innovation Partnerships (Track 4). Two- and four-year institutions are encouraged to submit to any track as appropriate for their goals and context. RED Planning (Track 1) projects will support capacity-building activities at institutions of special interest to NSF's mission, including two-year engineering-centered programs building transfer partnerships, two-year or four-year institutions in EPSCoR jurisdictions, Primarily Undergraduate Institutions (PUIs), and Institutions of Higher Education (IHEs)in order to create more opportunities in engineering for students in every part of the country. Planning projects should provide the support for such institutions to explore the development of a RED Projects in Tracks 2, 3, & 4. RED Adaptation and Implementation (Track 2) projects will adapt and implement evidence-based organizational change strategies and actions to the local context, which helps propagate this transformation of undergraduate engineering education. RED Innovation (Track 3) projects will develop new, revolutionary approaches and change strategies that enable the transformation of undergraduate engineering education. RED Innovation Partnerships (Track 4) projects will achieve the same goals as Track 3 projects across multiple institutions. Of particular interest to this track are projects partnering two-year institutions with other eligible institutions. Projects in tracks 2, 3, & 4 will include consideration of the cultural, organizational, structural, and pedagogical changes needed to transform one or more departments to ones in which students are engaged, develop their technical and professional skills, and establish identities as professional engineers or technologists. The focus of projects in these tracks should be on the department's disciplinary courses and program. RED project initiatives are expected to be institutionalized at the end of the funding period. Proposals are especially encouraged that address areas of increased national interest including but not limited to advanced manufacturing, advanced wireless, artificial intelligence, biotechnology, microelectronics and semiconductors, net zero technologies, sustainability, systems engineering, and quantum engineering.",
       "fit": 100,
       "matchedTerms": [
         "artificial intelligence",
@@ -959,6 +774,29 @@
         "technology",
         "engineering",
         "mathematics"
+      ]
+    },
+    {
+      "id": "363233",
+      "number": "24-590",
+      "title": "Engineering Research Initiation",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-10-09",
+      "posted": "2026-07-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24590",
+      "awardCeiling": "",
+      "estimatedFunding": "11000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The NSF Directorate for Engineering (ENG) seeks to build engineering research capacity across the nation by investing in new academic investigators who have yet to receive sufficient research funding from Federal Agencies. The Engineering Research Initiation (ERI) program will support new investigators as they initiate their research programs and advance in their careers as researchers, educators, and innovators. This funding opportunity aims to broaden the base of investigators involved in engineering research and therefore is limited to investigators that are not affiliated with \"very high research activity\" R1 institutions (according to the Carnegie Classification https://carnegieclassifications.iu.edu/ ).",
+      "fit": 64,
+      "matchedTerms": [
+        "science",
+        "engineering"
       ]
     },
     {
@@ -1616,7 +1454,181 @@
       ]
     },
     {
-      "id": "watchlist-arnold-ventures-3",
+      "id": "358397",
+      "number": "PD-25-342Y",
+      "title": "Infrastructure Systems and People",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2025-01-25",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506398",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "Infrastructure systems comprise complex connections between physical components, organizational structures and operational methods that support the needs of people and communities at the local, regional, national, and global scales. Such systems form the backbone of society, providing essential services as well as ensuring public health and welfare, economic prosperity and national security, and are expected to function under all operational conditions. Meanwhile, infrastructure systems are capital intensive and vulnerable to disruptions from extreme events, including natural disasters, social crises, and malicious attacks. Disruptions in one system can have cascading impacts on others in space and over time. Moreover, short- versus long-term trade-offs, unintended consequences, and maladaptation are not often accounted for. How systems function at the \"extreme,\" which can be due to disruptors from the introduction of innovation, the convergence of technologies, sudden changes to their utilization and access, dramatic changes in operating environments, and changes to demand during crises are of particular interest. To ensure the efficiency, sustainability, resilience, and fair use of infrastructure systems, it is important to continuously improve and optimize their design, operations, system monitoring and performance assessment in dynamic, uncertain and sometime unknown environments. While functioning at extremes is of interest, the program also supports infrastructure systems research under the full range of operating conditions, across a variety of hazards, and in urban, suburban, and rural communities. The program particularly encourages interdisciplinary and multidisciplinary exploration that will open new research frontiers and significantly expand and transform relevant research communities. The program welcomes research that addresses novel system integration, user-inspired system and service design, data analytics, and socio-technical studies focused on engineering and system innovation during normal and extreme conditions. The program also values innovative research efforts focused on collecting, standardizing, and sharing large-scale databases of real-world infrastructure systems and people-infrastructure interactions during normal and extreme operating conditions, which can be instrumental in providing benchmarks for model verification and validation and for advancing future research innovation in ISP. The ISP program supports research on lifeline systems and communities that contributes to the National Science Foundation's role in the National Earthquake Hazards Reduction Program (NEHRP) and the National Windstorm Impact Reduction Program (NWIRP). Principal Investigators are encouraged to leverage NSF's investments in the Natural Hazards Engineering Research Infrastructure (NHERI) experimental, computational modeling and simulation, and data resources (https://www.designsafe-ci.org/) in their research to accelerate advances needed for reducing the impacts of natural hazards on infrastructures and people. While physics-based subject-matter knowledge may be crucial in many research efforts, the program does not support research whose primary methodological contribution focuses on individual infrastructure components without a systems research perspective whose primary methodological focus is on geotechnical and structural engineering, material sciences, architectural engineering, wireless communication and sensor technology, human factors, and/or hydrologic or environmental engineering. Proposers are actively encouraged to email a one-page project summary to the ISP Program Officers before submitting a full proposal for guidance on whether the proposed research topic falls within the scope of the ISP program; this guidance should especially be requested for multi-disciplinary research proposals, and proposals for which research and/or development on the subject infrastructure(s) are also supported by other federal and/or state agencies.",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
+        "infrastructure",
+        "open",
+        "assessment",
+        "rural",
+        "science",
+        "technology",
+        "engineering"
+      ]
+    },
+    {
+      "id": "348932",
+      "number": "PD-23-1401",
+      "title": "Catalysis",
+      "source": "National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2023-06-27",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506074",
+      "awardCeiling": "",
+      "estimatedFunding": "4900000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Catalysis program is part of the Chemical Process Systems cluster, which also includes: 1) the Electrochemical Systems program; 2) the Interfacial Engineering program; and 3) the Process Systems, Reaction Engineering, and Molecular Thermodynamics program. The goals of the Catalysis program are to increase fundamental understanding in catalytic engineering science and to advance the development of catalysts and catalytic reactions that are beneficial to society. Research should focus on critical challenges and opportunities in both new and proven catalysis technologies. Areas of emphasis may include novel catalyst compositions, structures, operating environment, data science tools, theory, and modeling - preferably in various combinations as dictated by the specific reaction and related knowledge and technology gaps. Target applications include fuels, specialty and bulk chemicals, environmental catalysis, biomass conversion to fuels and chemicals, greenhouse gas mitigation, recycling of waste materials, generation of solar hydrogen, as well as efficient routes to energy utilization. Heterogeneous catalysis represents the main thrust of the program. Proposals related to both gas-solid and liquid-solid heterogeneous catalysis are welcome, as are proposals that incorporate concepts from homogeneous catalysis. Recent research trends have highlighted the need for evaluation of catalyst performance and properties under working conditions, especially as supported by advanced in situ and in operando characterization methods. Catalyst synthesizability and stability present additional research opportunities given the harsh operating environments of many catalytic processes. Topic areas of particular interest include: Energy-related catalysis, utilizing renewable or sustainable energy in lieu of thermal, fossil fuel-based technologies, especially applications in electrocatalysis, photocatalysis, and catalytic conversion of biomass-derived chemicals, and also including fuel cell catalysis. Catalysis aimed at closing the carbon cycle (especially conversion of carbon dioxide, methane, and natural gas to fuels and chemical intermediates). Heterogeneous catalytic alternatives to traditionally non-catalytic or homogeneous reaction processes, as well as new catalyst designs for established catalytic processes. Environmental catalysis focused on mitigating both air and water pollutants, and supporting energy-efficient upcycling of waste materials to higher-value products. Catalytic remediation of feedstocks, process streams, products, or effluents. Commercially scalable methods of catalyst synthesis, including durable, poison-resistant, and easily regenerable catalyst formulations and designs. New catalytic materials and architectures (especially those substituting earth-abundant materials for precious and noble metal catalysts). Basic understanding of catalytic materials, reaction pathways, kinetics, and surface reaction mechanisms. Advanced tools for catalyst characterization and theoretical/computational catalysis. Proposals that deal with new catalytic materials, especially when viewed in light of the inherent complexity of heterogeneous catalytic reactions, will be enhanced by including plans to assess: 1) reproducibility and repeatability of data, 2) stability under realistic operating conditions including start-up and shut-down cycles, 3) performance relative to standard or well-known reference materials, and 4) quantitative, well-accepted measures of catalyst activity, selectivity, and catalytic efficiency, such as turnover frequencies, quantum and/or photon yields of photocatalysts, Faradaic efficiency of electrocatalytic reactions, and detailed product analyses and mass balances for the targeted application. NOTE: Proposals that focus on 1) molecular or homogeneous catalysis, 2) the surface science of catalysis, 3) photo redox catalysis, 4) catalytic organic synthesis reactions, and/or 5) fine chemical synthesis and pharmaceutical applications of catalysis may be more appropriately submitted to the Chemical Catalysis program.(CHE 6884) in the Division of Chemistry in the Directorate for Mathematical and Physical Sciences. Proposals focused on biocatalytic processes, including proposals focusing on enzyme engineering, cellular and biomolecular processes, should be submitted to the Cellular and Biochemical Engineering program (CBET 1491). If the proposal focuses on reaction engineering aspects of catalytic processes, submit to the Process Systems, Reaction Engineering, and Molecular Thermodynamics program (CBET 1403). Projects that are interdisciplinary in nature may be jointly funded with other CBET and NSF programs. Program directors will review the submissions and may transfer your proposal to give it the best review situation. Innovative proposals outside of these specific interest areas may be considered. However, prior to submission, it is recommended that the Principal Investigator contact the program director to avoid the possibility of the proposal being returned without review. INFORMATION COMMON TO MOST CBET PROGRAMS Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field.Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact on society and/or industry of success in the research.The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal. The duration of unsolicited proposal awards in CBET is generally up to three years. Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of principal investigator time per year(awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the program director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the ?What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)? link towards the bottom of this page. Faculty Early Career Development(CAREER)program proposals are strongly encouraged. Award duration is five years.The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description . Proposals for Conferences, Workshops, and Supplements: PIs are strongly encouraged to discuss their requests with the rogram director before submission of the proposal. Grants forRapid Response Research(RAPID)andEArly-concept Grants for Exploratory Research(EAGER)are also considered when appropriate. Please note that proposals of these types must be discussed with the program director before submission. Grant Opportunities for Academic Liaison with Industry (GOALI)proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged. Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in theProposal & Award Policies & Procedures Guide(PAPPG), Part 1, Chapter II, Section E: Types of Proposals. COMPLIANCE: Proposals which are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review.",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
+        "evaluation",
+        "career",
+        "transfer",
+        "science",
+        "technology",
+        "engineering",
+        "pathways"
+      ]
+    },
+    {
+      "id": "347324",
+      "number": "PD-23-1406",
+      "title": "Thermal Transport Processes",
+      "source": "National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2023-04-05",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506070",
+      "awardCeiling": "",
+      "estimatedFunding": "7047000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "TheThermal Transport Processesprogram is part of the Transport Phenomena cluster, which alsoincludes1) theCombustion and Fire Systemsprogram; 2) theFluid Dynamicsprogram; and 3) theParticulate and Multiphase Processesprogram. TheThermal Transport Processesprogram supports engineering research projects that lay the foundation for newadvances in thermal transport phenomena. These projects should either develop new fundamental knowledge or combine existing knowledge in thermodynamics, fluid mechanics, and heat and mass transfer to probe new areas of innovation in thermal transport processes. The program seeks transformative projects with the potential for improvingbasic understanding, predictability and application of thermal transport processes. Projects should articulate the contribution(s) to the fundamental knowledge supporting thermal transport processes and state clearly the potential application(s) impact when appropriate.Projects that combine analytical, experimental and numerical efforts, geared toward understanding, modeling and predicting thermal phenomena, are of great interest.Collaborative and interdisciplinary proposals for which the main contribution is in thermal transport fundamentals are also encouraged. Emphasis is placed on research that demonstrates how thermal transport phenomena affect the existence, behavior and dynamics of components and systems.Priority is given to insightful investigations of fundamental problems with clearly defined economic, environmental and societal impacts. Some specific areas of interest include: Convection/diffusion/radiation: Heat and mass transport incomplex structures and surfaces;thermal-related turbulence; development of form-functionrelationships in thermal processes; thermal design methodology; phonon transport and interactions between energy carriers; radiationamplification, controlling, and extinction; interfacial gas-solid andliquid-solid thermal and species-driven phenomena. Thermodynamics: Thermal-electric energy conversion; battery-related thermal issues; power generation and propulsion; phase-change and supercritical energy cycles;non-equilibriumthermal processes. Biologicalheatand mass transport: Biomimicry;intra- andextra-cellular heat and mass transport; freeze resistancemechanisms;thermotherapy and thermoregulation; organ conservation(freezing and thawing); mass transport in biomedical and health systems. Nanothermics,microthermics,and mesothermics: Scaling upnanoscale heat transport processes or coupledheat-mass transport processes; utilization ofnew multi-functional, meta- and graded-materials in thermal transport;nano-texturingand phase-change; multi-scale thermal transport in aprocess. Thermal solutions to climate change: Decarbonizing industrial processes; novel heating and cooling technologies with minimal greenhouse gas emissions; thermal-driven clean energy concepts; thermal and thermochemical energy storage; waste heat recovery and transmission; thermal science and technology to enable electrification of energy services. Thermal science and quantum technology interface: Quantum sensors for thermal measurements;quantum computing for thermal sciences;thermodynamics and novel cryogenic cooling concepts for quantum devices;thermal transport in quantum materials and quantum phenomena; thermal solutions for next-generation qubits, qubit coupling, and quantum information storage. New metrology and artificial intelligence (AI)/machinelearning methodologies in thermal sciences: Advanced thermal imagingand measurement techniques for high-resolutionin situthermal imaging and non-invasive temperature measurement; novel AI/machine learning methodologies and other data-intensive approaches that can be coupled with physics-based models and/or experiments to enable new understanding and discoveries in thermal transport processes. NOTE: Proposalsincluding chemical kinetics should be submitted to the ENG/CBETCombustion and FireSystemsprogram. Proposals dealing mainly with materials synthesis, processing and characterization should be directed to the ENG/CMMIAdvanced Manufacturingprogram or the Division of Materials Research (DMR) in the Directorate for Mathematical and Physical Sciences (MPS). Proposals at the interface of computational/mathematical sciences and thermal transport are encouraged but should be submitted to theComputational and Data-Enabled Science & Engineering(CDS&E) program. Proposals seeking the utilization of the International Space Station U.S. National Laboratory should follow the instructions in the NSF/CASIS solicitations (e.g., NSF 22-539). Proposals related to the Air Force Office of Scientific Research (AFOSR) general area of thermal transport properties of novel materials and heterostructures should be submitted as regular proposals to theThermal Transport Processesprogram. Those proposals may be jointly reviewed by NSF and AFOSR using the NSF merit review process. Actual funding format and agency split for an award (depending on availability of funds) will be determined after the proposal selection process. Proposals related to the Department of Energy (DOE) general area of thermal and thermochemical energy storage materials and processes should be submitted as regular proposals to theThermal Transport Processesprogram. In these cases, the PI should contact the program director to confirm suitability of the topic prior to submitting the proposal. Innovative proposals outside of these specific interest areas may be considered.However, prior to submission, it is recommended that the PI contact the program director to avoid the possibility of the proposal being returned without review. Innovative proposals outside of these specific interest areas may be considered.However, prior to submission, it is recommended that the Principal Investigator contact the program director to avoid the possibility of the proposal being returned without review. INFORMATION COMMON TO MOST CBET PROGRAMS Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field.Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact on society and/or industry of success in the research.The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal. The duration of unsolicited proposal awards in CBET is generally up to three years. Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of PI time per year(awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the program director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the \"What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)\" link towards the bottom of this page. Faculty Early Career Development(CAREER)program proposals are strongly encouraged.Award duration is five years.The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description . Proposals for Conferences, Workshops, and Supplements: PIs are strongly encouraged to discuss their requests with the program director before submission of the proposal. Grants forRapid Response Research(RAPID)andEArly-concept Grants for Exploratory Research(EAGER)are also considered when appropriate.Please note that proposals of these types must be discussed with the program director before submission.Grant Opportunities for Academic Liaison with Industry (GOALI)proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged. Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in the Proposal & Award Policies & Procedures Guide (PAPPG), Part 1, Chapter II, Section E: Types of Proposals. Compliance: Proposals that are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review.",
+      "fit": 100,
+      "matchedTerms": [
+        "ai",
+        "artificial intelligence",
+        "machine learning",
+        "data",
+        "learning",
+        "career",
+        "transfer",
+        "science"
+      ]
+    },
+    {
+      "id": "320536",
+      "number": "PD-20-7909",
+      "title": "Biosensing",
+      "source": "National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2019-09-12",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505720",
+      "awardCeiling": "",
+      "estimatedFunding": "7600000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Biosensing program is part of the Engineering Biology and Health cluster, which also includes 1) the Biophotonics program; 2) the Cellular and Biochemical Engineering program; 3) the Disability and Rehabilitation Engineering program; and 4) the Engineering of Biomedical Systems program. The Biosensing program supports fundamental engineering research in the monitoring, identification and/or quantification of biological analytes and phenomena using innovations that exist at the intersection of engineering, life sciences, and information technology. Projects submitted to the program must advance both engineering and life sciences. The Biosensing program encourages proposals that, in addition to advancing biosensing technology, address critical sensor needs in biomedical research, public health, food safety, agriculture, forensics, environmental protection, and homeland security. Proposals are especially encouraged in areas of critical need: sensing technologies that can enable monitoring and surveillance of the environment and/or individuals for novel infectious agents; platform technologies that can readily be modified as soon as new agents are detected, sequenced, and/or otherwise characterized to enable rapid deployment of sensors in clinics and the environment; and adaptive and/or multiplex sensing technologies that can help the nation prevent the spread of the next global pandemic. Major areas of interest for the program include: Novel signal transduction principles and mechanisms that enable sensitive and specific biosensors, suitable for measurements in multiple areas; Design of novel biorecognition elements and appropriately designed transducing systems to enable adaptable and/or reconfigurable operating parameters in response to environmental changes or application needs at levels of device, system, or data analysis; Development of adaptive and/or evolvable biosensing systems for detection of novel target analytes or analytes under novel conditions; Novel synthetic biology approaches for the development of cell-free and cell-based biosensors; and Combining biosensors with artificial intelligence (AI) methods to improve sensor specificity and response time. Innovative ideas outside of the above specific interest areas may be considered. However, prior to submission, it is recommended that the PI contact the program director to avoid the possibility of the proposal being returned without review. The Biosensors program does not encourage proposals addressing circuit design for signal processing and amplification, computational modeling, and microfluidics for sample separation and filtration. Medical imaging-based measurements are outside of the scope of the program interests. Proposals that rely heavily on descriptive approaches are given lower priority. Proposals for optimizing and/or utilizing established methods for specific applications should be directed to programs focused on the application of sensor technology. NOTE: Projects related to water and/or soil quality may be jointly supported with the Environmental Engineering program (CBET 1440). Photonic devices with medical imaging and/or optogenetics should be submitted to the Biophotonics program (CBET 7236). Applications of devices for tissue engineering or organ-on-chip systems should be submitted to the Engineering of Biomedical Systems program (CBET 5345). Basic chemical/biochemical sensing mechanisms should be submitted to the Chemical Measurement and Imaging program (CMI 6880) in the Division of Chemistry. Proposals for dynamic biosensing systems, including circuit design for signal/data processing and amplification, and sensing systems through communication and machine learning should be submitted to the Communications, Circuits, and Sensing-Systems program (CCSS 7564) in the Division of Electrical, Communications, and Cyber Systems. INFORMATION COMMON TO MOST CBET PROGRAMS Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field.Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact on society and/or industry of success in the research.The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal. The duration of unsolicited proposal awards in CBET is generally up to three years. Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of PI time per year(awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the program director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the ?What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)? link towards the bottom of this page. Faculty Early Career Development(CAREER)program proposals are strongly encouraged.Award duration is five years.The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description . Proposals for Conferences, Workshops, and Supplements: PIs are strongly encouraged to discuss their requests with the program director before submission of the proposal. Grants forRapid Response Research(RAPID)andEArly-concept Grants for Exploratory Research(EAGER)are also considered when appropriate. Please note that proposals of these types must be discussed with the program director before submission. Grant Opportunities for Academic Liaison with Industry (GOALI)proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged. Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in the Proposal & Award Policies & Procedures Guide(PAPPG), Part 1, Chapter II, Section E: Types of Proposals. Compliance: Proposals that are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review.",
+      "fit": 100,
+      "matchedTerms": [
+        "ai",
+        "artificial intelligence",
+        "machine learning",
+        "data",
+        "learning",
+        "disability",
+        "career",
+        "science"
+      ]
+    },
+    {
+      "id": "350230",
+      "number": "PD-24-1340",
+      "title": "Research in the Formation of Engineers",
+      "source": "National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2023-09-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506225",
+      "awardCeiling": "",
+      "estimatedFunding": "5600000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The NSF Engineering Directorate (ENG) has launched a multi-year initiative, theProfessional Formation of Engineers, to create and support an innovative and inclusive engineering profession for the 21 st century. Professional Formation of Engineers (PFE) refers to the formal and informal processes and value systems by which people become engineers. It also includes the ethical responsibility of practicing engineers to sustain and grow the profession in order to improve quality of life for all peoples. The engineering profession must be responsive to national priorities, grand challenges, and dynamic workforce needs; it must be equally open and accessible to all. Professional Formation of Engineers includes, but is not limited, to: Introductions to the profession at any age; Development of deep technical and professional skills, knowledge, and abilities in both formal and informal settings/domains; Development of outlooks, perspectives, ways of thinking, knowing, and doing; Development of identity as an engineer and its intersection with other identities; and Acculturation to the profession, its standards, and norms. The goal of the Research in the Formation of Engineers (RFE) program is to advance our understanding of professional formation. It seeks both to deepen our fundamental understanding of the underlying processes and mechanisms that support professional formation and to demonstrate how professional formation is or can be accomplished. Ultimately RFE aims to transform the engineer-formation system, and thus the impact of proposed projects on this system must be described. Principal Investigators (PIs) should provide a roadmap detailing how they envision the proposed research will eventually broadly impact practice within the engineer-formation system, even if these activities are not within the scope of the submitted proposal. In order to accomplish its goals, RFE welcomes proposals in two categories: Research Projects, and Design and Development Projects. Research Projects address fundamental questions of professional formation, while Design and Development Projects provide new approaches to achieving professional formation. Additional details are provided below. Projects in both categories should address the iterative cycle in which research questions that advance understanding are informed by practice and the results of research are, in turn, translated into practice. In other words, proposals should explain how the research results will travel, translate, transfer, or scale. Successful projects identify specific target audiences, effective communication channels, and novel partnerships to ensure effective propagation and scaling. Proposal titles should begin with either \"Research:\" or \"Design and Development:\" as appropriate. Research Projects Research proposals are particularly welcome in the following areas: Research that addresses lifelong learning by the engineering workforce. Research on the impact of engineering education research. Proposals addressing this topic could investigate questions such as: How can we measure the impacts of engineering education research? What are effective strategies for scaling reforms? How can we translate knowledge from research to practice? What are the roles of technologies, networks and communities in achieving impact? RFE does not support efficacy, effectiveness, or scale-up studies for specific interventions. Research that addresses culture change in engineering education. Included in this topic are investigations of normative cultures of engineering at any level in the engineering education ecosystem and how these cultures may disadvantage certain groups. Research that addresses engineering formation at the two-year college level in both formal and informal settings. Research that addresses engineering formation at the graduate education level in both formal and informal settings. Research that investigates engineering in P-12 settings. Research in this area could include understanding of approaches to engineering in P-12, how to develop engineering ways of thinking, or the relationship between practices within the sciences and mathematics and engineering thinking. Research on the transitions between education levels, e.g., from high school to two-year college, high school to four-year college/university, two-year college to four-year college/university, undergraduate to graduate school, education settings to the workforce or professoriate, etc. Research that addresses the relationship between engineering and the public. Proposals addressing this topic could consider the social impact of engineering solutions, citizen engineering, education of an informed public, etc. Research that develops or adapts novel methodologies and frameworks appropriate for studying the professional formation of engineers, and especially minoritized, marginalized, or underserved populations. Research that addresses ways in which new technologies (such as artificial intelligence and machine learning) are changing engineering education. Research to transform engineering education so that all students encounter environmental and social sustainability principles as an integrated part of their education and are equipped with the tools needed to incorporate these principles into their future research, careers, and innovations. Proposals submitted to the Research Projects category should have clear research questions informed by an appropriate theoretical framework and a research design that includes sampling, data collection, and data analysis methods. This category will not support proposals that seek funding primarily to develop tools, curriculum, or laboratories, or that seek to implement classroom innovations that have already been shown to be effective in engineering. The program will evaluate the value of proposals by considering the impact and the cost. Research track projects that are small, exploratory, or speculative are especially encouraged. Larger Research track projects should have a correspondingly larger impact. Design and Development Projects RFE supports Design and Development projects (see https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf13126 ) that seek to develop and test new approaches in the following areas related to engineering education : Graduate education. Undergraduate education in new engineering technologies and environmental sustainability. Transitions between education levels, for example high school to two-year college, high school to four-year college/university, two-year college to four-year college/university, undergraduate to graduate school, education settings to the workforce or professoriate, etc. P-12, especially approaches to develop engineering thinking, or providing links between engineering, science, and mathematics. Proposals in this category should propose the design and development of new approaches that are informed by existing literature and theory. There should be clear objectives and the evaluation plan should be designed to determine if those objectives have been met. Projects cannot be solely demonstration projects but must add to the engineering education literature to inform future work.",
+      "fit": 100,
+      "matchedTerms": [
+        "artificial intelligence",
+        "machine learning",
+        "data",
+        "open",
+        "learning",
+        "evaluation",
+        "workforce",
+        "undergraduate"
+      ]
+    },
+    {
+      "id": "347020",
+      "number": "PD-23-1443",
+      "title": "Fluid Dynamics",
+      "source": "National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2023-03-21",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506069",
+      "awardCeiling": "",
+      "estimatedFunding": "9175000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "TheFluid Dynamicsprogram is part of the Transport Phenomena cluster, which also includes 1) theCombustion and Fire Systemsprogram; 2) theParticulate and Multiphase Processesprogram; and 3) theThermal Transport Processesprogram. TheFluid Dynamicsprogram supports fundamental research toward gaining an understanding of the physics of various fluid dynamics phenomena. Proposed research should contribute to basic scientific understanding via experiments, theoretical developments, and computational discovery. Major areas of interest and activity in the program include: Turbulence and transition: High Reynolds number experiments; large eddy simulation; direct numerical simulation; transition to turbulence; 3-D boundary layers; separated flows; multi-phase turbulent flows; flow control and drag reduction. High-speed boundary layer transition and turbulence at Mach numbers greater than 5 to understand modal and/or non-modal interactions leading to boundary layer transition and the ensuing developing and fully developed turbulent boundary layer flows.Combined experiments and simulations are encouraged. Bio-fluid physics:Bio-inspired flows; biological flows with emphasis on flow physics. Non-Newtonian fluid mechanics:Single-phase viscoelastic flows; solutions of macro-molecules. Bubble dynamics: Bubbles related to cavitation and/or drag reduction or impacting the fluid viscosity (locally) or manipulation of bubbles with external excitation (acoustofluidics). Microfluidics and nanofluidics: Micro-and nano-scale flow physics. Wind and ocean energy harvesting: Focused on fundamental fluid dynamics associated with renewable energy. The NSF-DOE (Department of Energy) joint funding area is focused on high Reynolds number aerodynamics of thick airfoils (&gt; 21% thickness/chord) operating in complex (3D) steady, unsteady, and separated flows. Impacts of blade surface quality/roughness rotor performance on the aerodynamic/aeroelastic performance of novel rotor geometries and supporting structures are also of interest. Air/sea interactions, including waves/currents, on the hydrodynamic loading for offshore wind turbines. Improved measurement techniques and sensing/control technologies required to characterize the metocean environment impact on performance. The DoE participates in this initiative throughthe Wind Energy Technologies Office (program manager Michael Derby, email: michael.derby@ee.doe.gov). Fluid-structure interactions:General FSI applications across the low- to high-Reynolds number range are of interest to NSF. In addition, NSF-AFOSR (Air Force Office of Scientific Research) joint funding area is focused on theory, modeling and/or experiments for hypersonic applications. AFOSR participates in this initiative through the Aerothermodynamics program. Canonicalconfigurations:Experimental research is encouraged to develop spatiotemporally resolveddatabases for canonical configurations to either confirm historicalresults or to provide data in an unexplored parameter region. Fidelity and completeness for theoretical/computational validation is a key attribute of theproposed experimental data. Artificial intelligence (AI)/machine learning:Innovative AI ideas related to the use of machine learning and other AI approaches in fluid dynamics research to model and control the flows are encouraged.Verifying new models with canonicalconfigurations, when appropriate, is encouraged for theComputational andData-Enabled Science & Engineering(CDS&E) program. Instrumentation and Flow Diagnostics: Instrument development for time-space resolvedmeasurements; shear stress sensors; novel flow imaging; and velocimetry. NOTE:Proposals that use fluid flows as a boundary input condition or a driving force in a problem do not fit within the scope of this program. Proposals focused on particulates (including droplets) two-way coupled with fluids, colloids, and multiphase rheology and processes should be directed to the Particulate andMultiphase Processesprogram. Proposals dealing mainly with materials synthesis, processing and characterization may be more suitable for theAdvanced Manufacturingprogramin the Division of Civil, Mechanical, and Manufacturing Innovation orprograms in theDivision of Materials Research. Proposals dealing primarily with sensors and controls may be more suitable for the Dynamics, Controls, & Cognition program in the Division of Civil, Mechanical, and Manufacturing Innovation. Proposals focused on biological systems may be more suitable forPhysiological and Structural Systemsin the Division of Integrative Organismal Systems. INFORMATION COMMON TO MOST CBET PROGRAMS Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field.Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact on society and/or industry of success in the research.The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal. The duration of unsolicited proposal awards in CBET is generally up to three years. Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of PI time per year(awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the program director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the \"What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)\" link towards the bottom of this page. Faculty Early Career Development(CAREER)program proposals are strongly encouraged.Award duration is five years.The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description . Proposals for Conferences, Workshops, and Supplements: PIs are strongly encouraged to discuss their requests with the program director before submission of the proposal. Grants forRapid Response Research(RAPID)andEArly-concept Grants for Exploratory Research(EAGER)are also considered when appropriate.Please note that proposals of these types must be discussed with the program director before submission.Grant Opportunities for Academic Liaison with Industry (GOALI)proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged. Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in the Proposal & Award Policies & Procedures Guide (PAPPG), Part 1, Chapter II, Section E: Types of Proposals. Compliance: Proposalsthat are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review.",
+      "fit": 100,
+      "matchedTerms": [
+        "ai",
+        "artificial intelligence",
+        "machine learning",
+        "data",
+        "learning",
+        "career",
+        "science",
+        "engineering"
+      ]
+    },
+    {
+      "id": "watchlist-arnold-ventures-4",
       "number": "",
       "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
       "source": "Arnold Ventures",
@@ -2007,44 +2019,6 @@
     {
       "id": "watchlist-california-department-of-education-funding-3",
       "number": "",
-      "title": "RFA-26: CSESAP",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r14/csesap26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: CSESAP",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-4",
-      "number": "",
-      "title": "Ag CTE Incentive Grant RFA FY 2026-27",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/agin26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Ag CTE Incentive Grant RFA FY 2026-27",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-5",
-      "number": "",
       "title": "Request for Applications",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
@@ -2062,7 +2036,26 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-california-department-of-education-funding-6",
+      "id": "watchlist-california-department-of-education-funding-4",
+      "number": "",
+      "title": "RFA-26: CSESAP",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r14/csesap26rfa.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: CSESAP",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-5",
       "number": "",
       "title": "RFA-25: CSESAP",
       "source": "California Department of Education Funding",
@@ -2368,6 +2361,25 @@
     {
       "id": "watchlist-nebraska-department-of-education-grants-1",
       "number": "",
+      "title": "School Kitchen Modernization Grant",
+      "source": "Nebraska Department of Education Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.education.ne.gov/wp-content/uploads/2026/07/Rural-Health-Transformation-Program-School-Kitchen-Modernization-Grant.pdf",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Nebraska Department of Education Grants. School Kitchen Modernization Grant",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-nebraska-department-of-education-grants-2",
+      "number": "",
       "title": "Salad Bars to Schools Grant",
       "source": "Nebraska Department of Education Grants",
       "sourceType": "State funding",
@@ -2385,7 +2397,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-nebraska-department-of-education-grants-2",
+      "id": "watchlist-nebraska-department-of-education-grants-3",
       "number": "",
       "title": "KidsGardening Grant",
       "source": "Nebraska Department of Education Grants",
@@ -2400,25 +2412,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Nebraska Department of Education Grants. KidsGardening Grant",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-nebraska-department-of-education-grants-3",
-      "number": "",
-      "title": "National School Lunch Program Equipment Assistance Grant for School Food Authorities",
-      "source": "Nebraska Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.education.ne.gov/ns/nslp/equipment-grants/",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Nebraska Department of Education Grants. National School Lunch Program Equipment Assistance Grant for School Food Authorities",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2955,7 +2948,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-new-york-state-education-department-funding-2",
+      "id": "watchlist-new-york-state-education-department-funding-3",
       "number": "",
       "title": "2026-27 Title I, 1003 School Improvement Grant (Instructional Systems)",
       "source": "New York State Education Department Funding",
@@ -2993,7 +2986,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-arnold-ventures-4",
+      "id": "watchlist-arnold-ventures-5",
       "number": "",
       "title": "Evidence & Evaluation Impacts of Cell Phone Policies in K‑ 12 Schools RFP RFP Closed",
       "source": "Arnold Ventures",
@@ -3401,7 +3394,26 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-new-york-state-education-department-funding-3",
+      "id": "watchlist-new-york-state-education-department-funding-2",
+      "number": "",
+      "title": "2026-27 Title I, 1003 School Improvement Grant (Innovation)",
+      "source": "New York State Education Department Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.nysed.gov/funding-opportunities/news/2026-27-title-i-1003-school-improvement-grant-innovation",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for New York State Education Department Funding. 2026-27 Title I, 1003 School Improvement Grant (Innovation)",
+      "fit": 38,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-new-york-state-education-department-funding-4",
       "number": "",
       "title": "2026 Title I, 1003 School Improvement Grant (Supplemental Support Program)",
       "source": "New York State Education Department Funding",
@@ -3416,25 +3428,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for New York State Education Department Funding. 2026 Title I, 1003 School Improvement Grant (Supplemental Support Program)",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-new-york-state-education-department-funding-4",
-      "number": "",
-      "title": "2025 Title I, 1003 School Improvement Grant (SIG) Supplemental Support",
-      "source": "New York State Education Department Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.nysed.gov/funding-opportunities-procurements/news/2025-title-i-1003-school-improvement-grant-sig-supplemental",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for New York State Education Department Funding. 2025 Title I, 1003 School Improvement Grant (SIG) Supplemental Support",
       "fit": 38,
       "matchedTerms": []
     },
