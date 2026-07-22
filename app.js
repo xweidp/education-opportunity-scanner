@@ -152,6 +152,8 @@ const els = {
   loadSampleButton: document.querySelector("#loadSampleButton"),
   profileSelect: document.querySelector("#profileSelect"),
   sourceSelect: document.querySelector("#sourceSelect"),
+  hidePastDeadlines: document.querySelector("#hidePastDeadlines"),
+  hideNoDeadlines: document.querySelector("#hideNoDeadlines"),
   resultsList: document.querySelector("#resultsList"),
   exportButton: document.querySelector("#exportButton"),
   totalCount: document.querySelector("#totalCount"),
@@ -309,7 +311,8 @@ function applyFilters() {
   const topicItems = state.opportunities
     .map(scoreOpportunity)
     .filter((item) => item.topicMatched.length > 0)
-    .filter((item) => item.fit >= state.minFit);
+    .filter((item) => item.fit >= state.minFit)
+    .filter(passesDeadlineFilters);
   populateSourceFilter(topicItems);
   const selectedSource = els.sourceSelect?.value || "all";
 
@@ -318,6 +321,16 @@ function applyFilters() {
     .sort((a, b) => a.days - b.days || b.fit - a.fit);
 
   render(topicItems);
+}
+
+function passesDeadlineFilters(item) {
+  if (els.hidePastDeadlines?.checked && item.deadline && item.days < 0) {
+    return false;
+  }
+  if (els.hideNoDeadlines?.checked && !item.deadline) {
+    return false;
+  }
+  return true;
 }
 
 function populateSourceFilter(items) {
@@ -581,6 +594,8 @@ els.loadSampleButton?.addEventListener("click", () => {
 
 els.profileSelect?.addEventListener("change", applyFilters);
 els.sourceSelect?.addEventListener("change", applyFilters);
+els.hidePastDeadlines?.addEventListener("change", applyFilters);
+els.hideNoDeadlines?.addEventListener("change", applyFilters);
 els.exportButton?.addEventListener("click", exportCsv);
 
 document.querySelectorAll("[data-min-fit]").forEach((button) => {
