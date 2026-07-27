@@ -1,114 +1,8 @@
 {
-  "scannedAt": "2026-07-20T15:04:04.421Z",
+  "scannedAt": "2026-07-27T15:38:39.954Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "362496",
-      "number": "ED-GRANTS-052026-001",
-      "title": "OSERS-OSEP: National Assessment Center, Assistance Listing Number (ALN) 84.326G",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-07-20",
-      "posted": "2026-05-20",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362496",
-      "awardCeiling": "1000000",
-      "estimatedFunding": "1000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description: The purpose of this grant competition is to establish a National Assessment Center to improve children with disabilities’ participation in and performance on State and districtwide assessments. This award is funded under the Technical Assistance and Dissemination to Improve Services and Results for Children with Disabilities program. The goal of this program is to promote academic achievement and to improve results for children with disabilities by providing technical assistance (TA), supporting model demonstration projects, disseminating useful information, and implementing activities supported by scientifically based research. This award aligns to requirements in the Individuals with Disabilities Education Act (IDEA). Specifically, section 612(a)(16) requires that all children with disabilities are included with appropriate accommodations in general State and districtwide assessments as indicated in their individualized education programs, including assessments described under section 1111 of the Elementary and Secondary Education Act (ESEA) and alternate assessments. Many States have also adopted kindergarten entry assessments to assess multiple developmental domains and support early learning. Additionally, Section 663(b)(2) of IDEA requires that the Secretary use funds to support activities to improve the participation of children with disabilities in State assessments. ALN: 84.326G. Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions . Note: For new potential grantees unfamiliar with grantmaking at ED, please consult our “ Getting Started with Discretionary Grant Applications ” webpage .",
-      "fit": 68,
-      "matchedTerms": [
-        "learning",
-        "assessment"
-      ]
-    },
-    {
-      "id": "357725",
-      "number": "25-523",
-      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Collaborations for Optimizing Research Ecosystems",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-07-21",
-      "posted": "2024-12-14",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25523",
-      "awardCeiling": "",
-      "estimatedFunding": "37500000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Established Program to Stimulate Competitive Research (EPSCoR) supports the U.S. National Science Foundation (NSF) mission by promoting nationwide scientific progress. Through this program, NSF fosters partnerships among academic institutions, government entities, industry, and non-profits. These collaborations aim to drive long-term improvements in research infrastructure, enhance R&D capacity, and boost the research competitiveness of eligible EPSCoR jurisdictions, including states, territories, and commonwealths. A jurisdiction's research ecosystem is the interconnected network of organizations, researchers, trainees, community stakeholders, and resources that contribute to the process of research and innovation that advances fundamental knowledge, generates use-inspired products, and ultimately cultivates beneficial impacts for a jurisdiction. E-CORE supports jurisdictions in building significant and sustainable research capacity and research infrastructure for targeted areas of focus, hereinafter referred to as \"cores,\" that underlie a jurisdiction's research ecosystem. Based on the evidence-based and self-identified needs of a jurisdiction, the types of cores supported by E-CORE may include (but are not limited to) development, enhancement, and/or ensuring the sustainability of: research administration; research facilities and infrastructure (including cyberinfrastructure); STEM education (K-12) pathways; higher education pathways; early career investigator pathways; broadening participation; workforce development; national and global partnerships; community engagement and outreach; technology transfer; economic development; and use-inspired research pathways. E-CORE projects must be designed to support the sustainability of the research infrastructure cores beyond the award period. Projects will also support the development and growth of new jurisdiction-wide connections, and the leveraging of existing jurisdiction-wide connections, to drive substantive and sustainable impacts.",
-      "fit": 100,
-      "matchedTerms": [
-        "infrastructure",
-        "evidence",
-        "workforce",
-        "stem",
-        "k-12",
-        "higher education",
-        "career",
-        "workforce development"
-      ]
-    },
-    {
-      "id": "361238",
-      "number": "26-503",
-      "title": "CyberAICorps Scholarship for Service",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-07-21",
-      "posted": "2026-02-04",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26503",
-      "awardCeiling": "2500000",
-      "estimatedFunding": "2500000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Government and the nation face a talent shortfall in artificial intelligence (AI) and cybersecurity. The CyberAICorps Scholarship for Service (CyberAI SFS) program welcomes proposals that address AI and cybersecurity education and workforce development. CyberAI refers to using AI in cybersecurity as well as providing security and resilience for AI systems. The Scholarship Track provides funding to establish, or to continue, scholarship for service programs with integrated AI and cybersecurity components (CyberAI). Scholarship recipients must be U.S. citizens or lawful permanent residents and work after graduation in the AI or cybersecurity mission of a government organization for a period of at least the length of the scholarship. The Innovation Tracksupports projects that enhance preparation of AI and/or cybersecurity professionals. Projects may expand existing educational opportunities, curricula, degree programs, educational pathways, methods and interventions, and partnerships among institutions of higher education, government, and employers. Two statutesauthorize this program: 15 USC &sect;7442 (cybersecurity) and 42 USC &sect;18993 (AI). CyberAI SFS aligns with the Executive Order 14277 to prioritize AI within scholarship for service programs. CyberAI is managed by NSF's Directorate for STEM Education in collaboration with the U.S. Office of Personnel Management (OPM) and U.S. Department of Homeland Security (DHS).",
-      "fit": 92,
-      "matchedTerms": [
-        "ai",
-        "artificial intelligence",
-        "workforce",
-        "stem",
-        "higher education",
-        "workforce development",
-        "science",
-        "pathways"
-      ]
-    },
-    {
-      "id": "339594",
-      "number": "22-586",
-      "title": "Faculty Early Career Development Program",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-07-22",
-      "posted": "2022-04-19",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22586",
-      "awardCeiling": "",
-      "estimatedFunding": "250000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "CAREER:The Faculty Early Career Development (CAREER) Program is a Foundation-wide activity that offers the National Science Foundation's most prestigious awards in support of early-career faculty who have the potential to serve as academic role models in research and education and to lead advances in the mission of their department or organization. Activities pursued by early-career faculty should build a firm foundation for a lifetime of leadership in integrating education and research. NSF encourages submission of CAREER proposals from early-career faculty at all CAREER-eligible organizations . PECASE:Each year NSF selects nominees for the Presidential Early Career Awards for Scientists and Engineers (PECASE) from among the most meritorious recent CAREER awardees.Selection for this award is based on twoimportant criteria:The criteria are 1) performance of innovative research at the frontiers of science, engineering, and technology that is relevant to the mission of the sponsoring organization or agency; and 2) community service demonstrated through scientific leadership, education or community outreach.These awards foster innovative developments in science and technology, increase awareness of careers in science and engineering, give recognition to the scientific missions of the participating agencies, enhance connections between fundamental research and national goals, and highlight the importance of science and technology for the Nation's future. Individuals cannot apply for PECASE. These awards are initiated by the participating federal agencies. At NSF, up to twenty-six nominees for this award are selected each year from among the PECASE-eligible CAREER awardees most likely to become the leaders of academic research and education in the twenty-first century. The White House Office of Science and Technology Policy makes the final selection and announcement of the awardees.",
-      "fit": 76,
-      "matchedTerms": [
-        "career",
-        "science",
-        "technology",
-        "engineering"
-      ]
-    },
     {
       "id": "361915",
       "number": "26-509",
@@ -370,7 +264,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The Research Experiences for Undergraduates (REU) program supports active research participation by undergraduate students in any of the areas of research funded by the National Science Foundation. REU projects involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU program. This solicitation features two mechanisms for supporting student research: REU Sites are based on independent proposals to initiate and conduct projects that engage a number of students in research. REU Sites may be based in a single discipline or academic department or may offer interdisciplinary or multi-department research opportunities with a coherent intellectual theme. REU Supplements may be included as a component of proposals for new or renewal NSF grants or cooperative agreements or may be requested for ongoing NSF-funded research projects. REU projects with an international dimension are welcome. Undergraduate student participants in either REU Sites or REU Supplements must be U.S. citizens, U.S. nationals,or U.S. permanent residents. Students do not apply to NSF to participate in REU activities, and NSF does not select students for the opportunities. Investigators who receive REU awards establish their own process for receiving and reviewing applications and selecting students, and students follow the instructions provided by each REU Site or REU Supplement to apply. (In some cases, investigators pre-select students for REU Supplements.) To identify appropriate REU Sites, students should consult the directory of active REU Sites on the Web at https://www.nsf.gov/crssprgm/reu/reu_search.cfm .",
-      "fit": 52,
+      "fit": 56,
       "matchedTerms": [
         "undergraduate",
         "science"
@@ -393,7 +287,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The National Science FoundationRobert Noyce Teacher Scholarship Program (Noyce)invites innovative proposals that address the critical need for recruiting, preparing, and retaining highly effective elementary and secondary mathematics and science teachers and teacher leaders who persist as classroom teachers in high-need Local Education Agencies (LEA), (a.k.a. high-need school district). To achieve this goal, Noyce supports talented science, technology, engineering, and mathematics (STEM) undergraduate majors and professionals to become effective K-12 STEM teachers. It also supports experienced, exemplary K-12 STEM teachers to become teacher leaders who continue as classroom teachers in high-need school districts. NSF welcomes submission of proposals to this funding opportunity that include the participation of the full spectrum of talent in STEM, e.g., as PI, co-PI, senior personnel, postdoctoral scholars, graduate or undergraduate students or trainees. In addition, the Noyce program supports research on the effectiveness and retention of K-12 STEM teachers in high-need school districts. Noyce offers four program tracks:Track 1: The RobertNoyce Teacher Scholarships and Stipends (S&S) Track, Track 2: The NSF Teaching Fellowships (TF) Track, Track 3: The NSFMaster Teaching Fellowships (MTF) Track, and Track 4: The Noyce Research Track. In addition,Capacity Buildingproposals are accepted from proposers intending to develop a proposal in any of the program's tracks. Noyce also supports conference proposals focused on improving STEM teacher preparation. Proposals that support authentic Research Experiences in STEM Settings (RESS) for Noyce and/or non-Noyce pre-service and in-service STEM teachers are also invited. Table 1:Categories of Noyce Funding* Intended Outcome Eligible Scholars and Fellows Length of Required Teaching Commitment Track 1: Scholarships and Stipends (S&S) up to $1,200,000 with a duration of up to 5 years Develop K-12 STEM teachers in high-need school districts (a.k.a. high-need LEA) Noyce-eligible STEM undergraduate majors & STEM professionals 2 years/year for which scholarship support was received Track 2: Teaching Fellowships (TF) up to $3,000,000, with a duration of up to 6 years Noyce-eligible STEM professionals 4 years Track 3: Master Teaching Fellowships (MTF) up to $3,000,000, with a duration of up to 6 years Develop K-12 STEM teacher leaders in high- need school districts(a.k.a. high-need LEA) Experienced and exemplary K-12 STEM teachers with a bachelor's degree or master's degree in their field 5 years Track 4: Noyce Research up to $1,000,000, with a duration of up to 5 years Research effectiveness and retention of K-12 STEM teachers in high-need school districts(a.k.a. high-need LEA) N/A N/A Capacity Building up to $100,000 , with a duration of up to 1 year Prepare for future Noyce submission N/A N/A *Awards may exceed the budget maximums through Collaboration Incentives for engagement of community colleges in Capacity Building or Track 1 projects, engagement with Noyce awards in Track 4 projects. See Section III: Award Information for additional details. The budgets for conference proposals or for authentic Research Experiences in STEM Settings should be commensurate with the proposed work and must be discussed with a Noyce Program Officer prior to submission.",
-      "fit": 96,
+      "fit": 100,
       "matchedTerms": [
         "teacher",
         "district",
@@ -1628,7 +1522,123 @@
       ]
     },
     {
-      "id": "watchlist-arnold-ventures-4",
+      "id": "361008",
+      "number": "26-501",
+      "title": "Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2025-12-12",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26501",
+      "awardCeiling": "1500000",
+      "estimatedFunding": "9000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12 initiative aims to advance mathematics learning and education through purposeful collaboration that draws on the interdisciplinary Science of Learning (including neuroscience; cognitive, developmental, and social sciences; computer science; machine learning; engineering; and education research), deep experiences in education practice and teaching, and innovations in the use of data science, AI and technology. Through an agreement with philanthropic partners, including the Walton Family Foundation (WFF), CAMEL consists of two phases. Phase I invites proposals for the creation of new research networks to support the generation of high value datasets that aim to advance math learning and education. These research networks must include researchers who study the basic science of learning, education practitioners, and data scientists. The high value dataset may come from either generating a new dataset or by increasing the value of an existing dataset. Phase II, open only to awardees of Phase I, establishes a \"collaboratory,\" which is a socio-technological platform that prioritizes community-building and capacity-building to sustain collaborative efforts to advance math learning and education in K-12. Expanding Participation in STEM, NSF Priorities and Gold Standard Science: NSF prioritizes cutting-edge discovery science and engineering research, advancing technology and innovation, and creating opportunities for all Americans. NSF has established priorities set forth by Congress, the administration and the NSF director to promote NSF's mission . Proposers should review the list of NSF priorities and are encouraged to align their proposals with them, where appropriate. NSF also expects the highest standards of scientific rigor, integrity and adherence to appropriate tenets of Gold Standard Science in proposals, as appropriate for the field of science and research modality.",
+      "fit": 100,
+      "matchedTerms": [
+        "ai",
+        "machine learning",
+        "data",
+        "dataset",
+        "open",
+        "learning",
+        "stem",
+        "k-12"
+      ]
+    },
+    {
+      "id": "356538",
+      "number": "PD-24-7790",
+      "title": "Atmosphere Cluster",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2024-09-26",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506308",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Atmosphere Cluster (AC)in the Division of Atmospheric and Geospace Sciences (AGS)supportsfundamental studies of atmospheric processes from the Earth's surface to thestratosphere, and from timescales of nanoseconds to millennia.&#8239;Core areas of research include the chemical, physical, and dynamical processes in the atmosphere thatimpactclouds, weather, climate, air quality, and the water cycle.Research methods include modeling, collecting observations, conducting experiments in the laboratory and field, and advancing analytical measurement techniques. General research topics that are supported by the AC include, andare not limited to: Chemical processes and mechanisms that explain how atmospheric gases and aerosols form, react,transformand interact with the surrounding environment. Processesand dynamics that governclimateand hydroclimate,includingtheir mean state, variability, response to external forcingandtheir role inthe establishment ofaglobal energy and water balance; coupled atmosphere-ocean interactions, land-atmosphere interactions and interactionsamongclouds, atmosphericcirculationand climate. Observational and modeling studies of past climate and its drivers and studies that developand synthesizepaleoclimate proxies and records. Physics and dynamics of atmospheric motions on all scales,from the planetary to the microscale, including the general circulation of the troposphere and stratosphere, planetary waves, synoptic and mesoscale systems, convection, gravity waves,turbulenceand planetary boundary layer dynamics. Physical meteorology including aerosol, cloud, and precipitation physics and atmospheric electricity. Synoptic and mesoscale meteorology includingthe processes,predictabilityand future changes insevere and hazardous weather. Proposals to theACare welcome at any time. However, the following solicitation in support of specific atmospheric science and community efforts has a target date or deadline. Please refer tothe solicitation documents for further details: The Facility and Instrumentation Request Process (FIRP) solicitation describes therequirements for the submission of proposals that will make use of AGS-supported facilities and instrumentation managed by the Facilities for Atmospheric Reseach and Education (FARE) program. AGS encouragesand inspiresscientific leadersbyinvesting inthe atmospheric and geospace sciences, enhancing educational opportunities and experiencesand supporting faculty and researchersat all career stages.The Division expects that proposers will integrate education,outreachand dissemination activities into their research plans in compliance with NSF Broader ImpactsMerit Reviewcriteria.&#8239;&#8239; &#8239; AGS invites proposals that include plans for workforce development, educational and outreach activities, open science initiatives,and efforts to broaden participation and encourage diverse talent in the atmosphere andgeospacesciences. Furthermore, AGS encourages proposals from all institutions, including Minority Serving Institutions, Emerging ResearchInstitutionsand institutions inEstablished Programto Stimulate Competitive Research(EPSCoR)jurisdictions. The Proposal & Award Policies & Procedures Guide ( PAPPG )providesthe instructions forsubmittingproposals toAGS.Additionally, Chapter II.F of the PAPPG defines \"Other Types of Proposals,\" including community-building proposals such as Conference, Travel or Planning Proposals and special categories of proposals, such as Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research&#8239;(EAGER).Proposals that are not compliant with the&#8239;PAPPG will be returned without review. The following sections highlight specific NSF-, GEO-or AGS-wide solicitations that may be relevant to the AGS Community. Please be aware that solicitations arefrequentlyupdated, so make sure that you are looking at the most recent version. Career Development AGS Postdoctoral Research Fellowship (AGS-PRF) : The AGS-PRF program supports researchers (also known as Fellows) for up to 24 months at the institution of their choice. The program is intended to recognize beginning investigators of significant potential and provide them with research experience that will broaden perspectives,facilitateinterdisciplinaryinteractionsandestablishthem in leadership positions within theAGScommunity. Faculty Early Career Development&#8239;Program(CAREER) :The CAREER program supportsearly career (assistant professor-level) faculty who have the potential to serve as academic role models in research and education and to lead advances for their department or organization. Awards are 5 years long and must integrate research and education. Mid-Career Advancement (MCA) :The MCA program providesopportunities for scientists and engineers at the associate professor rank (or equivalent) to substantively enhance and advance their research program through synergistic partnerships. Capacity Development EMpowering BRoader Academic Capacity and Education (EMBRACE) :The EMBRACE program supportsresearch and educational efforts at \"non-R1\" institutions, including non-R1 minority serving institutions (MSIs), two-year colleges (2YCs), primarily undergraduate institutions (PUIs), and emerging research(ERIs)and master's level institutions. Historically Black Colleges and Universities - Excellence in Research (HBCU - EiR) :The HBCU-EiR- program supports research at public and private historically Black colleges and universities to strengthen researchcapacityand promote engagement with NSF. Facilitating Research at Primarily Undergraduate Institutions (RUI and ROA) : RUIawardssupport PUI faculty in research that engages them in their professional field(s), buildscapacityfor research at their home institution, and supportsthe integration of research and undergraduate education. ROAawards similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators. Instrumentation and Facilities Major Research Instrumentation :The MRI program supports requests for up to $4 million from NSF for the development or acquisition of multi-user research instruments that are critical to the advancement of science and engineering. Mid-scale Research Infrastructure-1 :The MSRI-1 program supports the design and implementation of research infrastructure - including equipment, cyberinfrastructure, large-scaledatasetsand personnel - whose total project costs exceed the NSF Major Research Instrumentation programlimitbut are under $20 million. Mid-scale Research Infrastructure-2 :The MSRI-2 program supports the implementation of research infrastructure - including equipment, cyberinfrastructure, large-scaledatasetsand personnel - whose total project costs fall between $20 million and $100 million. &#8239;&#8239;",
+      "fit": 100,
+      "matchedTerms": [
+        "infrastructure",
+        "open",
+        "workforce",
+        "implementation",
+        "undergraduate",
+        "career",
+        "workforce development",
+        "hbcu"
+      ]
+    },
+    {
+      "id": "360664",
+      "number": "25-549",
+      "title": "NSF National Innovation Corps Teams (NSF National I-Corps (TM) Teams) program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2025-09-26",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25549",
+      "awardCeiling": "",
+      "estimatedFunding": "12000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The U.S. National Science Foundation (NSF) continues to develop and nurture a national innovation ecosystem that guides the output of scientific discoveries closer to the development of technologies, products, processes, and services that benefit all Americans . The goals of the NSF I-Corps &trade; p rogram&#8239;are to&#8239;spur translation of foundational research to the marketplace, to encourage collaboration between academia and industry, and to train NSF-funded faculty, students and other researchers in innovation and entrepreneurship skills. The NSF National I-Corps program utilizes experiential learning of customer and industry discovery, coupled with first-hand investigation of industrial processes, to quickly assess the translational potential of inventions.&#8239;The NSF National I-Corps program is designed to support the commercialization of \"deep technologies,\"&#8239;those revolving around foundational discoveries in science and engineering. The NSF National I-Corps program addresses the skill and knowledge gaps associated with the transformation of basic research into deep technology ventures (DTVs). The purpose of the NSF National I-Corps Teams program is to provide NSF-funded researchers additional support in the form of entrepreneurial education, mentoring, and funding to accelerate the translation of knowledge derived from foundational research into emerging products, processes, and services that may attract subsequent third-party funding. The outcomes of NSF National I-Corps Teams' projects are threefold: 1) a decision on a clear path forward based on an assessment of the business model, 2) substantial first-hand evidence for or against product-market fit, with the identification of customer segments and corresponding value propositions, and 3) a narrative of a technology demonstration&#8239;for potential partners.",
+      "fit": 100,
+      "matchedTerms": [
+        "learning",
+        "outcomes",
+        "evidence",
+        "assessment",
+        "skills",
+        "science",
+        "technology",
+        "engineering"
+      ]
+    },
+    {
+      "id": "45810",
+      "number": "PD-98-1331",
+      "title": "Sociology",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2009-03-06",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5369",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Sociology Program supports basic research on all forms of human social organization - societies, institutions, groups and demography - and processes of individual and institutional change. The program encourages theoretically focused empirical investigations aimed at improving the explanation of fundamental social processes. This includes research on organizations and organizational behavior, population dynamics, social movements, social groups, labor force participation, stratification and mobility, family, social networks, socialization, and the sociology of science and technology. The program supports both original data collection and secondary data analysis that use the full range of quantitative and qualitative methodological tools. Theoretically grounded projects that offer methodological innovations and improvements for data collection and analysis are also welcomed. Principal Investigators should selectPD 98-1331in the program announcement/solicitation block on the proposal cover sheet for submission of regular research projects to the sociology program. Projects are evaluated using the two foundation-wide criteria, intellectual merit and broader impacts . In assessing the intellectual merit of proposed research, four components are key to securing support from the Sociology Program: (1) the issues investigated must be theoretically grounded; (2) the research should be based on empirical observation or be subject to empirical validation or illustration; (3) the research design must be appropriate to the questions asked; and (4) the proposed research must advance our understanding of social processes, structures and methods. NSF also offers a number of specialized funding opportunities through its crosscutting and cross-directorate activities; some of the sociology-related opportunities are listed below. Crosscutting Research & Training Opportunities: ADVANCE: Increasing the Participation and Advancement of Women in Academic Science and Engineering Careers Faculty Early Career Development (CAREER) Program Graduate Research Fellowship Program (GRFP) Major Research Instrumentation (MRI) Program Mid-scale Research Infrastructure Programs SBE Postdoctoral Research Fellowships (SPRF) Research Experiences for Undergraduates (REU) Research at Undergraduate Institutions (RUI) Small Business Innovation Research (SBIR) Program To get information about these programs and others, please visit the cross-cutting and NSF-wide active funding opportunities search page. NSF's mission calls for the broadening of opportunities for and expanding participation of groups, institutions and geographic regions that are underrepresented in STEM disciplines, which is essential to the health and vitality of science and engineering. NSF is committed to this principle of diversity and deems it central to the programs, projects and activities it considers and supports. NSF is also committed to public access to publications and data, unless there are countervailing interests that prohibit or limit public access to data, including matters of personally identifiable information of research participants, privacy or other issues of vulnerability such as economic, social or other security interests, etc.). See Public Access to Results of NSF-Funded Research and Data Management for NSF SBE Directorate Proposals and Awards for more information.",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
+        "infrastructure",
+        "privacy",
+        "stem",
+        "undergraduate",
+        "career",
+        "science",
+        "technology"
+      ]
+    },
+    {
+      "id": "watchlist-arnold-ventures-5",
       "number": "",
       "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
       "source": "Arnold Ventures",
@@ -1651,6 +1661,27 @@
         "career pathways",
         "pathways",
         "causal"
+      ]
+    },
+    {
+      "id": "watchlist-indiana-department-of-education-grants-6",
+      "number": "",
+      "title": "Formative (Interim) Assessment Grant",
+      "source": "Indiana Department of Education Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.in.gov/doe/students/assessment/formative-interim-assessment-grant",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Indiana Department of Education Grants. Formative (Interim) Assessment Grant",
+      "fit": 70,
+      "matchedTerms": [
+        "assessment"
       ]
     },
     {
@@ -1777,7 +1808,7 @@
       ]
     },
     {
-      "id": "watchlist-indiana-department-of-education-grants-2",
+      "id": "watchlist-indiana-department-of-education-grants-1",
       "number": "",
       "title": "English Learning and Migrant Education",
       "source": "Indiana Department of Education Grants",
@@ -1798,7 +1829,7 @@
       ]
     },
     {
-      "id": "watchlist-indiana-department-of-education-grants-5",
+      "id": "watchlist-indiana-department-of-education-grants-3",
       "number": "",
       "title": "1008 Grants (Student Learning Recovery Program)",
       "source": "Indiana Department of Education Grants",
@@ -1819,7 +1850,7 @@
       ]
     },
     {
-      "id": "watchlist-indiana-department-of-education-grants-7",
+      "id": "watchlist-indiana-department-of-education-grants-5",
       "number": "",
       "title": "Early Intervention Grant",
       "source": "Indiana Department of Education Grants",
@@ -2038,25 +2069,6 @@
     {
       "id": "watchlist-california-department-of-education-funding-4",
       "number": "",
-      "title": "RFA-26: CSESAP",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r14/csesap26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: CSESAP",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-5",
-      "number": "",
       "title": "RFA-25: CSESAP",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
@@ -2169,26 +2181,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-indiana-department-of-education-grants-1",
-      "number": "",
-      "title": "Federal Grants",
-      "source": "Indiana Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.in.gov/doe/grants/#Federal_Grants",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Indiana Department of Education Grants. Federal Grants",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-indiana-department-of-education-grants-3",
+      "id": "watchlist-indiana-department-of-education-grants-2",
       "number": "",
       "title": "School Improvement Grants (SIG)",
       "source": "Indiana Department of Education Grants",
@@ -2209,25 +2202,6 @@
     {
       "id": "watchlist-indiana-department-of-education-grants-4",
       "number": "",
-      "title": "State Grants",
-      "source": "Indiana Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.in.gov/doe/grants/#State_Grants",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Indiana Department of Education Grants. State Grants",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-indiana-department-of-education-grants-6",
-      "number": "",
       "title": "High Ability Program Grant",
       "source": "Indiana Department of Education Grants",
       "sourceType": "State funding",
@@ -2241,6 +2215,25 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Indiana Department of Education Grants. High Ability Program Grant",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-indiana-department-of-education-grants-7",
+      "number": "",
+      "title": "Federal Grants Pre-Application",
+      "source": "Indiana Department of Education Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.in.gov/doe/grants/pre-application",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Indiana Department of Education Grants. Federal Grants Pre-Application",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2986,7 +2979,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-arnold-ventures-5",
+      "id": "watchlist-arnold-ventures-6",
       "number": "",
       "title": "Evidence & Evaluation Impacts of Cell Phone Policies in K‑ 12 Schools RFP RFP Closed",
       "source": "Arnold Ventures",
