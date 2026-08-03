@@ -1,58 +1,8 @@
 {
-  "scannedAt": "2026-07-27T15:38:39.954Z",
+  "scannedAt": "2026-08-03T15:39:42.452Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "361915",
-      "number": "26-509",
-      "title": "Integrated Data Systems & Services",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-07-28",
-      "posted": "2026-04-15",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26509",
-      "awardCeiling": "30000000",
-      "estimatedFunding": "60000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Integrated Data Systems and Services (IDSS) program supports operations-level national-scale cyberinfrastructure systems and services that broadly advance and facilitate open, data-intensive and artificial intelligence-driven science and engineering research, innovation, and education. Through this solicitation, the IDSS program is accepting proposals for three categories of projects: Category I . Development, deployment, and operation of novel national-scale integrated data systems and services, which may include interfacing with or leveraging other existing capabilities, systems and services, as appropriate to the project; Category II. Transition of established smaller scale, regional, pilot, or prototype data-focused systems and services to national-scale production/operational quality/level. This may also include enhancement and expansion of existing national-scale data-focused operational systems and services; and Category III. Planning grants for future potential development/deployment or transition/enhancement IDSS projects. NSF and the Office of Advanced Cyberinfrastructure (OAC) have long supported the development of innovative foundational and application-specific cyberinfrastructure resources and systems to address data-intensive research needs at the campus, regional, and community scales, through programs such as Cyberinfrastructure for Sustained Scientific Innovation (CSSI) , Campus Cyberinfrastructure (CC*) , and other investments. The primary goal of the IDSS program is to support national-scale foundational data cyberinfrastructure that broadly enables data- and artificial intelligence-driven research for many communities. The IDSS program supports foundational transdisciplinary and demonstrably multi-disciplinary projects aimed to broadly impact the science and engineering research and education community. Projects that aim to primarily benefit a single science discipline, domain, project, or application are not supported. It is recommended that prospective PIs contact program officer(s) from the list of Cognizant Program Officers to gain insight about alignment of their project ideas with the priorities of the IDSS program and Office of Advanced Cyberinfrastructure. As part of contacting Cognizant Program Officers, prospective PIs are also encouraged to ascertain that the focus and budget of their proposed work are appropriate for this solicitation.",
-      "fit": 94,
-      "matchedTerms": [
-        "artificial intelligence",
-        "data",
-        "open",
-        "science",
-        "engineering"
-      ]
-    },
-    {
-      "id": "362632",
-      "number": "ED-GRANTS-060126-001",
-      "title": "OSERS-OSEP: National Technical Assistance Center for Postsecondary Education and Training for Individuals who are Deaf or Hard of Hearing, Assistance Listing Number 84.326D",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-07-30",
-      "posted": "2026-06-01",
-      "status": "posted",
-      "url": "https://www.grants.gov/search-results-detail/362632",
-      "awardCeiling": "4000000",
-      "estimatedFunding": "4000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Program Description- The Individuals with Disabilities Education Act (IDEA) requires the Secretary to provide annually at least $4,000,000 to address the postsecondary, vocational, technical, continuing, and adult education needs of individuals who are deaf or hard of hearing. [1] Aligned with this requirement, through this competition the Department intends to establish a National Technical Assistance Center for Postsecondary Education and Training for Individuals who are Deaf or Hard of Hearing. This competition uses funds from three Department programs: the Technical Assistance and Dissemination to Improve Services and Results for Children with Disabilities (TA&D) program; the Personnel Development to Improve Services and Results for Children with Disabilities (PD) program; and the Educational Technology, Media, and Materials for Individuals with Disabilities (ETechM2) program. Assistance Listing Number: 84.326D. [1] See IDEA Section 682(d)(1)(B). Applicants are required to follow the 2025 Common Instructions and Information for Applicants to Department of Education Discretionary Grant Programs , published in the Federal Register on August 29, 2025 (90 FR 42234) and available at ED 2025 Common Instructions .",
-      "fit": 72,
-      "matchedTerms": [
-        "postsecondary",
-        "adult education",
-        "technology"
-      ]
-    },
     {
       "id": "328573",
       "number": "PD-20-1260",
@@ -109,35 +59,6 @@
         "transfer",
         "science",
         "technology"
-      ]
-    },
-    {
-      "id": "359061",
-      "number": "24-562",
-      "title": "Centers of Research Excellence in Science and Technology - Research Infrastructure for Science and Engineering",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-08-07",
-      "posted": "2025-05-21",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24562",
-      "awardCeiling": "2000000",
-      "estimatedFunding": "6000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Centers of Research Excellence in Science and Technology (CREST) program provides support to enhance the research capabilities of minority-serving institutions (MSIs) as defined in this solicitation's Eligibility section, through effective integration of education and research. The CREST program, composed of the CREST Centers, the CREST Postdoctoral Research Program, and the projects supported by this CREST-RISE solicitation, promotes the development of new knowledge, enhancements of the research productivity of individual faculty and postdoctoral scholars, and an expanded presence of research doctoral students in science, technology, engineering, and mathematics (STEM) disciplines, especially those from underrepresented groups. CREST-RISE is the component of the CREST program that supports the expansion of institutional research capacity by increasing the strength of institutional graduate programs and the successful production of research doctoral students, especially those from groups underrepresented in STEM. The CREST-RISE component supports STEM research doctoral programs in all NSF supported areas and encourages proposals in areas of national interest, such as artificial intelligence, data science and analytics; advanced materials, manufacturing, robotics; cybersecurity; plant genetics/agricultural technologies; quantum information sciences; nanotechnology, semiconductors/microelectronics technologies; climate change and clean energy. CREST-RISE projects must have a direct connection to the long-term plans of the host department(s) and the institution's strategic plan and mission. Project plans should emphasize activities designed to increase the production of research doctoral students, especially those underrepresented in STEM as well as expand institutional research capacity. The goals of CREST-RISE are to increase: 1) the number of STEM research doctoral programs at MSIs (as defined in the Eligibility section), 2) the number of STEM research doctoral students graduating from MSIs, especially those from groups underrepresented in STEM, and 3) institutional research capacity to increase doctoral students' graduation rates.To achieve these goals, the CREST-RISE program includes three tracks as follows: CREST-RISE STEM Doctoral Programs Support Initiative (CREST-RISE DPSI) CREST-RISE Research Advancement and Development (CREST-RISE RAD) CREST-RISE Equipment & Instrumentation (CREST-RISE E&I)",
-      "fit": 100,
-      "matchedTerms": [
-        "artificial intelligence",
-        "data",
-        "infrastructure",
-        "stem",
-        "science",
-        "technology",
-        "engineering",
-        "mathematics"
       ]
     },
     {
@@ -316,7 +237,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The Methodology, Measurement, and Statistics (MMS) Program is an interdisciplinary program in the Directorate for Social, Behavioral, and Economic Sciences that supports the development of innovative analytical and statistical methods and models for those sciences. MMS seeks proposals that are methodologically innovative, grounded in theory, and have potential utility for multiple fields within the social, behavioral, and economicsciences. As part of its larger portfolio, the MMS Program partners with a consortium of federal statistical agencies to support research proposals that further the production and use of official statistics. The MMS Program provides support through a number of different funding mechanisms. The following mechanisms are addressed in this solicitation: Regular Research Awards Awards for conferences and community-development activities Doctoral Dissertation Research Improvement (DDRI) Grants Research Experience for Undergraduates (REU) Supplements MMS also supports Faculty Early Career Development (CAREER) awards. Please see the CAREER Program Web Site for more informationabout this activity.",
-      "fit": 82,
+      "fit": 86,
       "matchedTerms": [
         "career",
         "science",
@@ -1290,6 +1211,89 @@
       ]
     },
     {
+      "id": "357725",
+      "number": "25-523",
+      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Collaborations for Optimizing Research Ecosystems",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-07-20",
+      "posted": "2024-12-14",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25523",
+      "awardCeiling": "",
+      "estimatedFunding": "37500000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Established Program to Stimulate Competitive Research (EPSCoR) supports the U.S. National Science Foundation (NSF) mission by promoting nationwide scientific progress. Through this program, NSF fosters partnerships among academic institutions, government entities, industry, and non-profits. These collaborations aim to drive long-term improvements in research infrastructure, enhance R&D capacity, and boost the research competitiveness of eligible EPSCoR jurisdictions, including states, territories, and commonwealths. A jurisdiction's research ecosystem is the interconnected network of organizations, researchers, trainees, community stakeholders, and resources that contribute to the process of research and innovation that advances fundamental knowledge, generates use-inspired products, and ultimately cultivates beneficial impacts for a jurisdiction. E-CORE supports jurisdictions in building significant and sustainable research capacity and research infrastructure for targeted areas of focus, hereinafter referred to as \"cores,\" that underlie a jurisdiction's research ecosystem. Based on the evidence-based and self-identified needs of a jurisdiction, the types of cores supported by E-CORE may include (but are not limited to) development, enhancement, and/or ensuring the sustainability of: research administration; research facilities and infrastructure (including cyberinfrastructure); STEM education (K-12) pathways; higher education pathways; early career investigator pathways; broadening participation; workforce development; national and global partnerships; community engagement and outreach; technology transfer; economic development; and use-inspired research pathways. E-CORE projects must be designed to support the sustainability of the research infrastructure cores beyond the award period. Projects will also support the development and growth of new jurisdiction-wide connections, and the leveraging of existing jurisdiction-wide connections, to drive substantive and sustainable impacts.",
+      "fit": 100,
+      "matchedTerms": [
+        "infrastructure",
+        "evidence",
+        "workforce",
+        "stem",
+        "k-12",
+        "higher education",
+        "career",
+        "workforce development"
+      ]
+    },
+    {
+      "id": "361238",
+      "number": "26-503",
+      "title": "CyberAICorps Scholarship for Service",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-07-20",
+      "posted": "2026-02-04",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26503",
+      "awardCeiling": "2500000",
+      "estimatedFunding": "2500000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Government and the nation face a talent shortfall in artificial intelligence (AI) and cybersecurity. The CyberAICorps Scholarship for Service (CyberAI SFS) program welcomes proposals that address AI and cybersecurity education and workforce development. CyberAI refers to using AI in cybersecurity as well as providing security and resilience for AI systems. The Scholarship Track provides funding to establish, or to continue, scholarship for service programs with integrated AI and cybersecurity components (CyberAI). Scholarship recipients must be U.S. citizens or lawful permanent residents and work after graduation in the AI or cybersecurity mission of a government organization for a period of at least the length of the scholarship. The Innovation Tracksupports projects that enhance preparation of AI and/or cybersecurity professionals. Projects may expand existing educational opportunities, curricula, degree programs, educational pathways, methods and interventions, and partnerships among institutions of higher education, government, and employers. Two statutesauthorize this program: 15 USC &sect;7442 (cybersecurity) and 42 USC &sect;18993 (AI). CyberAI SFS aligns with the Executive Order 14277 to prioritize AI within scholarship for service programs. CyberAI is managed by NSF's Directorate for STEM Education in collaboration with the U.S. Office of Personnel Management (OPM) and U.S. Department of Homeland Security (DHS).",
+      "fit": 88,
+      "matchedTerms": [
+        "ai",
+        "artificial intelligence",
+        "workforce",
+        "stem",
+        "higher education",
+        "workforce development",
+        "science",
+        "pathways"
+      ]
+    },
+    {
+      "id": "339594",
+      "number": "22-586",
+      "title": "Faculty Early Career Development Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-07-28",
+      "posted": "2022-04-19",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22586",
+      "awardCeiling": "",
+      "estimatedFunding": "250000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "CAREER:The Faculty Early Career Development (CAREER) Program is a Foundation-wide activity that offers the National Science Foundation's most prestigious awards in support of early-career faculty who have the potential to serve as academic role models in research and education and to lead advances in the mission of their department or organization. Activities pursued by early-career faculty should build a firm foundation for a lifetime of leadership in integrating education and research. NSF encourages submission of CAREER proposals from early-career faculty at all CAREER-eligible organizations . PECASE:Each year NSF selects nominees for the Presidential Early Career Awards for Scientists and Engineers (PECASE) from among the most meritorious recent CAREER awardees.Selection for this award is based on twoimportant criteria:The criteria are 1) performance of innovative research at the frontiers of science, engineering, and technology that is relevant to the mission of the sponsoring organization or agency; and 2) community service demonstrated through scientific leadership, education or community outreach.These awards foster innovative developments in science and technology, increase awareness of careers in science and engineering, give recognition to the scientific missions of the participating agencies, enhance connections between fundamental research and national goals, and highlight the importance of science and technology for the Nation's future. Individuals cannot apply for PECASE. These awards are initiated by the participating federal agencies. At NSF, up to twenty-six nominees for this award are selected each year from among the PECASE-eligible CAREER awardees most likely to become the leaders of academic research and education in the twenty-first century. The White House Office of Science and Technology Policy makes the final selection and announcement of the awardees.",
+      "fit": 72,
+      "matchedTerms": [
+        "career",
+        "science",
+        "technology",
+        "engineering"
+      ]
+    },
+    {
       "id": "356536",
       "number": "PD-24-7789",
       "title": "Geospace Cluster",
@@ -2050,25 +2054,6 @@
     {
       "id": "watchlist-california-department-of-education-funding-3",
       "number": "",
-      "title": "Request for Applications",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r1/pcsgppire26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-4",
-      "number": "",
       "title": "RFA-25: CSESAP",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
@@ -2082,6 +2067,25 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. RFA-25: CSESAP",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-4",
+      "number": "",
+      "title": "21CSLA Cohort 3 Request for Applications",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r12/csla26rfa.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. 21CSLA Cohort 3 Request for Applications",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2960,7 +2964,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-washington-ospi-grants-3",
+      "id": "watchlist-washington-ospi-grants-4",
       "number": "",
       "title": "Special Education State grant application, Medicaid, more...",
       "source": "Washington OSPI Grants",
@@ -3916,7 +3920,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-washington-ospi-grants-2",
+      "id": "watchlist-washington-ospi-grants-3",
       "number": "",
       "title": "School Buildings & Facilities Programs, grants, funding, more...",
       "source": "Washington OSPI Grants",
