@@ -1,57 +1,8 @@
 {
-  "scannedAt": "2026-08-17T13:33:37.081Z",
+  "scannedAt": "2026-08-24T13:43:46.945Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "350561",
-      "number": "PD-24-1699",
-      "title": "Cognitive Neuroscience",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-08-17",
-      "posted": "2023-10-12",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506244",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Cognitive Neuroscience (CogNeuro) program seeks to fund proposals that can advance our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically relate precise and rich quantifications of physiological responses and behavior in ways that advance theory (Intellectual Merit). Funded proposal also typically strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists, and/or increasing awareness and utilization of the research the field produces (Broader Impacts). Intellectual Merit In general, successful proposals provide a theoretical motivation and consist of a series of experiments/analyses that test the differential predictions of that theory; they go beyond quantifying physiology during certain tasks and behaviors. Research topics considered for funding include but are not limited to: perception, recognition, categorization, implicit and explicit memory, working memory, attention, language, decision-making, and social reasoning. Commensurate with the inherently multidisciplinary nature of the field and the limitations of any single technique, a wide variety of physiological methods are considered, including but not limited to: neuroimaging (e.g., fMRI, EEG, MEG), non-invasive stimulation (e.g. TMS, tDCS), lesion analysis, intracranial recording, optogenetics, genetics, optical imaging, computational modeling, and pharmacological interventions in both human and non-human primates and other animal models. The program is particularly interested in proposals that achieve or enable convergence across multiple techniques. Critically, proposals will be returned without review if they are focused on: 1) either behavior or physiology and lack a specific link between them, 2) understanding clinical populations, 3) non-human animals without a clear benefit to our understanding of humans. Broader Impacts In general, successful proposals make impacts beyond traditional academic routes, such as publishing research or teaching undergraduate courses. Strong broader impacts can be quite varied but will typically involve specific efforts strengthening the field and/or increasing its visibility that leverage the characteristics of the institution, department, and/or researcher. Consider the following non-exhaustive examples: 1) STEM education and outreach, particularly in underserved communities, 2) directly involving undergraduates and high-school students in research, 3) making tools and applications for the general public, 4) science journalism or advocacy. These efforts can, but need not, directly relate to the proposed research. It is also encouraged to include budget for these efforts if warranted. Mentoring Plans Strong mentoring plans generally go beyond inclusion in standard lab activities and incorporate specific ideas for forwarding the careers of young scientists and trainees that leverage the setting and content of the proposed research. General Directions Prior to the development of a full proposal, investigators are strongly encouraged to submit a one-page summary of the proposed research to a program director to evaluate its appropriateness for the CogNeuro program. Please contact the director early enough to allow for revisions and incorporation what may be extensive feedback. The summary should include an overview of your research and statements of intellectual merit and broader impacts, the two NSF review criteria. See the Merit Review Fact Sheet for more important facts about the NSF merit review process. Please read the NSF Proposal & Award Policies & Procedures Guide (PAPPG) carefully, as it will be strictly adhered to even if other directives or communications appear to contradict it. Currently, the average standard/CAREER award size is $175,000-$225,000 per year for 3-5 years. Awards in excess of $1.0 million are exceptionally rare and almost always multidisciplinary. Please be judicious in your requests, understanding the realities of the limited funding available for all proposals. See the Listing of Active Cognitive Neuroscience Awards for additional award information. Declined proposals are ineligible for resubmission until a minimum of one year has passed since the due date of their initial submission, unless specifically allowed by the PO in the feedback received during the decline process. This moratorium allows investigators the time required to digest the results of the merit review and revise their proposal accordingly. A proposal that has not been substantially revised will be returned without review as per the PAPPG. PIs are strongly encouraged to submit the Single Copy Document titled \"List of Suggested Reviewers\" with their full proposal. Sharing of data and other materials is an expectation for funded research. Please consult the NSF Dear Colleague Letter: Effective Practices for Data for more details. Interested in talking with a program director? Send a one-page description of the proposed research to sbe-cogneuro@nsf.gov.",
-      "fit": 94,
-      "matchedTerms": [
-        "data",
-        "stem",
-        "undergraduate",
-        "career",
-        "science"
-      ]
-    },
-    {
-      "id": "348985",
-      "number": "23-601",
-      "title": "Research Experiences for Undergraduates",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-08-19",
-      "posted": "2023-06-29",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23601",
-      "awardCeiling": "500000",
-      "estimatedFunding": "84800000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Research Experiences for Undergraduates (REU) program supports active research participation by undergraduate students in any of the areas of research funded by the National Science Foundation. REU projects involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU program. This solicitation features two mechanisms for supporting student research: REU Sites are based on independent proposals to initiate and conduct projects that engage a number of students in research. REU Sites may be based in a single discipline or academic department or may offer interdisciplinary or multi-department research opportunities with a coherent intellectual theme. REU Supplements may be included as a component of proposals for new or renewal NSF grants or cooperative agreements or may be requested for ongoing NSF-funded research projects. REU projects with an international dimension are welcome. Undergraduate student participants in either REU Sites or REU Supplements must be U.S. citizens, U.S. nationals,or U.S. permanent residents. Students do not apply to NSF to participate in REU activities, and NSF does not select students for the opportunities. Investigators who receive REU awards establish their own process for receiving and reviewing applications and selecting students, and students follow the instructions provided by each REU Site or REU Supplement to apply. (In some cases, investigators pre-select students for REU Supplements.) To identify appropriate REU Sites, students should consult the directory of active REU Sites on the Web at https://www.nsf.gov/crssprgm/reu/reu_search.cfm .",
-      "fit": 56,
-      "matchedTerms": [
-        "undergraduate",
-        "science"
-      ]
-    },
     {
       "id": "348012",
       "number": "23-586",
@@ -310,7 +261,7 @@
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "The program in Foundations supports research in mathematical logic and the foundations of mathematics, including proof theory, recursion theory, model theory, set theory, and infinitary combinatorics. Conferences Principal Investigators should carefully read the program solicitation &quot;Conferences and Workshops in the Mathematical Sciences&quot; (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities. Conference and workshop proposals should be submitted eight months before the requested start date.",
-      "fit": 24,
+      "fit": 28,
       "matchedTerms": [
         "science",
         "mathematics"
@@ -333,7 +284,7 @@
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "The Combinatorics program supports research on discrete structures and includes algebraic, enumerative, existential, extremal, geometric, and probabilistic combinatorics, including graph theory. Conferences Principal Investigators should carefully read the program solicitation &quot;Conferences and Workshops in the Mathematical Sciences&quot; (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities. Conference proposals must be submitted at least six months in advance of the conference, and in the same fiscal year (which begins October 1) if possible.",
-      "fit": 20,
+      "fit": 24,
       "matchedTerms": [
         "science"
       ]
@@ -580,7 +531,7 @@
     {
       "id": "363233",
       "number": "24-590",
-      "title": "Engineering Research Initiation",
+      "title": "Engineering Research Initiation (ERI)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2026-10-09",
@@ -1339,6 +1290,31 @@
       ]
     },
     {
+      "id": "363623",
+      "number": "26-525",
+      "title": "Expeditions in Computing (Expeditions)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-07-27",
+      "posted": "2026-08-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26525",
+      "awardCeiling": "",
+      "estimatedFunding": "60000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The far-reaching impact and rate of innovation in the computer and information science and engineering ﬁelds has been remarkable, generating economic prosperity, and enhancing the quality of life for people. More than a decade ago, the NSF Directorate for Computer and Information Science and Engineering (NSF CISE) established the NSF Expeditions program to provide the NSF CISE research community with the opportunity to pursue ambitious, foundational research agendas that promise to deﬁne the future of computing and information. Investigators are strongly encouraged to come together within or across departments or institutions to identify compelling, transformative research agendas that look ahead by at least a decade and promise disruptive innovations in computer and information science and engineering for the years ahead. Expeditions may advance a range of areas including, but not limited to, fundamentally new architectures for intelligence and the hardware and compute substrates that make them possible; rigorous physical and mathematical theories of how systems learn, generalize, and can be interpreted; neuroscience-inspired approaches to learning, memory, reasoning, and behavioral steering; intelligence embodied in the physical world through general physical intelligence, advanced robotics hardware, and novel architectures and learning paradigms for embodied systems; transformative approaches to next generation communication and networking; and high-risk, high-reward areas that no single discipline could pursue alone. Now funded at levels up to $15,000,000 over seven years, NSF Expeditions projects represent some of the largest single investments made by the CISE Directorate. These awards are designed to promote the formation of large, multidisciplinary research teams to address transformative foundational computing research problems. This reflects CISE’s recognition that achieving deep and lasting breakthroughs often require advances in multiple ﬁelds or sub-ﬁelds. Awards made through this program will complement research areas supported by other CISE programs. The program responds to core recommendations in the Administration’s Fiscal Year 2028 Research and Development Budget Priorities Memorandum that calls for foundational research in the physical sciences and engineering, including computer science. NSF Expeditions also supports longer grant durations for transformative research, giving scientists the time and autonomy to pursue bold, ambitious projects whose most important results may take years to emerge.",
+      "fit": 72,
+      "matchedTerms": [
+        "learning",
+        "science",
+        "engineering",
+        "computer science"
+      ]
+    },
+    {
       "id": "339594",
       "number": "22-586",
       "title": "Faculty Early Career Development Program",
@@ -1393,30 +1369,51 @@
       ]
     },
     {
-      "id": "349654",
-      "number": "23-611",
-      "title": "Division of Materials Research: Condensed Matter and Materials Theory (CMMT)",
+      "id": "348985",
+      "number": "23-601",
+      "title": "Research Experiences for Undergraduates (REU)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
-      "deadline": "2076-08-14",
-      "posted": "2023-08-01",
+      "deadline": "2027-08-18",
+      "posted": "2023-06-29",
       "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23611",
-      "awardCeiling": "",
-      "estimatedFunding": "15000000",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23601",
+      "awardCeiling": "500000",
+      "estimatedFunding": "84800000",
       "indirectRate": "",
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "CMMT supports theoretical and computational materials research in the topical areas represented in DMR's other Topical Materials Research Programs (these are also variously known as Individual Investigator Award (IIA) Programs, or Core Programs, or Disciplinary Programs), which are: Condensed Matter Physics (CMP), Biomaterials (BMAT), Ceramics (CER), Electronic and Photonic Materials (EPM), Metals and Metallic Nanostructures (MMN), Polymers (POL), and Solid State and Materials Chemistry (SSMC). The CMMT program supports fundamental research that advances conceptual understanding of hard and soft materials, and materials-related phenomena; the development of associated analytical, computational, and data-centric techniques; and predictive materials-specific theory, simulation, and modeling for materials research. First-principles electronic structure, quantum many-body and field theories, statistical mechanics, classical and quantum Monte Carlo, and molecular dynamics, are among the methods used in the broad spectrum of research supported in CMMT. Research may encompass the advance of new paradigms in materials research, including emerging data-centric approaches utilizing data-analytics or machine learning. Computational efforts span from the level of workstations to advanced and high-performance scientific computing. Emphasis is on approaches that begin at the smallest appropriate length scale, such as electronic, atomic, molecular, nano-, micro-, and mesoscale, required to yield fundamental insight into material properties, processes, and behavior, to predict new materials and states of matter, and to reveal new materials phenomena. Approaches that span multiple scales of length and time may be required to advance fundamental understanding of materials properties and phenomena, particularly for polymeric materials and soft matter. Areas of recent interest include, but are not limited to: strongly correlated electron systems; topological phases; low-dimensional materials and systems; quantum and classical nonequilibrium phenomena, the latter including pattern formation, materials growth, microstructure evolution, fracture, and the jamming transition; gels; glasses; disordered materials, hard and soft; defects; high-temperature superconductivity; creation and manipulation of coherent quantum states; nanostructured materials and mesoscale phenomena; sustainable materials; polymeric materials and soft condensed matter; active matter and related collective behavior; biologically inspired materials, and research at the interfaces of materials with biological systems. CMMT encourages potentially transformative submissions at the frontiers of theoretical, computational, and data-intensive materials research, which includes but is not limited to: i) advancing the understanding of emergent properties and phenomena of materials and condensed matter systems, ii) developing materials-specific prediction and advancing understanding of properties, phenomena, and emergent states of matter associated with either hard or soft materials, iii) developing and exploring new paradigms including computational and data-enabled approaches to advance fundamental understanding of materials and materials related phenomena, iv) fostering research at interfaces among subdisciplines represented in the Division of Materials Research, v) harnessing machine learning or developing explainable machine learning to advance understanding of materials and materials-related phenomena, or vi) developing new theoretical frameworks in areas of materials research, such as active matter, nonequilibrium materials or matter, the synthesis of solid-state materials, or reformulating quantum many-body theory for conceptual insight or greater tractability. Research involving significant materials research cyberinfrastructure development, for example, software development with an aim to share software with the broader materials community, should be submitted to CMMT through Computational and Data-Enabled Science and Engineering (CDS&E) in accordance with its submission instructions for DMR. Additional Information Eligibility rules apply for submissions; please see Section II. Program Description, Section IV. Eligibility Information, and Section V.A Proposal Preparation Instructions.",
-      "fit": 94,
+      "description": "The Research Experiences for Undergraduates (REU) program supports active research participation by undergraduate students in any of the areas of research funded by the National Science Foundation. REU projects involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU program. This solicitation features two mechanisms for supporting student research: REU Sites are based on independent proposals to initiate and conduct projects that engage a number of students in research. REU Sites may be based in a single discipline or academic department or may offer interdisciplinary or multi-department research opportunities with a coherent intellectual theme. REU Supplements may be included as a component of proposals for new or renewal NSF grants or cooperative agreements or may be requested for ongoing NSF-funded research projects. REU projects with an international dimension are welcome. Undergraduate student participants in either REU Sites or REU Supplements must be U.S. citizens, U.S. nationals, or U.S. permanent residents. Students do not apply to NSF to participate in REU activities, and NSF does not select students for the opportunities. Investigators who receive REU awards establish their own process for receiving and reviewing applications and selecting students, and students follow the instructions provided by each REU Site or REU Supplement to apply. (In some cases, investigators pre-select students for REU Supplements.) To identify appropriate REU Sites, students should consult the directory of active REU Sites on the Web at https://www.nsf.gov/crssprgm/reu/reu_search.cfm .",
+      "fit": 52,
       "matchedTerms": [
-        "machine learning",
-        "data",
+        "undergraduate",
+        "science"
+      ]
+    },
+    {
+      "id": "363613",
+      "number": "26-514",
+      "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-08-19",
+      "posted": "2026-08-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26514",
+      "awardCeiling": "",
+      "estimatedFunding": "110000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The U.S. National Science Foundation Directorate for Engineering (NSF ENG) supports foundational research for electrical, communications and computing systems through the following programs: The Electronic, Photonic, Magnetic, and Quantum Devices (EPMQD) program supports foundational engineering research on novel classical and quantum devices, exploring matter’s electronic, photonic, and magnetic properties to enable new applications. The Circuits and Systems for Communications and Sensing (CSCS) program supports foundational engineering research on classical and quantum aspects of advanced components, systems, and signal processing for communications and sensing. The Energy, Power, Control, and Learning (EPCL) program supports foundational research on systems and control, learning, optimization, artificial intelligence, and networked multi-agent systems, and their applications, with emphasis on power and energy systems. NSF ENG anticipates a portfolio of ENG: Electrical, Communications, and Computing Systems (ECCS) awards with a range of budgets and durations. Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds. NSF ENG is particularly interested in intellectually ambitious and potentially transformative foundational research. Proposals need not promise a near-term product, deployment, or commercial outcome, nor need they address later-stage development to be competitive.",
+      "fit": 72,
+      "matchedTerms": [
+        "artificial intelligence",
         "learning",
         "science",
-        "engineering",
-        "statistical"
+        "engineering"
       ]
     },
     {
@@ -1475,35 +1472,6 @@
         "skills",
         "science",
         "technology"
-      ]
-    },
-    {
-      "id": "358397",
-      "number": "PD-25-342Y",
-      "title": "Infrastructure Systems and People",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2025-01-25",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506398",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "Infrastructure systems comprise complex connections between physical components, organizational structures and operational methods that support the needs of people and communities at the local, regional, national, and global scales. Such systems form the backbone of society, providing essential services as well as ensuring public health and welfare, economic prosperity and national security, and are expected to function under all operational conditions. Meanwhile, infrastructure systems are capital intensive and vulnerable to disruptions from extreme events, including natural disasters, social crises, and malicious attacks. Disruptions in one system can have cascading impacts on others in space and over time. Moreover, short- versus long-term trade-offs, unintended consequences, and maladaptation are not often accounted for. How systems function at the \"extreme,\" which can be due to disruptors from the introduction of innovation, the convergence of technologies, sudden changes to their utilization and access, dramatic changes in operating environments, and changes to demand during crises are of particular interest. To ensure the efficiency, sustainability, resilience, and fair use of infrastructure systems, it is important to continuously improve and optimize their design, operations, system monitoring and performance assessment in dynamic, uncertain and sometime unknown environments. While functioning at extremes is of interest, the program also supports infrastructure systems research under the full range of operating conditions, across a variety of hazards, and in urban, suburban, and rural communities. The program particularly encourages interdisciplinary and multidisciplinary exploration that will open new research frontiers and significantly expand and transform relevant research communities. The program welcomes research that addresses novel system integration, user-inspired system and service design, data analytics, and socio-technical studies focused on engineering and system innovation during normal and extreme conditions. The program also values innovative research efforts focused on collecting, standardizing, and sharing large-scale databases of real-world infrastructure systems and people-infrastructure interactions during normal and extreme operating conditions, which can be instrumental in providing benchmarks for model verification and validation and for advancing future research innovation in ISP. The ISP program supports research on lifeline systems and communities that contributes to the National Science Foundation's role in the National Earthquake Hazards Reduction Program (NEHRP) and the National Windstorm Impact Reduction Program (NWIRP). Principal Investigators are encouraged to leverage NSF's investments in the Natural Hazards Engineering Research Infrastructure (NHERI) experimental, computational modeling and simulation, and data resources (https://www.designsafe-ci.org/) in their research to accelerate advances needed for reducing the impacts of natural hazards on infrastructures and people. While physics-based subject-matter knowledge may be crucial in many research efforts, the program does not support research whose primary methodological contribution focuses on individual infrastructure components without a systems research perspective whose primary methodological focus is on geotechnical and structural engineering, material sciences, architectural engineering, wireless communication and sensor technology, human factors, and/or hydrologic or environmental engineering. Proposers are actively encouraged to email a one-page project summary to the ISP Program Officers before submitting a full proposal for guidance on whether the proposed research topic falls within the scope of the ISP program; this guidance should especially be requested for multi-disciplinary research proposals, and proposals for which research and/or development on the subject infrastructure(s) are also supported by other federal and/or state agencies.",
-      "fit": 100,
-      "matchedTerms": [
-        "data",
-        "infrastructure",
-        "open",
-        "assessment",
-        "rural",
-        "science",
-        "technology",
-        "engineering"
       ]
     },
     {
@@ -1623,6 +1591,35 @@
       ]
     },
     {
+      "id": "45810",
+      "number": "PD-98-1331",
+      "title": "Sociology",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2009-03-06",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5369",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Sociology Program supports basic research on all forms of human social organization - societies, institutions, groups and demography - and processes of individual and institutional change. The program encourages theoretically focused empirical investigations aimed at improving the explanation of fundamental social processes. This includes research on organizations and organizational behavior, population dynamics, social movements, social groups, labor force participation, stratification and mobility, family, social networks, socialization, and the sociology of science and technology. The program supports both original data collection and secondary data analysis that use the full range of quantitative and qualitative methodological tools. Theoretically grounded projects that offer methodological innovations and improvements for data collection and analysis are also welcomed. Principal Investigators should selectPD 98-1331in the program announcement/solicitation block on the proposal cover sheet for submission of regular research projects to the sociology program. Projects are evaluated using the two foundation-wide criteria, intellectual merit and broader impacts . In assessing the intellectual merit of proposed research, four components are key to securing support from the Sociology Program: (1) the issues investigated must be theoretically grounded; (2) the research should be based on empirical observation or be subject to empirical validation or illustration; (3) the research design must be appropriate to the questions asked; and (4) the proposed research must advance our understanding of social processes, structures and methods. NSF also offers a number of specialized funding opportunities through its crosscutting and cross-directorate activities; some of the sociology-related opportunities are listed below. Crosscutting Research & Training Opportunities: ADVANCE: Increasing the Participation and Advancement of Women in Academic Science and Engineering Careers Faculty Early Career Development (CAREER) Program Graduate Research Fellowship Program (GRFP) Major Research Instrumentation (MRI) Program Mid-scale Research Infrastructure Programs SBE Postdoctoral Research Fellowships (SPRF) Research Experiences for Undergraduates (REU) Research at Undergraduate Institutions (RUI) Small Business Innovation Research (SBIR) Program To get information about these programs and others, please visit the cross-cutting and NSF-wide active funding opportunities search page. NSF's mission calls for the broadening of opportunities for and expanding participation of groups, institutions and geographic regions that are underrepresented in STEM disciplines, which is essential to the health and vitality of science and engineering. NSF is committed to this principle of diversity and deems it central to the programs, projects and activities it considers and supports. NSF is also committed to public access to publications and data, unless there are countervailing interests that prohibit or limit public access to data, including matters of personally identifiable information of research participants, privacy or other issues of vulnerability such as economic, social or other security interests, etc.). See Public Access to Results of NSF-Funded Research and Data Management for NSF SBE Directorate Proposals and Awards for more information.",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
+        "infrastructure",
+        "privacy",
+        "stem",
+        "undergraduate",
+        "career",
+        "science",
+        "technology"
+      ]
+    },
+    {
       "id": "watchlist-arnold-ventures-6",
       "number": "",
       "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
@@ -1667,6 +1664,27 @@
       "fit": 70,
       "matchedTerms": [
         "assessment"
+      ]
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-4",
+      "number": "",
+      "title": "California Center for Inclusive College Grant",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r18/ccic26result.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. California Center for Inclusive College Grant",
+      "fit": 68,
+      "matchedTerms": [
+        "college"
       ]
     },
     {
@@ -1746,6 +1764,25 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Hawaii Department of Education Grants. Federal Grants",
+      "fit": 64,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-wyoming-department-of-education-grants-0",
+      "number": "",
+      "title": "WDE Seeks Public Comment on Application for Federal Ed-Flex Waiver Authority",
+      "source": "Wyoming Department of Education Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://edu.wyoming.gov/wde-seeks-public-comment-on-application-for-federal-ed-flex-waiver-authority/",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Wyoming Department of Education Grants. WDE Seeks Public Comment on Application for Federal Ed-Flex Waiver Authority",
       "fit": 64,
       "matchedTerms": []
     },
@@ -1919,6 +1956,27 @@
       ]
     },
     {
+      "id": "watchlist-new-york-state-education-department-funding-3",
+      "number": "",
+      "title": "RFP #290: Workforce Innovation and Opportunity Act Title II and Welfare Education Program Funding WIOA RFP (2027-2032)",
+      "source": "New York State Education Department Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.nysed.gov/funding-opportunities/news/rfp-290-workforce-innovation-and-opportunity-act-title-ii-and-welfare",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for New York State Education Department Funding. RFP #290: Workforce Innovation and Opportunity Act Title II and Welfare Education Program Funding WIOA RFP (2027-2032)",
+      "fit": 54,
+      "matchedTerms": [
+        "workforce"
+      ]
+    },
+    {
       "id": "watchlist-alaska-department-of-education-grants-0",
       "number": "",
       "title": "Capital Improvement Grants and Projects",
@@ -2035,44 +2093,6 @@
     {
       "id": "watchlist-california-department-of-education-funding-3",
       "number": "",
-      "title": "2015-16 ISABS RFA",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r12/isabs15rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. 2015-16 ISABS RFA",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-4",
-      "number": "",
-      "title": "RFA-26: Title III Immigrant Student Program",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r28/imm26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: Title III Immigrant Student Program",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-5",
-      "number": "",
       "title": "RFA-26: Title III English Learner Student Program",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
@@ -2086,25 +2106,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: Title III English Learner Student Program",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-6",
-      "number": "",
-      "title": "Request for Applications",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r12/caserves26-27.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2945,21 +2946,21 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-new-york-state-education-department-funding-3",
+      "id": "watchlist-new-york-state-education-department-funding-2",
       "number": "",
-      "title": "2026-27 Title I, 1003 School Improvement Grant (Instructional Systems)",
+      "title": "RFP #476: Impartial Hearing Officer Training and Complaint Investigations",
       "source": "New York State Education Department Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.nysed.gov/funding-opportunities/news/2026-27-title-i-1003-school-improvement-grant-instructional-systems",
+      "url": "https://www.nysed.gov/funding-opportunities/news/rfp-476-impartial-hearing-officer-training-and-complaint-investigations",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for New York State Education Department Funding. 2026-27 Title I, 1003 School Improvement Grant (Instructional Systems)",
+      "description": "State funding. Matched source page for New York State Education Department Funding. RFP #476: Impartial Hearing Officer Training and Complaint Investigations",
       "fit": 50,
       "matchedTerms": []
     },
@@ -3391,7 +3392,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-new-york-state-education-department-funding-2",
+      "id": "watchlist-new-york-state-education-department-funding-4",
       "number": "",
       "title": "2026-27 Title I, 1003 School Improvement Grant (Innovation)",
       "source": "New York State Education Department Funding",
@@ -3406,25 +3407,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for New York State Education Department Funding. 2026-27 Title I, 1003 School Improvement Grant (Innovation)",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-new-york-state-education-department-funding-4",
-      "number": "",
-      "title": "2026 Title I, 1003 School Improvement Grant (Supplemental Support Program)",
-      "source": "New York State Education Department Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.nysed.gov/funding-opportunities/news/2026-title-i-1003-school-improvement-grant-supplemental-support-program",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for New York State Education Department Funding. 2026 Title I, 1003 School Improvement Grant (Supplemental Support Program)",
       "fit": 38,
       "matchedTerms": []
     },
