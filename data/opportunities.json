@@ -1,61 +1,8 @@
 {
-  "scannedAt": "2026-08-24T13:43:46.945Z",
+  "scannedAt": "2026-08-31T19:19:34.496Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "348012",
-      "number": "23-586",
-      "title": "Robert Noyce Teacher Scholarship Program",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-08-25",
-      "posted": "2023-05-09",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23586",
-      "awardCeiling": "3250000",
-      "estimatedFunding": "68000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The National Science FoundationRobert Noyce Teacher Scholarship Program (Noyce)invites innovative proposals that address the critical need for recruiting, preparing, and retaining highly effective elementary and secondary mathematics and science teachers and teacher leaders who persist as classroom teachers in high-need Local Education Agencies (LEA), (a.k.a. high-need school district). To achieve this goal, Noyce supports talented science, technology, engineering, and mathematics (STEM) undergraduate majors and professionals to become effective K-12 STEM teachers. It also supports experienced, exemplary K-12 STEM teachers to become teacher leaders who continue as classroom teachers in high-need school districts. NSF welcomes submission of proposals to this funding opportunity that include the participation of the full spectrum of talent in STEM, e.g., as PI, co-PI, senior personnel, postdoctoral scholars, graduate or undergraduate students or trainees. In addition, the Noyce program supports research on the effectiveness and retention of K-12 STEM teachers in high-need school districts. Noyce offers four program tracks:Track 1: The RobertNoyce Teacher Scholarships and Stipends (S&S) Track, Track 2: The NSF Teaching Fellowships (TF) Track, Track 3: The NSFMaster Teaching Fellowships (MTF) Track, and Track 4: The Noyce Research Track. In addition,Capacity Buildingproposals are accepted from proposers intending to develop a proposal in any of the program's tracks. Noyce also supports conference proposals focused on improving STEM teacher preparation. Proposals that support authentic Research Experiences in STEM Settings (RESS) for Noyce and/or non-Noyce pre-service and in-service STEM teachers are also invited. Table 1:Categories of Noyce Funding* Intended Outcome Eligible Scholars and Fellows Length of Required Teaching Commitment Track 1: Scholarships and Stipends (S&S) up to $1,200,000 with a duration of up to 5 years Develop K-12 STEM teachers in high-need school districts (a.k.a. high-need LEA) Noyce-eligible STEM undergraduate majors & STEM professionals 2 years/year for which scholarship support was received Track 2: Teaching Fellowships (TF) up to $3,000,000, with a duration of up to 6 years Noyce-eligible STEM professionals 4 years Track 3: Master Teaching Fellowships (MTF) up to $3,000,000, with a duration of up to 6 years Develop K-12 STEM teacher leaders in high- need school districts(a.k.a. high-need LEA) Experienced and exemplary K-12 STEM teachers with a bachelor's degree or master's degree in their field 5 years Track 4: Noyce Research up to $1,000,000, with a duration of up to 5 years Research effectiveness and retention of K-12 STEM teachers in high-need school districts(a.k.a. high-need LEA) N/A N/A Capacity Building up to $100,000 , with a duration of up to 1 year Prepare for future Noyce submission N/A N/A *Awards may exceed the budget maximums through Collaboration Incentives for engagement of community colleges in Capacity Building or Track 1 projects, engagement with Noyce awards in Track 4 projects. See Section III: Award Information for additional details. The budgets for conference proposals or for authentic Research Experiences in STEM Settings should be commensurate with the proposed work and must be discussed with a Noyce Program Officer prior to submission.",
-      "fit": 100,
-      "matchedTerms": [
-        "teacher",
-        "district",
-        "stem",
-        "k-12",
-        "undergraduate",
-        "retention",
-        "science",
-        "technology"
-      ]
-    },
-    {
-      "id": "314743",
-      "number": "19-575",
-      "title": "Methodology, Measurement, and Statistics",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-08-27",
-      "posted": "2019-04-10",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19575",
-      "awardCeiling": "",
-      "estimatedFunding": "3760000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Methodology, Measurement, and Statistics (MMS) Program is an interdisciplinary program in the Directorate for Social, Behavioral, and Economic Sciences that supports the development of innovative analytical and statistical methods and models for those sciences. MMS seeks proposals that are methodologically innovative, grounded in theory, and have potential utility for multiple fields within the social, behavioral, and economicsciences. As part of its larger portfolio, the MMS Program partners with a consortium of federal statistical agencies to support research proposals that further the production and use of official statistics. The MMS Program provides support through a number of different funding mechanisms. The following mechanisms are addressed in this solicitation: Regular Research Awards Awards for conferences and community-development activities Doctoral Dissertation Research Improvement (DDRI) Grants Research Experience for Undergraduates (REU) Supplements MMS also supports Faculty Early Career Development (CAREER) awards. Please see the CAREER Program Web Site for more informationabout this activity.",
-      "fit": 86,
-      "matchedTerms": [
-        "career",
-        "science",
-        "statistical"
-      ]
-    },
     {
       "id": "361333",
       "number": "26-506",
@@ -146,7 +93,7 @@
     {
       "id": "353413",
       "number": "24-564",
-      "title": "IUSE/Professional Formation of Engineers: Revolutionizing Engineering Departments",
+      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2026-09-08",
@@ -159,7 +106,7 @@
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "Revolutionizing Engineering Departments (hereinafter referred to as RED) is designed to build upon previous efforts in engineering education research. Specifically, previous and ongoing evaluations of the NSF Engineering Education and Centers Division program and its predecessors, as well as those related programs in the Directorate for STEM Education, have shown that prior investments have significantly improved the first year of engineering students' experiences, incorporating engineering material, active learning approaches, design instruction, and a broad introduction to professional skills and a sense of professional practice - giving students an idea of what it means to become an engineer. Similarly, the senior year has seen notable change through capstone design experiences, which ask students to synthesize the technical knowledge, skills, and abilities they have gained with professional capacities, using reflective judgment to make decisions and communicate these effectively. However, this ideal of the senior year has not yet been fully realized, because many of the competencies required in capstone design, or required of professional engineers, are only partially introduced in the first year and not carried forward with significant emphasis through the sophomore and junior years. The Directorates for Engineering (ENG) and STEM Education (EDU) are funding projects as part of the RED program, in alignment with the Improving Undergraduate STEM Education (IUSE) framework and Professional Formation of Engineers (PFE) initiative. These projects are designing revolutionary new approaches to engineering education, ranging from changing the canon of engineering to fundamentally altering the way courses are structured to creating new departmental structures and educational collaborations with industry. A common thread across these projects is a focus on organizational and cultural change within the departments, involving students, faculty, staff, and industry in rethinking what it means to provide an engineering program. In order to continue to catalyze revolutionary approaches, while expanding the reach of those that have proved efficacious in particular contexts, the RED program supports four tracks: RED Planning (Track 1), RED Adaptation and Implementation (Track 2), RED Innovation (Track 3), and RED Innovation Partnerships (Track 4). Two- and four-year institutions are encouraged to submit to any track as appropriate for their goals and context. RED Planning (Track 1) projects will support capacity-building activities at institutions of special interest to NSF's mission, including two-year engineering-centered programs building transfer partnerships, two-year or four-year institutions in EPSCoR jurisdictions, Primarily Undergraduate Institutions (PUIs), and Institutions of Higher Education (IHEs)in order to create more opportunities in engineering for students in every part of the country. Planning projects should provide the support for such institutions to explore the development of a RED Projects in Tracks 2, 3, & 4. RED Adaptation and Implementation (Track 2) projects will adapt and implement evidence-based organizational change strategies and actions to the local context, which helps propagate this transformation of undergraduate engineering education. RED Innovation (Track 3) projects will develop new, revolutionary approaches and change strategies that enable the transformation of undergraduate engineering education. RED Innovation Partnerships (Track 4) projects will achieve the same goals as Track 3 projects across multiple institutions. Of particular interest to this track are projects partnering two-year institutions with other eligible institutions. Projects in tracks 2, 3, & 4 will include consideration of the cultural, organizational, structural, and pedagogical changes needed to transform one or more departments to ones in which students are engaged, develop their technical and professional skills, and establish identities as professional engineers or technologists. The focus of projects in these tracks should be on the department's disciplinary courses and program. RED project initiatives are expected to be institutionalized at the end of the funding period. Proposals are especially encouraged that address areas of increased national interest including but not limited to advanced manufacturing, advanced wireless, artificial intelligence, biotechnology, microelectronics and semiconductors, net zero technologies, sustainability, systems engineering, and quantum engineering.",
+      "description": "Revolutionizing Engineering Departments (hereinafter referred to as RED) is designed to build upon previous efforts in engineering education research. Specifically, previous and ongoing evaluations of the NSF Engineering Education and Centers Division program and its predecessors, as well as those related programs in the Directorate for STEM Education, have shown that prior investments have significantly improved the first year of engineering students' experiences, incorporating engineering material, active learning approaches, design instruction, and a broad introduction to professional skills and a sense of professional practice - giving students an idea of what it means to become an engineer. Similarly, the senior year has seen notable change through capstone design experiences, which ask students to synthesize the technical knowledge, skills, and abilities they have gained with professional capacities, using reflective judgment to make decisions and communicate these effectively. However, this ideal of the senior year has not yet been fully realized, because many of the competencies required in capstone design, or required of professional engineers, are only partially introduced in the first year and not carried forward with significant emphasis through the sophomore and junior years. The Directorates for Engineering (ENG) and STEM Education (EDU) are funding projects as part of the RED program, in alignment with the Improving Undergraduate STEM Education (IUSE) framework and Professional Formation of Engineers (PFE) initiative. These projects are designing revolutionary new approaches to engineering education, ranging from changing the canon of engineering to fundamentally altering the way courses are structured to creating new departmental structures and educational collaborations with industry. A common thread across these projects is a focus on organizational and cultural change within the departments, involving students, faculty, staff, and industry in rethinking what it means to provide an engineering program. In order to continue to catalyze revolutionary approaches, while expanding the reach of those that have proved efficacious in particular contexts, the RED program supports four tracks: RED Planning (Track 1), RED Adaptation and Implementation (Track 2), RED Innovation (Track 3), and RED Innovation Partnerships (Track 4). Two- and four-year institutions are encouraged to submit to any track as appropriate for their goals and context. RED Planning (Track 1) projects will support capacity-building activities at institutions of special interest to NSF's mission, including two-year engineering-centered programs building transfer partnerships, two-year or four-year institutions in EPSCoR jurisdictions, Primarily Undergraduate Institutions (PUIs), and Institutions of Higher Education (IHEs) in order to create more opportunities in engineering for students in every part of the country. Planning projects should provide the support for such institutions to explore the development of a RED Projects in Tracks 2, 3, & 4. RED Adaptation and Implementation (Track 2) projects will adapt and implement evidence-based organizational change strategies and actions to the local context, which helps propagate this transformation of undergraduate engineering education. RED Innovation (Track 3) projects will develop new, revolutionary approaches and change strategies that enable the transformation of undergraduate engineering education. RED Innovation Partnerships (Track 4) projects will achieve the same goals as Track 3 projects across multiple institutions. Of particular interest to this track are projects partnering two-year institutions with other eligible institutions. Projects in tracks 2, 3, & 4 will include consideration of the cultural, organizational, structural, and pedagogical changes needed to transform one or more departments to ones in which students are engaged, develop their technical and professional skills, and establish identities as professional engineers or technologists. The focus of projects in these tracks should be on the department's disciplinary courses and program. RED project initiatives are expected to be institutionalized at the end of the funding period. Proposals are especially encouraged that address areas of increased national interest including but not limited to advanced manufacturing, advanced wireless, artificial intelligence, biotechnology, microelectronics and semiconductors, net zero technologies, sustainability, systems engineering, and quantum engineering.",
       "fit": 100,
       "matchedTerms": [
         "artificial intelligence",
@@ -622,35 +569,6 @@
       ]
     },
     {
-      "id": "359103",
-      "number": "22-622",
-      "title": "NSF's Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES) Initiative",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-10-27",
-      "posted": "2025-05-23",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22622",
-      "awardCeiling": "",
-      "estimatedFunding": "5500000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "In 2016, the National Science Foundation (NSF) unveiled a set of \"Big Ideas,\" 10 bold, long-term research and process ideas that identify areas for future investment at the frontiers of science and engineering (see https://www.nsf.gov/news/special_reports/big_ideas/index.jsp ). The Big Ideas represent unique opportunities to position our Nation at the cutting edge of global science and engineering leadership by bringing together diverse disciplinary perspectives to support convergence research. As such, when responding to this solicitation, even though proposals must be submitted to the Directorate for STEM Education (EDU) / Division of Equity for Excellence in STEM (EES), once received, the proposals will be managed by a cross-disciplinary team of NSF Program Directors. The INCLUDES Initiative is a comprehensive , national effort to enhance U.S. leadership in science, technology, engineering, and mathematics (STEM) discovery and innovation, focused on NSF ' s commitment to ensuring accessibility and inclusivity in STEM fields, as communicated in the NSF Strategic Plan for Fiscal Years (FY) 2022 - 2026 . The vision of the INCLUDES Initiative is to catalyze the STEM enterprise to work collaboratively for inclusive change, resulting in a STEM workforce that reflects the Nation's population. More specifically, the INCLUDES Initiative seeks to motivate and accelerate collaborative infrastructure building to sustain systemic change to broaden participation in STEM fields at scale. Significant advancement of the INCLUDES Initiative's goals will result in a new generation of STEM talent and leadership to secure the Nation's future and long-term economic competitiveness . With this solicitation, NSF offers support for five types of projects that connect and contribute to the National Network : (1) Design and Development Launch Pilot s , (2) Collaborative Change Consortia, (3) Alliances, (4) Network Connectors, and (5) Conferences. T he INCLUDES National Network is a multifaceted collaboration of agencies, organizations, and individuals working collectively to broaden participation in STEM. The INCLUDES National Network serves as a testbed for designing, implementing, studying, refining, and scaling collaborative change models and is composed of: INCLUDES funded projects Other NSF funded projects Subcommittee on Federal Coordination in STEM Education (FC-STEM) agencies S cholars engaged in broadening participation research and evaluation, and O rganizations that support the development of talent from all sectors of society to build an inclusive STEM workforce . All INCLUDES funded projects must operationalize five design elements of collaborative infrastructure - (1) shared vision, (2) partnerships, (3) goals and metrics, (4) leadership and communication, and (5) expansion, sustainability, and scale - to create systemic change that broadens participation in STEM .",
-      "fit": 100,
-      "matchedTerms": [
-        "infrastructure",
-        "evaluation",
-        "workforce",
-        "equity",
-        "accessibility",
-        "stem",
-        "science",
-        "technology"
-      ]
-    },
-    {
       "id": "363481",
       "number": "26-513",
       "title": "U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:",
@@ -813,38 +731,9 @@
       ]
     },
     {
-      "id": "359104",
-      "number": "24-563",
-      "title": "Louis Stokes Alliances for Minority Participation",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-11-20",
-      "posted": "2025-05-23",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24563",
-      "awardCeiling": "5000000",
-      "estimatedFunding": "38000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Louis Stokes Alliances for Minority Participation (LSAMP) program invests in the Nation's colleges and universities to aid student success to create a new generation of STEM discoverers for the national STEM enterprise. The program takes a comprehensive approach to the STEM Learning Ecosystem to impact STEM student development and retention. LSAMP is an alliance-based program, whereby a group of institutions of higher education (IHEs) work together to diversify the nation's science, technology, engineering, and mathematics (STEM) workforce by increasing the number of STEM baccalaureate and graduate degrees awarded to persons from LSAMP populations. LSAMP populations are defined as persons from groups underrepresented in the STEM enterprise: Blacks and African-Americans, Hispanic and Latino Americans, American Indians, Alaska Natives, Native Hawaiians, and Pacific Islanders. The LSAMP program provides funding to alliances that implement comprehensive, evidence-based, innovative, and sustained strategies that ultimately result in the graduation of well-prepared, highly competitive students from LSAMP populations who pursue graduate studies or careers in STEM, while also supporting knowledge generation, knowledge utilization, assessment of program impacts, dissemination activities and dissemination of scholarly research into the field. Projects supported by the LSAMP program include: --Alliance Development Grants (ADG) support the conceptualization and development of new B2B and new SPIO alliances. (New) --Bridge-to-the-Baccalaureate (B2B) alliances facilitate the successful transfer of students from LSAMP populations to four-year institutions in pursuit of STEM baccalaureate degrees. --STEM Pathways Implementation-Only (SPIO) alliances are designed for new and reconstituted alliances. These projects focus on building and strengthening strategies and approaches to assist Institutions of Higher Education (IHEs) increase STEM baccalaureate degrees to LSAMP populations and facilitate entry into STEM graduate degree programs. --STEM Pathways Research Alliances (SPRA) are designed for well-established alliances. These projects serve as models of excellence in STEM broadening participation by (1) steadily increasing STEM baccalaureate degrees to LSAMP populations and facilitating entry into STEM graduate degree programs; (2) producing and disseminating new scholarly research on the broadening participation of LSAMP populations (or underrepresented and underserved populations in STEM disciplines and the nation's STEM workforce) and, (3) holistically assess the state of institutionalization and sustainability of the alliance. --Bridge to STEM Graduate Degrees in National Priorities (BD-Master's) projects support cohorts of six graduate students pursuing a M. S. degree in STEM national priority areas, providing financial support (stipends and cost of education) and support to help develop and maintain academic and research skills that enable participants to successfully persist in STEM graduate degree programs at Master's comprehensive-degree producing institutions only. (New) --Bridge to STEM Graduate Degrees in National Priorities (BD-Doctoral) projects support cohorts of twelve graduate students pursuing a Ph.D. degree in STEM national priority areas, providing financial support (stipends and cost of education) and support to help develop and maintain academic and research skills that enable participants to successfully persist in STEM doctoral degree programs. --STEM Networking Incentives and Engagement (NETWORKS) projects provide support to incentivize the creation and participation of LSAMP populations in STEM networks. (New)",
-      "fit": 100,
-      "matchedTerms": [
-        "learning",
-        "evidence",
-        "assessment",
-        "workforce",
-        "implementation",
-        "stem",
-        "higher education",
-        "student success"
-      ]
-    },
-    {
       "id": "348375",
       "number": "23-595",
-      "title": "Centers of Research Excellence in Science and Technology",
+      "title": "Centers of Research Excellence in Science and Technology (CREST)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2026-12-04",
@@ -857,7 +746,7 @@
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "CREST Center awards provide support to enhance the research capabilities of Minority-serving institutions (MSIs) through the establishment of centers that effectively integrate education and research. CREST Center awards promote the development of new knowledge, enhancements of the research productivity of individual faculty, and an expanded presence of students historically underrepresented in science, technology, engineering, and mathematics (STEM) disciplines. Successful CREST Center proposals will demonstrate a clear vision and integration of STEM research and education and will align with the mission of the Division of Equity for Excellence in STEM (EES) with respect to the development of a diverse STEM workforce. CREST Centers are also expected to provide leadership by meaningfully involving the efforts of those faculty, students, and postdoctoral researchers who are traditionally underrepresented in STEM at all levels. Centers are required to use evidence-based and innovative strategies to address salient broadening participation and workforce development issues, such as recruitment, retention, and mentorship of participants from underrepresented groups. Successful proposals are expected to achieve national research competitiveness, broaden participation in STEM, and generate sustained, non-CREST funding from federal, state, and/or private-sector sources. PhaseI and Phase II CREST Center Awards Preliminary proposals are required for Phase I and Phase II projects. Thus, an invitation from NSF must be received before submitting a full proposal. Both Phase I and Phase II CREST Center awards provide multi-year support for institutions that demonstrate a strong research base. Phase I CREST Center awards provide funding for five years of research on a specific NSF-supported topic. If invited, institutions may submit a Phase II CREST Center proposal requesting funding to continue research in the same disciplinary area as the Phase I Center or may submit a Phase I proposal focused on a disciplinary area that is significantly different from those of the previous award(s). CREST Partnership Supplements CREST Partnership Supplemental funding requests are invited from current CREST Center awardees. Supplements support the establishment or strengthening of partnerships and collaborations with active CREST Centers and other nationally or internationally recognized research centers (including NSF-supported research centers), private sector research laboratories, K-12 schools, and/or informal science entities, including museums and science centers, as appropriate. Such partnerships and collaborations should aid CREST Centers' quest in advancing knowledge and education on a research theme of national significance.",
+      "description": "CREST Center awards provide support to enhance the research capabilities of Minority-serving institutions (MSIs) through the establishment of centers that effectively integrate education and research. CREST Center awards promote the development of new knowledge, enhancements of the research productivity of individual faculty, and an expanded presence of students historically underrepresented in science, technology, engineering, and mathematics (STEM) disciplines. Successful CREST Center proposals will demonstrate a clear vision and integration of STEM research and education and will align with the mission of the Division of Equity for Excellence in STEM (EES) with respect to the development of a diverse STEM workforce. CREST Centers are also expected to provide leadership by meaningfully involving the efforts of those faculty, students, and postdoctoral researchers who are traditionally underrepresented in STEM at all levels. Centers are required to use evidence-based and innovative strategies to address salient broadening participation and workforce development issues, such as recruitment, retention, and mentorship of participants from underrepresented groups. Successful proposals are expected to achieve national research competitiveness, broaden participation in STEM, and generate sustained, non-CREST funding from federal, state, and/or private-sector sources. Phase I and Phase II CREST Center Awards Preliminary proposals are required for Phase I and Phase II projects. Thus, an invitation from NSF must be received before submitting a full proposal. Both Phase I and Phase II CREST Center awards provide multi-year support for institutions that demonstrate a strong research base. Phase I CREST Center awards provide funding for five years of research on a specific NSF-supported topic. If invited, institutions may submit a Phase II CREST Center proposal requesting funding to continue research in the same disciplinary area as the Phase I Center or may submit a Phase I proposal focused on a disciplinary area that is significantly different from those of the previous award(s). CREST Partnership Supplements CREST Partnership Supplemental funding requests are invited from current CREST Center awardees. Supplements support the establishment or strengthening of partnerships and collaborations with active CREST Centers and other nationally or internationally recognized research centers (including NSF-supported research centers), private sector research laboratories, K-12 schools, and/or informal science entities, including museums and science centers, as appropriate. Such partnerships and collaborations should aid CREST Centers' quest in advancing knowledge and education on a research theme of national significance.",
       "fit": 100,
       "matchedTerms": [
         "evidence",
@@ -868,6 +757,35 @@
         "workforce development",
         "retention",
         "science"
+      ]
+    },
+    {
+      "id": "363752",
+      "number": "23-584",
+      "title": "IUSE: Innovation in Two-Year College STEM Education (ITYC)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-12-09",
+      "posted": "2026-08-31",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23584",
+      "awardCeiling": "",
+      "estimatedFunding": "10000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The National Science Foundation (NSF) plays a prominent role in the improvement of undergraduate STEM education at the Nation's colleges and universities. Through the IUSE: Innovation in Two-Year College STEM Education (ITYC) program, the agency seeks to extend this effort by making an intentional investment in the country's two-year institutions of higher education, or two-year colleges. The twin goals of the ITYC program are to (1) center students in the effort to advance innovation and promote success in STEM education at two-year colleges, and (2) enhance the capacity of two-year colleges to harness the talent and potential of their student and faculty populations through innovative disciplinary, multi-department, and college-wide efforts. These goals will be achieved by investing in projects at two-year colleges that contribute to student success in STEM-based foundational courses and academic pathways for both majors and non-majors. Project activities may be in any discipline that is currently supported by NSF funding, which includes the social, behavioral, and economic sciences. Collectively, projects in the ITYC program will make progress towards ensuring that two-year college students and faculty have the resources to participate in and contribute to the broader STEM enterprise. Aligned with the goals above, the ITYC program features two tracks: (1) A Focus on the Academic Experiences of Two-Year College Students and (2) Leveraging Two-Year College Strengths and Innovation. Each Track can support projects requesting up to $500,000 for a duration of up to three years. For institutions that have not received NSF funding in the past five years, an additional $100,000 may be added to the budget which may be used by the institution to support and carry out grant-funded activities over four years. This would result in a total maximum budget of $600,000 for a project over four years. Institutions that have been funded as part of a collaborative award with their own NSF Award Number are not eligible for this incentive, however, institutions that have had a subaward from another institution are eligible. This program is open to two-year colleges, which includes the following institutions, as described by Carnegie Classifications: Associate's Colleges: Institutions at which the highest-level degree awarded is an associate degree. This may include transfer as well a career and technical oriented colleges. Baccalaureate / Associate's Colleges: Institutions that award at least one baccalaureate degree but confer at least 50% of their degrees at the associate level. The ITYC program is aligned with NSF's Improving Undergraduate STEM Education (IUSE) framework, which is a comprehensive effort to accelerate improvements in the quality and effectiveness of undergraduate education in STEM fields.",
+      "fit": 96,
+      "matchedTerms": [
+        "open",
+        "stem",
+        "higher education",
+        "undergraduate",
+        "college",
+        "student success",
+        "career",
+        "transfer"
       ]
     },
     {
@@ -1620,6 +1538,91 @@
       ]
     },
     {
+      "id": "358882",
+      "number": "PD-19-126Y",
+      "title": "Science of Science: Discovery, Communication and Impact",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2025-05-09",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505730",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Science of Science:Discovery, Communication and Impact (SoS:DCI) program is designed to advance theory and knowledge about increasing the public value of scientific activity. Science of Science draws from multiple disciplinary and field perspectives to advance theory and research about scientific discovery, communication and impact. SoS:DCI welcomes proposals applying rigorous empirical research methods to advance theory and knowledge on: The social and structural mechanisms of scientific discovery. Theories, frameworks, models and data that improve our understanding of scientific communication and outcomes. The societal benefits of scientific activity and how science advances evidence-based policy making and the creation of public value. The SoS:DCI program, which expands upon the formerScience of Science and Innovation Policy (SciSIP)program, funds research that builds theoretical and empirical understanding of the social science of science. SoS:DCI welcomes proposals to conduct research at the individual, organizational and institutional levels or from micro, meso and macro scales and complex system levels. SoS:DCI encourages multiple disciplinary perspectives, interdisciplinary research and diverse methodological approaches in the pursuit of new knowledge to advance the science of science and evidence-based policy making. With these goals in mind, proposals should: Draw from and advance theory, knowledge and frameworks on the science of science. Develop models, data, indicators and associated analytical tools that constitute and enable transformative advances rather than incremental change. Provide credible rigorous assessments of the proposed project's impact and social and policy implications. Include robust data management plans with the goal of advancing open science and increasing public access to usable, valid and reliable scientific materials. Of particular interest are proposals with the potential to strengthen America's global leadership in science and increase national competitiveness across a broad range of domains. These include proposals that analyze strategies for strengthening and expanding the scientific workforce, as well as ways to cultivate high-impact discovery across sectors.The program strongly encourages convergent research and collaboration. In addition to intellectual merit, the program strongly encourages potential PIs to carefully consider the broader impacts of their work. The broader impacts criterion encompasses the potential to benefit society and contribute to the achievement of specific, desired policy outcomes.The Social, Behavioral and Economic Sciences Directorate has released additional guidance on broader impacts for SBE proposals . The SoS:DCI program places a high priority on broadening participation in the sciences. It encourages proposals from early-career researchers and from researchers who represent groups and regions that have historically participated at disproportionately low rates in science, mathematics, and engineering. SoS:DCI supports the following types of proposals: Standard Research Grants and Grants for Collaborative Research A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO) Conference Grants SoS:DCI also participates in certain specialized funding opportunities through NSF's cross-cutting and cross-directorate activities .",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
+        "open",
+        "outcomes",
+        "evidence",
+        "workforce",
+        "career",
+        "science",
+        "engineering"
+      ]
+    },
+    {
+      "id": "308873",
+      "number": "PD-18-7222",
+      "title": "Crosscutting Activities in Materials Research",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2018-09-08",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505350",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "Crosscutting Activities in Materials Research (XC) coordinates and supports crosscutting activities within the Division of Materials Research (DMR) and more broadly across NSF. The emphasis within XC is diversity and inclusion, international cooperation, and education (including experiential learning at REU/RET Sites). Additionally, activities that broadly engage the community, such as summer schools, institutes, workshops, and conferences that do not fit within just one or two programs in the Division of Materials Research, may be supported by XC.If preparing a workshop proposal, follow the Special Guidelines for Conference Proposals outlined in the Proposal & Award Policies & Procedures Guide (PAPPG). Occasionally projects crossing several programs in DMR are shifted to XC or co-funded by XC. The goal is to bring greater visibility to these projects through DMR's XC website. Proposals are welcome that do not fit elsewhere at NSF that are also highly relevant for the materials research and education community. Some XC activities are co-funded with other NSF units. XC does not handle traditional research proposals suitable for submission to topical or other programs in DMR. For this reason, the XC Team welcomes inquiries that include a draft of one-page NSF summary, or a shorter write-up. It is highly recommended that you contact one of the Program Directors for XC prior to submission of a full proposal exceeding $50,000. Crosscutting Activities in Materials Research (XC) replaced the Office of Special Programs in Materials Research (OSP) in 2016. Diversity: Activitiesthat focus on broadening participation of underrepresented groups and/or diversity and inclusion are supported. Supplements(e.g., CLB, AGEP-GRS, MPS-GRSV and ROAs) are handled by the cognizantProgram Director of the original award. See the Related Publications section below for more information. XC supports Facilitation Awards for Scientists and Engineers with Disabilities (see Proposal & Award Policies & Procedures Guide, Chapter II.E.6 for details) https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIE6 International: In2016 a Dear Colleague Letter outlining collaborative projectswith Israel (BSF) was issued; it remains active until archived. Submissionof full proposals with an international component may be made to thedisciplinary programs (but not to XC directly). Supplementsare handled by the cognizant Program Director of the original award. Discontinuedin 2014: The previous International Materials Institutes (IMI)and Materials World Network (MWN) programs are no longer supported . Education: Innovativeand creative ideas in education (e.g., materials science and/or engineering, solid state and materials chemistry, condensed matterphysics, integrated computational materials science/engineering, ormaterials data science/analytics) that do not have a forum elsewhere at NSFare of interest. XC encourages outreach and/or materials education proposals targeting underserved populations such as K-12students in rural communities and those designed to increase public scientific literacy. Research Experiences for Undergraduates (REU)/ Research Experiences for Teachers (RET): reu.dmr@nsf.gov XCcoordinates the REU and RET Sites activities within DMR. See the REU Site Solicitation for deadlines and additional program information. REU/RET supplements to research proposals are handled by the cognizant ProgramDirector of the original award.",
+      "fit": 98,
+      "matchedTerms": [
+        "data",
+        "learning",
+        "literacy",
+        "rural",
+        "science",
+        "engineering",
+        "broadening participation"
+      ]
+    },
+    {
+      "id": "346204",
+      "number": "PD-18-7564",
+      "title": "Communications, Circuits, and Sensing-Systems",
+      "source": "National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2023-02-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505248",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Communications, Circuits, and Sensing-Systems (CCSS) Program supports innovative research in circuit and system hardware and signal processing techniques. CCSS also supports system and network architectures for communications and sensing to enable the next-generation cyber-physical systems (CPS) that leverage computation, communication, and sensing integrated with physical domains. CCSS invests in micro- and nano-electromechanical systems (MEMS/NEMS), physical, chemical, and biological sensing systems, neurotechnologies, and communication & sensing circuits and systems. The goal is to create new complex and hybrid systems ranging from nano- to macro-scale with innovative engineering principles and solutions for a variety of applications including but not limited to healthcare, medicine, environmental and biological monitoring, communications, disaster mitigation, homeland security, intelligent transportation, manufacturing, energy, and smart buildings. CCSS encourages research proposals based on emerging technologies and applications for communications and sensing such as high-speed communications of terabits per second and beyond, sensing and imaging covering microwave to terahertz frequencies, personalized health monitoring and assistance, secured wireless connectivity and sensing for the Internet of Things, and dynamic-data-enabled autonomous systems through real-time sensing and learning. Areas managed by CCSS Program Directors (please contact Program Directors listed in the CCSS staff directory for areas of interest): RF Circuits and Antennas for Communications and Sensing RF Communications and Sensing Technologies from kHz to THz Antennas and Wave Propagation for Communications and Sensing Circuits and Systems for Secured Communications and Sensing Trusted Microelectronic Circuits RF Biomedical Applications and Remote Sensing Bio-mimetic Circuits and Systems Dynamic-data-enabled Reconfigurable RF Subsystems through Sensing and Machine Learning Wireless Energy Transfer and RF Energy Harvesting Communication Systems and Signal Processing Wireless, Optical, and Hybrid Communications and Networking Full-duplex, massive MIMO, mm-Wave, and THz communications Spectrum Access and Sharing Integrated Sensing, Communication, and Computational Systems Signal Processing, image processing, and Compressive Sampling Cyber Physical Systems and Hardware-controlled Secured Communications Dynamic-data-enabled Communication Systems through Sensing and Machine Learning Quantum Communication Systems Dynamic Bio-Sensing Systems Micro, Nano, and Bio Systems (MEMS/NEMS) Chemical, Biological, and Physical Diagnostics Sensors, Actuators, and Electronic Interfaces Ultra-Low Power Wearable and Implantable Sensing Systems Dynamic-data-enabled Reconfigurable Sensing Systems Personalized Health Monitoring Systems through Sensing and Machine Learning Neuroengineering and Brain-Inspired Concepts and Designs",
+      "fit": 98,
+      "matchedTerms": [
+        "machine learning",
+        "data",
+        "learning",
+        "transfer",
+        "science",
+        "engineering",
+        "cyber"
+      ]
+    },
+    {
       "id": "watchlist-arnold-ventures-6",
       "number": "",
       "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
@@ -1664,27 +1667,6 @@
       "fit": 70,
       "matchedTerms": [
         "assessment"
-      ]
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-4",
-      "number": "",
-      "title": "California Center for Inclusive College Grant",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r18/ccic26result.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. California Center for Inclusive College Grant",
-      "fit": 68,
-      "matchedTerms": [
-        "college"
       ]
     },
     {
@@ -1956,28 +1938,26 @@
       ]
     },
     {
-      "id": "watchlist-new-york-state-education-department-funding-3",
+      "id": "watchlist-alaska-department-of-education-grants-0",
       "number": "",
-      "title": "RFP #290: Workforce Innovation and Opportunity Act Title II and Welfare Education Program Funding WIOA RFP (2027-2032)",
-      "source": "New York State Education Department Funding",
+      "title": "Scholarship Granting Organization",
+      "source": "Alaska Department of Education Grants",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.nysed.gov/funding-opportunities/news/rfp-290-workforce-innovation-and-opportunity-act-title-ii-and-welfare",
+      "url": "https://education.alaska.gov/sgo",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for New York State Education Department Funding. RFP #290: Workforce Innovation and Opportunity Act Title II and Welfare Education Program Funding WIOA RFP (2027-2032)",
-      "fit": 54,
-      "matchedTerms": [
-        "workforce"
-      ]
+      "description": "State funding. Matched source page for Alaska Department of Education Grants. Scholarship Granting Organization",
+      "fit": 52,
+      "matchedTerms": []
     },
     {
-      "id": "watchlist-alaska-department-of-education-grants-0",
+      "id": "watchlist-alaska-department-of-education-grants-1",
       "number": "",
       "title": "Capital Improvement Grants and Projects",
       "source": "Alaska Department of Education Grants",
@@ -1996,7 +1976,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-alaska-department-of-education-grants-1",
+      "id": "watchlist-alaska-department-of-education-grants-2",
       "number": "",
       "title": "Federal Grants Management",
       "source": "Alaska Department of Education Grants",
@@ -2015,7 +1995,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-alaska-department-of-education-grants-2",
+      "id": "watchlist-alaska-department-of-education-grants-3",
       "number": "",
       "title": "Quality Schools Grant",
       "source": "Alaska Department of Education Grants",
@@ -2034,7 +2014,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-alaska-department-of-education-grants-3",
+      "id": "watchlist-alaska-department-of-education-grants-4",
       "number": "",
       "title": "Apply for a US Department of Education Federal Grant",
       "source": "Alaska Department of Education Grants",
@@ -2093,19 +2073,19 @@
     {
       "id": "watchlist-california-department-of-education-funding-3",
       "number": "",
-      "title": "RFA-26: Title III English Learner Student Program",
+      "title": "RFA-26: Mandate Block Grant",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r28/el26rfa.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r14/mandatebg26rfa.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: Title III English Learner Student Program",
+      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: Mandate Block Grant",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2262,101 +2242,6 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-minnesota-department-of-education-grants-0",
-      "number": "",
-      "title": "Grants",
-      "source": "Minnesota Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://education.mn.gov/MDE/dse/grants/",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Minnesota Department of Education Grants. Grants",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-minnesota-department-of-education-grants-1",
-      "number": "",
-      "title": "CFDA 84.027A, Special Education Grants to States",
-      "source": "Minnesota Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://singleaudit.org/program/?id=84.027",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Minnesota Department of Education Grants. CFDA 84.027A, Special Education Grants to States",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-minnesota-department-of-education-grants-2",
-      "number": "",
-      "title": "mde.compgrants@state.mn.us",
-      "source": "Minnesota Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "mailto:mde.compgrants@state.mn.us?subject=Expanded%20Tutoring,%20%3C%3Cthe%20name%20of%20your%20organization%3E%3E",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Minnesota Department of Education Grants. mde.compgrants@state.mn.us",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-minnesota-department-of-education-grants-3",
-      "number": "",
-      "title": "Application Narrativ e and Assurances",
-      "source": "Minnesota Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&amp;dDocName=PROD081168&amp;RevisionSelectionMethod=latestReleased&amp;Rendition=primary",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Minnesota Department of Education Grants. Application Narrativ e and Assurances",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-minnesota-department-of-education-grants-4",
-      "number": "",
-      "title": "mde.compgrants@state.mn.us",
-      "source": "Minnesota Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "mailto:mde.compgrants@state.mn.us",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Minnesota Department of Education Grants. mde.compgrants@state.mn.us",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
       "id": "watchlist-nebraska-department-of-education-grants-0",
       "number": "",
       "title": "Grants",
@@ -2467,25 +2352,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Nevada Department of Education Grants. 7/1/2026 - Nevada Ready! Pre-K Common Application Launches July 1",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-nevada-department-of-education-grants-2",
-      "number": "",
-      "title": "3/23/2026 - Nevada Department of Education Seeks Public Comment on IDEA Application",
-      "source": "Nevada Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://doe.nv.gov/news-media/2026-press-releases/nevada-department-of-education-seeks-public-comment-on-idea-application",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Nevada Department of Education Grants. 3/23/2026 - Nevada Department of Education Seeks Public Comment on IDEA Application",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2946,25 +2812,6 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-new-york-state-education-department-funding-2",
-      "number": "",
-      "title": "RFP #476: Impartial Hearing Officer Training and Complaint Investigations",
-      "source": "New York State Education Department Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.nysed.gov/funding-opportunities/news/rfp-476-impartial-hearing-officer-training-and-complaint-investigations",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for New York State Education Department Funding. RFP #476: Impartial Hearing Officer Training and Complaint Investigations",
-      "fit": 50,
-      "matchedTerms": []
-    },
-    {
       "id": "watchlist-washington-ospi-grants-4",
       "number": "",
       "title": "Special Education State grant application, Medicaid, more...",
@@ -3350,82 +3197,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Massachusetts Department of Elementary and Secondary Education Grants. Anticipated Grant Funding Opportunities",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-new-york-state-education-department-funding-0",
-      "number": "",
-      "title": "Grants",
-      "source": "New York State Education Department Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.nysed.gov/funding-opportunities/grants",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for New York State Education Department Funding. Grants",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-new-york-state-education-department-funding-1",
-      "number": "",
-      "title": "Competitive Service Contract Procurements",
-      "source": "New York State Education Department Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.nysed.gov/funding-opportunities/competitive-service-contract-procurements",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for New York State Education Department Funding. Competitive Service Contract Procurements",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-new-york-state-education-department-funding-4",
-      "number": "",
-      "title": "2026-27 Title I, 1003 School Improvement Grant (Innovation)",
-      "source": "New York State Education Department Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.nysed.gov/funding-opportunities/news/2026-27-title-i-1003-school-improvement-grant-innovation",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for New York State Education Department Funding. 2026-27 Title I, 1003 School Improvement Grant (Innovation)",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-new-york-state-education-department-funding-5",
-      "number": "",
-      "title": "Find information about grants",
-      "source": "New York State Education Department Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.nysed.gov/finance-business/funding-grants",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for New York State Education Department Funding. Find information about grants",
       "fit": 38,
       "matchedTerms": []
     },
