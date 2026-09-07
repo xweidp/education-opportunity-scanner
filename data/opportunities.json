@@ -1,66 +1,8 @@
 {
-  "scannedAt": "2026-08-31T19:19:34.496Z",
+  "scannedAt": "2026-09-07T18:00:56.256Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "361333",
-      "number": "26-506",
-      "title": "Pathways to Enable Secure Open-Source Ecosystems",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-09-01",
-      "posted": "2026-02-19",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26506",
-      "awardCeiling": "",
-      "estimatedFunding": "40000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Pathways to Enable Secure Open-Source Ecosystems (PESOSE) program supports the translation of open-source science and engineering-focused research products into safe and sustainable ecosystems that address national and societal challenges. Open-source tools such as software, hardware, machine learning models, languages, and data platforms are designed to be shared as they are publicly-accessible and modifiable. These tools spark innovation in critical fields as varied as artificial intelligence (AI) and cloud computing, banking, healthcare, research, education, next-gen manufacturing, mobility, and National security (including cybersecurity). PESOSE supports the creation of managing organizations for these ecosystems, ensuring strong governance, distributed development, and broad user communities across academia, industry, and government. PESOSE also supports enhancements to the safety, security, and privacy of Open-Source Ecosystems (OSE) by addressing significant vulnerabilities, both technical and socio-technical, to improve the resistance of the ecosystem against threats. This solicitation seeks three types of proposals, allowing teams to propose specific activities to:1) scope and planthe establishment of an OSE, 2)establishand expand a sustainable OSE based on a robust, promising open-source product that meets an emergent societal or national need, and 3) improve the safety, security, and privacy of an existing OSE and its products.",
-      "fit": 100,
-      "matchedTerms": [
-        "ai",
-        "artificial intelligence",
-        "machine learning",
-        "data",
-        "open",
-        "privacy",
-        "learning",
-        "science"
-      ]
-    },
-    {
-      "id": "334326",
-      "number": "21-595",
-      "title": "Tribal Colleges and Universities Program",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-09-01",
-      "posted": "2021-06-24",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21595",
-      "awardCeiling": "3500000",
-      "estimatedFunding": "10799836",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Tribal Colleges and Universities Program (TCUP) provides awards to federally recognized 1 Tribal Colleges and Universities, Alaska Native-serving institutions, and Native Hawaiian-serving institutions to promote high quality science (including sociology, psychology, anthropology, linguistics, economics and bioeconomics, statistics, and other social and behavioral sciences; natural sciences; computer science, including, but not limited to, artificial intelligence, quantum information science, and cybersecurity), technology, engineering and mathematics (STEM), STEM education, research, and outreach. Support is available to TCUP-eligible institutions (see the Additional Eligibility subsection of Section IV of this solicitation) for transformative capacity-building or community engagement projects through Instructional Capacity Excellence in TCUP Institutions (ICE-TI), Targeted STEM Infusion Projects (TSIP),TCUP for Secondary and Elementary Teachers in STEM (TSETS), TCU Enterprise Advancement Centers (TEA Centers), Cyberinfrastructure Health, Assistance, and Improvements (CHAI), and Preparing for TCUP Implementation (Pre-TI). Collaborations led by TCUP institutions that involve non-TCUP institutions of higher education are supported through TCUP Partnerships, with the participation of other NSF programs to support the work of non-TCUP institutions. Finally, research studies that further the scholarly activity of individual faculty members are supported through Small Grants for Research (SGR). Through the opportunities highlighted above, as well as collaborations with other National Science Foundation (NSF) divisions and directorates, and other organizations,TCUPaims toincrease Native individuals' participation in STEM careers, improve the quality of STEM programs atTCUP-eligible institutions, and facilitate the development of a strong STEM enterprise in TCUP institutions' service areas. TCUP supports transformative capacity-building, community engagement, or research projects at TCUP-eligible institutions through the following funding tracks: Instructional Capacity Excellence in TCUP Institutions (ICE-TI) projects provide support to design, implement, and assess comprehensive institutional improvements in STEM education and research capacity at TCUP-eligible institutions of higher education. By strengthening STEM education and STEM education research, successful projects will increase the number of STEM students and improve the quality of their preparation. ICE-TI projects create and/or adapt and assess innovative models and materials for teaching and learning in STEM, embody knowledge about how students learn most effectively in STEM teaching and learning activities, and bring STEM disciplinary advances into the undergraduate or graduate experience. The objective of this strand is to expand STEM degrees offered by TCUP-eligible institutions or significantly enhance instructional approaches. Targeted STEM Infusion Projects (TSIP) support the attainment of a short-term, well-defined goal to improve the quality of STEM education at an eligible institution. Targeted STEM Infusion Projects could, for example, enhance academic infrastructure by systematically adding traditional knowledge to the scope or content of a STEM course, updating curricula, modernizing laboratory research equipment, developing and delivering professional development for K-12 STEM educators, or improving the computational infrastructure.The objective of this strand is to expand STEM degrees or significantly enhance instructional approaches. TCUP for Secondary & Elementary Teachers in STEM (TSETS) supports in-service professional development in STEM disciplinary or STEM education content and/or research for K-12 STEM teachers in the relevant service area. Examples of project activities include, but are not limited to, professional development involving seminar series and engagement in STEM instruction and content during the academic year, structured series of summer intensive workshops and trainings, and summer research opportunities. The objective of this strand is to broaden the instructional capacity for STEM in the K-12 workforce and thereby to the entire community, and to build the capacity for STEM disciplinary or education research among participating educational professionals. TCU Enterprise Advancement Centers (TEA Centers) coalesce the STEM and/or STEM education expertise into a team, designed to support and promote the STEM goals, needs, aspirations, or interests of the chartering reservation or tribe(s). TEA Centers may address a critical tribal or community need or focus on a realm of research or design that is beyond the scope of individual research grants or that is of interest to multiple tribes. The objective of this strand is to build on the capacity developed through prior TCUP support and apply expertise to collaborations with communities in the institution's service area, or nationally. The Cyberinfrastructure Health, Assistance, and Improvements (CHAI) strand supports projects at TCUP-eligible institutions of higher education to upgrade the cyberinfrastructure necessary to conduct, expand, manage and administer STEM programs of study, including research. The objective of this strand is to equip TCUP institutions to meet the demands of virtual instruction, advanced computing, and data science opportunities. Preparing for TCUP Implementation (Pre-TI) provides support for activities that prepare an institution for Implementation-level projects.Consequently, they are available only to TCUP-eligible institutions of higher education that have never received TCUP support, have not received TCUP support within the previous five years, or are embarking on a significantly novel STEM strategic plan. Examples of supported activities include completing an institutional assessment of its current STEM instructional capacity, or engaging in conversations necessary to formulate a shared vision of what that capacity should be and how to achieve it. Pre-TI awards can support staff and faculty release time, travel, stakeholder gatherings, and associated administrative costs.The objective of this strand is to conduct self-studies and formulate strategic plans for the development of STEM instructional programs of study. The TCUP Partnerships strand provides support for collaborations that will improve TCUP institutions' instructional and research capacity in STEM fields supported by NSF; attract, retain, and support TCUP students in internships and research endeavors deemed to be necessary for a complete curriculum offering; and engage partner universities to provide an academic grounding and a successful transition for students who wish to study or attain degrees in STEM fields supported by NSF. TCUP Partnerships broaden the number of scientific disciplines available to students at TCUP institution through collaborations with non-TCUP institutions. Active Pre-Engineering Education Collaboratives or Partnerships in Geoscience Education awards are not affected by this revision. The objective of this strand is the development, through instructional and research capacity-building, of academic and career pathways for TCUP students through supporting collaborative projects between and among TCUP and non-TCUP institutions. Interested teams of collaborators for which a TCUP institution serves as lead should contact the TCUP program directors. Support for non-TCUP partners must be obtained from other NSF programs, which follows the procedures of the prior Partnership strands. Small Grants for Research (SGR) strand support STEM or STEM Education faculty members at TCUP-eligible institutions to initiate or pursue research projects or programs that may include undergraduate or graduate student engagement. Awards are intended to help further the faculty member's research capability and effectiveness; improve research and teaching at his or her home institution and create and study new models and innovations in STEM teaching and learning. International research or collaborations are strongly encouraged. TCUP students may seek support for international research opportunities under the guidance of a TCUP STEM or STEM education faculty member and an international research collaborator. These awards are particularly appropriate as a means of recruiting and retaining highly qualified scientists, engineers, and educators at TCUP-eligible institutions. The objective of this strand is to support faculty research and professional development that build research capacity at TCUP institutions. [1] Executive Order 13021 defines Tribal Colleges and Universities (\"tribal colleges\") as those institutions cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note), and other institutions that qualify for funding under the Tribally Controlled Community College Assistance Act of 1978, (25 U.S.C. 1801 et seq.), as well as Navajo Community College as authorized in the Navajo Community College Assistance Act of 1978, Public Law 95-471, Title II (25 U.S.C. 640a note). The term \"Alaska Native-serving institution\" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; and that, at the time of submission, has an undergraduate enrollment that is at least 20 percent Alaska Native students. The term \"Native Hawaiian-serving institution\" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; and that, at the time of submission, has an undergraduate enrollment that is at least 10 percent Native Hawaiian students. Most TCUP-eligible institutions of higher education are two-year or community colleges. See the Who May Submit Proposals section in this solicitation for further details.",
-      "fit": 100,
-      "matchedTerms": [
-        "artificial intelligence",
-        "data",
-        "infrastructure",
-        "learning",
-        "assessment",
-        "workforce",
-        "professional development",
-        "implementation"
-      ]
-    },
     {
       "id": "356119",
       "number": "24-597",
@@ -311,7 +253,7 @@
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "The EDU Core Research (ECR) program offers this ECR:Core solicitation and invites proposals for fundamental research (curiosity-driven basic research and use-inspired basic research) that contributes to the general, explanatory knowledge that underlies STEM education in one or more of the three broadly conceived Research Areas: Research onSTEM Learning and Learning Environments, Research on Broadening Participation in STEM fields, andResearch on STEM Workforce Development. Within this framework, the ECR program supports a wide range of fundamental STEM education research activities, aimed at learners of all groups and ages in formal and informal settings. Fundamental researchgenerates knowledge and understanding with the potential for broad relevance. The potential implications of ECR fundamental research for improving STEM education practice may be indirect and long-term rather than direct and immediate. Moreover, whether they include basic or use-inspired basic research, all successful ECR:Core proposals focus on the advancement or refinement of foundational knowledge for STEM education. The amount of funding and duration requested in proposals submitted to the ECR:Core solicitation should align with the maturity of the proposed work and the size and scope of the empirical effort. The solicitation has three levels of funding with a range of budget sizes, and proposals may request a duration of 3 to 5 years for any level: (1)Level I proposals may request up to $500,000; (2)Level II proposals may request up to $1,500,000; (3)Level III proposalsmay request up to $2,500,000. All proposals should justify the level of funding and duration in the project description.",
-      "fit": 80,
+      "fit": 84,
       "matchedTerms": [
         "learning",
         "workforce",
@@ -338,7 +280,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "NCSER training programs prepare individuals to conduct special education and early intervention research that advances knowledge within the field and addresses issues important to education policymakers and practitioners. Under this competition, NCSER will consider only applications that address one of the following topics: (1) Early Career Development and Mentoring or (2) Methods Training for Special Education Research. The Early Career program provides support for an integrated research and career development plan for early career investigators at institutions of higher education or non-academic research organizations who have established an interest in special education research and are developing research careers focused on learners with or at risk for disabilities. The Methods Training program funds training to help current education researchers, including state and local education agency research staff, maintain and enhance their research and analysis skills in order to conduct rigorous and relevant research focused on learners with or at risk for disabilities. For FY 2027, NCSER is only accepting applications for Methods Training focused on analyzing large administrative datasets to address research questions related to learners with or at risk for disabilities. Assistance Listing Number (ALN) 84.324B.",
-      "fit": 76,
+      "fit": 80,
       "matchedTerms": [
         "intervention",
         "higher education",
@@ -364,7 +306,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Through this grant program, NCSER supports state agencies’ use of their statewide longitudinal data systems (SLDSs) to provide evidence for their own program and policy decisions, and those of their local education agencies pertaining to learners with or at risk for disabilities Assistance Listing Number: 84.324S.",
-      "fit": 72,
+      "fit": 76,
       "matchedTerms": [
         "data",
         "evidence",
@@ -389,7 +331,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "Through this grant program, IES supports state agencies’ use of their statewide longitudinal data systems (SLDSs) to provide evidence for their own program and policy decisions, and those of their local education agencies regarding increasing learners’ access to high-quality education and increased academic achievement. Assistance Listing Number (ALN) 84.305S.",
-      "fit": 72,
+      "fit": 76,
       "matchedTerms": [
         "data",
         "evidence",
@@ -414,7 +356,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The goal of the Statistical and Research Methodology in Education (Stats/Methods) grant program (84.305D) is to provide a wide range of methodological and statistical tools that will better enable applied education scientists to conduct rigorous education research. Under this program, NCER will consider only applications that address one of the following topics: (1) Core Grants or (2) Toolkits, Guidelines, Compendia, Review Papers, and Curated Data Resources (Toolkits). The Core Grants topic supports the development of new and improved statistical and research methods for use by education researchers. These methods are to be user tested by education researchers to ensure their usability, revised as needed, then broadly disseminated through different types of products such as articles in applied education journals, detailed working papers and monographs, workshops, software, and curated data resources. The Toolkits Grants topic supports compiling existing research and information for a given method into products, such as toolkits, guidelines, compendia, review papers, curated data resources, workshops that help education researchers understand and apply the method. These products are to be user tested by education researchers to ensure their usability, revised as needed, and then broadly disseminated. Assistance Listing Number (ALN) 84.305D.",
-      "fit": 68,
+      "fit": 72,
       "matchedTerms": [
         "data",
         "ies",
@@ -438,7 +380,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "NCER training programs prepare individuals to conduct education research that advances knowledge within the field and addresses issues important to education policymakers and practitioners. Under this competition, NCER will consider only applications that address one of the following programs: (1) Early Career Development and Mentoring Program for Education Research (Early Career) or (2) Methods Training for Education Research (Methods Training). The Early Career program provides support for an integrated research and career development plan for early career investigators at institutions of higher education or non-academic research organizations who are developing education research careers. The Methods Training program funds training to help current education researchers, including state and local education agency research staff, maintain and enhance their research and analysis skills in order to conduct rigorous and relevant education research. Assistance Listing Number (ALN) 84.305B.",
-      "fit": 58,
+      "fit": 62,
       "matchedTerms": [
         "higher education",
         "career",
@@ -518,6 +460,35 @@
       "fit": 48,
       "matchedTerms": [
         "science"
+      ]
+    },
+    {
+      "id": "334326",
+      "number": "21-595",
+      "title": "Tribal Colleges and Universities Program (TCUP)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-10-14",
+      "posted": "2021-06-24",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21595",
+      "awardCeiling": "3500000",
+      "estimatedFunding": "10799836",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Tribal Colleges and Universities Program (TCUP) provides awards to federally recognized 1 Tribal Colleges and Universities, Alaska Native-serving institutions, and Native Hawaiian-serving institutions to promote high quality science (including sociology, psychology, anthropology, linguistics, economics and bioeconomics, statistics, and other social and behavioral sciences; natural sciences; computer science, including, but not limited to, artificial intelligence, quantum information science, and cybersecurity), technology, engineering and mathematics (STEM), STEM education, research, and outreach. Support is available to TCUP-eligible institutions (see the Additional Eligibility subsection of Section IV of this solicitation) for transformative capacity-building or community engagement projects through Instructional Capacity Excellence in TCUP Institutions (ICE-TI) , Targeted STEM Infusion Projects (TSIP) , TCUP for Secondary and Elementary Teachers in STEM (TSETS) , TCU Enterprise Advancement Centers (TEA Centers) , Cyberinfrastructure Health, Assistance, and Improvements (CHAI) , and Preparing for TCUP Implementation (Pre-TI) . Collaborations led by TCUP institutions that involve non-TCUP institutions of higher education are supported through TCUP Partnerships , with the participation of other NSF programs to support the work of non-TCUP institutions. Finally, research studies that further the scholarly activity of individual faculty members are supported through Small Grants for Research (SGR) . Through the opportunities highlighted above, as well as collaborations with other National Science Foundation (NSF) divisions and directorates, and other organizations, TCUP aims to increase Native individuals' participation in STEM careers, improve the quality of STEM programs at TCUP-eligible institutions, and facilitate the development of a strong STEM enterprise in TCUP institutions' service areas. TCUP supports transformative capacity-building, community engagement, or research projects at TCUP-eligible institutions through the following funding tracks: Instructional Capacity Excellence in TCUP Institutions (ICE-TI) projects provide support to design, implement, and assess comprehensive institutional improvements in STEM education and research capacity at TCUP-eligible institutions of higher education. By strengthening STEM education and STEM education research, successful projects will increase the number of STEM students and improve the quality of their preparation. ICE-TI projects create and/or adapt and assess innovative models and materials for teaching and learning in STEM, embody knowledge about how students learn most effectively in STEM teaching and learning activities, and bring STEM disciplinary advances into the undergraduate or graduate experience. The objective of this strand is to expand STEM degrees offered by TCUP-eligible institutions or significantly enhance instructional approaches. Targeted STEM Infusion Projects (TSIP) support the attainment of a short-term, well-defined goal to improve the quality of STEM education at an eligible institution. Targeted STEM Infusion Projects could, for example, enhance academic infrastructure by systematically adding traditional knowledge to the scope or content of a STEM course, updating curricula, modernizing laboratory research equipment, developing and delivering professional development for K-12 STEM educators, or improving the computational infrastructure. The objective of this strand is to expand STEM degrees or significantly enhance instructional approaches. TCUP for Secondary & Elementary Teachers in STEM (TSETS) supports in-service professional development in STEM disciplinary or STEM education content and/or research for K-12 STEM teachers in the relevant service area. Examples of project activities include, but are not limited to, professional development involving seminar series and engagement in STEM instruction and content during the academic year, structured series of summer intensive workshops and trainings, and summer research opportunities. The objective of this strand is to broaden the instructional capacity for STEM in the K-12 workforce and thereby to the entire community, and to build the capacity for STEM disciplinary or education research among participating educational professionals. TCU Enterprise Advancement Centers (TEA Centers) coalesce the STEM and/or STEM education expertise into a team, designed to support and promote the STEM goals, needs, aspirations, or interests of the chartering reservation or tribe(s). TEA Centers may address a critical tribal or community need or focus on a realm of research or design that is beyond the scope of individual research grants or that is of interest to multiple tribes. The objective of this strand is to build on the capacity developed through prior TCUP support and apply expertise to collaborations with communities in the institution's service area, or nationally. The Cyberinfrastructure Health, Assistance, and Improvements (CHAI) strand supports projects at TCUP-eligible institutions of higher education to upgrade the cyberinfrastructure necessary to conduct, expand, manage and administer STEM programs of study, including research. The objective of this strand is to equip TCUP institutions to meet the demands of virtual instruction, advanced computing, and data science opportunities. Preparing for TCUP Implementation (Pre-TI) provides support for activities that prepare an institution for Implementation-level projects. Consequently, they are available only to TCUP-eligible institutions of higher education that have never received TCUP support, have not received TCUP support within the previous five years, or are embarking on a significantly novel STEM strategic plan. Examples of supported activities include completing an institutional assessment of its current STEM instructional capacity, or engaging in conversations necessary to formulate a shared vision of what that capacity should be and how to achieve it. Pre-TI awards can support staff and faculty release time, travel, stakeholder gatherings, and associated administrative costs. The objective of this strand is to conduct self-studies and formulate strategic plans for the development of STEM instructional programs of study. The TCUP Partnerships strand provides support for collaborations that will improve TCUP institutions' instructional and research capacity in STEM fields supported by NSF; attract, retain, and support TCUP students in internships and research endeavors deemed to be necessary for a complete curriculum offering; and engage partner universities to provide an academic grounding and a successful transition for students who wish to study or attain degrees in STEM fields supported by NSF. TCUP Partnerships broaden the number of scientific disciplines available to students at TCUP institution through collaborations with non-TCUP institutions. Active Pre-Engineering Education Collaboratives or Partnerships in Geoscience Education awards are not affected by this revision. The objective of this strand is the development, through instructional and research capacity-building, of academic and career pathways for TCUP students through supporting collaborative projects between and among TCUP and non-TCUP institutions. Interested teams of collaborators for which a TCUP institution serves as lead should contact the TCUP program directors. Support for non-TCUP partners must be obtained from other NSF programs, which follows the procedures of the prior Partnership strands. Small Grants for Research (SGR) strand support STEM or STEM Education faculty members at TCUP-eligible institutions to initiate or pursue research projects or programs that may include undergraduate or graduate student engagement. Awards are intended to help further the faculty member's research capability and effectiveness; improve research and teaching at his or her home institution and create and study new models and innovations in STEM teaching and learning. International research or collaborations are strongly encouraged. TCUP students may seek support for international research opportunities under the guidance of a TCUP STEM or STEM education faculty member and an international research collaborator. These awards are particularly appropriate as a means of recruiting and retaining highly qualified scientists, engineers, and educators at TCUP-eligible institutions. The objective of this strand is to support faculty research and professional development that build research capacity at TCUP institutions. [1] Executive Order 13021 defines Tribal Colleges and Universities (\"tribal colleges\") as those institutions cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note), and other institutions that qualify for funding under the Tribally Controlled Community College Assistance Act of 1978, (25 U.S.C. 1801 et seq.), as well as Navajo Community College as authorized in the Navajo Community College Assistance Act of 1978, Public Law 95-471, Title II (25 U.S.C. 640a note). The term \"Alaska Native-serving institution\" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; and that, at the time of submission, has an undergraduate enrollment that is at least 20 percent Alaska Native students. The term \"Native Hawaiian-serving institution\" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; and that, at the time of submission, has an undergraduate enrollment that is at least 10 percent Native Hawaiian students. Most TCUP-eligible institutions of higher education are two-year or community colleges. See the Who May Submit Proposals section in this solicitation for further details.",
+      "fit": 100,
+      "matchedTerms": [
+        "artificial intelligence",
+        "data",
+        "infrastructure",
+        "learning",
+        "assessment",
+        "workforce",
+        "professional development",
+        "implementation"
       ]
     },
     {
@@ -618,6 +589,31 @@
       "matchedTerms": [
         "science",
         "broadening participation"
+      ]
+    },
+    {
+      "id": "363764",
+      "number": "20-558",
+      "title": "PFE: Research Initiation in Engineering Formation (PFE: RIEF)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2026-11-10",
+      "posted": "2026-09-01",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf20558",
+      "awardCeiling": "",
+      "estimatedFunding": "3000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The PFE: Research Initiation in Engineering Formation (PFE: RIEF) program has two goals: 1) Support research in the Professional Formation of Engineers (PFE), and 2) Increase the community of researchers conducting PFE research. PIs are expected to have little or no experience conducting social science or education research. PFE: RIEF is not intended for established researchers in engineering education or other social science fields to initiate new projects. Those researchers should consider the Research in the Formation of Engineers program ( https://www.nsf.gov/funding/opportunities/rfe-research-formation-engineers ). The NSF Engineering (ENG) Directorate has launched a multi-year initiative, the Professional Formation of Engineers, to create and support an innovative and inclusive engineering profession for the 21st Century. Professional Formation of Engineers (PFE) refers to the formal and informal education and value systems by which people become engineers. It also includes the ethical responsibility of practicing engineers to sustain and grow the profession. The engineering profession must be responsive to national priorities, grand challenges, and dynamic workforce needs; it must be equally open and accessible to all Americans. Engineering faculty possess both deep technical expertise in their engineering discipline and the primary responsibility for the process of professional formation of future engineers. As such, engineering faculty are in a unique position to help address critical challenges in engineering formation. The Professional Formation of Engineers: Research Initiation in Engineering Formation (PFE: RIEF) program enables engineering faculty who are renowned for teaching, mentoring, or leading educational reform efforts on their campus to develop expertise in conducting engineering education research.",
+      "fit": 72,
+      "matchedTerms": [
+        "open",
+        "workforce",
+        "science",
+        "engineering"
       ]
     },
     {
@@ -983,6 +979,35 @@
         "undergraduate",
         "college",
         "student success"
+      ]
+    },
+    {
+      "id": "361333",
+      "number": "26-506",
+      "title": "Pathways to Enable Secure Open-Source Ecosystems (PESOSE)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-03-02",
+      "posted": "2026-02-19",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26506",
+      "awardCeiling": "",
+      "estimatedFunding": "40000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Pathways to Enable Secure Open-Source Ecosystems (PESOSE) program supports the translation of open-source science and engineering-focused research products into safe and sustainable ecosystems that address national and societal challenges. Open-source tools such as software, hardware, machine learning models, languages, and data platforms are designed to be shared as they are publicly-accessible and modifiable. These tools spark innovation in critical fields as varied as artificial intelligence (AI) and cloud computing, banking, healthcare, research, education, next-gen manufacturing, mobility, and National security (including cybersecurity). PESOSE supports the creation of managing organizations for these ecosystems, ensuring strong governance, distributed development, and broad user communities across academia, industry, and government. PESOSE also supports enhancements to the safety, security, and privacy of Open-Source Ecosystems (OSE) by addressing significant vulnerabilities, both technical and socio-technical, to improve the resistance of the ecosystem against threats. This solicitation seeks three types of proposals, allowing teams to propose specific activities to: 1) scope and plan the establishment of an OSE, 2) establish and expand a sustainable OSE based on a robust, promising open-source product that meets an emergent societal or national need, and 3) improve the safety, security, and privacy of an existing OSE and its products.",
+      "fit": 100,
+      "matchedTerms": [
+        "ai",
+        "artificial intelligence",
+        "machine learning",
+        "data",
+        "open",
+        "privacy",
+        "learning",
+        "science"
       ]
     },
     {
@@ -1595,34 +1620,6 @@
       ]
     },
     {
-      "id": "346204",
-      "number": "PD-18-7564",
-      "title": "Communications, Circuits, and Sensing-Systems",
-      "source": "National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2023-02-17",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505248",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Communications, Circuits, and Sensing-Systems (CCSS) Program supports innovative research in circuit and system hardware and signal processing techniques. CCSS also supports system and network architectures for communications and sensing to enable the next-generation cyber-physical systems (CPS) that leverage computation, communication, and sensing integrated with physical domains. CCSS invests in micro- and nano-electromechanical systems (MEMS/NEMS), physical, chemical, and biological sensing systems, neurotechnologies, and communication & sensing circuits and systems. The goal is to create new complex and hybrid systems ranging from nano- to macro-scale with innovative engineering principles and solutions for a variety of applications including but not limited to healthcare, medicine, environmental and biological monitoring, communications, disaster mitigation, homeland security, intelligent transportation, manufacturing, energy, and smart buildings. CCSS encourages research proposals based on emerging technologies and applications for communications and sensing such as high-speed communications of terabits per second and beyond, sensing and imaging covering microwave to terahertz frequencies, personalized health monitoring and assistance, secured wireless connectivity and sensing for the Internet of Things, and dynamic-data-enabled autonomous systems through real-time sensing and learning. Areas managed by CCSS Program Directors (please contact Program Directors listed in the CCSS staff directory for areas of interest): RF Circuits and Antennas for Communications and Sensing RF Communications and Sensing Technologies from kHz to THz Antennas and Wave Propagation for Communications and Sensing Circuits and Systems for Secured Communications and Sensing Trusted Microelectronic Circuits RF Biomedical Applications and Remote Sensing Bio-mimetic Circuits and Systems Dynamic-data-enabled Reconfigurable RF Subsystems through Sensing and Machine Learning Wireless Energy Transfer and RF Energy Harvesting Communication Systems and Signal Processing Wireless, Optical, and Hybrid Communications and Networking Full-duplex, massive MIMO, mm-Wave, and THz communications Spectrum Access and Sharing Integrated Sensing, Communication, and Computational Systems Signal Processing, image processing, and Compressive Sampling Cyber Physical Systems and Hardware-controlled Secured Communications Dynamic-data-enabled Communication Systems through Sensing and Machine Learning Quantum Communication Systems Dynamic Bio-Sensing Systems Micro, Nano, and Bio Systems (MEMS/NEMS) Chemical, Biological, and Physical Diagnostics Sensors, Actuators, and Electronic Interfaces Ultra-Low Power Wearable and Implantable Sensing Systems Dynamic-data-enabled Reconfigurable Sensing Systems Personalized Health Monitoring Systems through Sensing and Machine Learning Neuroengineering and Brain-Inspired Concepts and Designs",
-      "fit": 98,
-      "matchedTerms": [
-        "machine learning",
-        "data",
-        "learning",
-        "transfer",
-        "science",
-        "engineering",
-        "cyber"
-      ]
-    },
-    {
       "id": "watchlist-arnold-ventures-6",
       "number": "",
       "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
@@ -1649,7 +1646,7 @@
       ]
     },
     {
-      "id": "watchlist-indiana-department-of-education-grants-6",
+      "id": "watchlist-indiana-department-of-education-grants-5",
       "number": "",
       "title": "Formative (Interim) Assessment Grant",
       "source": "Indiana Department of Education Grants",
@@ -1746,6 +1743,25 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Hawaii Department of Education Grants. Federal Grants",
+      "fit": 64,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-nevada-department-of-education-grants-1",
+      "number": "",
+      "title": "9/1/2026 - DonorsChoose Grant Funding Available Beginning Sept. 1",
+      "source": "Nevada Department of Education Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://doe.nv.gov/news-media/2026-press-releases/donorschoose-grant-funding-available-beginning-sept-1",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Nevada Department of Education Grants. 9/1/2026 - DonorsChoose Grant Funding Available Beginning Sept. 1",
       "fit": 64,
       "matchedTerms": []
     },
@@ -1851,27 +1867,6 @@
       "fit": 56,
       "matchedTerms": [
         "learning"
-      ]
-    },
-    {
-      "id": "watchlist-indiana-department-of-education-grants-5",
-      "number": "",
-      "title": "Early Intervention Grant",
-      "source": "Indiana Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.in.gov/doe/grants/early-intervention-grant",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Indiana Department of Education Grants. Early Intervention Grant",
-      "fit": 56,
-      "matchedTerms": [
-        "intervention"
       ]
     },
     {
@@ -2073,19 +2068,57 @@
     {
       "id": "watchlist-california-department-of-education-funding-3",
       "number": "",
-      "title": "RFA-26: Mandate Block Grant",
+      "title": "Request for Applications",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r14/mandatebg26rfa.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r8/wioa27rfa.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: Mandate Block Grant",
+      "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-4",
+      "number": "",
+      "title": "Request for Applications",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r12/caserves26-27.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-5",
+      "number": "",
+      "title": "Pres-26: California Serves Grant",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r12/documents/caservestawebinar26.pptx",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. Pres-26: California Serves Grant",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2223,7 +2256,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-indiana-department-of-education-grants-7",
+      "id": "watchlist-indiana-department-of-education-grants-6",
       "number": "",
       "title": "Federal Grants Pre-Application",
       "source": "Indiana Department of Education Grants",
@@ -2238,6 +2271,25 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Indiana Department of Education Grants. Federal Grants Pre-Application",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-indiana-department-of-education-grants-7",
+      "number": "",
+      "title": "Title Grants Handbook",
+      "source": "Indiana Department of Education Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.in.gov/doe/files/Title-Grants-Handbook-2022-update.pdf",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Indiana Department of Education Grants. Title Grants Handbook",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2263,25 +2315,6 @@
     {
       "id": "watchlist-nebraska-department-of-education-grants-1",
       "number": "",
-      "title": "School Kitchen Modernization Grant",
-      "source": "Nebraska Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.education.ne.gov/wp-content/uploads/2026/07/Rural-Health-Transformation-Program-School-Kitchen-Modernization-Grant.pdf",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Nebraska Department of Education Grants. School Kitchen Modernization Grant",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-nebraska-department-of-education-grants-2",
-      "number": "",
       "title": "Salad Bars to Schools Grant",
       "source": "Nebraska Department of Education Grants",
       "sourceType": "State funding",
@@ -2299,7 +2332,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-nebraska-department-of-education-grants-3",
+      "id": "watchlist-nebraska-department-of-education-grants-2",
       "number": "",
       "title": "KidsGardening Grant",
       "source": "Nebraska Department of Education Grants",
@@ -2337,7 +2370,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-nevada-department-of-education-grants-1",
+      "id": "watchlist-nevada-department-of-education-grants-2",
       "number": "",
       "title": "7/1/2026 - Nevada Ready! Pre-K Common Application Launches July 1",
       "source": "Nevada Department of Education Grants",
@@ -3443,19 +3476,19 @@
     {
       "id": "watchlist-ies-funding-opportunities-6",
       "number": "",
-      "title": "View more",
+      "title": "Click here to view frequently asked questions (FAQs)",
       "source": "IES Funding Opportunities",
       "sourceType": "Federal education research",
       "agencyCode": "Federal education research",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://ies.ed.gov/funding/grants/2027/using-longitudinal-data-support-state-education-policymaking-special-education-84-324s",
+      "url": "https://ies.ed.gov/funding/frequently-asked-questions-faqs",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "Federal education research. Matched source page for IES Funding Opportunities. View more",
+      "description": "Federal education research. Matched source page for IES Funding Opportunities. Click here to view frequently asked questions (FAQs)",
       "fit": 34,
       "matchedTerms": [
         "ies"
@@ -3471,7 +3504,7 @@
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://ies.ed.gov/funding/grants/2027/research-training-programs-education-sciences-84-305b",
+      "url": "https://ies.ed.gov/funding/grants/2027/using-longitudinal-data-support-state-education-policymaking-special-education-84-324s",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
