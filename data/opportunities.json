@@ -1,115 +1,8 @@
 {
-  "scannedAt": "2026-09-07T18:00:56.256Z",
+  "scannedAt": "2026-09-14T18:19:23.602Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "356119",
-      "number": "24-597",
-      "title": "U.S. National Science Foundation Research Traineeship (NRT) Program",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-09-08",
-      "posted": "2024-08-17",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24597",
-      "awardCeiling": "3000000",
-      "estimatedFunding": "53000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The NSF Research Traineeship (NRT) program seeks proposals that explore ways for graduate students in research-based master's and doctoral degree programs to develop the skills, knowledge, and competencies needed to pursue a range of STEM careers. The program is dedicated to effective training of STEM graduate students in high priority interdisciplinary or convergent research areas, through a comprehensive traineeship model that is innovative, evidence-based, and aligned with changing workforce and research needs. Proposals are requested that address any interdisciplinary or convergent research theme of national priority, as described in section II.D below. The NRT program addresses workforce development, emphasizing broad participation, and institutional capacity building needs in graduate education. The program encourages proposals that involve strategic collaborations with the private sector, non-governmental organizations (NGOs), government agencies, national laboratories, field stations, teaching and learning centers, informal science centers, and academic partners. NRT especially welcomes proposals that reflect collaborations between NRT proposals and existing NSF Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES) Initiative , Research Experiences for Undergraduates (REU) , Louis Stokes Alliances for Minority Participation (LSAMP) , NSF Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM) , and NSF STEM Ed Organizational Postdoctoral Fellowship program (STEM Ed OPRF) projects, provided the collaboration will strengthen both projects. Researchers at minority serving institutions and emerging research institutions are strongly encouraged to submit proposals. Collaborations between NRT proposals and existing NSF INCLUDES projects should strengthen both NRT and INCLUDES projects.",
-      "fit": 100,
-      "matchedTerms": [
-        "learning",
-        "evidence",
-        "workforce",
-        "stem",
-        "workforce development",
-        "skills",
-        "science",
-        "technology"
-      ]
-    },
-    {
-      "id": "353413",
-      "number": "24-564",
-      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-09-08",
-      "posted": "2024-04-05",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24564",
-      "awardCeiling": "2000000",
-      "estimatedFunding": "8000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Revolutionizing Engineering Departments (hereinafter referred to as RED) is designed to build upon previous efforts in engineering education research. Specifically, previous and ongoing evaluations of the NSF Engineering Education and Centers Division program and its predecessors, as well as those related programs in the Directorate for STEM Education, have shown that prior investments have significantly improved the first year of engineering students' experiences, incorporating engineering material, active learning approaches, design instruction, and a broad introduction to professional skills and a sense of professional practice - giving students an idea of what it means to become an engineer. Similarly, the senior year has seen notable change through capstone design experiences, which ask students to synthesize the technical knowledge, skills, and abilities they have gained with professional capacities, using reflective judgment to make decisions and communicate these effectively. However, this ideal of the senior year has not yet been fully realized, because many of the competencies required in capstone design, or required of professional engineers, are only partially introduced in the first year and not carried forward with significant emphasis through the sophomore and junior years. The Directorates for Engineering (ENG) and STEM Education (EDU) are funding projects as part of the RED program, in alignment with the Improving Undergraduate STEM Education (IUSE) framework and Professional Formation of Engineers (PFE) initiative. These projects are designing revolutionary new approaches to engineering education, ranging from changing the canon of engineering to fundamentally altering the way courses are structured to creating new departmental structures and educational collaborations with industry. A common thread across these projects is a focus on organizational and cultural change within the departments, involving students, faculty, staff, and industry in rethinking what it means to provide an engineering program. In order to continue to catalyze revolutionary approaches, while expanding the reach of those that have proved efficacious in particular contexts, the RED program supports four tracks: RED Planning (Track 1), RED Adaptation and Implementation (Track 2), RED Innovation (Track 3), and RED Innovation Partnerships (Track 4). Two- and four-year institutions are encouraged to submit to any track as appropriate for their goals and context. RED Planning (Track 1) projects will support capacity-building activities at institutions of special interest to NSF's mission, including two-year engineering-centered programs building transfer partnerships, two-year or four-year institutions in EPSCoR jurisdictions, Primarily Undergraduate Institutions (PUIs), and Institutions of Higher Education (IHEs) in order to create more opportunities in engineering for students in every part of the country. Planning projects should provide the support for such institutions to explore the development of a RED Projects in Tracks 2, 3, & 4. RED Adaptation and Implementation (Track 2) projects will adapt and implement evidence-based organizational change strategies and actions to the local context, which helps propagate this transformation of undergraduate engineering education. RED Innovation (Track 3) projects will develop new, revolutionary approaches and change strategies that enable the transformation of undergraduate engineering education. RED Innovation Partnerships (Track 4) projects will achieve the same goals as Track 3 projects across multiple institutions. Of particular interest to this track are projects partnering two-year institutions with other eligible institutions. Projects in tracks 2, 3, & 4 will include consideration of the cultural, organizational, structural, and pedagogical changes needed to transform one or more departments to ones in which students are engaged, develop their technical and professional skills, and establish identities as professional engineers or technologists. The focus of projects in these tracks should be on the department's disciplinary courses and program. RED project initiatives are expected to be institutionalized at the end of the funding period. Proposals are especially encouraged that address areas of increased national interest including but not limited to advanced manufacturing, advanced wireless, artificial intelligence, biotechnology, microelectronics and semiconductors, net zero technologies, sustainability, systems engineering, and quantum engineering.",
-      "fit": 100,
-      "matchedTerms": [
-        "artificial intelligence",
-        "learning",
-        "evidence",
-        "implementation",
-        "stem",
-        "higher education",
-        "undergraduate",
-        "skills"
-      ]
-    },
-    {
-      "id": "347026",
-      "number": "23-569",
-      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-09-09",
-      "posted": "2023-03-21",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23569",
-      "awardCeiling": "250000",
-      "estimatedFunding": "2000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The National Science Foundation (NSF) and the National Institutes of Health (NIH) are interested in proposals that will propel our understanding of the biomedical research enterprise by drawing from the scientific expertise of the science of science policy research community. NSF promotes the progress of science by maintaining the general health of research and education across all fields of science and engineering. The Social, Behavioral and Economic Sciences (SBE) Directorate within NSF supports basic research on people and society. The SBE sciences focus on human behavior and social organizations; how social, economic, political, cultural and environmental forces affect the lives of people from birth to old age; and how people in turn shape those forces. SBE's Science of Science: Discovery, Communication and Impact Program (SoS:DCI) supports research designed to advance the scientific basis of science and innovation policy. The NIH is the U.S. federal agency charged with supporting biomedical research in the U.S.The National Institute of General Medical Sciences (NIGMS) within the NIH supports basic biomedical research that increases understanding of biological processes and lays the foundation for advances in disease diagnosis, treatment and prevention. Both NSF and NIH believe that there are opportunities and needs for building and supporting research projects with a focus on the scientific research enterprise. The two agencies also recognize that when programmatic goals are compatible, coordinated management and funding of a research program can have a positive synergistic effect on the level and scope of research and can leverage the investments of both agencies. Therefore, NIGMS and SBE are partnering to enable collaboration in research between theSoS:DCI program and NIGMS. This partnership will result in a portfolio of high-quality research to provide scientific analysis of important aspects of the biomedical research enterprise and efforts to foster a diverse, innovative, productive and efficient scientific workforce, from which future scientific leaders will emerge. Prospective investigators are strongly encouraged to discuss theirproposals with the program officers before submission to determine project relevance to the priorities of both SBE and NIGMS. Specific questions pertaining to this solicitation can also be directed to the SBE and NIGMS program officers.",
-      "fit": 72,
-      "matchedTerms": [
-        "workforce",
-        "science",
-        "engineering"
-      ]
-    },
-    {
-      "id": "360149",
-      "number": "25-543",
-      "title": "Computer and Information Science and Engineering (CISE): Future Computing Research",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-09-10",
-      "posted": "2025-07-25",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25543",
-      "awardCeiling": "12000000",
-      "estimatedFunding": "280000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The NSF CISE Directorate supports research and education projects that develop new knowledge in all aspects of computing, communications, and information science and engineering through the following Future Computing Research (Future CoRe) programs: Algorithmic Foundations (AF) program; Communications and Information Foundations (CIF) program; Computer Systems Research (CSR) program; Computing Education Research (CER) program; Cyber-Physical System Foundations and Connected Communities (CPS) program; Foundations of Emerging Technologies (FET) program; Human-Centered Computing (HCC) program; Information Integration and Informatics (III) program; Networking Technology and Systems (NeTS) program; Robust Intelligence (RI) program;and Software and Hardware Foundations (SHF) program; The CISE Future Computing Research program anticipates a portfolio of awards with a range of budgets and durations, including projects of smaller scope. Project durations and budgets must be commensurate with the scope of the proposed work up to the maximum limit of $1,000,000 with a duration up to 4 years. Typical projects are approximately $150,000 to $250,000 per year and are 3 to 4 years in duration. Projects are discouraged from exceeding $300,000 in any single year. Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.",
-      "fit": 76,
-      "matchedTerms": [
-        "science",
-        "technology",
-        "engineering",
-        "cyber"
-      ]
-    },
     {
       "id": "353353",
       "number": "PD-18-1263",
@@ -434,7 +327,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The NSF Directorate for Engineering (ENG) seeks to build engineering research capacity across the nation by investing in new academic investigators who have yet to receive sufficient research funding from Federal Agencies. The Engineering Research Initiation (ERI) program will support new investigators as they initiate their research programs and advance in their careers as researchers, educators, and innovators. This funding opportunity aims to broaden the base of investigators involved in engineering research and therefore is limited to investigators that are not affiliated with \"very high research activity\" R1 institutions (according to the Carnegie Classification https://carnegieclassifications.iu.edu/ ).",
-      "fit": 64,
+      "fit": 68,
       "matchedTerms": [
         "science",
         "engineering"
@@ -457,7 +350,7 @@
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "The Algebra and Number Theory program supports research in algebra, algebraic and arithmetic geometry, number theory, and representation theory. Conference proposals The Algebra and Number Theory program also provides support for conferences, workshops, summer/winter schools, and similar activities. Proposals should be submitted to PD 20-1264 using the \"Conference\" proposal type in research.gov. Proposals with budgets not exceeding $50,000, which in accordance with NSF policy can be reviewed internally, should be submitted: in May for events that will take place in January through April of the following year in October for events that will take place in May through December of the following year. In order to allow time for external review, proposals with budget requests exceeding $50,000 should be submitted nine to twelve months before the event is scheduled to take place.",
-      "fit": 48,
+      "fit": 52,
       "matchedTerms": [
         "science"
       ]
@@ -615,6 +508,26 @@
         "science",
         "engineering"
       ]
+    },
+    {
+      "id": "363825",
+      "number": "DOL-OESE-34832",
+      "title": "Impact Aid Discretionary Construction Grant Program - 84.041C",
+      "source": "Office of Elementary and Secondary Education",
+      "agencyCode": "DOL-OESE",
+      "deadline": "2026-11-10",
+      "posted": "2026-09-08",
+      "status": "posted",
+      "url": "https://impactaid.ed.gov/resources/#construction",
+      "awardCeiling": "8000000",
+      "estimatedFunding": "19000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Independent school districts"
+      ],
+      "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Impact Aid Discretionary Construction Grant Program on behalf of the U.S. Department of Education (ED). The Impact Aid Discretionary Construction Grant Program provides grants to eligible Impact Aid Local Educational Agencies (LEAs) to assist in addressing their school facility emergency and modernization needs. This competition is limited to emergency grants that meet the absolute priority and other requirements in this notice. The competition uses existing statutory authority and appropriated funds to address urgent school facility needs in federally connected communities while promoting responsible stewardship of taxpayer dollars.",
+      "fit": 56,
+      "matchedTerms": []
     },
     {
       "id": "344610",
@@ -899,6 +812,31 @@
       ]
     },
     {
+      "id": "360149",
+      "number": "25-543",
+      "title": "Computer and Information Science and Engineering (CISE): Future Computing Research (Future CoRe)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-02-04",
+      "posted": "2025-07-25",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25543",
+      "awardCeiling": "12000000",
+      "estimatedFunding": "280000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The NSF CISE Directorate supports research and education projects that develop new knowledge in all aspects of computing, communications, and information science and engineering through the following Future Computing Research (Future CoRe) programs: Algorithmic Foundations (AF) program; Communications and Information Foundations (CIF) program; Computer Systems Research (CSR) program; Computing Education Research (CER) program; Cyber-Physical System Foundations and Connected Communities (CPS) program; Foundations of Emerging Technologies (FET) program; Human-Centered Computing (HCC) program; Information Integration and Informatics (III) program; Networking Technology and Systems (NeTS) program; Robust Intelligence (RI) program; and Software and Hardware Foundations (SHF) program; The CISE Future Computing Research program anticipates a portfolio of awards with a range of budgets and durations, including projects of smaller scope. Project durations and budgets must be commensurate with the scope of the proposed work up to the maximum limit of $1,000,000 with a duration up to 4 years. Typical projects are approximately $150,000 to $250,000 per year and are 3 to 4 years in duration. Projects are discouraged from exceeding $300,000 in any single year. Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.",
+      "fit": 72,
+      "matchedTerms": [
+        "science",
+        "technology",
+        "engineering",
+        "cyber"
+      ]
+    },
+    {
       "id": "356129",
       "number": "24-598",
       "title": "Mid-scale Research Infrastructure-1",
@@ -925,6 +863,30 @@
         "stem",
         "career",
         "science"
+      ]
+    },
+    {
+      "id": "347026",
+      "number": "23-569",
+      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-02-09",
+      "posted": "2023-03-21",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23569",
+      "awardCeiling": "250000",
+      "estimatedFunding": "2000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The National Science Foundation (NSF) and the National Institutes of Health (NIH) are interested in proposals that will propel our understanding of the biomedical research enterprise by drawing from the scientific expertise of the science of science policy research community. NSF promotes the progress of science by maintaining the general health of research and education across all fields of science and engineering. The Social, Behavioral and Economic Sciences (SBE) Directorate within NSF supports basic research on people and society. The SBE sciences focus on human behavior and social organizations; how social, economic, political, cultural and environmental forces affect the lives of people from birth to old age; and how people in turn shape those forces. SBE's Science of Science: Discovery, Communication and Impact Program (SoS:DCI) supports research designed to advance the scientific basis of science and innovation policy. The NIH is the U.S. federal agency charged with supporting biomedical research in the U.S. The National Institute of General Medical Sciences (NIGMS) within the NIH supports basic biomedical research that increases understanding of biological processes and lays the foundation for advances in disease diagnosis, treatment and prevention. Both NSF and NIH believe that there are opportunities and needs for building and supporting research projects with a focus on the scientific research enterprise. The two agencies also recognize that when programmatic goals are compatible, coordinated management and funding of a research program can have a positive synergistic effect on the level and scope of research and can leverage the investments of both agencies. Therefore, NIGMS and SBE are partnering to enable collaboration in research between the SoS:DCI program and NIGMS. This partnership will result in a portfolio of high-quality research to provide scientific analysis of important aspects of the biomedical research enterprise and efforts to foster a diverse, innovative, productive and efficient scientific workforce, from which future scientific leaders will emerge. Prospective investigators are strongly encouraged to discuss their proposals with the program officers before submission to determine project relevance to the priorities of both SBE and NIGMS. Specific questions pertaining to this solicitation can also be directed to the SBE and NIGMS program officers.",
+      "fit": 68,
+      "matchedTerms": [
+        "workforce",
+        "science",
+        "engineering"
       ]
     },
     {
@@ -1153,6 +1115,35 @@
       ]
     },
     {
+      "id": "353413",
+      "number": "24-564",
+      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-04-13",
+      "posted": "2024-04-05",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24564",
+      "awardCeiling": "2000000",
+      "estimatedFunding": "8000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Revolutionizing Engineering Departments (hereinafter referred to as RED) is designed to build upon previous efforts in engineering education research. Specifically, previous and ongoing evaluations of the NSF Engineering Education and Centers Division program and its predecessors, as well as those related programs in the Directorate for STEM Education, have shown that prior investments have significantly improved the first year of engineering students' experiences, incorporating engineering material, active learning approaches, design instruction, and a broad introduction to professional skills and a sense of professional practice - giving students an idea of what it means to become an engineer. Similarly, the senior year has seen notable change through capstone design experiences, which ask students to synthesize the technical knowledge, skills, and abilities they have gained with professional capacities, using reflective judgment to make decisions and communicate these effectively. However, this ideal of the senior year has not yet been fully realized, because many of the competencies required in capstone design, or required of professional engineers, are only partially introduced in the first year and not carried forward with significant emphasis through the sophomore and junior years. The Directorates for Engineering (ENG) and STEM Education (EDU) are funding projects as part of the RED program, in alignment with the Improving Undergraduate STEM Education (IUSE) framework and Professional Formation of Engineers (PFE) initiative. These projects are designing revolutionary new approaches to engineering education, ranging from changing the canon of engineering to fundamentally altering the way courses are structured to creating new departmental structures and educational collaborations with industry. A common thread across these projects is a focus on organizational and cultural change within the departments, involving students, faculty, staff, and industry in rethinking what it means to provide an engineering program. In order to continue to catalyze revolutionary approaches, while expanding the reach of those that have proved efficacious in particular contexts, the RED program supports four tracks: RED Planning (Track 1), RED Adaptation and Implementation (Track 2), RED Innovation (Track 3), and RED Innovation Partnerships (Track 4). Two- and four-year institutions are encouraged to submit to any track as appropriate for their goals and context. RED Planning (Track 1) projects will support capacity-building activities at institutions of special interest to NSF's mission, including two-year engineering-centered programs building transfer partnerships, two-year or four-year institutions in EPSCoR jurisdictions, Primarily Undergraduate Institutions (PUIs), and Institutions of Higher Education (IHEs) in order to create more opportunities in engineering for students in every part of the country. Planning projects should provide the support for such institutions to explore the development of a RED Projects in Tracks 2, 3, & 4. RED Adaptation and Implementation (Track 2) projects will adapt and implement evidence-based organizational change strategies and actions to the local context, which helps propagate this transformation of undergraduate engineering education. RED Innovation (Track 3) projects will develop new, revolutionary approaches and change strategies that enable the transformation of undergraduate engineering education. RED Innovation Partnerships (Track 4) projects will achieve the same goals as Track 3 projects across multiple institutions. Of particular interest to this track are projects partnering two-year institutions with other eligible institutions. Projects in tracks 2, 3, & 4 will include consideration of the cultural, organizational, structural, and pedagogical changes needed to transform one or more departments to ones in which students are engaged, develop their technical and professional skills, and establish identities as professional engineers or technologists. The focus of projects in these tracks should be on the department's disciplinary courses and program. RED project initiatives are expected to be institutionalized at the end of the funding period. Proposals are especially encouraged that address areas of increased national interest including but not limited to advanced manufacturing, advanced wireless, artificial intelligence, biotechnology, microelectronics and semiconductors, net zero technologies, sustainability, systems engineering, and quantum engineering.",
+      "fit": 100,
+      "matchedTerms": [
+        "artificial intelligence",
+        "learning",
+        "evidence",
+        "implementation",
+        "stem",
+        "higher education",
+        "undergraduate",
+        "skills"
+      ]
+    },
+    {
       "id": "358036",
       "number": "25-533",
       "title": "Findable Accessible Interoperable Reusable Open Science",
@@ -1260,7 +1251,7 @@
     {
       "id": "339594",
       "number": "22-586",
-      "title": "Faculty Early Career Development Program",
+      "title": "Faculty Early Career Development Program (CAREER)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2027-07-28",
@@ -1273,7 +1264,7 @@
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "CAREER:The Faculty Early Career Development (CAREER) Program is a Foundation-wide activity that offers the National Science Foundation's most prestigious awards in support of early-career faculty who have the potential to serve as academic role models in research and education and to lead advances in the mission of their department or organization. Activities pursued by early-career faculty should build a firm foundation for a lifetime of leadership in integrating education and research. NSF encourages submission of CAREER proposals from early-career faculty at all CAREER-eligible organizations . PECASE:Each year NSF selects nominees for the Presidential Early Career Awards for Scientists and Engineers (PECASE) from among the most meritorious recent CAREER awardees.Selection for this award is based on twoimportant criteria:The criteria are 1) performance of innovative research at the frontiers of science, engineering, and technology that is relevant to the mission of the sponsoring organization or agency; and 2) community service demonstrated through scientific leadership, education or community outreach.These awards foster innovative developments in science and technology, increase awareness of careers in science and engineering, give recognition to the scientific missions of the participating agencies, enhance connections between fundamental research and national goals, and highlight the importance of science and technology for the Nation's future. Individuals cannot apply for PECASE. These awards are initiated by the participating federal agencies. At NSF, up to twenty-six nominees for this award are selected each year from among the PECASE-eligible CAREER awardees most likely to become the leaders of academic research and education in the twenty-first century. The White House Office of Science and Technology Policy makes the final selection and announcement of the awardees.",
+      "description": "CAREER : The Faculty Early Career Development (CAREER) Program is a Foundation-wide activity that offers the National Science Foundation's most prestigious awards in support of early-career faculty who have the potential to serve as academic role models in research and education and to lead advances in the mission of their department or organization. Activities pursued by early-career faculty should build a firm foundation for a lifetime of leadership in integrating education and research. NSF encourages submission of CAREER proposals from early-career faculty at all CAREER-eligible organizations . PECASE : Each year NSF selects nominees for the Presidential Early Career Awards for Scientists and Engineers (PECASE) from among the most meritorious recent CAREER awardees. Selection for this award is based on two important criteria: The criteria are 1) performance of innovative research at the frontiers of science, engineering, and technology that is relevant to the mission of the sponsoring organization or agency; and 2) community service demonstrated through scientific leadership, education or community outreach. These awards foster innovative developments in science and technology, increase awareness of careers in science and engineering, give recognition to the scientific missions of the participating agencies, enhance connections between fundamental research and national goals, and highlight the importance of science and technology for the Nation's future. Individuals cannot apply for PECASE. These awards are initiated by the participating federal agencies. At NSF, up to twenty-six nominees for this award are selected each year from among the PECASE-eligible CAREER awardees most likely to become the leaders of academic research and education in the twenty-first century. The White House Office of Science and Technology Policy makes the final selection and announcement of the awardees.",
       "fit": 72,
       "matchedTerms": [
         "career",
@@ -1617,32 +1608,6 @@
         "science",
         "engineering",
         "broadening participation"
-      ]
-    },
-    {
-      "id": "watchlist-arnold-ventures-6",
-      "number": "",
-      "title": "Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
-      "source": "Arnold Ventures",
-      "sourceType": "Private foundation",
-      "agencyCode": "Private foundation",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://assets.arnoldventures.org/uploads/PDFs/202605-AV_RFP_PT-Student-Success.pdf",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "Private foundation. Matched source page for Arnold Ventures. Higher Education & Career Pathways Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
-      "fit": 74,
-      "matchedTerms": [
-        "outcomes",
-        "higher education",
-        "career",
-        "career pathways",
-        "pathways",
-        "causal"
       ]
     },
     {
@@ -2104,25 +2069,6 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-california-department-of-education-funding-5",
-      "number": "",
-      "title": "Pres-26: California Serves Grant",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r12/documents/caservestawebinar26.pptx",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Pres-26: California Serves Grant",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
       "id": "watchlist-colorado-department-of-education-grants-0",
       "number": "",
       "title": "Competitive Grants and Awards",
@@ -2333,6 +2279,44 @@
     },
     {
       "id": "watchlist-nebraska-department-of-education-grants-2",
+      "number": "",
+      "title": "Bulk Milk Grant",
+      "source": "Nebraska Department of Education Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.thelunchbox.org/apply-for-a-grant/bulk-milk/",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Nebraska Department of Education Grants. Bulk Milk Grant",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-nebraska-department-of-education-grants-3",
+      "number": "",
+      "title": "School Breakfast Program and Non-Congregate Summer Meals Grants",
+      "source": "Nebraska Department of Education Grants",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.nokidhungry.org/grant-inquiry-information",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Nebraska Department of Education Grants. School Breakfast Program and Non-Congregate Summer Meals Grants",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-nebraska-department-of-education-grants-4",
       "number": "",
       "title": "KidsGardening Grant",
       "source": "Nebraska Department of Education Grants",
@@ -2864,7 +2848,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-arnold-ventures-7",
+      "id": "watchlist-arnold-ventures-5",
       "number": "",
       "title": "Evidence & Evaluation Impacts of Cell Phone Policies in K‑ 12 Schools RFP RFP Closed",
       "source": "Arnold Ventures",
@@ -2883,6 +2867,28 @@
       "matchedTerms": [
         "evaluation",
         "evidence"
+      ]
+    },
+    {
+      "id": "watchlist-arnold-ventures-4",
+      "number": "",
+      "title": "Education Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
+      "source": "Arnold Ventures",
+      "sourceType": "Private foundation",
+      "agencyCode": "Private foundation",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://assets.arnoldventures.org/uploads/PDFs/202605-AV_RFP_PT-Student-Success.pdf",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "Private foundation. Matched source page for Arnold Ventures. Education Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
+      "fit": 46,
+      "matchedTerms": [
+        "outcomes",
+        "causal"
       ]
     },
     {
@@ -3306,44 +3312,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Texas Education Agency Grants. Disaster Relief and Federal Grant Funding",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-utah-state-board-of-education-funding-0",
-      "number": "",
-      "title": "Forms and Applications",
-      "source": "Utah State Board of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://schools.utah.gov/financialoperations/formsapplications.php",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Utah State Board of Education Funding. Forms and Applications",
-      "fit": 38,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-utah-state-board-of-education-funding-1",
-      "number": "",
-      "title": "Utah Grants",
-      "source": "Utah State Board of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://schools.utah.gov/financialoperations/utahgrants.php",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Utah State Board of Education Funding. Utah Grants",
       "fit": 38,
       "matchedTerms": []
     },
