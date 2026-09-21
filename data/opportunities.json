@@ -1,31 +1,8 @@
 {
-  "scannedAt": "2026-09-14T18:19:23.602Z",
+  "scannedAt": "2026-09-21T18:24:36.273Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "353353",
-      "number": "PD-18-1263",
-      "title": "Probability",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-09-15",
-      "posted": "2024-04-03",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5555",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Probability Program supports research on the theory and applications of probability. Subfields include discrete probability, stochastic processes, limit theory, interacting particle systems, stochastic differential and partial differential equations, and Markov processes. Research in probability which involves applications to other areas of science and engineering is especially encouraged. Conferences Principal Investigators should carefully read the program solicitation &quot;Conferences and Workshops in the Mathematical Sciences&quot; (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities. Conference and workshop proposals should be submitted eight months before the requested start date.",
-      "fit": 28,
-      "matchedTerms": [
-        "science",
-        "engineering"
-      ]
-    },
     {
       "id": "302270",
       "number": "PD-18-1268",
@@ -401,7 +378,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The Research Experiences for Teachers (RET) in Engineering and Computer Science program supports authentic summer research experiences for K-14 educators to foster long-term collaborations between universities, community colleges, school districts, and industry partners. With this solicitation, the Directorates for Engineering (ENG) and Computer and Information Science and Engineering (CISE) focus on a reciprocal exchange of expertise between K-14 educators and research faculty and (when applicable) industry mentors. K-14 educators will enhance their scientific disciplinary knowledge in engineering or computer science and translate their research experiences into classroom activities and curricula to broaden their students' awareness of and participation in computing and engineering pathways. At the same time, the hosting research faculty will deepen their understanding of classroom practices, current curricula, pedagogy, and K-14 educational environments.",
-      "fit": 72,
+      "fit": 76,
       "matchedTerms": [
         "science",
         "engineering",
@@ -426,7 +403,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The Historically Black Colleges and Universities - Excellence in Research (HBCU-EiR) program was established in response to direction provided in the Senate Commerce and Justice, Science and Related Agencies Appropriations Subcommittee Report (Senate Report 115-139), and is built on prior and continuing efforts by the National Science Foundation (NSF) to strengthen research capacity at Historically Black Colleges and Universities (HBCUs). This report provided guidance to NSF to establish the HBCU Excellence in Research program \"to provide opportunities for both public and private HBCUs, particularly for those who have not been successful in larger NSF Research & Related Activities competitions, in order to stimulate sustainable improvement in their research and development capacity\" ( https://congress.gov/congressional-report/115th-congress/senate-report/139/1 ). EiR supports such capacity building by funding research projects aligned with NSF's research programs. The program aims to establish stronger connections between researchers at HBCUs and NSF's research programs.",
-      "fit": 64,
+      "fit": 68,
       "matchedTerms": [
         "hbcu",
         "science"
@@ -528,34 +505,6 @@
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Impact Aid Discretionary Construction Grant Program on behalf of the U.S. Department of Education (ED). The Impact Aid Discretionary Construction Grant Program provides grants to eligible Impact Aid Local Educational Agencies (LEAs) to assist in addressing their school facility emergency and modernization needs. This competition is limited to emergency grants that meet the absolute priority and other requirements in this notice. The competition uses existing statutory authority and appropriated funds to address urgent school facility needs in federally connected communities while promoting responsible stewardship of taxpayer dollars.",
       "fit": 56,
       "matchedTerms": []
-    },
-    {
-      "id": "344610",
-      "number": "23-519",
-      "title": "Major Research Instrumentation Program",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-11-16",
-      "posted": "2022-11-22",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23519",
-      "awardCeiling": "4000000",
-      "estimatedFunding": "75000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Major Research Instrumentation (MRI) Program ( MRI Program Website) serves to increase access to multi-user scientific and engineering instrumentation for research and research training in our Nation's institutions of higher education and not-for-profit scientific/engineering research organizations. An MRI award supports the acquisition of a multi-user research instrument that is commercially available through direct purchase from a vendor, or for the personnel costs and equipment that are required for the development of an instrument with new capabilities, thereby advancing instrumentation capabilities and enhancing expertise for instrument design and fabrication at academic institutions. MRI instruments are, in general, too costly and/or not appropriate for support through other NSF programs. MRI provides support to acquire critical research instrumentation without which advances in fundamental science and engineering research may not otherwise occur. MRI also provides support to obtain next-generation research instruments by developing instruments with new capabilities that open new opportunities to advance the frontiers in science and engineering research. Additionally, an MRI award is expected to enhance research training of students who will become the next generation of instrument users, designers and builders. An MRI proposal may request from NSF up to $4 million for either acquisition or development of a research instrument. Each performing organization may submit in revised \"Tracks\" as defined below, with no more than two (2) submissions in Track 1 and no more than one (1) submission in Track 2. For the newly defined Track 3, no more than one (1) submission per competition is permitted. As a result, it is now possible for an institution to submit up to four MRI proposals within the Track limits as described above. Track 1: Track 1 MRI proposals are those that request funds from NSF greater than $100,000 [1] and less than $1,400,000. Track 2: Track 2 MRI proposals are those that request funds from NSF greater than or equal to $1,400,000 up to and including $4,000,000. Track 3: Track 3 MRI proposals are those that request funds from NSF greater than or equal to $100,000 [1] and less than or equal to $4,000,000 that include the purchase, installation, operation, and maintenance of equipment and instrumentation to conserve or reduce the consumption of helium. Institutions may submit no more than one Track 3 proposal. Submission of a Track 3 proposal does not impact limits that apply for Track 1 and Track 2 proposals. Cost sharing requirements for new awards in the MRI Program are waived for a period of 5 years beginning with the FY 2023 MRI competition. Institutional submission limits for Track 1, Track 2 and Track 3 proposals remain. The MRI Program especially seeks broad representation of groups, institutions, and geographic regions that are underrepresented in STEM disciplines. Proposals from women, underrepresented minorities, persons with disabilities and early-career PIs are encouraged, as are proposals that benefit early-career researchers and proposals with PIs from geographically underserved regions, including EPSCoR jurisdictions. Additionally, proposals are encouraged from under-resourced institutions, including from emerging research institutions, where MRI can significantly build capacity for research. ___________________________ [1] Track 1 proposals requesting funds from NSF less than $100,000 will be accepted only from: a) eligible performing organizations requesting instrumentation supporting research in the disciplines of mathematics or social, behavioral and economic sciences; or b) non-Ph.D.-granting institutions of higher education requesting instrumentation supporting research in any NSF-supported disciplines.",
-      "fit": 84,
-      "matchedTerms": [
-        "open",
-        "stem",
-        "higher education",
-        "career",
-        "science",
-        "engineering",
-        "mathematics"
-      ]
     },
     {
       "id": "358569",
@@ -722,6 +671,35 @@
         "engineering",
         "survey",
         "statistical"
+      ]
+    },
+    {
+      "id": "344124",
+      "number": "23-510",
+      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-01-20",
+      "posted": "2022-10-20",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23510",
+      "awardCeiling": "2000000",
+      "estimatedFunding": "61000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "Synopsis of Program: The fields of science, technology, engineering, and mathematics (STEM) hold much promise as sectors of the economy where we can expect to see continuous vigorous growth in the coming decades. STEM job creation is expected to outpace non-STEM job creation significantly, according to the Commerce Department, reflecting the importance of STEM knowledge to the US economy. The National Science Foundation (NSF) plays a leadership role in developing and implementing efforts to enhance and improve STEM education in the United States. Through the NSF Improving Undergraduate STEM Education (IUSE) initiative, the agency continues to make a substantial commitment to the highest caliber undergraduate STEM education through a Foundation-wide framework of investments. The IUSE: EDU is a core NSF STEM education program that seeks to promote novel, creative, and transformative approaches to generating and using new knowledge about STEM teaching and learning to improve STEM education for undergraduate students. The program is open to application from all institutions of higher education and associated organizations. NSF places high value on educating students to be leaders and innovators in emerging and rapidly changing STEM fields as well as educating a scientifically literate public. In pursuit of this goal, IUSE: EDU supports projects that seek to bring recent advances in STEM knowledge into undergraduate education, that adapt, improve, and incorporate evidence-based practices into STEM teaching and learning, and that lay the groundwork for institutional improvement in STEM education. In addition to innovative work at the frontier of STEM education, this program also encourages replication of research studies to produce deeper knowledge about the effectiveness and transferability of findings. IIUSE: EDU also seeks to support projects that have high potential for broader societal impacts, including professional development for instructors to ensure adoption of new and effective pedagogical techniques that meet the changing needs of students, and projects that promote institutional partnerships for collaborative research and development. For all the above objectives, the National Science Foundation invests primarily in evidence-based and knowledge-generating approaches to understand and improve STEM learning and learning environments and prepare STEM majors for the workforce. In addition to contributing to STEM education in the host institution(s), proposals should have the promise of adding more broadly to our understanding of effective teaching and learning practices. The IUSE: EDU program features two tracks: (1) Engaged Student Learning and (2) Institutional and Community Transformation.",
+      "fit": 100,
+      "matchedTerms": [
+        "open",
+        "learning",
+        "evidence",
+        "workforce",
+        "professional development",
+        "stem",
+        "higher education",
+        "undergraduate"
       ]
     },
     {
@@ -1611,6 +1589,34 @@
       ]
     },
     {
+      "id": "346203",
+      "number": "PD-23-221Y",
+      "title": "Growing Research Access for Nationally Transformative Economic Development",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2023-02-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506178",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "NSF GRANTED supports innovative models of research enterprise administrative development and workforce training infrastructure that promote sustainable research capacity and opportunities for economic impactin U.S. organizations. The research enterprise, broadly defined, includes research development and administration, research analytics, technology transfer and commercialization, corporate relations/public-private partnerships, research integrity, compliance and security, research policy, administration of student research training, and research leadership. Strengthening and transforming this administrative infrastructure is necessary to fully utilize the Nation's research talent and capabilities and empower America's organizations that engage in or support research and its outcomes, to participate in a globally competitive research enterprise. Program Description Maintaining U.S. global leadership demands a research enterprise that is competitive, effective, sustainable a nd contributes to the Nation's economic growth goals. A strong national research enterprise relies on more than funding for the research itself. It also requires robust administrative support-and-service infrastructure, which is often unseen, yet includes critical components to ensure a competitive research environment regardless of organization or location. Research enterprise infrastructure enables the development of proposals and management of awards and supports research translation through technology transfer and public-private partnerships. Research compliance enables the security and integrity of research approaches. Research analytics and communication, managing the training of the U.S. scientific workforce, and harnessing the creativity and drive of research leadership, and more, are also fundamental components of the infrastructure. The GRANTED initiative provides unique opportunities to realize a broad and collaborative vision for research enterprise infrastructure. Proposals in response to this GRANTED program description should engage the professional, administrative research support-and-service workforce in project leadership roles described within proposals.Proposed projects should look beyond individual and discipline-specific research needs and focus on activities that create organization-wide impact and potential for regional and national impact. Projects should propose scalable approaches and models to build and sustain research enterprise infrastructure.Competitive proposals will recognize structural and organizational challenges and include goals to implement interventions, solutions, and/or strategies that will mitigate the challenges. Proposals must be centered around one or more of the three main themes of GRANTED: Innovating and enhancing practices and processes within the research enterprise; Developing and strengthening human capital within the research enterprise; and Translating effective practices related to the research enterprise into a broad range of organizational contexts. The GRANTED program utilizes general proposal requirements, including eligibility, as outlined in the current NSF Proposal and Award Policies and Procedures Guide (PAPPG). Prospective PIs are strongly encouraged to contact GRANTED initiative personnel ( GRANTED@nsf.gov ) with inquiries prior to developing and submitting a proposal to this program description. The project budget and duration should be determined by the scope of the proposed activities and presented in accordance with the PAPPG.GRANTED is not intended to fund discipline-specific STEM research and training projects. Collectively, proposals funded through this Program Description will advance transformation of the national research enterprise, measured through 1) generating scalable models that improve research capacity and competitiveness, 2) creating collaborations, partnerships, and communities centered around strengthening the Nation's research enterprise, 3) increasing the range of project leadership, organizations, ideas, and approaches that NSF funds, especially related to developing areas aligned to agency priorities, and 4) strengthening engagement across the Nation's research enterprise.",
+      "fit": 98,
+      "matchedTerms": [
+        "infrastructure",
+        "outcomes",
+        "workforce",
+        "stem",
+        "transfer",
+        "science",
+        "technology"
+      ]
+    },
+    {
       "id": "watchlist-indiana-department-of-education-grants-5",
       "number": "",
       "title": "Formative (Interim) Assessment Grant",
@@ -2052,19 +2058,57 @@
     {
       "id": "watchlist-california-department-of-education-funding-4",
       "number": "",
-      "title": "Request for Applications",
+      "title": "ASES Universal Request for Applications 2026-27",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r12/caserves26-27.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r27/ases26univrfa.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
+      "description": "State funding. Matched source page for California Department of Education Funding. ASES Universal Request for Applications 2026-27",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-5",
+      "number": "",
+      "title": "2026-27 CSIS Grant Funding Results",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r5/csis26results.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. 2026-27 CSIS Grant Funding Results",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-6",
+      "number": "",
+      "title": "Res-24: Title III, Immigrant Students",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r14/imm24result.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. Res-24: Title III, Immigrant Students",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2350,25 +2394,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Nevada Department of Education Grants. Grants",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-nevada-department-of-education-grants-2",
-      "number": "",
-      "title": "7/1/2026 - Nevada Ready! Pre-K Common Application Launches July 1",
-      "source": "Nevada Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://doe.nv.gov/news-media/2026-press-releases/nevada-ready-pre-k-common-application-launches-july-1",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Nevada Department of Education Grants. 7/1/2026 - Nevada Ready! Pre-K Common Application Launches July 1",
       "fit": 52,
       "matchedTerms": []
     },
@@ -3312,6 +3337,44 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Texas Education Agency Grants. Disaster Relief and Federal Grant Funding",
+      "fit": 38,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-utah-state-board-of-education-funding-0",
+      "number": "",
+      "title": "Forms and Applications",
+      "source": "Utah State Board of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://schools.utah.gov/financialoperations/formsapplications.php",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Utah State Board of Education Funding. Forms and Applications",
+      "fit": 38,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-utah-state-board-of-education-funding-1",
+      "number": "",
+      "title": "Utah Grants",
+      "source": "Utah State Board of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://schools.utah.gov/financialoperations/utahgrants.php",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for Utah State Board of Education Funding. Utah Grants",
       "fit": 38,
       "matchedTerms": []
     },
