@@ -1,53 +1,8 @@
 {
-  "scannedAt": "2026-09-21T18:24:36.273Z",
+  "scannedAt": "2026-09-28T19:55:42.682Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "302270",
-      "number": "PD-18-1268",
-      "title": "Foundations",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-09-22",
-      "posted": "2018-03-29",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5548",
-      "awardCeiling": "",
-      "estimatedFunding": "2300000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The program in Foundations supports research in mathematical logic and the foundations of mathematics, including proof theory, recursion theory, model theory, set theory, and infinitary combinatorics. Conferences Principal Investigators should carefully read the program solicitation &quot;Conferences and Workshops in the Mathematical Sciences&quot; (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities. Conference and workshop proposals should be submitted eight months before the requested start date.",
-      "fit": 28,
-      "matchedTerms": [
-        "science",
-        "mathematics"
-      ]
-    },
-    {
-      "id": "302273",
-      "number": "PD-18-7970",
-      "title": "Combinatorics",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-09-22",
-      "posted": "2018-03-29",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503570",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Combinatorics program supports research on discrete structures and includes algebraic, enumerative, existential, extremal, geometric, and probabilistic combinatorics, including graph theory. Conferences Principal Investigators should carefully read the program solicitation &quot;Conferences and Workshops in the Mathematical Sciences&quot; (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities. Conference proposals must be submitted at least six months in advance of the conference, and in the same fiscal year (which begins October 1) if possible.",
-      "fit": 24,
-      "matchedTerms": [
-        "science"
-      ]
-    },
     {
       "id": "357554",
       "number": "25-515",
@@ -261,7 +216,7 @@
     {
       "id": "353936",
       "number": "24-569",
-      "title": "Mathematical Foundations of Artificial Intelligence",
+      "title": "Mathematical Foundations of Artificial Intelligence (MFAI)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2026-10-09",
@@ -389,7 +344,7 @@
     {
       "id": "348599",
       "number": "23-598",
-      "title": "Historically Black Colleges and Universities - Excellence in Research",
+      "title": "Historically Black Colleges and Universities - Excellence in Research (HBCU - EiR)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2026-10-20",
@@ -734,7 +689,7 @@
     {
       "id": "354269",
       "number": "24-573",
-      "title": "EPSCoR Research Infrastructure Improvement Program: Focused EPSCoR Collaborations Program (FEC)",
+      "title": "EPSCoR Research Infrastructure Improvement Program: Focused EPSCoR Collaborations (FEC)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2027-01-26",
@@ -1329,32 +1284,28 @@
       ]
     },
     {
-      "id": "356536",
-      "number": "PD-24-7789",
-      "title": "Geospace Cluster",
-      "source": "National Science Foundation",
+      "id": "347679",
+      "number": "23-580",
+      "title": "Infrastructure Capacity for Biological Research (Capacity)",
+      "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2024-09-26",
+      "deadline": "2076-09-22",
+      "posted": "2023-04-21",
       "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506312",
-      "awardCeiling": "",
-      "estimatedFunding": "",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23580",
+      "awardCeiling": "1200000",
+      "estimatedFunding": "18000000",
       "indirectRate": "",
       "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "The Geospace Cluster (GC) in the Division of Atmospheric and Geospace Sciences (AGS) supports fundamental and solutions-oriented research, technology development and education related to the Earth's near-space environment (including the mesosphere, thermosphere, ionosphere, exosphere, magnetosphere and radiation belts) and the inner heliosphere and solar atmosphere. The GC advances knowledge of the Sun--Earth system, including how various parts of the system are coupled through dynamical, electrodynamical and chemical processes. The GC supports research on the societal impacts of these processes including space weather and upper atmosphere climate change, with the aim of increasing resilience to such natural hazards. The GC supports research that uses ground-based or space-based observational facilities and instruments as well as data centers and a broad range of theoretical, modeling, observational, data analyses and laboratory activities. General research topics that are supported by the GC include, but are not limited to: Aeronomy, including studies of wave dynamics, ionization, recombination, chemical reaction, photo emission and transport of energy and momentum within and between the mesosphere, thermosphere and ionosphere of the Earth; how this global system is coupled to the stratosphere below and magnetosphere above; and the plasma physics of phenomena manifested in the coupled ionosphere-magnetosphere system. Magnetospheric physics, including studies of the magnetosphere, or the cavity carved out of the solar wind by the Earth's magnetic field, its energization by the solar wind and population by solar and ionospheric sources; waves and instabilities in such natural plasmas; the origin of planetary electric fields; the origin of geomagnetic storms and substorms; and the coupling among the radiation belts, magnetosphere, ionosphere and atmosphere. Solar-terrestrial physics, including how energy generation and eruptive processes occur in the solar atmosphere and how energy and momentum are transported within the Sun-Earth system; solar dynamo, solar activity cycle and magnetic flux emergence; eruptive activity including solar flares and coronal mass ejections; solar wind heating, solar energetic particles and interactions with cosmic rays; solar wind/magnetosphere boundary; and helioseismology. Space weather and space climate, including solar or terrestrial drivers of space weather; observations and modeling of the integrative geospace system that could lead to better predictive capabilities of the time-varying space environment; and characterization of space weather impacts on critical infrastructure and technological systems. Proposals to the GC are welcome at any time. However, the following solicitations in support of specific geospace science and community efforts have target dates or deadlines. They also may have PI and/or Institution restrictions. Please refer to the solicitation documents for further details: The Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR) targeted research program aims to understand the behavior of the Earth's atmospheric regions from the middle atmosphere upward through the thermosphere and ionosphere into the exosphere in terms of coupling, energetics, chemistry and dynamics on regional and global scales. The Geospace Environment Modeling (GEM) targeted research program supports investigations of the physics of the Earth's magnetosphere and the coupling of the magnetosphere to the atmosphere and solar wind, including for making accurate predictions of the geospace environment. The Solar, Heliospheric, and Interplanetary Environment (SHINE) targeted research program supports enhanced understanding of and predictive capabilities for the processes by which energy in the form of magnetic fields and particles are produced by the Sun and/or accelerated in interplanetary space and on the mechanisms by which these fields and particles are transported to the Earth through the inner heliosphere. The Faculty Development in geoSpace Science (FDSS) solicitation integrates topics in geospace science, including solar and space physics and space weather research, into natural sciences, engineering or related departments at U.S. institutions of higher education. The solicitation also stimulates the development of undergraduate or graduate programs or curricula to train the next generation of leaders in geospace science. The Geospace Cluster participates in other AGS, GEO and NSF programs and solicitations including but not limited to: Distributed Array of Small Instruments (DASI) ECosystem for Leading Innovation in Plasma Science and Engineering (ECLIPSE) AGS encourages and inspires scientific leaders by investing in the atmospheric and geospace sciences, enhancing educational opportunities and experiences and supporting faculty and researchers at all career stages. The Division expects that proposers will integrate education, outreach and dissemination activities into their research plans in compliance with NSF Broader Impacts Merit Review criteria. AGS invites proposals that include plans for workforce development, educational and outreach activities, open science initiatives and efforts to broaden participation and encourage diverse talent in the atmosphere and geospace sciences. Furthermore, AGS encourages proposals from all institutions, including Minority Serving Institutions, Emerging Research Institutions and institutions in EPSCoR jurisdictions. The Proposal & Award Policies & Procedures Guide (PAPPG) provides the instructions for submitting proposals to AGS. Additionally, Chapter II.F of the PAPPG defines \"Other Types of Proposals,\" including community-building proposals such as Conference, Travel or Planning Proposals and special categories of proposals, such as Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER). Proposals that are not compliant with the PAPPG will be returned without review. The following sections highlight specific NSF-, GEO-, or AGS-wide solicitations that may be relevant to the AGS Community. Please be aware that solicitations are frequently updated, so make sure that you are looking at the most recent version. Career Development AGS Postdoctoral Research Fellowship (AGS-PRF) : The AGS-PRF program supports researchers (also known as Fellows) for up to 24 months at the institution of their choice. The program is intended to recognize beginning investigators of significant potential and provide them with research experience that will broaden perspectives, facilitate interdisciplinary interactions, and establish them in leadership positions within the AGS community. Faculty Early Career Development Program (CAREER) : The CAREER program supports early career (assistant professor-level) faculty who have the potential to serve as academic role models in research and education and to lead advances for their department or organization. Awards are 5 years long and must integrate research and education. Mid-Career Advancement (MCA) : The MCA program provides opportunities for scientists and engineers at the associate professor rank (or equivalent) to substantively enhance and advance their research program through synergistic partnerships. Capacity Development EMpowering BRoader Academic Capacity and Education (EMBRACE) : The EMBRACE program supports research and educational efforts at \"non-R1\" institutions, including non-R1 minority serving institutions (MSIs), two-year colleges (2YCs), primarily undergraduate institutions (PUIs), and emerging research (ERIs) and master's level institutions. Historically Black Colleges and Universities Excellence in Research (HBCU - EiR) : The HBCU-EiR program supports research at public and private historically Black colleges and universities to strengthen research capacity and promote engagement with NSF. Facilitating Research at Primarily Undergraduate Institutions (RUI and ROA): RUI awards support PUI faculty in research that engages them in their professional field(s), build capacity for research at their home institution, and support the integration of research and undergraduate education. ROA awards similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators. Instrumentation and Facilities Major Research Instrumentation : The MRI program supports requests for up to $4 million from NSF for the development or acquisition of multi-user research instruments that are critical to the advancement of science and engineering. Mid-scale Research Infrastructure-1 : The MSRI-1 program supports the design and implementation of research infrastructure--including equipment, cyberinfrastructure, large-scale datasets and personnel--whose total project costs exceed the NSF Major Research Instrumentation program limit but are under $20 million. Mid-scale Research Infrastructure-2 : The MSRI-2 program supports the implementation of research infrastructure--including equipment, cyberinfrastructure, large-scale datasets and personnel--whose total project costs fall between $20 million and $100 million.",
-      "fit": 100,
+      "description": "The Infrastructure Capacity for Biological Research (Capacity) Program supports the implementation of, scaling of, or major improvements to research tools, products, and services that advance contemporary biology in any research area supported by the Directorate for Biological Sciences at NSF. The Capacity Program focuses on building capacity in research infrastructure that is broadly applicable to a wide range of researchers in three programmatic areas: Cyberinfrastructure, Biological Collections, and Biological Field Stations and Marine Laboratories. This program will also accept proposals for planning activities or workshops to facilitate coordination that may be necessary in building capacity in infrastructure that meets the needs of a research community. Areas not included in this program are instrumentation (PIs should submit to the MRI program) and, projects that develop infrastructure for a specific research project, laboratory, or institution (PIs should submitted to the relevant BIO programs that would normally support that research). Projects are expected to produce quality products, result in important science outcomes that will be achieved by the users of the resource, be openly accessible to a broad scientific and education community, and serve a community of researchers beyond a single research team.",
+      "fit": 74,
       "matchedTerms": [
-        "data",
         "infrastructure",
-        "open",
-        "workforce",
+        "outcomes",
         "implementation",
-        "higher education",
-        "undergraduate",
-        "career"
+        "science"
       ]
     },
     {
@@ -1442,35 +1393,6 @@
         "learning",
         "stem",
         "k-12"
-      ]
-    },
-    {
-      "id": "356538",
-      "number": "PD-24-7790",
-      "title": "Atmosphere Cluster",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2024-09-26",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506308",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Atmosphere Cluster (AC)in the Division of Atmospheric and Geospace Sciences (AGS)supportsfundamental studies of atmospheric processes from the Earth's surface to thestratosphere, and from timescales of nanoseconds to millennia.&#8239;Core areas of research include the chemical, physical, and dynamical processes in the atmosphere thatimpactclouds, weather, climate, air quality, and the water cycle.Research methods include modeling, collecting observations, conducting experiments in the laboratory and field, and advancing analytical measurement techniques. General research topics that are supported by the AC include, andare not limited to: Chemical processes and mechanisms that explain how atmospheric gases and aerosols form, react,transformand interact with the surrounding environment. Processesand dynamics that governclimateand hydroclimate,includingtheir mean state, variability, response to external forcingandtheir role inthe establishment ofaglobal energy and water balance; coupled atmosphere-ocean interactions, land-atmosphere interactions and interactionsamongclouds, atmosphericcirculationand climate. Observational and modeling studies of past climate and its drivers and studies that developand synthesizepaleoclimate proxies and records. Physics and dynamics of atmospheric motions on all scales,from the planetary to the microscale, including the general circulation of the troposphere and stratosphere, planetary waves, synoptic and mesoscale systems, convection, gravity waves,turbulenceand planetary boundary layer dynamics. Physical meteorology including aerosol, cloud, and precipitation physics and atmospheric electricity. Synoptic and mesoscale meteorology includingthe processes,predictabilityand future changes insevere and hazardous weather. Proposals to theACare welcome at any time. However, the following solicitation in support of specific atmospheric science and community efforts has a target date or deadline. Please refer tothe solicitation documents for further details: The Facility and Instrumentation Request Process (FIRP) solicitation describes therequirements for the submission of proposals that will make use of AGS-supported facilities and instrumentation managed by the Facilities for Atmospheric Reseach and Education (FARE) program. AGS encouragesand inspiresscientific leadersbyinvesting inthe atmospheric and geospace sciences, enhancing educational opportunities and experiencesand supporting faculty and researchersat all career stages.The Division expects that proposers will integrate education,outreachand dissemination activities into their research plans in compliance with NSF Broader ImpactsMerit Reviewcriteria.&#8239;&#8239; &#8239; AGS invites proposals that include plans for workforce development, educational and outreach activities, open science initiatives,and efforts to broaden participation and encourage diverse talent in the atmosphere andgeospacesciences. Furthermore, AGS encourages proposals from all institutions, including Minority Serving Institutions, Emerging ResearchInstitutionsand institutions inEstablished Programto Stimulate Competitive Research(EPSCoR)jurisdictions. The Proposal & Award Policies & Procedures Guide ( PAPPG )providesthe instructions forsubmittingproposals toAGS.Additionally, Chapter II.F of the PAPPG defines \"Other Types of Proposals,\" including community-building proposals such as Conference, Travel or Planning Proposals and special categories of proposals, such as Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research&#8239;(EAGER).Proposals that are not compliant with the&#8239;PAPPG will be returned without review. The following sections highlight specific NSF-, GEO-or AGS-wide solicitations that may be relevant to the AGS Community. Please be aware that solicitations arefrequentlyupdated, so make sure that you are looking at the most recent version. Career Development AGS Postdoctoral Research Fellowship (AGS-PRF) : The AGS-PRF program supports researchers (also known as Fellows) for up to 24 months at the institution of their choice. The program is intended to recognize beginning investigators of significant potential and provide them with research experience that will broaden perspectives,facilitateinterdisciplinaryinteractionsandestablishthem in leadership positions within theAGScommunity. Faculty Early Career Development&#8239;Program(CAREER) :The CAREER program supportsearly career (assistant professor-level) faculty who have the potential to serve as academic role models in research and education and to lead advances for their department or organization. Awards are 5 years long and must integrate research and education. Mid-Career Advancement (MCA) :The MCA program providesopportunities for scientists and engineers at the associate professor rank (or equivalent) to substantively enhance and advance their research program through synergistic partnerships. Capacity Development EMpowering BRoader Academic Capacity and Education (EMBRACE) :The EMBRACE program supportsresearch and educational efforts at \"non-R1\" institutions, including non-R1 minority serving institutions (MSIs), two-year colleges (2YCs), primarily undergraduate institutions (PUIs), and emerging research(ERIs)and master's level institutions. Historically Black Colleges and Universities - Excellence in Research (HBCU - EiR) :The HBCU-EiR- program supports research at public and private historically Black colleges and universities to strengthen researchcapacityand promote engagement with NSF. Facilitating Research at Primarily Undergraduate Institutions (RUI and ROA) : RUIawardssupport PUI faculty in research that engages them in their professional field(s), buildscapacityfor research at their home institution, and supportsthe integration of research and undergraduate education. ROAawards similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators. Instrumentation and Facilities Major Research Instrumentation :The MRI program supports requests for up to $4 million from NSF for the development or acquisition of multi-user research instruments that are critical to the advancement of science and engineering. Mid-scale Research Infrastructure-1 :The MSRI-1 program supports the design and implementation of research infrastructure - including equipment, cyberinfrastructure, large-scaledatasetsand personnel - whose total project costs exceed the NSF Major Research Instrumentation programlimitbut are under $20 million. Mid-scale Research Infrastructure-2 :The MSRI-2 program supports the implementation of research infrastructure - including equipment, cyberinfrastructure, large-scaledatasetsand personnel - whose total project costs fall between $20 million and $100 million. &#8239;&#8239;",
-      "fit": 100,
-      "matchedTerms": [
-        "infrastructure",
-        "open",
-        "workforce",
-        "implementation",
-        "undergraduate",
-        "career",
-        "workforce development",
-        "hbcu"
       ]
     },
     {
@@ -1614,6 +1536,87 @@
         "transfer",
         "science",
         "technology"
+      ]
+    },
+    {
+      "id": "361952",
+      "number": "PD-26-1341",
+      "title": "Professional Formation of Engineers",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2026-04-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506521",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Professional Formation of Engineers (PFE) initiative integrates engineering research and education to improve and expand the nation's engineering workforce. PFE is defined as the formal and informal processes and value systems by which people become engineers. The goal of PFE is to create an ethical engineering workforce with a global outlook and the ability to adapt to the rapidly evolving technical environment. This will help build a future engineering workforce with the skills to compete in the global marketplace, support emerging technologies, and grow U.S. industry. PFE supports projects in the ENGINEER program relating to future and current engineers' training and education in many contexts, including formal classrooms, informal maker spaces, clubs and co-curricular activities, and workplaces. Such training encompasses cooperative education and internships, community-based experiences, and research labs. It also involves many scales of analysis, from mentor/mentee relationships to large-scale online learning and professional development experiences. Engineers must develop and maintain these learning opportunities with clear pathways to and through the profession. Such pathways include formal and informal education, apprenticeships, credentialing, and licensure, and consider relationships with other professionals, technical workers, and community members. Finally, such opportunities include transitions across and within academia and industry. To understand and improve this system requires expertise in both engineering and the social sciences.",
+      "fit": 98,
+      "matchedTerms": [
+        "learning",
+        "workforce",
+        "professional development",
+        "skills",
+        "science",
+        "engineering",
+        "pathways"
+      ]
+    },
+    {
+      "id": "348164",
+      "number": "PD-23-1320",
+      "title": "Economics",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2023-05-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506204",
+      "awardCeiling": "",
+      "estimatedFunding": "220000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Economics program supports research designed to improve the understanding of the processes and institutions of the U.S. economy and of the world system of which it is a part. This program also strengthens both empirical and theoretical economic analysis as well as the methods for rigorous research on economic behavior. It supports research in almost every area of economics, including econometrics, economic history, environmental economics, finance, industrial organization, international economics, labor economics, macroeconomics, mathematical economics, and public finance. The Economics program welcomes proposals for individual or multi-investigator research projects, doctoral dissertation improvement awards, conferences, symposia, experimental research, data collection and dissemination, computer equipment and other instrumentation, and research experience for undergraduates. The program places a high priority on interdisciplinary research. Investigators are encouraged to submit proposals of joint interest to the Economics Program and other NSF programs and NSF initiative areas. The program places a high priority on broadening participation and encourages proposals from groups and regions that traditionally have not participated fully in science, mathematics, and engineering. The program also funds conferences and interdisciplinary research that strengthens links among economics and the other social and behavioral sciences as well as mathematics and statistics. The Doctoral Dissertation Research Improvement Grants (DDRIG) funding opportunity is designed to improve the quality of dissertation research.DDRIG proposals are submitted by a faculty member on behalf of the graduate student. DDRIG awards provide funds for items not normally available through the student's university such as enabling doctoral students to undertake significant data-gathering projects and to conduct field research in settings away from their campus. DDRIGs do not provide cost-of-living or other stipends or tuition.Outstanding DDRIG proposals specify how the knowledge to be created advances economics science. Proposals for Doctoral Dissertation Research Improvement Grants (DDRIGS) in Economics should follow the directions for submissions in the PAPPG . Please contact an Economics program officer if you plan to submit a DDRIG proposal. For additional funding opportunities, we invite you to also look at the SBE Office of Multidisciplinary Activities web site .",
+      "fit": 94,
+      "matchedTerms": [
+        "data",
+        "university",
+        "science",
+        "engineering",
+        "mathematics",
+        "broadening participation"
+      ]
+    },
+    {
+      "id": "352500",
+      "number": "24-547",
+      "title": "Plant Genome Research Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "",
+      "posted": "2024-02-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24547",
+      "awardCeiling": "",
+      "estimatedFunding": "30000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Plant Genome Research Program (PGRP) supports genome-scale research that addresses challenging questions of biological, societal and economic importance. PGRP encourages the development of innovative tools, technologies, and resources that empower a broad plant research community to answer scientific questions on a genome-wide scale. Emphasis is placed on the scale and depth of the question being addressed and the creativity of the approach. Data produced by plant genomics should be usable, accessible, integrated across scales, and of high impact across biology. Training, broadening participation, and career development are essential to scientific progress and should be integrated in all PGRP-funded projects. Two funding tracks are currently available: RESEARCH-PGR TRACK: Genome-scale plant research to address fundamental questions in biology, including processes of economic and/or societal importance. TRTech-PGR TRACK: Tools, resources, and technology breakthroughs that further enable functional plant genomics.",
+      "fit": 90,
+      "matchedTerms": [
+        "data",
+        "career",
+        "science",
+        "technology",
+        "broadening participation"
       ]
     },
     {
@@ -2058,57 +2061,76 @@
     {
       "id": "watchlist-california-department-of-education-funding-4",
       "number": "",
-      "title": "ASES Universal Request for Applications 2026-27",
+      "title": "CCAP Grant 26-27 RFA",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r27/ases26univrfa.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r17/ccap26rfa.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. ASES Universal Request for Applications 2026-27",
+      "description": "State funding. Matched source page for California Department of Education Funding. CCAP Grant 26-27 RFA",
       "fit": 52,
       "matchedTerms": []
     },
     {
       "id": "watchlist-california-department-of-education-funding-5",
       "number": "",
-      "title": "2026-27 CSIS Grant Funding Results",
+      "title": "MCEC Grant 26-27 RFA",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r5/csis26results.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r17/mcec26rfa.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. 2026-27 CSIS Grant Funding Results",
+      "description": "State funding. Matched source page for California Department of Education Funding. MCEC Grant 26-27 RFA",
       "fit": 52,
       "matchedTerms": []
     },
     {
       "id": "watchlist-california-department-of-education-funding-6",
       "number": "",
-      "title": "Res-24: Title III, Immigrant Students",
+      "title": "2025 SEPRC Grant Funding results",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r14/imm24result.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r18/seprc25result.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Res-24: Title III, Immigrant Students",
+      "description": "State funding. Matched source page for California Department of Education Funding. 2025 SEPRC Grant Funding results",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-7",
+      "number": "",
+      "title": "Holocaust and Genocide Education Grant",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r4/holocaustgenosb472.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. Holocaust and Genocide Education Grant",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2873,29 +2895,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-arnold-ventures-5",
-      "number": "",
-      "title": "Evidence & Evaluation Impacts of Cell Phone Policies in K‑ 12 Schools RFP RFP Closed",
-      "source": "Arnold Ventures",
-      "sourceType": "Private foundation",
-      "agencyCode": "Private foundation",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://assets.arnoldventures.org/uploads/PDFs/AV_RFP_Cell-Phones-in-Schools.pdf",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "Private foundation. Matched source page for Arnold Ventures. Evidence & Evaluation Impacts of Cell Phone Policies in K‑ 12 Schools RFP RFP Closed",
-      "fit": 48,
-      "matchedTerms": [
-        "evaluation",
-        "evidence"
-      ]
-    },
-    {
-      "id": "watchlist-arnold-ventures-4",
+      "id": "watchlist-arnold-ventures-7",
       "number": "",
       "title": "Education Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
       "source": "Arnold Ventures",
@@ -2913,6 +2913,27 @@
       "fit": 46,
       "matchedTerms": [
         "outcomes",
+        "causal"
+      ]
+    },
+    {
+      "id": "watchlist-arnold-ventures-3",
+      "number": "",
+      "title": "Education Causal Research on the Impacts of K‑ 12 School Policies RFP RFP Due: 11.13.2026",
+      "source": "Arnold Ventures",
+      "sourceType": "Private foundation",
+      "agencyCode": "Private foundation",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://assets.arnoldventures.org/uploads/PDFs/202609-AV_RFP_K-12.pdf",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "Private foundation. Matched source page for Arnold Ventures. Education Causal Research on the Impacts of K‑ 12 School Policies RFP RFP Due: 11.13.2026",
+      "fit": 42,
+      "matchedTerms": [
         "causal"
       ]
     },
