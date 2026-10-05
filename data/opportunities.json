@@ -1,218 +1,8 @@
 {
-  "scannedAt": "2026-09-28T19:55:42.682Z",
+  "scannedAt": "2026-10-05T20:54:27.264Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "357554",
-      "number": "25-515",
-      "title": "Security, Privacy, and Trust in Cyberspace",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-09-28",
-      "posted": "2024-12-06",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25515",
-      "awardCeiling": "1200000",
-      "estimatedFunding": "60000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Our world is at a pivotal moment where the boundaries dividing the physical and social worlds from the cyber world have become blurred. Cyberspace has evolved from an interconnected digital environment into a complex and interdependent cyber ecosystem that involves hardware, software, networks, data, people, organizations, countries, and the physical world. Critical functions of everyday life are deeply intertwined with computing, including health, government, commerce, the public sphere, education, critical infrastructure, interpersonal communication, and transportation. The complexity and inter-dependencies in cyberspace can be misused and exploited by malicious actors. These in turn can trigger adverse outcomes such as disruption of critical infrastructure and systems; theft of intellectual property and sensitive data; amplification of inequalities; disclosure of private information of individuals, organizations, and governments; and threats to lives, livelihoods, and reputations. Furthermore, constant attacks on the data and assets of corporations, governments, and individuals undermine people's trust in decision-making and processes that depend critically on these cyber systems. The Security, Privacy, and Trust in Cyberspace (SaTC 2.0) program aims to build trust in global cyber ecosystems. Trust is the core tenet of this program and, for the purposes of this solicitation, is broadly defined to include our confidence in the security, privacy, and resilience of cyberspace, particularly in the face of malicious intent. Achieving this level of confidence in cyberspace requires not only understanding the vulnerabilities in a system that could be exploited and how they can be addressed, but also understanding the social and technical dimensions of trust in cyber systems, along with the educational efforts needed to increase public awareness of risks in cyberspace, and building a well-trained corps of privacy and security professionals. SaTC 2.0 spans the interests of NSF's Directorates for Computer and Information Science and Engineering (CISE), Mathematical and Physical Sciences (MPS), Social, Behavioral and Economic Sciences (SBE), and STEM Education (EDU). Proposals must be submitted pursuant to one of the following designations, each of which may have additional requirements: RES: The Research (RES) designation is the focus of the multidisciplinary SaTC 2.0 research program. RES projects are limited to $1,200,000 in total budget, with durations of up to four years. Proposals with a total budget of more than $600,000 have additional requirements including Broadening Participation in Computing and collaboration plans. RES proposals may include an optional Transition to Education (TTE) plan with a budget up to $50,000 (within the RES total budget request) to co-evolve novel educational initiatives in the context of the proposed research. EDU: The Education (EDU) designation is used to identify proposals focusing on education and workforce training in building trust in security, privacy, and resilience of cyberspace. EDU proposals are limited to $500,000 in total budget, with durations of up to three years. EDU proposals that primarily focus on education research with demonstrated collaboration, as reflected in the PI team between cybersecurity subject matter experts and education researcher(s), may request an additional $100,000 beyond the $500,000 limit. SEED: The Seedling (SEED) category is intended for special topics defined by accompanying Dear Colleague Letters. SEED projects are limited to $300,000 in total budget, with durations of up to two years.",
-      "fit": 100,
-      "matchedTerms": [
-        "data",
-        "infrastructure",
-        "privacy",
-        "outcomes",
-        "workforce",
-        "stem",
-        "science",
-        "engineering"
-      ]
-    },
-    {
-      "id": "355100",
-      "number": "24-584",
-      "title": "Advanced Technological Education",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-10-01",
-      "posted": "2024-06-25",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24584",
-      "awardCeiling": "7500000",
-      "estimatedFunding": "74000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "With a focus on two-year Institutions of Higher Education (IHEs), the Advanced Technological Education (ATE) program supports the education of technicians for the high-technology fields that drive our nation's economy. The program involves partnerships between academic institutions (grades 7-12, IHEs), industry, and economic development agencies to promote improvement in the education of science and engineering technicians. It is strongly recommended that projects be faculty-led and required that courses and programs are credit-bearing, although materials developed may also be used for incumbent worker education. Materials may also be adapted and implemented as credit-bearing courses. The ATE program supports curriculum development; professional development of college faculty and secondary school teachers; career pathway development for both students and incumbent workers; and other activities including applied research projects that advance the knowledge base related to technician education. The ATE program encourages partnerships with other entities that may impact technician education. For example, with the National Institute of Standards and Technology (NIST) Manufacturing Extension Partnerships (MEPs) ( http://www.nist.gov/mep/index.cfm ) as applicable to support technician education programs and the industries they serve; and Manufacturing USA Institutes( https://manufacturing.gov/ ) addressing workforce development issues. The ATE program encourages proposals from Minority Serving Institutions as well as other institutions that support the recruitment, retention, and completion (certificate, degree, program)of the full spectrum of diverse talent that society has to offer, which includes underrepresented and underserved communities, in STEM technician education programs that award associate degrees.",
-      "fit": 100,
-      "matchedTerms": [
-        "workforce",
-        "professional development",
-        "stem",
-        "higher education",
-        "college",
-        "career",
-        "workforce development",
-        "retention"
-      ]
-    },
-    {
-      "id": "362422",
-      "number": "21-588",
-      "title": "EDU Core Research",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-10-01",
-      "posted": "2026-05-15",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21588",
-      "awardCeiling": "2500000",
-      "estimatedFunding": "35000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The EDU Core Research (ECR) program offers this ECR:Core solicitation and invites proposals for fundamental research (curiosity-driven basic research and use-inspired basic research) that contributes to the general, explanatory knowledge that underlies STEM education in one or more of the three broadly conceived Research Areas: Research onSTEM Learning and Learning Environments, Research on Broadening Participation in STEM fields, andResearch on STEM Workforce Development. Within this framework, the ECR program supports a wide range of fundamental STEM education research activities, aimed at learners of all groups and ages in formal and informal settings. Fundamental researchgenerates knowledge and understanding with the potential for broad relevance. The potential implications of ECR fundamental research for improving STEM education practice may be indirect and long-term rather than direct and immediate. Moreover, whether they include basic or use-inspired basic research, all successful ECR:Core proposals focus on the advancement or refinement of foundational knowledge for STEM education. The amount of funding and duration requested in proposals submitted to the ECR:Core solicitation should align with the maturity of the proposed work and the size and scope of the empirical effort. The solicitation has three levels of funding with a range of budget sizes, and proposals may request a duration of 3 to 5 years for any level: (1)Level I proposals may request up to $500,000; (2)Level II proposals may request up to $1,500,000; (3)Level III proposalsmay request up to $2,500,000. All proposals should justify the level of funding and duration in the project description.",
-      "fit": 84,
-      "matchedTerms": [
-        "learning",
-        "workforce",
-        "stem",
-        "workforce development",
-        "science",
-        "broadening participation"
-      ]
-    },
-    {
-      "id": "363467",
-      "number": "ED-GRANTS-080626-002",
-      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-10-01",
-      "posted": "2026-08-06",
-      "status": "posted",
-      "url": "https://ies.ed.gov/funding/grants/2027/research-training-programs-special-education-84-324b",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "NCSER training programs prepare individuals to conduct special education and early intervention research that advances knowledge within the field and addresses issues important to education policymakers and practitioners. Under this competition, NCSER will consider only applications that address one of the following topics: (1) Early Career Development and Mentoring or (2) Methods Training for Special Education Research. The Early Career program provides support for an integrated research and career development plan for early career investigators at institutions of higher education or non-academic research organizations who have established an interest in special education research and are developing research careers focused on learners with or at risk for disabilities. The Methods Training program funds training to help current education researchers, including state and local education agency research staff, maintain and enhance their research and analysis skills in order to conduct rigorous and relevant research focused on learners with or at risk for disabilities. For FY 2027, NCSER is only accepting applications for Methods Training focused on analyzing large administrative datasets to address research questions related to learners with or at risk for disabilities. Assistance Listing Number (ALN) 84.324B.",
-      "fit": 80,
-      "matchedTerms": [
-        "intervention",
-        "higher education",
-        "career",
-        "skills",
-        "ies"
-      ]
-    },
-    {
-      "id": "363471",
-      "number": "ED-GRANTS-080626-005",
-      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Using Longitudinal Data to Support State Education Policymaking in Special Education, Assistance Listing Number (ALN) 84.324S",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-10-01",
-      "posted": "2026-08-06",
-      "status": "posted",
-      "url": "https://ies.ed.gov/funding/grants/2027/using-longitudinal-data-support-state-education-policymaking-special-education-84-324s",
-      "awardCeiling": "1200000",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Through this grant program, NCSER supports state agencies’ use of their statewide longitudinal data systems (SLDSs) to provide evidence for their own program and policy decisions, and those of their local education agencies pertaining to learners with or at risk for disabilities Assistance Listing Number: 84.324S.",
-      "fit": 76,
-      "matchedTerms": [
-        "data",
-        "evidence",
-        "longitudinal",
-        "ies"
-      ]
-    },
-    {
-      "id": "363469",
-      "number": "ED-GRANTS-080626-004",
-      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Using Longitudinal Data to Support State Education Policymaking, Assistance Listing Number (ALN) 84.305S",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-10-01",
-      "posted": "2026-08-06",
-      "status": "posted",
-      "url": "https://ies.ed.gov/funding/grants/2027/using-longitudinal-data-support-state-education-policymaking-84-305s",
-      "awardCeiling": "1200000",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Through this grant program, IES supports state agencies’ use of their statewide longitudinal data systems (SLDSs) to provide evidence for their own program and policy decisions, and those of their local education agencies regarding increasing learners’ access to high-quality education and increased academic achievement. Assistance Listing Number (ALN) 84.305S.",
-      "fit": 76,
-      "matchedTerms": [
-        "data",
-        "evidence",
-        "longitudinal",
-        "ies"
-      ]
-    },
-    {
-      "id": "363468",
-      "number": "ED-GRANTS-080626-003",
-      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-10-01",
-      "posted": "2026-08-06",
-      "status": "posted",
-      "url": "https://ies.ed.gov/funding/grants/2027/statistical-and-research-methodology-education-84-305d",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The goal of the Statistical and Research Methodology in Education (Stats/Methods) grant program (84.305D) is to provide a wide range of methodological and statistical tools that will better enable applied education scientists to conduct rigorous education research. Under this program, NCER will consider only applications that address one of the following topics: (1) Core Grants or (2) Toolkits, Guidelines, Compendia, Review Papers, and Curated Data Resources (Toolkits). The Core Grants topic supports the development of new and improved statistical and research methods for use by education researchers. These methods are to be user tested by education researchers to ensure their usability, revised as needed, then broadly disseminated through different types of products such as articles in applied education journals, detailed working papers and monographs, workshops, software, and curated data resources. The Toolkits Grants topic supports compiling existing research and information for a given method into products, such as toolkits, guidelines, compendia, review papers, curated data resources, workshops that help education researchers understand and apply the method. These products are to be user tested by education researchers to ensure their usability, revised as needed, and then broadly disseminated. Assistance Listing Number (ALN) 84.305D.",
-      "fit": 72,
-      "matchedTerms": [
-        "data",
-        "ies",
-        "statistical"
-      ]
-    },
-    {
-      "id": "363466",
-      "number": "ED-GRANTS-080626-001",
-      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Research Training Programs in The Education Sciences, Assistance Listing Number (ALN) 84.305B",
-      "source": "Holly Clark Management and Program Analyst",
-      "agencyCode": "ED",
-      "deadline": "2026-10-01",
-      "posted": "2026-08-06",
-      "status": "posted",
-      "url": "https://ies.ed.gov/funding/grants/2027/research-training-programs-education-sciences-84-305b",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "NCER training programs prepare individuals to conduct education research that advances knowledge within the field and addresses issues important to education policymakers and practitioners. Under this competition, NCER will consider only applications that address one of the following programs: (1) Early Career Development and Mentoring Program for Education Research (Early Career) or (2) Methods Training for Education Research (Methods Training). The Early Career program provides support for an integrated research and career development plan for early career investigators at institutions of higher education or non-academic research organizations who are developing education research careers. The Methods Training program funds training to help current education researchers, including state and local education agency research staff, maintain and enhance their research and analysis skills in order to conduct rigorous and relevant education research. Assistance Listing Number (ALN) 84.305B.",
-      "fit": 62,
-      "matchedTerms": [
-        "higher education",
-        "career",
-        "skills",
-        "ies"
-      ]
-    },
     {
       "id": "353936",
       "number": "24-569",
@@ -517,7 +307,7 @@
     {
       "id": "361604",
       "number": "26-507",
-      "title": "National Science Foundation Fostering Interdisciplinary Networks to Develop Emergent and Responsive Solutions Foundry",
+      "title": "National Science Foundation Fostering Interdisciplinary Networks to Develop Emergent and Responsive Solutions Foundry (NSF FINDERS FOUNDRY)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2026-11-18",
@@ -602,6 +392,31 @@
       ]
     },
     {
+      "id": "45812",
+      "number": "PD-98-1311",
+      "title": "Linguistics",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-01-15",
+      "posted": "2009-03-06",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=981311",
+      "awardCeiling": "",
+      "estimatedFunding": "6000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Linguistics Program supports basic science in the domain of human language, encompassing investigations of the grammatical properties of individual human languages, and of natural language in general. Research areas include syntax, semantics, morphology, phonetics and phonology. The program encourages projects that are interdisciplinary in methodological or theoretical perspective, and that address questions that cross disciplinary boundaries, such as (but not limited to): What are the psychological processes involved in the production, perception, and comprehension of language? What are the computational properties of language and/or the language processor that make fluent production, incremental comprehension or rapid learning possible? How do the acoustic and physiological properties of speech inform our theories of natural language and/or language processing? What role does human neurobiology play in shaping the various grammatical properties of language? How does language develop in natural learning contexts across the life-span? What social and cultural factors underlie language variation and change? Because NSF's mandate is to support basic research, the Linguistics Program does not fund research that takes as its primary goal improved clinical practice or applied policy, nor does it support work to develop or assess pedagogical methods or tools for language instruction. The Linguistics Program accepts proposals for a variety of project types: research proposals from scholars with PhDs or equivalent degrees, proposals for Doctoral Dissertation Research Improvement (LING-DDRI) awards, and CAREER proposals. We will also consider proposals for conferences. Funding requests for conference support should be submitted in accordance with the Conference Proposals section of Chapter II of NSF's Proposal & Award Policies & Procedures Guide (PAPPG) . NSF's Division of Behavioral and Cognitive Sciences (BCS), in partnership with the National Endowment for the Humanities and in collaboration with programs in other NSF Directorates, supports efforts to develop and advance knowledge and infrastructure that will enable the analysis of languages that are both understudied and at risk of falling out of use. In recognition of the critical relevance of these languages to understanding the range and limits of human linguistic and cultural variation, BCS accepts research and dissertation proposals in response to solicitations NSF Dynamic Language Infrastructure - NEH Documenting Endangered Languages (DLI-DEL) and Dynamic Language Infrastructure - Doctoral Dissertation Research Improvement Grants (DLI-DDRI) . For more information about Multidisciplinary Research and Training Opportunities, please visit the SBE Office of Multidisciplinary Activities web site.",
+      "fit": 86,
+      "matchedTerms": [
+        "infrastructure",
+        "learning",
+        "career",
+        "science"
+      ]
+    },
+    {
       "id": "355219",
       "number": "24-587",
       "title": "Research on the Science and Technology Enterprise: Indicators, Statistics, and Methods (NCSES S&T)",
@@ -660,7 +475,7 @@
     {
       "id": "344608",
       "number": "23-520",
-      "title": "Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining)",
+      "title": "Training-based Workforce Development for Advanced Cyberinfrastructure",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2027-01-21",
@@ -673,7 +488,7 @@
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "This program seeks to prepare, nurture, and grow the national scientific research workforce for creating, utilizing, and supporting advanced cyberinfrastructure (CI) to enable and potentially transform fundamental science and engineering (S&E) research and education and contribute to the Nation's overall economic competitiveness and security. The goals of this solicitation are to (i) ensure broad adoption of CI tools, methods, and resources by the research community in order to catalyze major research advances and to enhance researchers' abilities to lead the development of new CI, and (ii) integrate core literacy and discipline-appropriate advanced skills in advanced CI as well as computational and data-driven methods for advancing fundamental research, into the Nation's undergraduate and graduate educational curriculum/instructional materials. Proposals responding to this solicitation may target one or both solicitation goals. For the purpose of this solicitation, advanced CI is broadly defined as the set of resources, tools, methods, and services for advanced computation, large-scale data handling and analytics, and networking and security for large-scale systems that collectively enable potentially transformative fundamental S&E research and education. This solicitation calls for innovative, scalable training, education, and curriculum/instructional materials-targeting one or more of the solicitation goals-to address emerging needs and unresolved bottlenecks in the S&E research workforce development, from the postsecondary level to active researchers to CI professionals. The funded activities, spanning targeted, multidisciplinary communities, should lead to transformative changes in the state of research workforce preparedness for advanced CI-enabled research in the short- and long-term. This solicitation also seeks to broaden CI access and adoption by (i) increasing the adoption of advanced CI and computational and data-driven methods to a broader range of S&E disciplines and institutions and (ii) effectively utilizing individual capabilities. Proposals from, and in partnership with, the aforementioned communities are especially encouraged. There are two project classes as defined below: Pilot Projects: up to $300,000 total budget with durations up to two years; and Implementation Projects: Small (with total budgets of up to $500,000) or Medium (with total budgets of up to $1,000,000) for durations of up to four years. Section II. Program Description provides a more complete description of the project classes. Section V.A. Proposal Preparation Instructions describes the proposal elements required for the various project classes in order to address the suitable set of solicitation-specific review criteria. The CyberTraining program is led by the Office of Advanced Cyberinfrastructure (OAC) in the Directorate for Computer and Information Science and Engineering (CISE) and has participation from other NSF directorates/divisions, as described in Section II. Program Description, Programmatic Areas of Interest. Not all directorates/divisions are participating at the same level, and some have specific research and education priorities. The appropriate contact for the CyberTraining program in any directorate/division is the Cognizant Program Officer (PO) for the respective directorate/division/office/program listed below. All projects are expected to clearly articulate how they will address important community needs and provide resources that will be widely available to and usable by the research community.Prospective principal investigators (PIs) are strongly encouraged to contact the Cognizant Program Officers in CISE/OAC and in the participating directorate/division relevant to the proposal to ascertain whether the focus and budget of their proposed activities are appropriate for this solicitation. Such consultations should be completed at least one month in advance of the submission deadline. PIs should include the names of the Cognizant Program Officers consulted in a Single Copy Document as described in Section V.A. Proposal Preparation Instructions. The intent of the CyberTraining program is to encourage collaboration between CI and S&E domain disciplines. (For this purpose, units of CISE other than OAC are considered domain disciplines.) To ensure relevance to community needs and to facilitate adoption, those proposals of interest to one or more domain divisions must include at least one PI/co-PI with expertise relevant to the targeted research discipline. All proposals shall include at least one PI/co-PI with expertise relevant to OAC. Prospective PIs contemplating submissions that primarily target communities relevant to directorates/divisions that are not participating in this solicitation are directed to instead explore the education and workforce development programs of the respective directorates/divisions.",
+      "description": "This program seeks to prepare, nurture, and grow the national scientific research workforce for creating, utilizing, and supporting advanced cyberinfrastructure (CI) to enable and potentially transform fundamental science and engineering (S&E) research and education and contribute to the Nation's overall economic competitiveness and security. The goals of this solicitation are to (i) ensure broad adoption of CI tools, methods, and resources by the research community in order to catalyze major research advances and to enhance researchers' abilities to lead the development of new CI, and (ii) integrate core literacy and discipline-appropriate advanced skills in advanced CI as well as computational and data-driven methods for advancing fundamental research, into the Nation's undergraduate and graduate educational curriculum/instructional materials . Proposals responding to this solicitation may target one or both solicitation goals. For the purpose of this solicitation, advanced CI is broadly defined as the set of resources, tools, methods, and services for advanced computation, large-scale data handling and analytics, and networking and security for large-scale systems that collectively enable potentially transformative fundamental S&E research and education. This solicitation calls for innovative, scalable training, education, and curriculum/instructional materials-targeting one or more of the solicitation goals-to address emerging needs and unresolved bottlenecks in the S&E research workforce development, from the postsecondary level to active researchers to CI professionals. The funded activities, spanning targeted, multidisciplinary communities, should lead to transformative changes in the state of research workforce preparedness for advanced CI-enabled research in the short- and long-term. This solicitation also seeks to broaden CI access and adoption by (i) increasing the adoption of advanced CI and computational and data-driven methods to a broader range of S&E disciplines and institutions and (ii) effectively utilizing individual capabilities. Proposals from, and in partnership with, the aforementioned communities are especially encouraged. There are two project classes as defined below: Pilot Projects: up to $300,000 total budget with durations up to two years; and Implementation Projects: Small (with total budgets of up to $500,000) or Medium (with total budgets of up to $1,000,000) for durations of up to four years. Section II. Program Description provides a more complete description of the project classes. Section V.A. Proposal Preparation Instructions describes the proposal elements required for the various project classes in order to address the suitable set of solicitation-specific review criteria. The CyberTraining program is led by the Office of Advanced Cyberinfrastructure (OAC) in the Directorate for Computer and Information Science and Engineering (CISE) and has participation from other NSF directorates/divisions, as described in Section II. Program Description, Programmatic Areas of Interest. Not all directorates/divisions are participating at the same level, and some have specific research and education priorities. The appropriate contact for the CyberTraining program in any directorate/division is the Cognizant Program Officer (PO) for the respective directorate/division/office/program listed below. All projects are expected to clearly articulate how they will address important community needs and provide resources that will be widely available to and usable by the research community. Prospective principal investigators (PIs) are strongly encouraged to contact the Cognizant Program Officers in CISE/OAC and in the participating directorate/division relevant to the proposal to ascertain whether the focus and budget of their proposed activities are appropriate for this solicitation. Such consultations should be completed at least one month in advance of the submission deadline. PIs should include the names of the Cognizant Program Officers consulted in a Single Copy Document as described in Section V.A. Proposal Preparation Instructions. The intent of the CyberTraining program is to encourage collaboration between CI and S&E domain disciplines. (For this purpose, units of CISE other than OAC are considered domain disciplines.) To ensure relevance to community needs and to facilitate adoption, those proposals of interest to one or more domain divisions must include at least one PI/co-PI with expertise relevant to the targeted research discipline. All proposals shall include at least one PI/co-PI with expertise relevant to OAC. Prospective PIs contemplating submissions that primarily target communities relevant to directorates/divisions that are not participating in this solicitation are directed to instead explore the education and workforce development programs of the respective directorates/divisions.",
       "fit": 100,
       "matchedTerms": [
         "data",
@@ -684,6 +499,35 @@
         "undergraduate",
         "workforce development",
         "skills"
+      ]
+    },
+    {
+      "id": "357554",
+      "number": "25-515",
+      "title": "Security, Privacy, and Trust in Cyberspace (NSF SaTC)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-01-25",
+      "posted": "2024-12-06",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25515",
+      "awardCeiling": "1200000",
+      "estimatedFunding": "60000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Our world is at a pivotal moment where the boundaries dividing the physical and social worlds from the cyber world have become blurred. Cyberspace has evolved from an interconnected digital environment into a complex and interdependent cyber ecosystem that involves hardware, software, networks, data, people, organizations, countries, and the physical world. Critical functions of everyday life are deeply intertwined with computing, including health, government, commerce, the public sphere, education, critical infrastructure, interpersonal communication, and transportation. The complexity and inter-dependencies in cyberspace can be misused and exploited by malicious actors. These in turn can trigger adverse outcomes such as disruption of critical infrastructure and systems; theft of intellectual property and sensitive data; amplification of inequalities; disclosure of private information of individuals, organizations, and governments; and threats to lives, livelihoods, and reputations. Furthermore, constant attacks on the data and assets of corporations, governments, and individuals undermine people's trust in decision-making and processes that depend critically on these cyber systems. The Security, Privacy, and Trust in Cyberspace (SaTC 2.0) program aims to build trust in global cyber ecosystems. Trust is the core tenet of this program and, for the purposes of this solicitation, is broadly defined to include our confidence in the security, privacy, and resilience of cyberspace, particularly in the face of malicious intent. Achieving this level of confidence in cyberspace requires not only understanding the vulnerabilities in a system that could be exploited and how they can be addressed, but also understanding the social and technical dimensions of trust in cyber systems, along with the educational efforts needed to increase public awareness of risks in cyberspace, and building a well-trained corps of privacy and security professionals. SaTC 2.0 spans the interests of NSF's Directorates for Computer and Information Science and Engineering (CISE), Mathematical and Physical Sciences (MPS), Social, Behavioral and Economic Sciences (SBE), and STEM Education (EDU). Proposals must be submitted pursuant to one of the following designations, each of which may have additional requirements: RES: The Research (RES) designation is the focus of the multidisciplinary SaTC 2.0 research program. RES projects are limited to $1,200,000 in total budget, with durations of up to four years. Proposals with a total budget of more than $600,000 have additional requirements including Broadening Participation in Computing and collaboration plans. RES proposals may include an optional Transition to Education (TTE) plan with a budget up to $50,000 (within the RES total budget request) to co-evolve novel educational initiatives in the context of the proposed research. EDU: The Education (EDU) designation is used to identify proposals focusing on education and workforce training in building trust in security, privacy, and resilience of cyberspace. EDU proposals are limited to $500,000 in total budget, with durations of up to three years. EDU proposals that primarily focus on education research with demonstrated collaboration, as reflected in the PI team between cybersecurity subject matter experts and education researcher(s), may request an additional $100,000 beyond the $500,000 limit. SEED: The Seedling (SEED) category is intended for special topics defined by accompanying Dear Colleague Letters. SEED projects are limited to $300,000 in total budget, with durations of up to two years.",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
+        "infrastructure",
+        "privacy",
+        "outcomes",
+        "workforce",
+        "stem",
+        "science",
+        "engineering"
       ]
     },
     {
@@ -713,6 +557,56 @@
         "technology",
         "engineering",
         "mathematics"
+      ]
+    },
+    {
+      "id": "314743",
+      "number": "19-575",
+      "title": "Methodology, Measurement, and Statistics (MMS)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-01-28",
+      "posted": "2019-04-10",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19575",
+      "awardCeiling": "",
+      "estimatedFunding": "3760000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Methodology, Measurement, and Statistics (MMS) Program is an interdisciplinary program in the Directorate for Social, Behavioral, and Economic Sciences that supports the development of innovative analytical and statistical methods and models for those sciences. MMS seeks proposals that are methodologically innovative, grounded in theory, and have potential utility for multiple fields within the social, behavioral, and economic sciences. As part of its larger portfolio, the MMS Program partners with a consortium of federal statistical agencies to support research proposals that further the production and use of official statistics. The MMS Program provides support through a number of different funding mechanisms. The following mechanisms are addressed in this solicitation: Regular Research Awards Awards for conferences and community-development activities Doctoral Dissertation Research Improvement (DDRI) Grants Research Experience for Undergraduates (REU) Supplements MMS also supports Faculty Early Career Development (CAREER) awards. Please see the CAREER Program Web Site for more information about this activity.",
+      "fit": 82,
+      "matchedTerms": [
+        "career",
+        "science",
+        "statistical"
+      ]
+    },
+    {
+      "id": "350561",
+      "number": "PD-24-1699",
+      "title": "Cognitive Neuroscience (CogNeuro)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-02-01",
+      "posted": "2023-10-12",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=241699",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Cognitive Neuroscience (CogNeuro) program seeks to fund proposals that can advance our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically relate precise and rich quantifications of physiological responses and behavior in ways that advance theory (Intellectual Merit). Funded proposal also typically strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists, and/or increasing awareness and utilization of the research the field produces (Broader Impacts). Intellectual Merit In general, successful proposals provide a theoretical motivation and consist of a series of experiments/analyses that test the differential predictions of that theory; they go beyond quantifying physiology during certain tasks and behaviors. Research topics considered for funding include but are not limited to: perception, recognition, categorization, implicit and explicit memory, working memory, attention, language, decision-making, and social reasoning. Commensurate with the inherently multidisciplinary nature of the field and the limitations of any single technique, a wide variety of physiological methods are considered, including but not limited to: neuroimaging (e.g., fMRI, EEG, MEG), non-invasive stimulation (e.g. TMS, tDCS), lesion analysis, intracranial recording, optogenetics, genetics, optical imaging, computational modeling, and pharmacological interventions in both human and non-human primates and other animal models. The program is particularly interested in proposals that achieve or enable convergence across multiple techniques. Critically, proposals will be returned without review if they are focused on: 1) either behavior or physiology and lack a specific link between them, 2) understanding clinical populations, 3) non-human animals without a clear benefit to our understanding of humans. Broader Impacts In general, successful proposals make impacts beyond traditional academic routes, such as publishing research or teaching undergraduate courses. Strong broader impacts can be quite varied but will typically involve specific efforts strengthening the field and/or increasing its visibility that leverage the characteristics of the institution, department, and/or researcher. Consider the following non-exhaustive examples: 1) STEM education and outreach, particularly in underserved communities, 2) directly involving undergraduates and high-school students in research, 3) making tools and applications for the general public, 4) science journalism or advocacy. These efforts can, but need not, directly relate to the proposed research. It is also encouraged to include budget for these efforts if warranted. Mentoring Plans Strong mentoring plans generally go beyond inclusion in standard lab activities and incorporate specific ideas for forwarding the careers of young scientists and trainees that leverage the setting and content of the proposed research. General Directions Prior to the development of a full proposal, investigators are strongly encouraged to submit a one-page summary of the proposed research to a program director to evaluate its appropriateness for the CogNeuro program. Please contact the director early enough to allow for revisions and incorporation what may be extensive feedback. The summary should include an overview of your research and statements of intellectual merit and broader impacts, the two NSF review criteria. See the Merit Review Fact Sheet for more important facts about the NSF merit review process. Please read the NSF Proposal & Award Policies & Procedures Guide (PAPPG) carefully, as it will be strictly adhered to even if other directives or communications appear to contradict it. Currently, the average standard/CAREER award size is $175,000-$225,000 per year for 3-5 years. Awards in excess of $1.0 million are exceptionally rare and almost always multidisciplinary. Please be judicious in your requests, understanding the realities of the limited funding available for all proposals. See the Listing of Active Cognitive Neuroscience Awards for additional award information. Declined proposals are ineligible for resubmission until a minimum of one year has passed since the due date of their initial submission, unless specifically allowed by the PO in the feedback received during the decline process. This moratorium allows investigators the time required to digest the results of the merit review and revise their proposal accordingly. A proposal that has not been substantially revised will be returned without review as per the PAPPG. PIs are strongly encouraged to submit the Single Copy Document titled \"List of Suggested Reviewers\" with their full proposal. Sharing of data and other materials is an expectation for funded research. Please consult the NSF Dear Colleague Letter: Effective Practices for Data for more details. Interested in talking with a program director? Send a one-page description of the proposed research to sbe-cogneuro@nsf.gov.",
+      "fit": 90,
+      "matchedTerms": [
+        "data",
+        "stem",
+        "undergraduate",
+        "career",
+        "science"
       ]
     },
     {
@@ -823,9 +717,38 @@
       ]
     },
     {
+      "id": "320753",
+      "number": "PD-19-127Y",
+      "title": "Science of Learning and Augmented Intelligence (SL)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-02-10",
+      "posted": "2019-09-19",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=19127Y",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "Science of Learning and Augmented Intelligence (SL) supports potentially transformative research that develops basic theoretical insights and fundamental knowledge about principles, processes and mechanisms of learning, and about augmented intelligence - how human cognitive function can be augmented through interactions with others or with technology, or through variations in context. The program supports research addressing learning in individuals and in groups, across a wide range of domains at one or more levels of analysis, including molecular and cellular mechanisms; brain systems; cognitive, affective and behavioral processes; and social and cultural influences. The program also supports research on augmented intelligence that clearly articulates principled ways in which human approaches to learning and related processes, such as in design, complex decision-making and problem-solving, can be improved through interactions with others or through the use of artificial intelligence in technology. These could include ways of using knowledge about human functioning to improve the design of collaborative technologies that have the capacity to learn to adapt to humans. For both aspects of the program, there is special interest in collaborative and collective models of learning and intelligence that are supported by the unprecedented speed and scale of technological connectivity. This includes emphasis on how people and technology working together in new ways and at scale can achieve more than either can attain alone. The program also seeks explanations for how the emergent intelligence of groups, organizations and networks intersects with processes of learning, behavior and cognition in individuals. Projects that are convergent or interdisciplinary may be especially valuable in advancing basic understanding of these areas, but research within a single discipline or methodology is also appropriate. Connections between proposed research and specific technological, educational and workforce applications will be considered as valuable broader impacts but are not necessarily central to the intellectual merit of proposed research. The program supports a variety of approaches, including experiments, field studies, surveys, computational modeling, and artificial intelligence or machine learning methods. Examples of general research questions within scope of Science of Learning and Augmented Intelligence (SL) include: What are the underlying mechanisms that support transfer of learning from one context to another or from one domain to another? How is learning generalized from a small set of specific experiences? What is the basis for robust learning that is resilient against potential interference from new experiences? How is learning consolidated and reconsolidated from transient experience to stable memory? How do human interactions with technologies, imbued with artificial intelligence, provide improved human task performance? What models best describe the interplay of the individual and collaborative processes that lead to co-creation of knowledge and collective intelligence? In what ways do the capacities and constraints of human cognition inform improved methods of human-artificial intelligence collaboration? How can we integrate research findings and insights across levels of analysis, relating understanding of cellular and molecular mechanisms of learning in the neurons, to circuit and systems-level computations of learning in the brain, to cognitive, affective, social and behavioral processes of learning? What is the relationship between assembly of new networks (development) and learning new knowledge in a maturing or mature brain? What concepts, tools (including Big Data, machine learning, and other computational models) or questions will provide the most productive linkages across levels of analysis? How can insights from biological learners contribute and derive new theoretical perspectives to artificial intelligence, neuromorphic engineering, materials science and nanotechnology? How can the ability of biological systems to learn from relatively few examples improve efficiency of artificial systems? How do learning systems (biological and artificial) address complex issues of causal reasoning? How can knowledge about the ways in which humans learn help in the design of human-machine interfaces?",
+      "fit": 100,
+      "matchedTerms": [
+        "artificial intelligence",
+        "machine learning",
+        "data",
+        "learning",
+        "workforce",
+        "transfer",
+        "science",
+        "technology"
+      ]
+    },
+    {
       "id": "341086",
       "number": "22-603",
-      "title": "Mid-Career Advancement",
+      "title": "Mid-Career Advancement (MCA)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2027-03-01",
@@ -838,42 +761,13 @@
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "The MCA program offers an opportunity for scientists and engineers at the mid-career stage (see restrictions under Additional Eligibility Information) to substantively enhance and advance theirresearch program and career trajectory. Mid-career scientists are at a critical career transition stage where they need to advance their research programs to ensure long-term productivity and creativity but are often constrained by service, teaching, or other activities that limit the amount of time devoted to research. The MCA program provides protected time, resources, and the means to gain new skills through synergistic and mutually beneficial partnerships, typically at an institution other than the candidate's home institution. Partners from outside the Principal Investigator's (PI) own subdiscipline or discipline are encouraged, but not required, to enhance interdisciplinary networking and convergence across science and engineering fields. Research p rojects that envision new insights on existing problems or identify new problems made accessible with cutting-edge methodology or expertise from other fields are encouraged . A key component of a successful MCA will be the demonstration that the PI's currentresearch program could substantively benefit from the protected time, mentored partnership(s), and resources provided through this program, such thatthere is a substantial enhancement to the PI's research and career trajectory, enabling scientific and academic advancementnot likely without this support. The MCA is the only cross-directorate NSF program specifically aimed at providing protected time and resources to established scientists and engineers targeted at the mid-career stage.Participating programs in the Directorates for Biological Sciences (BIO), Geosciences (GEO), Social, Behavioral and Economic Sciences (SBE), and Education and Human Resources (EHR) will accept MCA proposals. To help identify the disciplinary program in which the MCA should be reviewed, PIs are urged to investigate the research areas supported by the different directorates and participating programs. PIs are strongly encouraged to discuss the suitability of their MCA proposal with a Program Officer from the appropriate directorate (see https://new.nsf.gov/funding/opportunities/mca-mid-career-advancement/announcements/111199 ).PIs from EPSCoR jurisdictions are especially encouraged to apply.",
+      "description": "The MCA program offers an opportunity for scientists and engineers at the mid-career stage (see restrictions under Additional Eligibility Information) to substantively enhance and advance their research program and career trajectory. Mid-career scientists are at a critical career transition stage where they need to advance their research programs to ensure long-term productivity and creativity but are often constrained by service, teaching, or other activities that limit the amount of time devoted to research. The MCA program provides protected time, resources, and the means to gain new skills through synergistic and mutually beneficial partnerships, typically at an institution other than the candidate's home institution. Partners from outside the Principal Investigator's (PI) own subdiscipline or discipline are encouraged, but not required, to enhance interdisciplinary networking and convergence across science and engineering fields. Research p rojects that envision new insights on existing problems or identify new problems made accessible with cutting-edge methodology or expertise from other fields are encouraged . A key component of a successful MCA will be the demonstration that the PI's current research program could substantively benefit from the protected time, mentored partnership(s), and resources provided through this program, such that there is a substantial enhancement to the PI's research and career trajectory, enabling scientific and academic advancement not likely without this support. The MCA is the only cross-directorate NSF program specifically aimed at providing protected time and resources to established scientists and engineers targeted at the mid-career stage. Participating programs in the Directorates for Biological Sciences (BIO), Geosciences (GEO), Social, Behavioral and Economic Sciences (SBE), and Education and Human Resources (EHR) will accept MCA proposals. To help identify the disciplinary program in which the MCA should be reviewed, PIs are urged to investigate the research areas supported by the different directorates and participating programs. PIs are strongly encouraged to discuss the suitability of their MCA proposal with a Program Officer from the appropriate directorate (see https://new.nsf.gov/funding/opportunities/mca-mid-career-advancement/announcements/111199 ). PIs from EPSCoR jurisdictions are especially encouraged to apply.",
       "fit": 72,
       "matchedTerms": [
         "career",
         "skills",
         "science",
         "engineering"
-      ]
-    },
-    {
-      "id": "357498",
-      "number": "25-514",
-      "title": "NSF Scholarships in Science, Technology, Engineering, and Mathematics Program",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2027-03-02",
-      "posted": "2024-12-03",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25514",
-      "awardCeiling": "5000000",
-      "estimatedFunding": "120000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The main goal of the S-STEM program is to enable academically talented, low-income students to pursue successful careers in promising STEM fields. Ultimately, the S-STEM program seeks to increase the number of academically promising low-income students who graduate with an S-STEM eligible degree and contribute to the American innovation economy with their STEM knowledge. Recognizing that financial aid alone cannot increase retention and graduation in STEM, the program provides awards to institutions of higher education (IHEs) not only to fund scholarships, but also to adapt, implement, and study evidence-based curricular and co-curricular [a] activities that have been shown to be effective in supporting recruitment, retention, transfer (if appropriate), student success, academic/career pathways, and graduation in STEM. To be eligible, scholars must be domestic low-income students with academic ability, talent, or potential and demonstrated unmet financial need who are enrolled in an associate, baccalaureate, or graduate degree program in an S-STEM eligible discipline. Proposers must provide an analysis that articulates the characteristics and academic needs of the population of students they are trying to serve. NSF is particularly interested in supporting the attainment of degrees in fields identified as critical needs for the Nation. It is up to the proposer to make a compelling case that such a field serves a critical need in the United States. [a] an activity at a school or college pursued in addition to the normal course of study. S-STEM Eligible Degree Programs Associate of Arts, Associate of Science, Associate of Engineering, and Associate of Applied Science Bachelor of Arts, Bachelor of Science, Bachelor of Engineering and Bachelor of Applied Science Master of Arts, Master of Science, and Master of Engineering Doctoral (Ph.D. or other comparable doctoral degree) S-STEM Eligible Disciplines Disciplinary fields in which research is funded by NSF, including technology fields associated with the S-STEM-eligible disciplines (e.g., biotechnology, chemical technology, engineering technology, information technology, etc.). The following degrees and disciplines areexcluded: Clinical degree programs, including medical degrees, nursing, veterinary medicine, pharmacy, physical therapy, and others not funded by NSF, are ineligible degrees. Programs for STEM teacher certification or licensure currently covered by the Robert Noyce Teacher Scholarship program (NOYCE) are ineligible for S-STEM funding. Business school programs that lead to Bachelor of Arts or Science in Business Administration degrees (BABA/BSBA/BBA) are not eligible for S-STEM funding. Masters and Doctoral degrees in Business Administration are also excluded. Proposers are strongly encouraged to contact Program Officers before submitting a proposal if they have questions concerning degree or disciplinary eligibility. The S-STEM program particularly encourages proposals from 2-year institutions, predominately undergraduate institutions, and urban, suburban, and rural public institutions.",
-      "fit": 100,
-      "matchedTerms": [
-        "evidence",
-        "teacher",
-        "rural",
-        "stem",
-        "higher education",
-        "undergraduate",
-        "college",
-        "student success"
       ]
     },
     {
@@ -903,6 +797,35 @@
         "privacy",
         "learning",
         "science"
+      ]
+    },
+    {
+      "id": "357498",
+      "number": "25-514",
+      "title": "NSF Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-03-02",
+      "posted": "2024-12-03",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25514",
+      "awardCeiling": "5000000",
+      "estimatedFunding": "120000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The main goal of the S-STEM program is to enable academically talented, low-income students to pursue successful careers in promising STEM fields. Ultimately, the S-STEM program seeks to increase the number of academically promising low-income students who graduate with an S-STEM eligible degree and contribute to the American innovation economy with their STEM knowledge. Recognizing that financial aid alone cannot increase retention and graduation in STEM, the program provides awards to institutions of higher education (IHEs) not only to fund scholarships, but also to adapt, implement, and study evidence-based curricular and co-curricular [a] activities that have been shown to be effective in supporting recruitment, retention, transfer (if appropriate), student success, academic/career pathways, and graduation in STEM. To be eligible, scholars must be domestic low-income students with academic ability, talent, or potential and demonstrated unmet financial need who are enrolled in an associate, baccalaureate, or graduate degree program in an S-STEM eligible discipline. Proposers must provide an analysis that articulates the characteristics and academic needs of the population of students they are trying to serve. NSF is particularly interested in supporting the attainment of degrees in fields identified as critical needs for the Nation. It is up to the proposer to make a compelling case that such a field serves a critical need in the United States. [a] an activity at a school or college pursued in addition to the normal course of study. S-STEM Eligible Degree Programs Associate of Arts, Associate of Science, Associate of Engineering, and Associate of Applied Science Bachelor of Arts, Bachelor of Science, Bachelor of Engineering and Bachelor of Applied Science Master of Arts, Master of Science, and Master of Engineering Doctoral (Ph.D. or other comparable doctoral degree) S-STEM Eligible Disciplines Disciplinary fields in which research is funded by NSF, including technology fields associated with the S-STEM-eligible disciplines (e.g., biotechnology, chemical technology, engineering technology, information technology, etc.). The following degrees and disciplines are excluded : Clinical degree programs, including medical degrees, nursing, veterinary medicine, pharmacy, physical therapy, and others not funded by NSF, are ineligible degrees. Programs for STEM teacher certification or licensure currently covered by the Robert Noyce Teacher Scholarship program (NOYCE) are ineligible for S-STEM funding. Business school programs that lead to Bachelor of Arts or Science in Business Administration degrees (BABA/BSBA/BBA) are not eligible for S-STEM funding. Masters and Doctoral degrees in Business Administration are also excluded. Proposers are strongly encouraged to contact Program Officers before submitting a proposal if they have questions concerning degree or disciplinary eligibility. The S-STEM program particularly encourages proposals from 2-year institutions, predominately undergraduate institutions, and urban, suburban, and rural public institutions.",
+      "fit": 100,
+      "matchedTerms": [
+        "evidence",
+        "teacher",
+        "rural",
+        "stem",
+        "higher education",
+        "undergraduate",
+        "college",
+        "student success"
       ]
     },
     {
@@ -993,7 +916,7 @@
     {
       "id": "355196",
       "number": "24-586",
-      "title": "NSF National Quantum Virtual Laboratory - Quantum Testbeds",
+      "title": "NSF National Quantum Virtual Laboratory (NQVL)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2027-04-06",
@@ -1079,7 +1002,7 @@
     {
       "id": "358036",
       "number": "25-533",
-      "title": "Findable Accessible Interoperable Reusable Open Science",
+      "title": "Findable Accessible Interoperable Reusable Open Science (FAIROS)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2027-04-14",
@@ -1092,7 +1015,7 @@
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "The FAIROS Program seeks to support a broad range of transformative open science activities including but not limited to&#8239;i.)&#8239;Research, education, and socio-technical cyberinfrastructure development capacities that advance sustainable multi-disciplinary findable, accessible, interoperable, reusable (FAIR) research data management (RDM) and open science capabilities,&#8239;ii.)&#8239;Piloting new models of scientific communication and publication that improve efficiency and accessibility,&#8239;iii.)&#8239;Developing FAIROS data portals, research data commons, RDM as a national service, and&#8239;iv.)&#8239;Lowering barriers to accessing, curating, integrating, linking, managing, sharing, and storing data across many disciplinary domains, irrespective of data size. The program supports innovation across the cyberinfrastructure (CI) ecosystem to address accessibility, data curation, research data management, discoverability, reliability, reproducibility, preservation, sustainability, and utility of research products, including data software, and code, developed as part of funded projects. FAIROS proposals must select one of two tracks to focus on, either: 1)&#8239;Disciplinary Improvements&#8239;to targeted scientific communities, or&#8239;2)&#8239;Cross-Cutting Improvements&#8239;that apply to many or most scientific disciplines.&#8239;In the case of proposals focused on Disciplinary Improvements, it is strongly recommended that prospective PIs contact a program officer from the list of Cognizant Program Officers in the directorate closest to the major disciplinary impact of the proposed work to ascertain that the scientific focus and budget of the proposed work are appropriate for this solicitation. In the case of proposals focused on Cross-Cutting Improvements, it is strongly recommended that prospective PIs contact the&#8239;cognizant program officer from the Office of Advanced Cyberinfrastructure (OAC). After selecting either Disciplinary Improvements or Cross-Cutting Improvements in which to focus research, the proposal must include the kinds of activities relevant to the selected track.&#8239;Standard research proposals are the only type of proposal accepted in response to this solicitation. The FAIROS Program is undertaken in support of the US NSF Public Access Initiative. For more information on the US NSF Public Access Initiative please visit&#8239; https://new.nsf.gov/public-access .",
+      "description": "The FAIROS Program seeks to support a broad range of transformative open science activities including but not limited to&#8239;i.)&#8239;Research, education, and socio-technical cyberinfrastructure development capacities that advance sustainable multi-disciplinary findable, accessible, interoperable, reusable (FAIR) research data management (RDM) and open science capabilities,&#8239;ii.)&#8239;Piloting new models of scientific communication and publication that improve efficiency and accessibility,&#8239;iii.)&#8239;Developing FAIROS data portals, research data commons, RDM as a national service, and&#8239;iv.)&#8239;Lowering barriers to accessing, curating, integrating, linking, managing, sharing, and storing data across many disciplinary domains, irrespective of data size. The program supports innovation across the cyberinfrastructure (CI) ecosystem to address accessibility, data curation, research data management, discoverability, reliability, reproducibility, preservation, sustainability, and utility of research products, including data software, and code, developed as part of funded projects. FAIROS proposals must select one of two tracks to focus on, either: 1)&#8239; Disciplinary Improvements&#8239; to targeted scientific communities, or&#8239;2)&#8239; Cross-Cutting Improvements &#8239;that apply to many or most scientific disciplines.&#8239;In the case of proposals focused on Disciplinary Improvements, it is strongly recommended that prospective PIs contact a program officer from the list of Cognizant Program Officers in the directorate closest to the major disciplinary impact of the proposed work to ascertain that the scientific focus and budget of the proposed work are appropriate for this solicitation. In the case of proposals focused on Cross-Cutting Improvements, it is strongly recommended that prospective PIs contact the&#8239;cognizant program officer from the Office of Advanced Cyberinfrastructure (OAC). After selecting either Disciplinary Improvements or Cross-Cutting Improvements in which to focus research, the proposal must include the kinds of activities relevant to the selected track.&#8239; Standard research proposals are the only type of proposal accepted in response to this solicitation. The FAIROS Program is undertaken in support of the US NSF Public Access Initiative. For more information on the US NSF Public Access Initiative please visit&#8239; https://new.nsf.gov/public-access .",
       "fit": 86,
       "matchedTerms": [
         "data",
@@ -1102,9 +1025,31 @@
       ]
     },
     {
+      "id": "355270",
+      "number": "24-588",
+      "title": "EPSCoR Graduate Fellowship Program (EGFP)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-06-01",
+      "posted": "2024-07-04",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24588",
+      "awardCeiling": "3180000",
+      "estimatedFunding": "17000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The NSF EPSCoR Graduate Fellowship Program (EGFP) provides an opportunity for applicants who received the distinction of GRFP Honorable Mention no more than three years before the proposal due date to be named NSF EPSCoR Graduate Fellows and obtain financial support for their graduate education at an institution in an EPSCoR jurisdiction. EGFP aims to enhance the capacity and competitiveness of EPSCoR jurisdictions by providing funding to graduate degree-awarding institutions to support NSF EPSCoR Graduate Fellows as they pursue graduate degrees in the disciplines specified by the NSF Directorates and Office that are participating in the EGFP funding program. Fellows may pursue degrees in field that differ from the field or sub-field of study that the GRFP Honorable Mention recipients previously listed in their GRFP application. EGFP awards will be made to institutions in EPSCoR jurisdictions. Awards will provide three years of stipend and associated cost-of-education allowance for each NSF EPSCoR Graduate Fellow. Stipends must be budgeted at the level of $37,000 per year per Fellow and cost-of-education allowances must be budgeted at the level of $16,000 per year per Fellow. A total of three years of support must be budgeted per Fellow. Each Fellow must be given up to five years to utilize the support. Awardees will administer the awards such that the Fellows receive the full stipend amount and the institution retains the full cost-of-education allowance during the three years that each Fellow receives support. All submissions must request support for a minimum of three Fellows.",
+      "fit": 60,
+      "matchedTerms": [
+        "science"
+      ]
+    },
+    {
       "id": "357725",
       "number": "25-523",
-      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Collaborations for Optimizing Research Ecosystems",
+      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Collaborations for Optimizing Research Ecosystems (E-CORE)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2027-07-20",
@@ -1259,28 +1204,295 @@
       ]
     },
     {
-      "id": "363613",
-      "number": "26-514",
-      "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
+      "id": "359325",
+      "number": "23-589",
+      "title": "Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
-      "deadline": "2076-08-19",
-      "posted": "2026-08-17",
+      "deadline": "2027-09-10",
+      "posted": "2025-06-06",
       "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26514",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23589",
+      "awardCeiling": "5000000",
+      "estimatedFunding": "24000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC) program drives discovery and learning in the core disciplines of the three participating CISE divisions [Computing and Communication Foundations (CCF), Computer and Network Systems (CNS), and Information and Intelligent Systems (IIS)] of the Directorate for Computer and Information Science and Engineering (CISE) by funding the creation and enhancement of world-class research infrastructure. This research infrastructure will specifically support diverse communities of CISE researchers pursuing focused research agendas in computer and information science and engineering . This support involves developing the accompanying user services and engagement needed to attract, nurture, and grow a robust research community that is actively involved in determining directions for the infrastructure, as well as management of the infrastructure. This should lead to research infrastructure that can be sustained through community involvement and community leadership, and that will enable advances not possible with existing research infrastructure. Further, through the CIRC program, CISE seeks to ensure that researchers from a diverse range of institutions of higher education (IHEs), including minority-serving and predominantly undergraduate institutions, as well as researchers from non-profit, non-academic organizations, have access to such infrastructure. The CIRC program supports four classes of awards: Planning Community Infrastructure (Planning) awards support planning efforts to engage research communities to develop new CISE community research infrastructures. Such an infrastructure could be eventually funded through the CIRC program (Planning-C) or the NSF Mid-scale Research Infrastructure (MsRI) program (Planning-M) . For the scope of Mid-scale RI proposals, see the Mid-scale RI-1 and Mid-scale RI-2 program pages. Exploratory Development (Dev) awards support activities that involve the validation of one or more unproven infrastructure designs and/or technologies, which, if validated, could enable transformative community research infrastructure in the future. Successful projects are expected to provide the technical foundations necessary to pursue subsequent CIRC ( New or Grand ), Mid-scale RI-1 , or Mid-scale RI-2 projects. Medium Community Infrastructure (Medium) awards support the creation of new CISE community research infrastructure or the enhancement of existing CISE community research infrastructure with integrated tools, resources, user services, and research community outreach to enable innovative CISE research opportunities to advance the frontiers of the CISE core research areas. The Medium award class includes New (New) and Enhance/Sustain (ENS) awards. Grand Community Infrastructure (Grand) awards support projects involving significant efforts to develop new CISE community research infrastructure or to enhance and sustain an existing CISE community research infrastructure to enable world-class CISE research opportunities for broad-based communities of CISE researchers that extend well beyond the awardee organization(s). Each CIRC Medium or Grand award may include support for operation of the infrastructure, ensuring that the awardee organization(s) is (are) well positioned to provide a high quality of service to CISE community researchers expected to use the infrastructure to realize their research goals.",
+      "fit": 94,
+      "matchedTerms": [
+        "infrastructure",
+        "learning",
+        "higher education",
+        "undergraduate",
+        "science",
+        "engineering"
+      ]
+    },
+    {
+      "id": "45810",
+      "number": "PD-98-1331",
+      "title": "Sociology",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-09-30",
+      "posted": "2009-03-06",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=981331",
       "awardCeiling": "",
-      "estimatedFunding": "110000000",
+      "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
-      "description": "The U.S. National Science Foundation Directorate for Engineering (NSF ENG) supports foundational research for electrical, communications and computing systems through the following programs: The Electronic, Photonic, Magnetic, and Quantum Devices (EPMQD) program supports foundational engineering research on novel classical and quantum devices, exploring matter’s electronic, photonic, and magnetic properties to enable new applications. The Circuits and Systems for Communications and Sensing (CSCS) program supports foundational engineering research on classical and quantum aspects of advanced components, systems, and signal processing for communications and sensing. The Energy, Power, Control, and Learning (EPCL) program supports foundational research on systems and control, learning, optimization, artificial intelligence, and networked multi-agent systems, and their applications, with emphasis on power and energy systems. NSF ENG anticipates a portfolio of ENG: Electrical, Communications, and Computing Systems (ECCS) awards with a range of budgets and durations. Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds. NSF ENG is particularly interested in intellectually ambitious and potentially transformative foundational research. Proposals need not promise a near-term product, deployment, or commercial outcome, nor need they address later-stage development to be competitive.",
-      "fit": 72,
+      "description": "The Sociology Program supports basic research on all forms of human social organization - societies, institutions, groups and demography - and processes of individual and institutional change. The program encourages theoretically focused empirical investigations aimed at improving the explanation of fundamental social processes. This includes research on organizations and organizational behavior, population dynamics, social movements, social groups, labor force participation, stratification and mobility, family, social networks, socialization, and the sociology of science and technology. The program supports both original data collection and secondary data analysis that use the full range of quantitative and qualitative methodological tools. Theoretically grounded projects that offer methodological innovations and improvements for data collection and analysis are also welcomed. Principal Investigators should select PD 98-1331 in the program announcement/solicitation block on the proposal cover sheet for submission of regular research projects to the sociology program. Projects are evaluated using the two foundation-wide criteria, intellectual merit and broader impacts . In assessing the intellectual merit of proposed research, four components are key to securing support from the Sociology Program: (1) the issues investigated must be theoretically grounded; (2) the research should be based on empirical observation or be subject to empirical validation or illustration; (3) the research design must be appropriate to the questions asked; and (4) the proposed research must advance our understanding of social processes, structures and methods. NSF also offers a number of specialized funding opportunities through its crosscutting and cross-directorate activities; some of the sociology-related opportunities are listed below. Crosscutting Research & Training Opportunities: ADVANCE: Increasing the Participation and Advancement of Women in Academic Science and Engineering Careers Faculty Early Career Development (CAREER) Program Graduate Research Fellowship Program (GRFP) Major Research Instrumentation (MRI) Program Mid-scale Research Infrastructure Programs SBE Postdoctoral Research Fellowships (SPRF) Research Experiences for Undergraduates (REU) Research at Undergraduate Institutions (RUI) Small Business Innovation Research (SBIR) Program To get information about these programs and others, please visit the cross-cutting and NSF-wide active funding opportunities search page. NSF's mission calls for the broadening of opportunities for and expanding participation of groups, institutions and geographic regions that are underrepresented in STEM disciplines, which is essential to the health and vitality of science and engineering. NSF is committed to this principle of diversity and deems it central to the programs, projects and activities it considers and supports. NSF is also committed to public access to publications and data, unless there are countervailing interests that prohibit or limit public access to data, including matters of personally identifiable information of research participants, privacy or other issues of vulnerability such as economic, social or other security interests, etc.). See Public Access to Results of NSF-Funded Research and Data Management for NSF SBE Directorate Proposals and Awards for more information.",
+      "fit": 100,
       "matchedTerms": [
-        "artificial intelligence",
-        "learning",
+        "data",
+        "infrastructure",
+        "privacy",
+        "stem",
+        "undergraduate",
+        "career",
         "science",
+        "technology"
+      ]
+    },
+    {
+      "id": "348164",
+      "number": "PD-23-1320",
+      "title": "Economics",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-09-30",
+      "posted": "2023-05-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=231320",
+      "awardCeiling": "",
+      "estimatedFunding": "220000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Economics program supports research designed to improve the understanding of the processes and institutions of the U.S. economy and of the world system of which it is a part. This program also strengthens both empirical and theoretical economic analysis as well as the methods for rigorous research on economic behavior. It supports research in almost every area of economics, including econometrics, economic history, environmental economics, finance, industrial organization, international economics, labor economics, macroeconomics, mathematical economics, and public finance. The Economics program welcomes proposals for individual or multi-investigator research projects, doctoral dissertation improvement awards, conferences, symposia, experimental research, data collection and dissemination, computer equipment and other instrumentation, and research experience for undergraduates. The program places a high priority on interdisciplinary research. Investigators are encouraged to submit proposals of joint interest to the Economics Program and other NSF programs and NSF initiative areas. The program places a high priority on broadening participation and encourages proposals from groups and regions that traditionally have not participated fully in science, mathematics, and engineering. The program also funds conferences and interdisciplinary research that strengthens links among economics and the other social and behavioral sciences as well as mathematics and statistics. The Doctoral Dissertation Research Improvement Grants (DDRIG) funding opportunity is designed to improve the quality of dissertation research. DDRIG proposals are submitted by a faculty member on behalf of the graduate student. DDRIG awards provide funds for items not normally available through the student's university such as enabling doctoral students to undertake significant data-gathering projects and to conduct field research in settings away from their campus. DDRIGs do not provide cost-of-living or other stipends or tuition. Outstanding DDRIG proposals specify how the knowledge to be created advances economics science. Proposals for Doctoral Dissertation Research Improvement Grants (DDRIGS) in Economics should follow the directions for submissions in the PAPPG . Please contact an Economics program officer if you plan to submit a DDRIG proposal. For additional funding opportunities, we invite you to also look at the SBE Office of Multidisciplinary Activities web site .",
+      "fit": 94,
+      "matchedTerms": [
+        "data",
+        "university",
+        "science",
+        "engineering",
+        "mathematics",
+        "broadening participation"
+      ]
+    },
+    {
+      "id": "112354",
+      "number": "PD-11-8031",
+      "title": "Science of Organizations (SoO)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-09-30",
+      "posted": "2011-08-08",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=118031",
+      "awardCeiling": "",
+      "estimatedFunding": "3270000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "Organizations -- private and public, established and entrepreneurial, designed and emergent, formal and informal, profit and nonprofit -- are critical to the well-being of nations and their citizens. They are of crucial importance for producing goods and services, creating value, providing jobs, and achieving social goals. The Science of Organizations (SoO) program funds basic research that yields a scientific evidence base for improving the design and emergence, development and deployment, and management and ultimate effectiveness of organizations of all kinds. SoO funds research that advances our fundamental understanding of how organizations develop, form and operate. Successful SoO research proposals use scientific methods to develop and refine theories, to empirically test theories and frameworks, and to develop new measures and methods. Funded research is aimed at yielding generalizable insights that are of value to the business practitioner, policy-maker and research communities. SoO welcomes any and all rigorous, scientific approaches that illuminate aspects of organizations as systems of coordination, management and governance. In considering whether a particular project might be a candidate for consideration by SoO, please note: Intellectual perspectives may involve (but are not limited to) organizational theory, behavior, sociology or economics, business policy and strategy, communication sciences, entrepreneurship, human resource management, information sciences , managerial and organizational cognition, operations management, public administration, social or industrial psychology, and technology and innovation management. Phenomena studied may include (but are not limited to) structures, routines, effectiveness, competitiveness, innovation, dynamics, change and evolution. Levels of analysis may include (but are not limited to) organizational, cross-organizational collaborations or relationships, and institutional and can address individuals, groups or teams. Research methods may be qualitative and quantitative and may include (but are not limited to) archival analyses, surveys, simulation studies, experiments, comparative case studies, and network analyses. Consistent with NSF merit review criteria, each SoO proposal should discuss both the intellectual merit and the potential broader impacts of the proposed research. SoO values basic research that has the potential to provide broader societal benefits. However, the majority of space in any proposal will need to be dedicated to the explication of theory, methods, and specific contribution to the evidence base about organizational effectiveness. Projects that aim to implement and subsequently evaluate particular organizational training, effectiveness or change programs, rather than to advance fundamental, generalizable knowledge, are not appropriate for SoO. Researchers who seek to conduct SoO-appropriate research in an industrial site and/or via an industry-university collaboration are invited to also look at the Grant Opportunities for Academic Liaisons with Industry (GOALI) program web site .",
+      "fit": 86,
+      "matchedTerms": [
+        "evidence",
+        "university",
+        "science",
+        "technology"
+      ]
+    },
+    {
+      "id": "320098",
+      "number": "PD-19-120Y",
+      "title": "Accountable Institutions and Behavior (AIB)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-09-30",
+      "posted": "2019-08-30",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=19120Y",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Accountable Institutions and Behavior (AIB) Program supports basic scientific research that advances knowledge and understanding of issues broadly related to attitudes, behavior, and institutions connected to public policy and the provision of public services. Research proposals are expected to be theoretically motivated, conceptually precise, methodologically rigorous, and empirically oriented. Substantive areas include (but are not limited to) the study of individual and group decision-making, political institutions (appointed or elected), attitude and preference formation and expression, electoral processes and voting, public administration, and public policy. This work can focus on a single case or can be done in a comparative context, either over time or cross-sectionally. The Program does not fund applied research. The Program also supports research experiences for undergraduate students and infrastructural activities, including methodological innovations. In addition, we encourage you to examine the websites for the National Science Foundation's Law and Science (LS) , Security and Preparedness (SAP) and Research Infrastructure in the Social and Behavioral Sciences (RISBS) programs.",
+      "fit": 82,
+      "matchedTerms": [
+        "infrastructure",
+        "undergraduate",
+        "science"
+      ]
+    },
+    {
+      "id": "320087",
+      "number": "PD-19-118Y",
+      "title": "Security and Preparedness (SAP)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-09-30",
+      "posted": "2019-08-30",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=19118Y",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Security and Preparedness (SAP) Program supports basic scientific research that advances knowledge and understanding of issues broadly related to global and national security. Research proposals are evaluated on the criteria of intellectual merit and broader impacts; the proposed projects are expected to be theoretically motivated, conceptually precise, methodologically rigorous, and empirically oriented. Moreover, the Program supports research experiences for undergraduate students and infrastructural activities, including methodological innovations. The Program does not fund applied research. In addition, we encourage you to examine the websites for the National Science Foundation's Accountable Institutions and Behavior (AIB), Law and Science (LS) programs, and Research Infrastructure in the Social and Behavioral Sciences (RISBS) programs.",
+      "fit": 82,
+      "matchedTerms": [
+        "infrastructure",
+        "undergraduate",
+        "science"
+      ]
+    },
+    {
+      "id": "329432",
+      "number": "PD-21-128Y",
+      "title": "Law & Science (LS)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-09-30",
+      "posted": "2020-10-15",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=21128Y",
+      "awardCeiling": "",
+      "estimatedFunding": "5500000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Law & Science Program considers proposals that address social scientific studies of law and law-like systems of rules, as well as studies of how science and technology are applied in legal contexts. The Program is inherently interdisciplinary and multi-methodological. Successful proposals describe research that advances scientific theory and understanding of the connections between human behavior and law, legal institutions, or legal processes; or the interactions of law and basic sciences, including biology, computer and information sciences, STEM education, engineering, geosciences, and math and physical sciences. Scientific studies of law often approach law as dynamic, interacting with multiple arenas, and with the participation of multiple actors. Fields of study include many disciplines, and often address problems including, though not limited, to: Crime, Violence, and Policing Cyberspace Economic Issues Environmental Science Evidentiary Issues Forensic Science Governance and Courts Human Rights and Comparative Law Information Technology Legal and Ethical Issues related to Science Legal Decision Making Legal Mobilization and Conceptions of Justice Litigation and the Legal Profession Punishment and Corrections Regulation and Facilitation of Biotechnology (e.g., Gene Editing, Gene Testing, Synthetic Biology) and Other Emerging Sciences and Technologies Use of Science in the Legal Processes LS supports the following types of proposals: Standard Research Grants and Grants for Collaborative Research Conference Awards LS also participates in a number of specialized funding opportunities through NSF's cross-cutting and cross-directorate activities, including, for example: Faculty Early Career Development (CAREER) Program Research Experiences for Undergraduates (REU) Research at Undergraduate Institutions (RUI) Grants for Rapid Response Research (RAPID) Early-concept Grants for Exploratory Research (EAGER) For information about these and other programs, please visit the Cross-cutting and NSF-wide Active Funding Opportunities homepage.",
+      "fit": 80,
+      "matchedTerms": [
+        "stem",
+        "undergraduate",
+        "career",
+        "science",
+        "technology",
         "engineering"
+      ]
+    },
+    {
+      "id": "360664",
+      "number": "25-549",
+      "title": "National Science Foundation National Innovation Corps Teams (NSF National I-CorpsTM Teams) Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-02",
+      "posted": "2025-09-26",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25549",
+      "awardCeiling": "",
+      "estimatedFunding": "12000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The U.S. National Science Foundation (NSF) continues to develop and nurture a national innovation ecosystem that guides the output of scientific discoveries closer to the development of technologies, products, processes, and services that benefit all Americans . The goals of the NSF I-Corps &trade; p rogram&#8239;are to&#8239;spur translation of foundational research to the marketplace, to encourage collaboration between academia and industry, and to train NSF-funded faculty, students and other researchers in innovation and entrepreneurship skills. The NSF National I-Corps program utilizes experiential learning of customer and industry discovery, coupled with first-hand investigation of industrial processes, to quickly assess the translational potential of inventions.&#8239;The NSF National I-Corps program is designed to support the commercialization of \"deep technologies,\"&#8239;those revolving around foundational discoveries in science and engineering. The NSF National I-Corps program addresses the skill and knowledge gaps associated with the transformation of basic research into deep technology ventures (DTVs). The purpose of the NSF National I-Corps Teams program is to provide NSF-funded researchers additional support in the form of entrepreneurial education, mentoring, and funding to accelerate the translation of knowledge derived from foundational research into emerging products, processes, and services that may attract subsequent third-party funding. The outcomes of NSF National I-Corps Teams' projects are threefold: 1) a decision on a clear path forward based on an assessment of the business model, 2) substantial first-hand evidence for or against product-market fit, with the identification of customer segments and corresponding value propositions, and 3) a narrative of a technology demonstration&#8239;for potential partners.",
+      "fit": 100,
+      "matchedTerms": [
+        "learning",
+        "outcomes",
+        "evidence",
+        "assessment",
+        "skills",
+        "science",
+        "technology",
+        "engineering"
+      ]
+    },
+    {
+      "id": "346203",
+      "number": "PD-23-221Y",
+      "title": "Growing Research Access for Nationally Transformative Economic Development (GRANTED)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-02",
+      "posted": "2023-02-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=23221Y",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "NSF GRANTED supports innovative models of research enterprise administrative development and workforce training infrastructure that promote sustainable research capacity and opportunities for economic impact in U.S. organizations. The research enterprise, broadly defined, includes research development and administration, research analytics, technology transfer and commercialization, corporate relations/public-private partnerships, research integrity, compliance and security, research policy, administration of student research training, and research leadership. Strengthening and transforming this administrative infrastructure is necessary to fully utilize the Nation's research talent and capabilities and empower America's organizations that engage in or support research and its outcomes, to participate in a globally competitive research enterprise. Program Description Maintaining U.S. global leadership demands a research enterprise that is competitive, effective, sustainable a nd contributes to the Nation's economic growth goals. A strong national research enterprise relies on more than funding for the research itself. It also requires robust administrative support-and-service infrastructure, which is often unseen, yet includes critical components to ensure a competitive research environment regardless of organization or location. Research enterprise infrastructure enables the development of proposals and management of awards and supports research translation through technology transfer and public-private partnerships. Research compliance enables the security and integrity of research approaches. Research analytics and communication, managing the training of the U.S. scientific workforce, and harnessing the creativity and drive of research leadership, and more, are also fundamental components of the infrastructure. The GRANTED initiative provides unique opportunities to realize a broad and collaborative vision for research enterprise infrastructure. Proposals in response to this GRANTED program description should engage the professional, administrative research support-and-service workforce in project leadership roles described within proposals. Proposed projects should look beyond individual and discipline-specific research needs and focus on activities that create organization-wide impact and potential for regional and national impact. Projects should propose scalable approaches and models to build and sustain research enterprise infrastructure. Competitive proposals will recognize structural and organizational challenges and include goals to implement interventions, solutions, and/or strategies that will mitigate the challenges. Proposals must be centered around one or more of the three main themes of GRANTED: Innovating and enhancing practices and processes within the research enterprise; Developing and strengthening human capital within the research enterprise; and Translating effective practices related to the research enterprise into a broad range of organizational contexts. The GRANTED program utilizes general proposal requirements, including eligibility, as outlined in the current NSF Proposal and Award Policies and Procedures Guide (PAPPG). Prospective PIs are strongly encouraged to contact GRANTED initiative personnel ( GRANTED@nsf.gov ) with inquiries prior to developing and submitting a proposal to this program description. The project budget and duration should be determined by the scope of the proposed activities and presented in accordance with the PAPPG. GRANTED is not intended to fund discipline-specific STEM research and training projects. Collectively, proposals funded through this Program Description will advance transformation of the national research enterprise, measured through 1) generating scalable models that improve research capacity and competitiveness, 2) creating collaborations, partnerships, and communities centered around strengthening the Nation's research enterprise, 3) increasing the range of project leadership, organizations, ideas, and approaches that NSF funds, especially related to developing areas aligned to agency priorities, and 4) strengthening engagement across the Nation's research enterprise.",
+      "fit": 98,
+      "matchedTerms": [
+        "infrastructure",
+        "outcomes",
+        "workforce",
+        "stem",
+        "transfer",
+        "science",
+        "technology"
+      ]
+    },
+    {
+      "id": "343875",
+      "number": "22-639",
+      "title": "Atmospheric and Geospace Sciences Postdoctoral Research Fellowships (AGS-PRF)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-02",
+      "posted": "2022-10-01",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22639",
+      "awardCeiling": "",
+      "estimatedFunding": "2000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Division of Atmospheric and Geospace Sciences (AGS), awards Postdoctoral Research Fellowships (PRF) to highly qualified early career investigators to carry out an independent research program. The research plan of each Fellowship must address scientific questions within the scope of AGS disciplines. These disciplines include Atmospheric Chemistry (ATC), Climate and Large-Scale Dynamics (CLD), Paleoclimate (PC), and Physical and Dynamic Meteorology (PDM) in the Atmospheric Sciences, and Aeronomy (AER), Magnetospheric Physics (MAG), Solar Terrestrial (ST), and Space Weather Research (SWR) in the Geospace Sciences. The AGS-PRF program supports researchers (also known as Fellows) for a period of up to 24 months with Fellowships that can be taken to the institution of their choice. The program is intended to recognize beginning investigators of significant potential and provide them with experiences in research that will broaden perspectives, facilitate interdisciplinary interactions, and help establish them in leadership positions within the Atmospheric and Geospace Sciences community. Fellowships are awards to individual Fellows, not institutions, and are administered by the Fellows.",
+      "fit": 64,
+      "matchedTerms": [
+        "career",
+        "science"
+      ]
+    },
+    {
+      "id": "361008",
+      "number": "26-501",
+      "title": "Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-05",
+      "posted": "2025-12-12",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26501",
+      "awardCeiling": "1500000",
+      "estimatedFunding": "9000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12 initiative aims to advance mathematics learning and education through purposeful collaboration that draws on the interdisciplinary Science of Learning (including neuroscience; cognitive, developmental, and social sciences; computer science; machine learning; engineering; and education research), deep experiences in education practice and teaching, and innovations in the use of data science, AI and technology. Through an agreement with philanthropic partners, including the Walton Family Foundation (WFF), CAMEL consists of two phases. Phase I invites proposals for the creation of new research networks to support the generation of high value datasets that aim to advance math learning and education. These research networks must include researchers who study the basic science of learning, education practitioners, and data scientists. The high value dataset may come from either generating a new dataset or by increasing the value of an existing dataset. Phase II, open only to awardees of Phase I, establishes a \"collaboratory,\" which is a socio-technological platform that prioritizes community-building and capacity-building to sustain collaborative efforts to advance math learning and education in K-12. Expanding Participation in STEM, NSF Priorities and Gold Standard Science: NSF prioritizes cutting-edge discovery science and engineering research, advancing technology and innovation, and creating opportunities for all Americans. NSF has established priorities set forth by Congress, the administration and the NSF director to promote NSF's mission . Proposers should review the list of NSF priorities and are encouraged to align their proposals with them, where appropriate. NSF also expects the highest standards of scientific rigor, integrity and adherence to appropriate tenets of Gold Standard Science in proposals, as appropriate for the field of science and research modality.",
+      "fit": 100,
+      "matchedTerms": [
+        "ai",
+        "machine learning",
+        "data",
+        "dataset",
+        "open",
+        "learning",
+        "stem",
+        "k-12"
       ]
     },
     {
@@ -1289,7 +1501,7 @@
       "title": "Infrastructure Capacity for Biological Research (Capacity)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
-      "deadline": "2076-09-22",
+      "deadline": "2076-10-05",
       "posted": "2023-04-21",
       "status": "posted",
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23580",
@@ -1306,6 +1518,56 @@
         "outcomes",
         "implementation",
         "science"
+      ]
+    },
+    {
+      "id": "360350",
+      "number": "25-545",
+      "title": "NSF STEM K-12 (STEM K-12)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-05",
+      "posted": "2025-08-22",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25545",
+      "awardCeiling": "",
+      "estimatedFunding": "30000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The NSF STEM K-12 program in the Division of Research on Learning in Formal and Informal Settings (DRL) in the Directorate for STEM Education (EDU) supports fundamental, applied, and translational research that advances STEM teaching and learning and improves understanding of education across the human lifespan and a range of formal and informal settings .",
+      "fit": 72,
+      "matchedTerms": [
+        "learning",
+        "stem",
+        "k-12",
+        "science"
+      ]
+    },
+    {
+      "id": "363613",
+      "number": "26-514",
+      "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-05",
+      "posted": "2026-08-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26514",
+      "awardCeiling": "",
+      "estimatedFunding": "110000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The U.S. National Science Foundation Directorate for Engineering (NSF ENG) supports foundational research for electrical, communications and computing systems through the following programs: The Electronic, Photonic, Magnetic, and Quantum Devices (EPMQD) program supports foundational engineering research on novel classical and quantum devices, exploring matter’s electronic, photonic, and magnetic properties to enable new applications. The Circuits and Systems for Communications and Sensing (CSCS) program supports foundational engineering research on classical and quantum aspects of advanced components, systems, and signal processing for communications and sensing. The Energy, Power, Control, and Learning (EPCL) program supports foundational research on systems and control, learning, optimization, artificial intelligence, and networked multi-agent systems, and their applications, with emphasis on power and energy systems. NSF ENG anticipates a portfolio of ENG: Electrical, Communications, and Computing Systems (ECCS) awards with a range of budgets and durations. Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds. NSF ENG is particularly interested in intellectually ambitious and potentially transformative foundational research. Proposals need not promise a near-term product, deployment, or commercial outcome, nor need they address later-stage development to be competitive.",
+      "fit": 72,
+      "matchedTerms": [
+        "artificial intelligence",
+        "learning",
+        "science",
+        "engineering"
       ]
     },
     {
@@ -1335,288 +1597,6 @@
         "skills",
         "science",
         "technology"
-      ]
-    },
-    {
-      "id": "350230",
-      "number": "PD-24-1340",
-      "title": "Research in the Formation of Engineers",
-      "source": "National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2023-09-17",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506225",
-      "awardCeiling": "",
-      "estimatedFunding": "5600000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The NSF Engineering Directorate (ENG) has launched a multi-year initiative, theProfessional Formation of Engineers, to create and support an innovative and inclusive engineering profession for the 21 st century. Professional Formation of Engineers (PFE) refers to the formal and informal processes and value systems by which people become engineers. It also includes the ethical responsibility of practicing engineers to sustain and grow the profession in order to improve quality of life for all peoples. The engineering profession must be responsive to national priorities, grand challenges, and dynamic workforce needs; it must be equally open and accessible to all. Professional Formation of Engineers includes, but is not limited, to: Introductions to the profession at any age; Development of deep technical and professional skills, knowledge, and abilities in both formal and informal settings/domains; Development of outlooks, perspectives, ways of thinking, knowing, and doing; Development of identity as an engineer and its intersection with other identities; and Acculturation to the profession, its standards, and norms. The goal of the Research in the Formation of Engineers (RFE) program is to advance our understanding of professional formation. It seeks both to deepen our fundamental understanding of the underlying processes and mechanisms that support professional formation and to demonstrate how professional formation is or can be accomplished. Ultimately RFE aims to transform the engineer-formation system, and thus the impact of proposed projects on this system must be described. Principal Investigators (PIs) should provide a roadmap detailing how they envision the proposed research will eventually broadly impact practice within the engineer-formation system, even if these activities are not within the scope of the submitted proposal. In order to accomplish its goals, RFE welcomes proposals in two categories: Research Projects, and Design and Development Projects. Research Projects address fundamental questions of professional formation, while Design and Development Projects provide new approaches to achieving professional formation. Additional details are provided below. Projects in both categories should address the iterative cycle in which research questions that advance understanding are informed by practice and the results of research are, in turn, translated into practice. In other words, proposals should explain how the research results will travel, translate, transfer, or scale. Successful projects identify specific target audiences, effective communication channels, and novel partnerships to ensure effective propagation and scaling. Proposal titles should begin with either \"Research:\" or \"Design and Development:\" as appropriate. Research Projects Research proposals are particularly welcome in the following areas: Research that addresses lifelong learning by the engineering workforce. Research on the impact of engineering education research. Proposals addressing this topic could investigate questions such as: How can we measure the impacts of engineering education research? What are effective strategies for scaling reforms? How can we translate knowledge from research to practice? What are the roles of technologies, networks and communities in achieving impact? RFE does not support efficacy, effectiveness, or scale-up studies for specific interventions. Research that addresses culture change in engineering education. Included in this topic are investigations of normative cultures of engineering at any level in the engineering education ecosystem and how these cultures may disadvantage certain groups. Research that addresses engineering formation at the two-year college level in both formal and informal settings. Research that addresses engineering formation at the graduate education level in both formal and informal settings. Research that investigates engineering in P-12 settings. Research in this area could include understanding of approaches to engineering in P-12, how to develop engineering ways of thinking, or the relationship between practices within the sciences and mathematics and engineering thinking. Research on the transitions between education levels, e.g., from high school to two-year college, high school to four-year college/university, two-year college to four-year college/university, undergraduate to graduate school, education settings to the workforce or professoriate, etc. Research that addresses the relationship between engineering and the public. Proposals addressing this topic could consider the social impact of engineering solutions, citizen engineering, education of an informed public, etc. Research that develops or adapts novel methodologies and frameworks appropriate for studying the professional formation of engineers, and especially minoritized, marginalized, or underserved populations. Research that addresses ways in which new technologies (such as artificial intelligence and machine learning) are changing engineering education. Research to transform engineering education so that all students encounter environmental and social sustainability principles as an integrated part of their education and are equipped with the tools needed to incorporate these principles into their future research, careers, and innovations. Proposals submitted to the Research Projects category should have clear research questions informed by an appropriate theoretical framework and a research design that includes sampling, data collection, and data analysis methods. This category will not support proposals that seek funding primarily to develop tools, curriculum, or laboratories, or that seek to implement classroom innovations that have already been shown to be effective in engineering. The program will evaluate the value of proposals by considering the impact and the cost. Research track projects that are small, exploratory, or speculative are especially encouraged. Larger Research track projects should have a correspondingly larger impact. Design and Development Projects RFE supports Design and Development projects (see https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf13126 ) that seek to develop and test new approaches in the following areas related to engineering education : Graduate education. Undergraduate education in new engineering technologies and environmental sustainability. Transitions between education levels, for example high school to two-year college, high school to four-year college/university, two-year college to four-year college/university, undergraduate to graduate school, education settings to the workforce or professoriate, etc. P-12, especially approaches to develop engineering thinking, or providing links between engineering, science, and mathematics. Proposals in this category should propose the design and development of new approaches that are informed by existing literature and theory. There should be clear objectives and the evaluation plan should be designed to determine if those objectives have been met. Projects cannot be solely demonstration projects but must add to the engineering education literature to inform future work.",
-      "fit": 100,
-      "matchedTerms": [
-        "artificial intelligence",
-        "machine learning",
-        "data",
-        "open",
-        "learning",
-        "evaluation",
-        "workforce",
-        "undergraduate"
-      ]
-    },
-    {
-      "id": "361008",
-      "number": "26-501",
-      "title": "Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2025-12-12",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26501",
-      "awardCeiling": "1500000",
-      "estimatedFunding": "9000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12 initiative aims to advance mathematics learning and education through purposeful collaboration that draws on the interdisciplinary Science of Learning (including neuroscience; cognitive, developmental, and social sciences; computer science; machine learning; engineering; and education research), deep experiences in education practice and teaching, and innovations in the use of data science, AI and technology. Through an agreement with philanthropic partners, including the Walton Family Foundation (WFF), CAMEL consists of two phases. Phase I invites proposals for the creation of new research networks to support the generation of high value datasets that aim to advance math learning and education. These research networks must include researchers who study the basic science of learning, education practitioners, and data scientists. The high value dataset may come from either generating a new dataset or by increasing the value of an existing dataset. Phase II, open only to awardees of Phase I, establishes a \"collaboratory,\" which is a socio-technological platform that prioritizes community-building and capacity-building to sustain collaborative efforts to advance math learning and education in K-12. Expanding Participation in STEM, NSF Priorities and Gold Standard Science: NSF prioritizes cutting-edge discovery science and engineering research, advancing technology and innovation, and creating opportunities for all Americans. NSF has established priorities set forth by Congress, the administration and the NSF director to promote NSF's mission . Proposers should review the list of NSF priorities and are encouraged to align their proposals with them, where appropriate. NSF also expects the highest standards of scientific rigor, integrity and adherence to appropriate tenets of Gold Standard Science in proposals, as appropriate for the field of science and research modality.",
-      "fit": 100,
-      "matchedTerms": [
-        "ai",
-        "machine learning",
-        "data",
-        "dataset",
-        "open",
-        "learning",
-        "stem",
-        "k-12"
-      ]
-    },
-    {
-      "id": "360664",
-      "number": "25-549",
-      "title": "NSF National Innovation Corps Teams (NSF National I-Corps (TM) Teams) program",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2025-09-26",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25549",
-      "awardCeiling": "",
-      "estimatedFunding": "12000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The U.S. National Science Foundation (NSF) continues to develop and nurture a national innovation ecosystem that guides the output of scientific discoveries closer to the development of technologies, products, processes, and services that benefit all Americans . The goals of the NSF I-Corps &trade; p rogram&#8239;are to&#8239;spur translation of foundational research to the marketplace, to encourage collaboration between academia and industry, and to train NSF-funded faculty, students and other researchers in innovation and entrepreneurship skills. The NSF National I-Corps program utilizes experiential learning of customer and industry discovery, coupled with first-hand investigation of industrial processes, to quickly assess the translational potential of inventions.&#8239;The NSF National I-Corps program is designed to support the commercialization of \"deep technologies,\"&#8239;those revolving around foundational discoveries in science and engineering. The NSF National I-Corps program addresses the skill and knowledge gaps associated with the transformation of basic research into deep technology ventures (DTVs). The purpose of the NSF National I-Corps Teams program is to provide NSF-funded researchers additional support in the form of entrepreneurial education, mentoring, and funding to accelerate the translation of knowledge derived from foundational research into emerging products, processes, and services that may attract subsequent third-party funding. The outcomes of NSF National I-Corps Teams' projects are threefold: 1) a decision on a clear path forward based on an assessment of the business model, 2) substantial first-hand evidence for or against product-market fit, with the identification of customer segments and corresponding value propositions, and 3) a narrative of a technology demonstration&#8239;for potential partners.",
-      "fit": 100,
-      "matchedTerms": [
-        "learning",
-        "outcomes",
-        "evidence",
-        "assessment",
-        "skills",
-        "science",
-        "technology",
-        "engineering"
-      ]
-    },
-    {
-      "id": "45810",
-      "number": "PD-98-1331",
-      "title": "Sociology",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2009-03-06",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5369",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Sociology Program supports basic research on all forms of human social organization - societies, institutions, groups and demography - and processes of individual and institutional change. The program encourages theoretically focused empirical investigations aimed at improving the explanation of fundamental social processes. This includes research on organizations and organizational behavior, population dynamics, social movements, social groups, labor force participation, stratification and mobility, family, social networks, socialization, and the sociology of science and technology. The program supports both original data collection and secondary data analysis that use the full range of quantitative and qualitative methodological tools. Theoretically grounded projects that offer methodological innovations and improvements for data collection and analysis are also welcomed. Principal Investigators should selectPD 98-1331in the program announcement/solicitation block on the proposal cover sheet for submission of regular research projects to the sociology program. Projects are evaluated using the two foundation-wide criteria, intellectual merit and broader impacts . In assessing the intellectual merit of proposed research, four components are key to securing support from the Sociology Program: (1) the issues investigated must be theoretically grounded; (2) the research should be based on empirical observation or be subject to empirical validation or illustration; (3) the research design must be appropriate to the questions asked; and (4) the proposed research must advance our understanding of social processes, structures and methods. NSF also offers a number of specialized funding opportunities through its crosscutting and cross-directorate activities; some of the sociology-related opportunities are listed below. Crosscutting Research & Training Opportunities: ADVANCE: Increasing the Participation and Advancement of Women in Academic Science and Engineering Careers Faculty Early Career Development (CAREER) Program Graduate Research Fellowship Program (GRFP) Major Research Instrumentation (MRI) Program Mid-scale Research Infrastructure Programs SBE Postdoctoral Research Fellowships (SPRF) Research Experiences for Undergraduates (REU) Research at Undergraduate Institutions (RUI) Small Business Innovation Research (SBIR) Program To get information about these programs and others, please visit the cross-cutting and NSF-wide active funding opportunities search page. NSF's mission calls for the broadening of opportunities for and expanding participation of groups, institutions and geographic regions that are underrepresented in STEM disciplines, which is essential to the health and vitality of science and engineering. NSF is committed to this principle of diversity and deems it central to the programs, projects and activities it considers and supports. NSF is also committed to public access to publications and data, unless there are countervailing interests that prohibit or limit public access to data, including matters of personally identifiable information of research participants, privacy or other issues of vulnerability such as economic, social or other security interests, etc.). See Public Access to Results of NSF-Funded Research and Data Management for NSF SBE Directorate Proposals and Awards for more information.",
-      "fit": 100,
-      "matchedTerms": [
-        "data",
-        "infrastructure",
-        "privacy",
-        "stem",
-        "undergraduate",
-        "career",
-        "science",
-        "technology"
-      ]
-    },
-    {
-      "id": "358882",
-      "number": "PD-19-126Y",
-      "title": "Science of Science: Discovery, Communication and Impact",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2025-05-09",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505730",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Science of Science:Discovery, Communication and Impact (SoS:DCI) program is designed to advance theory and knowledge about increasing the public value of scientific activity. Science of Science draws from multiple disciplinary and field perspectives to advance theory and research about scientific discovery, communication and impact. SoS:DCI welcomes proposals applying rigorous empirical research methods to advance theory and knowledge on: The social and structural mechanisms of scientific discovery. Theories, frameworks, models and data that improve our understanding of scientific communication and outcomes. The societal benefits of scientific activity and how science advances evidence-based policy making and the creation of public value. The SoS:DCI program, which expands upon the formerScience of Science and Innovation Policy (SciSIP)program, funds research that builds theoretical and empirical understanding of the social science of science. SoS:DCI welcomes proposals to conduct research at the individual, organizational and institutional levels or from micro, meso and macro scales and complex system levels. SoS:DCI encourages multiple disciplinary perspectives, interdisciplinary research and diverse methodological approaches in the pursuit of new knowledge to advance the science of science and evidence-based policy making. With these goals in mind, proposals should: Draw from and advance theory, knowledge and frameworks on the science of science. Develop models, data, indicators and associated analytical tools that constitute and enable transformative advances rather than incremental change. Provide credible rigorous assessments of the proposed project's impact and social and policy implications. Include robust data management plans with the goal of advancing open science and increasing public access to usable, valid and reliable scientific materials. Of particular interest are proposals with the potential to strengthen America's global leadership in science and increase national competitiveness across a broad range of domains. These include proposals that analyze strategies for strengthening and expanding the scientific workforce, as well as ways to cultivate high-impact discovery across sectors.The program strongly encourages convergent research and collaboration. In addition to intellectual merit, the program strongly encourages potential PIs to carefully consider the broader impacts of their work. The broader impacts criterion encompasses the potential to benefit society and contribute to the achievement of specific, desired policy outcomes.The Social, Behavioral and Economic Sciences Directorate has released additional guidance on broader impacts for SBE proposals . The SoS:DCI program places a high priority on broadening participation in the sciences. It encourages proposals from early-career researchers and from researchers who represent groups and regions that have historically participated at disproportionately low rates in science, mathematics, and engineering. SoS:DCI supports the following types of proposals: Standard Research Grants and Grants for Collaborative Research A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO) Conference Grants SoS:DCI also participates in certain specialized funding opportunities through NSF's cross-cutting and cross-directorate activities .",
-      "fit": 100,
-      "matchedTerms": [
-        "data",
-        "open",
-        "outcomes",
-        "evidence",
-        "workforce",
-        "career",
-        "science",
-        "engineering"
-      ]
-    },
-    {
-      "id": "308873",
-      "number": "PD-18-7222",
-      "title": "Crosscutting Activities in Materials Research",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2018-09-08",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505350",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "Crosscutting Activities in Materials Research (XC) coordinates and supports crosscutting activities within the Division of Materials Research (DMR) and more broadly across NSF. The emphasis within XC is diversity and inclusion, international cooperation, and education (including experiential learning at REU/RET Sites). Additionally, activities that broadly engage the community, such as summer schools, institutes, workshops, and conferences that do not fit within just one or two programs in the Division of Materials Research, may be supported by XC.If preparing a workshop proposal, follow the Special Guidelines for Conference Proposals outlined in the Proposal & Award Policies & Procedures Guide (PAPPG). Occasionally projects crossing several programs in DMR are shifted to XC or co-funded by XC. The goal is to bring greater visibility to these projects through DMR's XC website. Proposals are welcome that do not fit elsewhere at NSF that are also highly relevant for the materials research and education community. Some XC activities are co-funded with other NSF units. XC does not handle traditional research proposals suitable for submission to topical or other programs in DMR. For this reason, the XC Team welcomes inquiries that include a draft of one-page NSF summary, or a shorter write-up. It is highly recommended that you contact one of the Program Directors for XC prior to submission of a full proposal exceeding $50,000. Crosscutting Activities in Materials Research (XC) replaced the Office of Special Programs in Materials Research (OSP) in 2016. Diversity: Activitiesthat focus on broadening participation of underrepresented groups and/or diversity and inclusion are supported. Supplements(e.g., CLB, AGEP-GRS, MPS-GRSV and ROAs) are handled by the cognizantProgram Director of the original award. See the Related Publications section below for more information. XC supports Facilitation Awards for Scientists and Engineers with Disabilities (see Proposal & Award Policies & Procedures Guide, Chapter II.E.6 for details) https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIE6 International: In2016 a Dear Colleague Letter outlining collaborative projectswith Israel (BSF) was issued; it remains active until archived. Submissionof full proposals with an international component may be made to thedisciplinary programs (but not to XC directly). Supplementsare handled by the cognizant Program Director of the original award. Discontinuedin 2014: The previous International Materials Institutes (IMI)and Materials World Network (MWN) programs are no longer supported . Education: Innovativeand creative ideas in education (e.g., materials science and/or engineering, solid state and materials chemistry, condensed matterphysics, integrated computational materials science/engineering, ormaterials data science/analytics) that do not have a forum elsewhere at NSFare of interest. XC encourages outreach and/or materials education proposals targeting underserved populations such as K-12students in rural communities and those designed to increase public scientific literacy. Research Experiences for Undergraduates (REU)/ Research Experiences for Teachers (RET): reu.dmr@nsf.gov XCcoordinates the REU and RET Sites activities within DMR. See the REU Site Solicitation for deadlines and additional program information. REU/RET supplements to research proposals are handled by the cognizant ProgramDirector of the original award.",
-      "fit": 98,
-      "matchedTerms": [
-        "data",
-        "learning",
-        "literacy",
-        "rural",
-        "science",
-        "engineering",
-        "broadening participation"
-      ]
-    },
-    {
-      "id": "346203",
-      "number": "PD-23-221Y",
-      "title": "Growing Research Access for Nationally Transformative Economic Development",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2023-02-17",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506178",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "NSF GRANTED supports innovative models of research enterprise administrative development and workforce training infrastructure that promote sustainable research capacity and opportunities for economic impactin U.S. organizations. The research enterprise, broadly defined, includes research development and administration, research analytics, technology transfer and commercialization, corporate relations/public-private partnerships, research integrity, compliance and security, research policy, administration of student research training, and research leadership. Strengthening and transforming this administrative infrastructure is necessary to fully utilize the Nation's research talent and capabilities and empower America's organizations that engage in or support research and its outcomes, to participate in a globally competitive research enterprise. Program Description Maintaining U.S. global leadership demands a research enterprise that is competitive, effective, sustainable a nd contributes to the Nation's economic growth goals. A strong national research enterprise relies on more than funding for the research itself. It also requires robust administrative support-and-service infrastructure, which is often unseen, yet includes critical components to ensure a competitive research environment regardless of organization or location. Research enterprise infrastructure enables the development of proposals and management of awards and supports research translation through technology transfer and public-private partnerships. Research compliance enables the security and integrity of research approaches. Research analytics and communication, managing the training of the U.S. scientific workforce, and harnessing the creativity and drive of research leadership, and more, are also fundamental components of the infrastructure. The GRANTED initiative provides unique opportunities to realize a broad and collaborative vision for research enterprise infrastructure. Proposals in response to this GRANTED program description should engage the professional, administrative research support-and-service workforce in project leadership roles described within proposals.Proposed projects should look beyond individual and discipline-specific research needs and focus on activities that create organization-wide impact and potential for regional and national impact. Projects should propose scalable approaches and models to build and sustain research enterprise infrastructure.Competitive proposals will recognize structural and organizational challenges and include goals to implement interventions, solutions, and/or strategies that will mitigate the challenges. Proposals must be centered around one or more of the three main themes of GRANTED: Innovating and enhancing practices and processes within the research enterprise; Developing and strengthening human capital within the research enterprise; and Translating effective practices related to the research enterprise into a broad range of organizational contexts. The GRANTED program utilizes general proposal requirements, including eligibility, as outlined in the current NSF Proposal and Award Policies and Procedures Guide (PAPPG). Prospective PIs are strongly encouraged to contact GRANTED initiative personnel ( GRANTED@nsf.gov ) with inquiries prior to developing and submitting a proposal to this program description. The project budget and duration should be determined by the scope of the proposed activities and presented in accordance with the PAPPG.GRANTED is not intended to fund discipline-specific STEM research and training projects. Collectively, proposals funded through this Program Description will advance transformation of the national research enterprise, measured through 1) generating scalable models that improve research capacity and competitiveness, 2) creating collaborations, partnerships, and communities centered around strengthening the Nation's research enterprise, 3) increasing the range of project leadership, organizations, ideas, and approaches that NSF funds, especially related to developing areas aligned to agency priorities, and 4) strengthening engagement across the Nation's research enterprise.",
-      "fit": 98,
-      "matchedTerms": [
-        "infrastructure",
-        "outcomes",
-        "workforce",
-        "stem",
-        "transfer",
-        "science",
-        "technology"
-      ]
-    },
-    {
-      "id": "361952",
-      "number": "PD-26-1341",
-      "title": "Professional Formation of Engineers",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2026-04-17",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506521",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Professional Formation of Engineers (PFE) initiative integrates engineering research and education to improve and expand the nation's engineering workforce. PFE is defined as the formal and informal processes and value systems by which people become engineers. The goal of PFE is to create an ethical engineering workforce with a global outlook and the ability to adapt to the rapidly evolving technical environment. This will help build a future engineering workforce with the skills to compete in the global marketplace, support emerging technologies, and grow U.S. industry. PFE supports projects in the ENGINEER program relating to future and current engineers' training and education in many contexts, including formal classrooms, informal maker spaces, clubs and co-curricular activities, and workplaces. Such training encompasses cooperative education and internships, community-based experiences, and research labs. It also involves many scales of analysis, from mentor/mentee relationships to large-scale online learning and professional development experiences. Engineers must develop and maintain these learning opportunities with clear pathways to and through the profession. Such pathways include formal and informal education, apprenticeships, credentialing, and licensure, and consider relationships with other professionals, technical workers, and community members. Finally, such opportunities include transitions across and within academia and industry. To understand and improve this system requires expertise in both engineering and the social sciences.",
-      "fit": 98,
-      "matchedTerms": [
-        "learning",
-        "workforce",
-        "professional development",
-        "skills",
-        "science",
-        "engineering",
-        "pathways"
-      ]
-    },
-    {
-      "id": "348164",
-      "number": "PD-23-1320",
-      "title": "Economics",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2023-05-17",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506204",
-      "awardCeiling": "",
-      "estimatedFunding": "220000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Economics program supports research designed to improve the understanding of the processes and institutions of the U.S. economy and of the world system of which it is a part. This program also strengthens both empirical and theoretical economic analysis as well as the methods for rigorous research on economic behavior. It supports research in almost every area of economics, including econometrics, economic history, environmental economics, finance, industrial organization, international economics, labor economics, macroeconomics, mathematical economics, and public finance. The Economics program welcomes proposals for individual or multi-investigator research projects, doctoral dissertation improvement awards, conferences, symposia, experimental research, data collection and dissemination, computer equipment and other instrumentation, and research experience for undergraduates. The program places a high priority on interdisciplinary research. Investigators are encouraged to submit proposals of joint interest to the Economics Program and other NSF programs and NSF initiative areas. The program places a high priority on broadening participation and encourages proposals from groups and regions that traditionally have not participated fully in science, mathematics, and engineering. The program also funds conferences and interdisciplinary research that strengthens links among economics and the other social and behavioral sciences as well as mathematics and statistics. The Doctoral Dissertation Research Improvement Grants (DDRIG) funding opportunity is designed to improve the quality of dissertation research.DDRIG proposals are submitted by a faculty member on behalf of the graduate student. DDRIG awards provide funds for items not normally available through the student's university such as enabling doctoral students to undertake significant data-gathering projects and to conduct field research in settings away from their campus. DDRIGs do not provide cost-of-living or other stipends or tuition.Outstanding DDRIG proposals specify how the knowledge to be created advances economics science. Proposals for Doctoral Dissertation Research Improvement Grants (DDRIGS) in Economics should follow the directions for submissions in the PAPPG . Please contact an Economics program officer if you plan to submit a DDRIG proposal. For additional funding opportunities, we invite you to also look at the SBE Office of Multidisciplinary Activities web site .",
-      "fit": 94,
-      "matchedTerms": [
-        "data",
-        "university",
-        "science",
-        "engineering",
-        "mathematics",
-        "broadening participation"
-      ]
-    },
-    {
-      "id": "352500",
-      "number": "24-547",
-      "title": "Plant Genome Research Program",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2024-02-17",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24547",
-      "awardCeiling": "",
-      "estimatedFunding": "30000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Plant Genome Research Program (PGRP) supports genome-scale research that addresses challenging questions of biological, societal and economic importance. PGRP encourages the development of innovative tools, technologies, and resources that empower a broad plant research community to answer scientific questions on a genome-wide scale. Emphasis is placed on the scale and depth of the question being addressed and the creativity of the approach. Data produced by plant genomics should be usable, accessible, integrated across scales, and of high impact across biology. Training, broadening participation, and career development are essential to scientific progress and should be integrated in all PGRP-funded projects. Two funding tracks are currently available: RESEARCH-PGR TRACK: Genome-scale plant research to address fundamental questions in biology, including processes of economic and/or societal importance. TRTech-PGR TRACK: Tools, resources, and technology breakthroughs that further enable functional plant genomics.",
-      "fit": 90,
-      "matchedTerms": [
-        "data",
-        "career",
-        "science",
-        "technology",
-        "broadening participation"
       ]
     },
     {
@@ -1662,27 +1642,6 @@
       ]
     },
     {
-      "id": "watchlist-oregon-department-of-education-grants-5",
-      "number": "",
-      "title": "Oregon Accelerated College Credit Program Grant",
-      "source": "Oregon Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.oregon.gov/ode/schools-and-districts/grants/Pages/Oregon-Accelerated-College-Credit-Program-Grant.aspx",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Oregon Department of Education Grants. Oregon Accelerated College Credit Program Grant",
-      "fit": 68,
-      "matchedTerms": [
-        "college"
-      ]
-    },
-    {
       "id": "watchlist-california-department-of-education-funding-1",
       "number": "",
       "title": "Available Funding",
@@ -1717,25 +1676,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Hawaii Department of Education Grants. Federal Grants",
-      "fit": 64,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-nevada-department-of-education-grants-1",
-      "number": "",
-      "title": "9/1/2026 - DonorsChoose Grant Funding Available Beginning Sept. 1",
-      "source": "Nevada Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://doe.nv.gov/news-media/2026-press-releases/donorschoose-grant-funding-available-beginning-sept-1",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Nevada Department of Education Grants. 9/1/2026 - DonorsChoose Grant Funding Available Beginning Sept. 1",
       "fit": 64,
       "matchedTerms": []
     },
@@ -2042,25 +1982,6 @@
     {
       "id": "watchlist-california-department-of-education-funding-3",
       "number": "",
-      "title": "Request for Applications",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r8/wioa27rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-4",
-      "number": "",
       "title": "CCAP Grant 26-27 RFA",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
@@ -2078,59 +1999,59 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-california-department-of-education-funding-5",
+      "id": "watchlist-california-department-of-education-funding-4",
       "number": "",
-      "title": "MCEC Grant 26-27 RFA",
+      "title": "CCAP: Dual Enrollment Opportunities Grant Errata 1",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/mcec26rfa.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r17/ccap26rfaerrata1.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. MCEC Grant 26-27 RFA",
+      "description": "State funding. Matched source page for California Department of Education Funding. CCAP: Dual Enrollment Opportunities Grant Errata 1",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-5",
+      "number": "",
+      "title": "Request for Applications",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r8/wioa27rfa.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
       "fit": 52,
       "matchedTerms": []
     },
     {
       "id": "watchlist-california-department-of-education-funding-6",
       "number": "",
-      "title": "2025 SEPRC Grant Funding results",
+      "title": "Request for Applications",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r18/seprc25result.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r12/caserves26-27.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. 2025 SEPRC Grant Funding results",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-7",
-      "number": "",
-      "title": "Holocaust and Genocide Education Grant",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r4/holocaustgenosb472.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Holocaust and Genocide Education Grant",
+      "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2644,25 +2565,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Oregon Department of Education Grants. Outdoor School Grant",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-oregon-department-of-education-grants-6",
-      "number": "",
-      "title": "Regional Promise Grant",
-      "source": "Oregon Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.oregon.gov/ode/schools-and-districts/grants/Pages/Regional-Promise-Grant.aspx",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Oregon Department of Education Grants. Regional Promise Grant",
       "fit": 52,
       "matchedTerms": []
     },

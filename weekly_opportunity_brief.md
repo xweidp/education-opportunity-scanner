@@ -1,110 +1,110 @@
 # Weekly Education Research Opportunity Scan
 
-Scanned at: 2026-09-28T19:55:42.682Z
+Scanned at: 2026-10-05T20:54:27.264Z
 
 ## Top Matches
 
-1. Security, Privacy, and Trust in Cyberspace
-   Deadline: 2026-09-28 | Fit: 100 | Source: U.S. National Science Foundation
-   Posted: 2024-12-06 | Award ceiling: 1200000 | Indirect rate: Check NOFO
-   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
-   Terms: data, infrastructure, privacy, outcomes, workforce, stem, science, engineering
-   Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25515
-
-2. Advanced Technological Education
-   Deadline: 2026-10-01 | Fit: 100 | Source: U.S. National Science Foundation
-   Posted: 2024-06-25 | Award ceiling: 7500000 | Indirect rate: Check NOFO
-   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
-   Terms: workforce, professional development, stem, higher education, college, career, workforce development, retention
-   Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24584
-
-3. EDU Core Research
-   Deadline: 2026-10-01 | Fit: 84 | Source: U.S. National Science Foundation
-   Posted: 2026-05-15 | Award ceiling: 2500000 | Indirect rate: Check NOFO
-   Eligibility: Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled "Additional Information on Eligibility"
-   Terms: learning, workforce, stem, workforce development, science, broadening participation
-   Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21588
-
-4. Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B
-   Deadline: 2026-10-01 | Fit: 80 | Source: Holly Clark Management and Program Analyst
-   Posted: 2026-08-06 | Award ceiling: Not listed | Indirect rate: Check NOFO
-   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
-   Terms: intervention, higher education, career, skills, ies
-   Link: https://ies.ed.gov/funding/grants/2027/research-training-programs-special-education-84-324b
-
-5. Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Using Longitudinal Data to Support State Education Policymaking in Special Education, Assistance Listing Number (ALN) 84.324S
-   Deadline: 2026-10-01 | Fit: 76 | Source: Holly Clark Management and Program Analyst
-   Posted: 2026-08-06 | Award ceiling: 1200000 | Indirect rate: Check NOFO
-   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
-   Terms: data, evidence, longitudinal, ies
-   Link: https://ies.ed.gov/funding/grants/2027/using-longitudinal-data-support-state-education-policymaking-special-education-84-324s
-
-6. Institute of Education Sciences (IES): National Center for Education Research (NCER): Using Longitudinal Data to Support State Education Policymaking, Assistance Listing Number (ALN) 84.305S
-   Deadline: 2026-10-01 | Fit: 76 | Source: Holly Clark Management and Program Analyst
-   Posted: 2026-08-06 | Award ceiling: 1200000 | Indirect rate: Check NOFO
-   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
-   Terms: data, evidence, longitudinal, ies
-   Link: https://ies.ed.gov/funding/grants/2027/using-longitudinal-data-support-state-education-policymaking-84-305s
-
-7. Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D
-   Deadline: 2026-10-01 | Fit: 72 | Source: Holly Clark Management and Program Analyst
-   Posted: 2026-08-06 | Award ceiling: Not listed | Indirect rate: Check NOFO
-   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
-   Terms: data, ies, statistical
-   Link: https://ies.ed.gov/funding/grants/2027/statistical-and-research-methodology-education-84-305d
-
-8. Institute of Education Sciences (IES): National Center for Education Research (NCER): Research Training Programs in The Education Sciences, Assistance Listing Number (ALN) 84.305B
-   Deadline: 2026-10-01 | Fit: 62 | Source: Holly Clark Management and Program Analyst
-   Posted: 2026-08-06 | Award ceiling: Not listed | Indirect rate: Check NOFO
-   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
-   Terms: higher education, career, skills, ies
-   Link: https://ies.ed.gov/funding/grants/2027/research-training-programs-education-sciences-84-305b
-
-9. Mathematical Foundations of Artificial Intelligence (MFAI)
+1. Mathematical Foundations of Artificial Intelligence (MFAI)
    Deadline: 2026-10-09 | Fit: 100 | Source: U.S. National Science Foundation
    Posted: 2024-05-02 | Award ceiling: 1500000 | Indirect rate: Check NOFO
    Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
    Terms: ai, artificial intelligence, machine learning, learning, science, technology, engineering, mathematics
    Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24569
 
-10. Engineering Research Initiation (ERI)
+2. Engineering Research Initiation (ERI)
    Deadline: 2026-10-09 | Fit: 68 | Source: U.S. National Science Foundation
    Posted: 2026-07-17 | Award ceiling: Not listed | Indirect rate: Check NOFO
    Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
    Terms: science, engineering
    Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24590
 
-11. Algebra and Number Theory
+3. Algebra and Number Theory
    Deadline: 2026-10-09 | Fit: 52 | Source: U.S. National Science Foundation
    Posted: 2020-10-06 | Award ceiling: Not listed | Indirect rate: Check NOFO
    Eligibility: Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled "Additional Information on Eligibility"
    Terms: science
    Link: http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5431
 
-12. Tribal Colleges and Universities Program (TCUP)
+4. Tribal Colleges and Universities Program (TCUP)
    Deadline: 2026-10-14 | Fit: 100 | Source: U.S. National Science Foundation
    Posted: 2021-06-24 | Award ceiling: 3500000 | Indirect rate: Check NOFO
    Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
    Terms: artificial intelligence, data, infrastructure, learning, assessment, workforce, professional development, implementation
    Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21595
 
-13. Research Experiences for Teachers (RET) in Engineering and Computer Science
+5. Research Experiences for Teachers (RET) in Engineering and Computer Science
    Deadline: 2026-10-14 | Fit: 76 | Source: U.S. National Science Foundation
    Posted: 2023-10-31 | Award ceiling: Not listed | Indirect rate: Check NOFO
    Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
    Terms: science, engineering, computer science, pathways
    Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24503
 
-14. Historically Black Colleges and Universities - Excellence in Research (HBCU - EiR)
+6. Historically Black Colleges and Universities - Excellence in Research (HBCU - EiR)
    Deadline: 2026-10-20 | Fit: 68 | Source: U.S. National Science Foundation
    Posted: 2023-06-08 | Award ceiling: Not listed | Indirect rate: Check NOFO
    Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
    Terms: hbcu, science
    Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23598
 
-15. U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:
+7. U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:
    Deadline: 2026-11-04 | Fit: 100 | Source: U.S. National Science Foundation
    Posted: 2026-08-06 | Award ceiling: Not listed | Indirect rate: Check NOFO
    Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
    Terms: ai, artificial intelligence, data, infrastructure, workforce, higher education, workforce development, science
    Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26513
+
+8. SBE Postdoctoral Research Fellowships
+   Deadline: 2026-11-04 | Fit: 64 | Source: U.S. National Science Foundation
+   Posted: 2022-10-08 | Award ceiling: 170000 | Indirect rate: Check NOFO
+   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
+   Terms: science, broadening participation
+   Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23500
+
+9. PFE: Research Initiation in Engineering Formation (PFE: RIEF)
+   Deadline: 2026-11-10 | Fit: 72 | Source: U.S. National Science Foundation
+   Posted: 2026-09-01 | Award ceiling: Not listed | Indirect rate: Check NOFO
+   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
+   Terms: open, workforce, science, engineering
+   Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf20558
+
+10. Impact Aid Discretionary Construction Grant Program - 84.041C
+   Deadline: 2026-11-10 | Fit: 56 | Source: Office of Elementary and Secondary Education
+   Posted: 2026-09-08 | Award ceiling: 8000000 | Indirect rate: Check NOFO
+   Eligibility: Independent school districts
+   Terms: education relevance
+   Link: https://impactaid.ed.gov/resources/#construction
+
+11. Applied Mathematics
+   Deadline: 2026-11-16 | Fit: 28 | Source: U.S. National Science Foundation
+   Posted: 2025-03-16 | Award ceiling: Not listed | Indirect rate: Check NOFO
+   Eligibility: Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled "Additional Information on Eligibility"
+   Terms: science, engineering, mathematics
+   Link: http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5664
+
+12. National Science Foundation Translation to Practice
+   Deadline: 2026-11-17 | Fit: 88 | Source: U.S. National Science Foundation
+   Posted: 2025-07-09 | Award ceiling: 2000000 | Indirect rate: Check NOFO
+   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
+   Terms: open, workforce, stem, higher education, science, technology, engineering, pathways
+   Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25540
+
+13. National Science Foundation Fostering Interdisciplinary Networks to Develop Emergent and Responsive Solutions Foundry (NSF FINDERS FOUNDRY)
+   Deadline: 2026-11-18 | Fit: 100 | Source: U.S. National Science Foundation
+   Posted: 2026-03-23 | Award ceiling: Not listed | Indirect rate: Check NOFO
+   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
+   Terms: ai, artificial intelligence, learning, outcomes, evidence, workforce, implementation, k-12
+   Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26507
+
+14. Centers of Research Excellence in Science and Technology (CREST)
+   Deadline: 2026-12-04 | Fit: 100 | Source: U.S. National Science Foundation
+   Posted: 2023-05-25 | Award ceiling: Not listed | Indirect rate: Check NOFO
+   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
+   Terms: evidence, workforce, equity, stem, k-12, workforce development, retention, science
+   Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23595
+
+15. IUSE: Innovation in Two-Year College STEM Education (ITYC)
+   Deadline: 2026-12-09 | Fit: 96 | Source: U.S. National Science Foundation
+   Posted: 2026-08-31 | Award ceiling: Not listed | Indirect rate: Check NOFO
+   Eligibility: Others (see text field entitled "Additional Information on Eligibility" for clarification)
+   Terms: open, stem, higher education, undergraduate, college, student success, career, transfer
+   Link: http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23584
