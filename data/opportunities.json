@@ -1,82 +1,8 @@
 {
-  "scannedAt": "2026-10-05T20:54:27.264Z",
+  "scannedAt": "2026-10-12T21:29:31.803Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "353936",
-      "number": "24-569",
-      "title": "Mathematical Foundations of Artificial Intelligence (MFAI)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-10-09",
-      "posted": "2024-05-02",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24569",
-      "awardCeiling": "1500000",
-      "estimatedFunding": "8500000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "Machine Learning and Artificial Intelligence (AI) are enabling extraordinary scientific breakthroughs in fields ranging from protein folding, natural language processing, drug synthesis, and recommender systems to the discovery of novel engineering materials and products. These achievements lie at the confluence of mathematics, statistics, engineering and computer science, yet a clear explanation of the remarkable power and also the limitations of such AI systems has eluded scientists from all disciplines. Critical foundational gaps remain that, if not properly addressed, will soon limit advances in machine learning, curbing progress in artificial intelligence. It appears increasingly unlikely that these critical gaps can be surmounted with increased computational power and experimentation alone. Deeper mathematical understanding is essential to ensuring that AI can be harnessed to meet the future needs of society and enable broad scientific discovery, while forestalling the unintended consequences of a disruptive technology. The National Science Foundation Directorates for Mathematical and Physical Sciences (MPS), Computer and Information Science and Engineering (CISE), Engineering (ENG), and Social, Behavioral and Economic Sciences (SBE) will jointly sponsor research collaborations consisting of mathematicians, statisticians, computer scientists, engineers, and social and behavioral scientists focused on the mathematical and theoretical foundations of AI. Research activities should focus on the most challenging mathematical and theoretical questions aimed at understanding the capabilities, limitations, and emerging properties of AI methods as well as the development of novel, and mathematically grounded, design and analysis principles for the current and next generation of AI approaches. Specific research goals include: establishing a fundamental mathematical understanding of the factors determining the capabilities and limitations of current and emerging generation s of AI systems, including, but not limited to, foundation models, generative models, deep learning, statistical learning, federated learning, and other evolving paradigms; the development of mathematically grounded design and analysis principles for the current and next generations of AI systems; rigorous approaches for characterizing and validating machine learning algorithms and their predictions; research enabling provably reliable, translational, general-purpose AI systems and algorithms; e ncouragement of new collaborations &#8239;in this interdisciplinary research community and between institution s. The overall goal is to establish innovative and principled design and analysis approaches for AI technology using creative yet theoretically grounded mathematical and statistical frameworks, yielding explainable and interpretable models that can enable sustainable, socially responsible, and trustworthy AI.",
-      "fit": 100,
-      "matchedTerms": [
-        "ai",
-        "artificial intelligence",
-        "machine learning",
-        "learning",
-        "science",
-        "technology",
-        "engineering",
-        "mathematics"
-      ]
-    },
-    {
-      "id": "363233",
-      "number": "24-590",
-      "title": "Engineering Research Initiation (ERI)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-10-09",
-      "posted": "2026-07-17",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24590",
-      "awardCeiling": "",
-      "estimatedFunding": "11000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The NSF Directorate for Engineering (ENG) seeks to build engineering research capacity across the nation by investing in new academic investigators who have yet to receive sufficient research funding from Federal Agencies. The Engineering Research Initiation (ERI) program will support new investigators as they initiate their research programs and advance in their careers as researchers, educators, and innovators. This funding opportunity aims to broaden the base of investigators involved in engineering research and therefore is limited to investigators that are not affiliated with \"very high research activity\" R1 institutions (according to the Carnegie Classification https://carnegieclassifications.iu.edu/ ).",
-      "fit": 68,
-      "matchedTerms": [
-        "science",
-        "engineering"
-      ]
-    },
-    {
-      "id": "329325",
-      "number": "PD-20-1264",
-      "title": "Algebra and Number Theory",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-10-09",
-      "posted": "2020-10-06",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5431",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Algebra and Number Theory program supports research in algebra, algebraic and arithmetic geometry, number theory, and representation theory. Conference proposals The Algebra and Number Theory program also provides support for conferences, workshops, summer/winter schools, and similar activities. Proposals should be submitted to PD 20-1264 using the \"Conference\" proposal type in research.gov. Proposals with budgets not exceeding $50,000, which in accordance with NSF policy can be reviewed internally, should be submitted: in May for events that will take place in January through April of the following year in October for events that will take place in May through December of the following year. In order to allow time for external review, proposals with budget requests exceeding $50,000 should be submitted nine to twelve months before the event is scheduled to take place.",
-      "fit": 52,
-      "matchedTerms": [
-        "science"
-      ]
-    },
     {
       "id": "334326",
       "number": "21-595",
@@ -200,7 +126,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The Directorate for Social, Behavioral and Economic Sciences (SBE) offers Postdoctoral Research Fellowships to encourageindependence earlyin the fellow'scareerby supporting his or herresearch and training goals.The research and training plan of each fellowship must address important scientific questions within thescope of the SBE directorate and the specific guidelines in this solicitation. The SPRF program offers two tracks: (I) Fundamental Research in the SBE Sciences (SPRF-FR) and (II) Broadening Participation in the SBE Sciences (SPRF-BP). See the full text of the solicitation for a detailed description of these tracks.",
-      "fit": 64,
+      "fit": 68,
       "matchedTerms": [
         "science",
         "broadening participation"
@@ -223,7 +149,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The PFE: Research Initiation in Engineering Formation (PFE: RIEF) program has two goals: 1) Support research in the Professional Formation of Engineers (PFE), and 2) Increase the community of researchers conducting PFE research. PIs are expected to have little or no experience conducting social science or education research. PFE: RIEF is not intended for established researchers in engineering education or other social science fields to initiate new projects. Those researchers should consider the Research in the Formation of Engineers program ( https://www.nsf.gov/funding/opportunities/rfe-research-formation-engineers ). The NSF Engineering (ENG) Directorate has launched a multi-year initiative, the Professional Formation of Engineers, to create and support an innovative and inclusive engineering profession for the 21st Century. Professional Formation of Engineers (PFE) refers to the formal and informal education and value systems by which people become engineers. It also includes the ethical responsibility of practicing engineers to sustain and grow the profession. The engineering profession must be responsive to national priorities, grand challenges, and dynamic workforce needs; it must be equally open and accessible to all Americans. Engineering faculty possess both deep technical expertise in their engineering discipline and the primary responsibility for the process of professional formation of future engineers. As such, engineering faculty are in a unique position to help address critical challenges in engineering formation. The Professional Formation of Engineers: Research Initiation in Engineering Formation (PFE: RIEF) program enables engineering faculty who are renowned for teaching, mentoring, or leading educational reform efforts on their campus to develop expertise in conducting engineering education research.",
-      "fit": 72,
+      "fit": 76,
       "matchedTerms": [
         "open",
         "workforce",
@@ -248,7 +174,7 @@
         "Independent school districts"
       ],
       "description": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Impact Aid Discretionary Construction Grant Program on behalf of the U.S. Department of Education (ED). The Impact Aid Discretionary Construction Grant Program provides grants to eligible Impact Aid Local Educational Agencies (LEAs) to assist in addressing their school facility emergency and modernization needs. This competition is limited to emergency grants that meet the absolute priority and other requirements in this notice. The competition uses existing statutory authority and appropriated funds to address urgent school facility needs in federally connected communities while promoting responsible stewardship of taxpayer dollars.",
-      "fit": 56,
+      "fit": 60,
       "matchedTerms": []
     },
     {
@@ -278,7 +204,7 @@
     {
       "id": "359966",
       "number": "25-540",
-      "title": "National Science Foundation Translation to Practice",
+      "title": "National Science Foundation Translation to Practice (NSF TTP)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2026-11-17",
@@ -1231,6 +1157,35 @@
       ]
     },
     {
+      "id": "355100",
+      "number": "24-584",
+      "title": "Advanced Technological Education (ATE)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-10-07",
+      "posted": "2024-06-25",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24584",
+      "awardCeiling": "7500000",
+      "estimatedFunding": "74000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "With a focus on two-year Institutions of Higher Education (IHEs), the Advanced Technological Education (ATE) program supports the education of technicians for the high-technology fields that drive our nation's economy. The program involves partnerships between academic institutions (grades 7-12, IHEs), industry, and economic development agencies to promote improvement in the education of science and engineering technicians. It is strongly recommended that projects be faculty-led and required that courses and programs are credit-bearing, although materials developed may also be used for incumbent worker education. Materials may also be adapted and implemented as credit-bearing courses. The ATE program supports curriculum development; professional development of college faculty and secondary school teachers; career pathway development for both students and incumbent workers; and other activities including applied research projects that advance the knowledge base related to technician education. The ATE program encourages partnerships with other entities that may impact technician education. For example, with the National Institute of Standards and Technology (NIST) Manufacturing Extension Partnerships (MEPs) ( http://www.nist.gov/mep/index.cfm ) as applicable to support technician education programs and the industries they serve; and Manufacturing USA Institutes ( https://manufacturing.gov/ ) addressing workforce development issues. The ATE program encourages proposals from Minority Serving Institutions as well as other institutions that support the recruitment, retention, and completion (certificate, degree, program) of the full spectrum of diverse talent that society has to offer, which includes underrepresented and underserved communities, in STEM technician education programs that award associate degrees.",
+      "fit": 100,
+      "matchedTerms": [
+        "workforce",
+        "professional development",
+        "stem",
+        "higher education",
+        "college",
+        "career",
+        "workforce development",
+        "retention"
+      ]
+    },
+    {
       "id": "45810",
       "number": "PD-98-1331",
       "title": "Sociology",
@@ -1257,33 +1212,6 @@
         "career",
         "science",
         "technology"
-      ]
-    },
-    {
-      "id": "348164",
-      "number": "PD-23-1320",
-      "title": "Economics",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2076-09-30",
-      "posted": "2023-05-17",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=231320",
-      "awardCeiling": "",
-      "estimatedFunding": "220000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Economics program supports research designed to improve the understanding of the processes and institutions of the U.S. economy and of the world system of which it is a part. This program also strengthens both empirical and theoretical economic analysis as well as the methods for rigorous research on economic behavior. It supports research in almost every area of economics, including econometrics, economic history, environmental economics, finance, industrial organization, international economics, labor economics, macroeconomics, mathematical economics, and public finance. The Economics program welcomes proposals for individual or multi-investigator research projects, doctoral dissertation improvement awards, conferences, symposia, experimental research, data collection and dissemination, computer equipment and other instrumentation, and research experience for undergraduates. The program places a high priority on interdisciplinary research. Investigators are encouraged to submit proposals of joint interest to the Economics Program and other NSF programs and NSF initiative areas. The program places a high priority on broadening participation and encourages proposals from groups and regions that traditionally have not participated fully in science, mathematics, and engineering. The program also funds conferences and interdisciplinary research that strengthens links among economics and the other social and behavioral sciences as well as mathematics and statistics. The Doctoral Dissertation Research Improvement Grants (DDRIG) funding opportunity is designed to improve the quality of dissertation research. DDRIG proposals are submitted by a faculty member on behalf of the graduate student. DDRIG awards provide funds for items not normally available through the student's university such as enabling doctoral students to undertake significant data-gathering projects and to conduct field research in settings away from their campus. DDRIGs do not provide cost-of-living or other stipends or tuition. Outstanding DDRIG proposals specify how the knowledge to be created advances economics science. Proposals for Doctoral Dissertation Research Improvement Grants (DDRIGS) in Economics should follow the directions for submissions in the PAPPG . Please contact an Economics program officer if you plan to submit a DDRIG proposal. For additional funding opportunities, we invite you to also look at the SBE Office of Multidisciplinary Activities web site .",
-      "fit": 94,
-      "matchedTerms": [
-        "data",
-        "university",
-        "science",
-        "engineering",
-        "mathematics",
-        "broadening participation"
       ]
     },
     {
@@ -1387,35 +1315,6 @@
       ]
     },
     {
-      "id": "360664",
-      "number": "25-549",
-      "title": "National Science Foundation National Innovation Corps Teams (NSF National I-CorpsTM Teams) Program",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2076-10-02",
-      "posted": "2025-09-26",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25549",
-      "awardCeiling": "",
-      "estimatedFunding": "12000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The U.S. National Science Foundation (NSF) continues to develop and nurture a national innovation ecosystem that guides the output of scientific discoveries closer to the development of technologies, products, processes, and services that benefit all Americans . The goals of the NSF I-Corps &trade; p rogram&#8239;are to&#8239;spur translation of foundational research to the marketplace, to encourage collaboration between academia and industry, and to train NSF-funded faculty, students and other researchers in innovation and entrepreneurship skills. The NSF National I-Corps program utilizes experiential learning of customer and industry discovery, coupled with first-hand investigation of industrial processes, to quickly assess the translational potential of inventions.&#8239;The NSF National I-Corps program is designed to support the commercialization of \"deep technologies,\"&#8239;those revolving around foundational discoveries in science and engineering. The NSF National I-Corps program addresses the skill and knowledge gaps associated with the transformation of basic research into deep technology ventures (DTVs). The purpose of the NSF National I-Corps Teams program is to provide NSF-funded researchers additional support in the form of entrepreneurial education, mentoring, and funding to accelerate the translation of knowledge derived from foundational research into emerging products, processes, and services that may attract subsequent third-party funding. The outcomes of NSF National I-Corps Teams' projects are threefold: 1) a decision on a clear path forward based on an assessment of the business model, 2) substantial first-hand evidence for or against product-market fit, with the identification of customer segments and corresponding value propositions, and 3) a narrative of a technology demonstration&#8239;for potential partners.",
-      "fit": 100,
-      "matchedTerms": [
-        "learning",
-        "outcomes",
-        "evidence",
-        "assessment",
-        "skills",
-        "science",
-        "technology",
-        "engineering"
-      ]
-    },
-    {
       "id": "346203",
       "number": "PD-23-221Y",
       "title": "Growing Research Access for Nationally Transformative Economic Development (GRANTED)",
@@ -1441,29 +1340,6 @@
         "transfer",
         "science",
         "technology"
-      ]
-    },
-    {
-      "id": "343875",
-      "number": "22-639",
-      "title": "Atmospheric and Geospace Sciences Postdoctoral Research Fellowships (AGS-PRF)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2076-10-02",
-      "posted": "2022-10-01",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22639",
-      "awardCeiling": "",
-      "estimatedFunding": "2000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Division of Atmospheric and Geospace Sciences (AGS), awards Postdoctoral Research Fellowships (PRF) to highly qualified early career investigators to carry out an independent research program. The research plan of each Fellowship must address scientific questions within the scope of AGS disciplines. These disciplines include Atmospheric Chemistry (ATC), Climate and Large-Scale Dynamics (CLD), Paleoclimate (PC), and Physical and Dynamic Meteorology (PDM) in the Atmospheric Sciences, and Aeronomy (AER), Magnetospheric Physics (MAG), Solar Terrestrial (ST), and Space Weather Research (SWR) in the Geospace Sciences. The AGS-PRF program supports researchers (also known as Fellows) for a period of up to 24 months with Fellowships that can be taken to the institution of their choice. The program is intended to recognize beginning investigators of significant potential and provide them with experiences in research that will broaden perspectives, facilitate interdisciplinary interactions, and help establish them in leadership positions within the Atmospheric and Geospace Sciences community. Fellowships are awards to individual Fellows, not institutions, and are administered by the Fellows.",
-      "fit": 64,
-      "matchedTerms": [
-        "career",
-        "science"
       ]
     },
     {
@@ -1521,31 +1397,6 @@
       ]
     },
     {
-      "id": "360350",
-      "number": "25-545",
-      "title": "NSF STEM K-12 (STEM K-12)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2076-10-05",
-      "posted": "2025-08-22",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25545",
-      "awardCeiling": "",
-      "estimatedFunding": "30000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The NSF STEM K-12 program in the Division of Research on Learning in Formal and Informal Settings (DRL) in the Directorate for STEM Education (EDU) supports fundamental, applied, and translational research that advances STEM teaching and learning and improves understanding of education across the human lifespan and a range of formal and informal settings .",
-      "fit": 72,
-      "matchedTerms": [
-        "learning",
-        "stem",
-        "k-12",
-        "science"
-      ]
-    },
-    {
       "id": "363613",
       "number": "26-514",
       "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
@@ -1568,6 +1419,161 @@
         "learning",
         "science",
         "engineering"
+      ]
+    },
+    {
+      "id": "360664",
+      "number": "25-549",
+      "title": "National Science Foundation National Innovation Corps Teams (NSF National I-CorpsTM Teams) Program",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-06",
+      "posted": "2025-09-26",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25549",
+      "awardCeiling": "",
+      "estimatedFunding": "12000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The U.S. National Science Foundation (NSF) continues to develop and nurture a national innovation ecosystem that guides the output of scientific discoveries closer to the development of technologies, products, processes, and services that benefit all Americans . The goals of the NSF I-Corps &trade; p rogram&#8239;are to&#8239;spur translation of foundational research to the marketplace, to encourage collaboration between academia and industry, and to train NSF-funded faculty, students and other researchers in innovation and entrepreneurship skills. The NSF National I-Corps program utilizes experiential learning of customer and industry discovery, coupled with first-hand investigation of industrial processes, to quickly assess the translational potential of inventions.&#8239;The NSF National I-Corps program is designed to support the commercialization of \"deep technologies,\"&#8239;those revolving around foundational discoveries in science and engineering. The NSF National I-Corps program addresses the skill and knowledge gaps associated with the transformation of basic research into deep technology ventures (DTVs). The purpose of the NSF National I-Corps Teams program is to provide NSF-funded researchers additional support in the form of entrepreneurial education, mentoring, and funding to accelerate the translation of knowledge derived from foundational research into emerging products, processes, and services that may attract subsequent third-party funding. The outcomes of NSF National I-Corps Teams' projects are threefold: 1) a decision on a clear path forward based on an assessment of the business model, 2) substantial first-hand evidence for or against product-market fit, with the identification of customer segments and corresponding value propositions, and 3) a narrative of a technology demonstration&#8239;for potential partners.",
+      "fit": 100,
+      "matchedTerms": [
+        "learning",
+        "outcomes",
+        "evidence",
+        "assessment",
+        "skills",
+        "science",
+        "technology",
+        "engineering"
+      ]
+    },
+    {
+      "id": "361952",
+      "number": "PD-26-1341",
+      "title": "Professional Formation of Engineers (PFE)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-06",
+      "posted": "2026-04-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=261341",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Professional Formation of Engineers (PFE) initiative integrates engineering research and education to improve and expand the nation's engineering workforce. PFE is defined as the formal and informal processes and value systems by which people become engineers. The goal of PFE is to create an ethical engineering workforce with a global outlook and the ability to adapt to the rapidly evolving technical environment. This will help build a future engineering workforce with the skills to compete in the global marketplace, support emerging technologies, and grow U.S. industry. PFE supports projects in the ENGINEER program relating to future and current engineers' training and education in many contexts, including formal classrooms, informal maker spaces, clubs and co-curricular activities, and workplaces. Such training encompasses cooperative education and internships, community-based experiences, and research labs. It also involves many scales of analysis, from mentor/mentee relationships to large-scale online learning and professional development experiences. Engineers must develop and maintain these learning opportunities with clear pathways to and through the profession. Such pathways include formal and informal education, apprenticeships, credentialing, and licensure, and consider relationships with other professionals, technical workers, and community members. Finally, such opportunities include transitions across and within academia and industry. To understand and improve this system requires expertise in both engineering and the social sciences.",
+      "fit": 98,
+      "matchedTerms": [
+        "learning",
+        "workforce",
+        "professional development",
+        "skills",
+        "science",
+        "engineering",
+        "pathways"
+      ]
+    },
+    {
+      "id": "348164",
+      "number": "PD-23-1320",
+      "title": "Economics",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-06",
+      "posted": "2023-05-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=231320",
+      "awardCeiling": "",
+      "estimatedFunding": "220000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Economics program supports research designed to improve the understanding of the processes and institutions of the U.S. economy and of the world system of which it is a part. This program also strengthens both empirical and theoretical economic analysis as well as the methods for rigorous research on economic behavior. It supports research in almost every area of economics, including econometrics, economic history, environmental economics, finance, industrial organization, international economics, labor economics, macroeconomics, mathematical economics, and public finance. The Economics program welcomes proposals for individual or multi-investigator research projects, doctoral dissertation improvement awards, conferences, symposia, experimental research, data collection and dissemination, computer equipment and other instrumentation, and research experience for undergraduates. The program places a high priority on interdisciplinary research. Investigators are encouraged to submit proposals of joint interest to the Economics Program and other NSF programs and NSF initiative areas. The program places a high priority on broadening participation and encourages proposals from groups and regions that traditionally have not participated fully in science, mathematics, and engineering. The program also funds conferences and interdisciplinary research that strengthens links among economics and the other social and behavioral sciences as well as mathematics and statistics. The Doctoral Dissertation Research Improvement Grants (DDRIG) funding opportunity is designed to improve the quality of dissertation research. DDRIG proposals are submitted by a faculty member on behalf of the graduate student. DDRIG awards provide funds for items not normally available through the student's university such as enabling doctoral students to undertake significant data-gathering projects and to conduct field research in settings away from their campus. DDRIGs do not provide cost-of-living or other stipends or tuition. Outstanding DDRIG proposals specify how the knowledge to be created advances economics science. Proposals for Doctoral Dissertation Research Improvement Grants (DDRIGS) in Economics should follow the directions for submissions in the PAPPG . Please contact an Economics program officer if you plan to submit a DDRIG proposal. For additional funding opportunities, we invite you to also look at the SBE Office of Multidisciplinary Activities web site .",
+      "fit": 94,
+      "matchedTerms": [
+        "data",
+        "university",
+        "science",
+        "engineering",
+        "mathematics",
+        "broadening participation"
+      ]
+    },
+    {
+      "id": "360350",
+      "number": "25-545",
+      "title": "NSF STEM K-12 (STEM K-12)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-07",
+      "posted": "2025-08-22",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25545",
+      "awardCeiling": "",
+      "estimatedFunding": "30000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The NSF STEM K-12 program in the Division of Research on Learning in Formal and Informal Settings (DRL) in the Directorate for STEM Education (EDU) supports fundamental, applied, and translational research that advances STEM teaching and learning and improves understanding of education across the human lifespan and a range of formal and informal settings .",
+      "fit": 72,
+      "matchedTerms": [
+        "learning",
+        "stem",
+        "k-12",
+        "science"
+      ]
+    },
+    {
+      "id": "343875",
+      "number": "22-639",
+      "title": "Atmospheric and Geospace Sciences Postdoctoral Research Fellowships (AGS-PRF)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-07",
+      "posted": "2022-10-01",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22639",
+      "awardCeiling": "",
+      "estimatedFunding": "2000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Division of Atmospheric and Geospace Sciences (AGS), awards Postdoctoral Research Fellowships (PRF) to highly qualified early career investigators to carry out an independent research program. The research plan of each Fellowship must address scientific questions within the scope of AGS disciplines. These disciplines include Atmospheric Chemistry (ATC), Climate and Large-Scale Dynamics (CLD), Paleoclimate (PC), and Physical and Dynamic Meteorology (PDM) in the Atmospheric Sciences, and Aeronomy (AER), Magnetospheric Physics (MAG), Solar Terrestrial (ST), and Space Weather Research (SWR) in the Geospace Sciences. The AGS-PRF program supports researchers (also known as Fellows) for a period of up to 24 months with Fellowships that can be taken to the institution of their choice. The program is intended to recognize beginning investigators of significant potential and provide them with experiences in research that will broaden perspectives, facilitate interdisciplinary interactions, and help establish them in leadership positions within the Atmospheric and Geospace Sciences community. Fellowships are awards to individual Fellows, not institutions, and are administered by the Fellows.",
+      "fit": 64,
+      "matchedTerms": [
+        "career",
+        "science"
+      ]
+    },
+    {
+      "id": "358403",
+      "number": "14-579",
+      "title": "Facilitating Research at Primarily Undergraduate Institutions: (RUI and ROA-PUI)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-08",
+      "posted": "2025-01-31",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14579",
+      "awardCeiling": "",
+      "estimatedFunding": "56000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA) funding opportunities support research by faculty members at predominantly undergraduate institutions (PUIs). RUI proposals support PUI faculty in research that engages them in their professional field(s), builds capacity for research at their home institution, and supports the integration of research and undergraduate education. ROAs similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators. Eligible PUIs are accredited colleges and universities (including two-year community colleges) that award Associate's degrees, Bachelor's degrees, and/or Master's degrees in NSF-supported fields, but have awarded 20 or fewer Ph.D./D.Sci. degrees in all NSF-supported fields during the combined previous two academic years. All NSF directorates may support RUI and ROA funding activities. Funding for these awards is contained within research and education program allocations and not held as a separate allocation. RUI and ROA proposals are evaluated and funded by NSF programs in the disciplinary areas of the proposed research and are funded at their discretion. Prospective PIs should contact disciplinary program officers to identify specific NSF programs and to determine the feasibility and timing of RUI/ROA requests. General RUI/ROA points of contact are available through the website http://www.nsf.gov/crssprgm/rui_roa/contacts.jsp . 1. Research in Undergraduate Institutions (RUI). An RUI proposal may be: A request to support an individual research project or a collaborative research project involving PUI faculty and students at their own or other institutions. A request involving shared research instrumentation. 2. Research Opportunity Awards (ROA). The types of ROA opportunities include: A supplement to an existing NSF award to support ROA activities for PUI faculty. Requests to rebudget funds in an existing NSF award to support ROA activities for PUI faculty. Submission of a new collaborative proposal between a PUI and another institution(s), with a ROA component as a subaward or as part of a linked collaborative proposal.",
+      "fit": 64,
+      "matchedTerms": [
+        "undergraduate",
+        "science"
       ]
     },
     {
@@ -2020,38 +2026,19 @@
     {
       "id": "watchlist-california-department-of-education-funding-5",
       "number": "",
-      "title": "Request for Applications",
+      "title": "MCEC Grant 26-27 RFA",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r8/wioa27rfa.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r17/mcec26rfa.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-6",
-      "number": "",
-      "title": "Request for Applications",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r12/caserves26-27.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
+      "description": "State funding. Matched source page for California Department of Education Funding. MCEC Grant 26-27 RFA",
       "fit": 52,
       "matchedTerms": []
     },
