@@ -1,62 +1,8 @@
 {
-  "scannedAt": "2026-10-12T21:29:31.803Z",
+  "scannedAt": "2026-10-19T18:55:38.207Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "334326",
-      "number": "21-595",
-      "title": "Tribal Colleges and Universities Program (TCUP)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-10-14",
-      "posted": "2021-06-24",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21595",
-      "awardCeiling": "3500000",
-      "estimatedFunding": "10799836",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Tribal Colleges and Universities Program (TCUP) provides awards to federally recognized 1 Tribal Colleges and Universities, Alaska Native-serving institutions, and Native Hawaiian-serving institutions to promote high quality science (including sociology, psychology, anthropology, linguistics, economics and bioeconomics, statistics, and other social and behavioral sciences; natural sciences; computer science, including, but not limited to, artificial intelligence, quantum information science, and cybersecurity), technology, engineering and mathematics (STEM), STEM education, research, and outreach. Support is available to TCUP-eligible institutions (see the Additional Eligibility subsection of Section IV of this solicitation) for transformative capacity-building or community engagement projects through Instructional Capacity Excellence in TCUP Institutions (ICE-TI) , Targeted STEM Infusion Projects (TSIP) , TCUP for Secondary and Elementary Teachers in STEM (TSETS) , TCU Enterprise Advancement Centers (TEA Centers) , Cyberinfrastructure Health, Assistance, and Improvements (CHAI) , and Preparing for TCUP Implementation (Pre-TI) . Collaborations led by TCUP institutions that involve non-TCUP institutions of higher education are supported through TCUP Partnerships , with the participation of other NSF programs to support the work of non-TCUP institutions. Finally, research studies that further the scholarly activity of individual faculty members are supported through Small Grants for Research (SGR) . Through the opportunities highlighted above, as well as collaborations with other National Science Foundation (NSF) divisions and directorates, and other organizations, TCUP aims to increase Native individuals' participation in STEM careers, improve the quality of STEM programs at TCUP-eligible institutions, and facilitate the development of a strong STEM enterprise in TCUP institutions' service areas. TCUP supports transformative capacity-building, community engagement, or research projects at TCUP-eligible institutions through the following funding tracks: Instructional Capacity Excellence in TCUP Institutions (ICE-TI) projects provide support to design, implement, and assess comprehensive institutional improvements in STEM education and research capacity at TCUP-eligible institutions of higher education. By strengthening STEM education and STEM education research, successful projects will increase the number of STEM students and improve the quality of their preparation. ICE-TI projects create and/or adapt and assess innovative models and materials for teaching and learning in STEM, embody knowledge about how students learn most effectively in STEM teaching and learning activities, and bring STEM disciplinary advances into the undergraduate or graduate experience. The objective of this strand is to expand STEM degrees offered by TCUP-eligible institutions or significantly enhance instructional approaches. Targeted STEM Infusion Projects (TSIP) support the attainment of a short-term, well-defined goal to improve the quality of STEM education at an eligible institution. Targeted STEM Infusion Projects could, for example, enhance academic infrastructure by systematically adding traditional knowledge to the scope or content of a STEM course, updating curricula, modernizing laboratory research equipment, developing and delivering professional development for K-12 STEM educators, or improving the computational infrastructure. The objective of this strand is to expand STEM degrees or significantly enhance instructional approaches. TCUP for Secondary & Elementary Teachers in STEM (TSETS) supports in-service professional development in STEM disciplinary or STEM education content and/or research for K-12 STEM teachers in the relevant service area. Examples of project activities include, but are not limited to, professional development involving seminar series and engagement in STEM instruction and content during the academic year, structured series of summer intensive workshops and trainings, and summer research opportunities. The objective of this strand is to broaden the instructional capacity for STEM in the K-12 workforce and thereby to the entire community, and to build the capacity for STEM disciplinary or education research among participating educational professionals. TCU Enterprise Advancement Centers (TEA Centers) coalesce the STEM and/or STEM education expertise into a team, designed to support and promote the STEM goals, needs, aspirations, or interests of the chartering reservation or tribe(s). TEA Centers may address a critical tribal or community need or focus on a realm of research or design that is beyond the scope of individual research grants or that is of interest to multiple tribes. The objective of this strand is to build on the capacity developed through prior TCUP support and apply expertise to collaborations with communities in the institution's service area, or nationally. The Cyberinfrastructure Health, Assistance, and Improvements (CHAI) strand supports projects at TCUP-eligible institutions of higher education to upgrade the cyberinfrastructure necessary to conduct, expand, manage and administer STEM programs of study, including research. The objective of this strand is to equip TCUP institutions to meet the demands of virtual instruction, advanced computing, and data science opportunities. Preparing for TCUP Implementation (Pre-TI) provides support for activities that prepare an institution for Implementation-level projects. Consequently, they are available only to TCUP-eligible institutions of higher education that have never received TCUP support, have not received TCUP support within the previous five years, or are embarking on a significantly novel STEM strategic plan. Examples of supported activities include completing an institutional assessment of its current STEM instructional capacity, or engaging in conversations necessary to formulate a shared vision of what that capacity should be and how to achieve it. Pre-TI awards can support staff and faculty release time, travel, stakeholder gatherings, and associated administrative costs. The objective of this strand is to conduct self-studies and formulate strategic plans for the development of STEM instructional programs of study. The TCUP Partnerships strand provides support for collaborations that will improve TCUP institutions' instructional and research capacity in STEM fields supported by NSF; attract, retain, and support TCUP students in internships and research endeavors deemed to be necessary for a complete curriculum offering; and engage partner universities to provide an academic grounding and a successful transition for students who wish to study or attain degrees in STEM fields supported by NSF. TCUP Partnerships broaden the number of scientific disciplines available to students at TCUP institution through collaborations with non-TCUP institutions. Active Pre-Engineering Education Collaboratives or Partnerships in Geoscience Education awards are not affected by this revision. The objective of this strand is the development, through instructional and research capacity-building, of academic and career pathways for TCUP students through supporting collaborative projects between and among TCUP and non-TCUP institutions. Interested teams of collaborators for which a TCUP institution serves as lead should contact the TCUP program directors. Support for non-TCUP partners must be obtained from other NSF programs, which follows the procedures of the prior Partnership strands. Small Grants for Research (SGR) strand support STEM or STEM Education faculty members at TCUP-eligible institutions to initiate or pursue research projects or programs that may include undergraduate or graduate student engagement. Awards are intended to help further the faculty member's research capability and effectiveness; improve research and teaching at his or her home institution and create and study new models and innovations in STEM teaching and learning. International research or collaborations are strongly encouraged. TCUP students may seek support for international research opportunities under the guidance of a TCUP STEM or STEM education faculty member and an international research collaborator. These awards are particularly appropriate as a means of recruiting and retaining highly qualified scientists, engineers, and educators at TCUP-eligible institutions. The objective of this strand is to support faculty research and professional development that build research capacity at TCUP institutions. [1] Executive Order 13021 defines Tribal Colleges and Universities (\"tribal colleges\") as those institutions cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note), and other institutions that qualify for funding under the Tribally Controlled Community College Assistance Act of 1978, (25 U.S.C. 1801 et seq.), as well as Navajo Community College as authorized in the Navajo Community College Assistance Act of 1978, Public Law 95-471, Title II (25 U.S.C. 640a note). The term \"Alaska Native-serving institution\" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; and that, at the time of submission, has an undergraduate enrollment that is at least 20 percent Alaska Native students. The term \"Native Hawaiian-serving institution\" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; and that, at the time of submission, has an undergraduate enrollment that is at least 10 percent Native Hawaiian students. Most TCUP-eligible institutions of higher education are two-year or community colleges. See the Who May Submit Proposals section in this solicitation for further details.",
-      "fit": 100,
-      "matchedTerms": [
-        "artificial intelligence",
-        "data",
-        "infrastructure",
-        "learning",
-        "assessment",
-        "workforce",
-        "professional development",
-        "implementation"
-      ]
-    },
-    {
-      "id": "350802",
-      "number": "24-503",
-      "title": "Research Experiences for Teachers (RET) in Engineering and Computer Science",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-10-14",
-      "posted": "2023-10-31",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24503",
-      "awardCeiling": "",
-      "estimatedFunding": "5800000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Research Experiences for Teachers (RET) in Engineering and Computer Science program supports authentic summer research experiences for K-14 educators to foster long-term collaborations between universities, community colleges, school districts, and industry partners. With this solicitation, the Directorates for Engineering (ENG) and Computer and Information Science and Engineering (CISE) focus on a reciprocal exchange of expertise between K-14 educators and research faculty and (when applicable) industry mentors. K-14 educators will enhance their scientific disciplinary knowledge in engineering or computer science and translate their research experiences into classroom activities and curricula to broaden their students' awareness of and participation in computing and engineering pathways. At the same time, the hosting research faculty will deepen their understanding of classroom practices, current curricula, pedagogy, and K-14 educational environments.",
-      "fit": 76,
-      "matchedTerms": [
-        "science",
-        "engineering",
-        "computer science",
-        "pathways"
-      ]
-    },
     {
       "id": "348599",
       "number": "23-598",
@@ -112,7 +58,7 @@
     {
       "id": "343980",
       "number": "23-500",
-      "title": "SBE Postdoctoral Research Fellowships",
+      "title": "SBE Postdoctoral Research Fellowships (SPRF)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
       "deadline": "2026-11-04",
@@ -125,9 +71,10 @@
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "The Directorate for Social, Behavioral and Economic Sciences (SBE) offers Postdoctoral Research Fellowships to encourageindependence earlyin the fellow'scareerby supporting his or herresearch and training goals.The research and training plan of each fellowship must address important scientific questions within thescope of the SBE directorate and the specific guidelines in this solicitation. The SPRF program offers two tracks: (I) Fundamental Research in the SBE Sciences (SPRF-FR) and (II) Broadening Participation in the SBE Sciences (SPRF-BP). See the full text of the solicitation for a detailed description of these tracks.",
-      "fit": 68,
+      "description": "The Directorate for Social, Behavioral and Economic Sciences (SBE) offers Postdoctoral Research Fellowships to encourage independence early in the fellow's career by supporting his or her research and training goals. The research and training plan of each fellowship must address important scientific questions within the scope of the SBE directorate and the specific guidelines in this solicitation. The SPRF program offers two tracks: (I) Fundamental Research in the SBE Sciences (SPRF-FR) and (II) Broadening Participation in the SBE Sciences (SPRF-BP). See the full text of the solicitation for a detailed description of these tracks.",
+      "fit": 72,
       "matchedTerms": [
+        "career",
         "science",
         "broadening participation"
       ]
@@ -194,7 +141,7 @@
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
       "description": "The Applied Mathematics program supports mathematics research motivated by and contributing to the solution of problems arising in science and engineering. Successful proposals must demonstrate mathematical innovation, as well as breadth and quality of impact on applications. Projects that additionally provide opportunities for rigorous mathematical training of junior applied mathematicians through their involvement in research are encouraged. The proposals considered by the Applied Mathematics program may range from single investigator to interdisciplinary team projects. Conferences Proposals to the Applied Mathematics program for conferences or workshops should be submitted through the program solicitation \"Conferences and Workshops in the Mathematical Sciences\" (link below). Principal Investigators should carefully read the program solicitation to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities. To facilitate timely notification of the availability of support: Proposals for conferences, workshops, etc., to be held in the US must be submitted 8 months in advance of the conference date; Proposals to support group travel to meetings outside the US must be submitted 12 months in advance of the meeting date; Proposals for conferences, workshops, etc., whose budget request exceeds $50,000 must be submitted during the annual November submission window.",
-      "fit": 28,
+      "fit": 32,
       "matchedTerms": [
         "science",
         "engineering",
@@ -218,7 +165,7 @@
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
       "description": "The U.S. NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) partners across sectors to advance three primary focus areas - accelerating technology translation and development, fostering regional innovation and economic growth, and preparing the American workforce for future high-wage jobs in STEM fields. The translation of research to practice ensures that the insights and innovations developed through scientific study and experimentation have tangible, positive impacts for the Nation. These impacts include improving the quality of life, promoting economic and job growth, ensuring national security, and maintaining global competitiveness. Indeed, scientific and engineering breakthroughs have the potential to address critical societal challenges in industries such as aerospace, agriculture, communications, education, energy, healthcare, national security, and transportation - but the translation of discoveries and innovations from the laboratory to society often takes many forms including non-linear pathways. The NSF TTP program was developed with several goals in mind: To identify and support use-inspired research and translational activities enabling a continuum from foundational research to practice; To develop partnerships and collaborations between institutions of higher education and other entities (e.g., industry, state/local/national government agencies, philanthropies, open-source ecosystems, for-benefit, for-profit and non-profit organizations, international organizations, etc.); To promote and advance the education and training of students and postdoctoral researchers, encouraging the participation of all Americans in STEM including innovation and entrepreneurship; and To identify future customer needs and opportunities and bring these to the forefront in the conduct of use-inspired research and translational activities. The NSF TTP program offers three tracks that represent different starting points or stages in moving discoveries and innovations from the laboratory to practice: NSF TTP-Explore (NSF TTP-E) is a pilot track that is likely to be the first step for researchers seeking to translate their basic research to practice. To be eligible for the NSF TTP-E track, proposers must have an active, eligible, NSF research award (see Eligibility Information for further details). TTP-E is designed to encourage current, eligible NSF awardees to intentionally pursue applications of their research with the potential for societal impact. The NSF TTP-E track provides the opportunity to obtain an extension of the initial award period of a current NSF award for up to two years in order to offer investigators an opportunity to explore adventurous, high-risk, use-inspired research and initial translational activities as the starting point for translation that was not covered by the original research award. NSF TTP-Translate (NSF TTP-T) starts with use-inspired research and initial translational activities and further matures the idea(s), iterates and improves the solution(s), and lowers the barrier(s) to effective translation of research from lab to practice. NSF TTP-Partner (NSF TTP-P) supports translational efforts that demand one or more partnerships for technology development and deployment. Here, strategic partnerships with stakeholders beyond U.S. institutions of higher education are essential ingredients for success and may include industry partners, government entities at all levels, philanthropies, international organizations, or other groups associated with large scale productization and distribution. The NSF TTP-P track requires an NSF-Catalyzed Partnership with an organization that will assist in the translation to practice. In addition to the Principal Investigator (PI), NSF TTP-P proposals must include a co-PI or Senior/Key Personnel who is a member or employee of the NSF-Catalyzed Partner. Partnerships with U.S. institutions of higher education are valued, but NSF TTP strongly prioritizes NSF-Catalyzed Partnerships that are able to help bring the product, process, or service to the market, potentially through licensing agreements, startup or small business formation, incorporation into an existing open-source ecosystem, development into standards setting arrangements, etc.",
-      "fit": 88,
+      "fit": 92,
       "matchedTerms": [
         "open",
         "workforce",
@@ -315,6 +262,86 @@
         "student success",
         "career",
         "transfer"
+      ]
+    },
+    {
+      "id": "364086",
+      "number": "ED-GRANTS-101526-001",
+      "title": "Institute of Education Sciences (IES): National Center on Education Research (NCER): From Seedlings to Scale, Assistance Listing Number (ALN) 84.305J",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-12-11",
+      "posted": "2026-10-16",
+      "status": "posted",
+      "url": "https://ies.ed.gov/sites/default/files/ncer/document/2026/10/FY2027_305J.pdf",
+      "awardCeiling": "500000",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Through the From Seedlings to Scale (S2S) Grants program, IES will invest in innovative ideas within an identified focus area through three phases of increasing funding and duration to support ideas as they grow from seedlings to scalable solutions. Projects will incorporate high-quality research, robust solution development, and attention to sustainability and scaling throughout all phases. For the FY 2027 S2S program, IES invites applications for Phase One projects under the Coordinating Systems to Translate Evidence into Policy and Practice (C-STEP) focus area. C-STEP seeks to develop and rigorously test innovative AI- and technology-enabled solutions that help education systems intentionally integrate evidence-based products, processes, and policies to improve outcomes for prekindergarten through grade 12 students. Proposed solutions should reflect a deep understanding of the systems in which they operate and enable education leaders to align resources, anticipate impacts, and overcome implementation barriers, thereby strengthening the connection between research, policy, and practice. Assistance Listing Number (ALN): 84.305J",
+      "fit": 80,
+      "matchedTerms": [
+        "ai",
+        "outcomes",
+        "evidence",
+        "implementation",
+        "technology",
+        "ies"
+      ]
+    },
+    {
+      "id": "364087",
+      "number": "ED-GRANTS-101526-002",
+      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Transformative Research in Special Education, Assistance Listing Number (ALN) 84.324T",
+      "source": "Holly Clark Management and Program Analyst",
+      "agencyCode": "ED",
+      "deadline": "2026-12-11",
+      "posted": "2026-10-16",
+      "status": "posted",
+      "url": "https://ies.ed.gov/sites/default/files/ncser/document/2026/10/FY2027_324T.pdf",
+      "awardCeiling": "3750000",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "Through the Transformative Research in Special Education Grants program, IES seeks to support research and development of transformative solutions to seemingly intractable problems and challenges in special education. Transformative projects enact bold and innovative thinking, involve interdisciplinary collaboration, are inherently risky, and use high-quality research approaches to create high-reward, scalable solutions with the potential to lead to dramatic improvements for students with or at risk for disabilities. In FY 2027, the Transformative Research in Special Education Grants program will focus on Phase 1 grants to research and develop transformative solutions to dramatically improve preservice teacher education systems so they can better attract, train, and retain preK-12 general and special education teachers who are prepared to provide high-quality instruction and substantially improve outcomes for students with or at risk for disabilities. Assistance Listing Number (ALN): 84.324T",
+      "fit": 54,
+      "matchedTerms": [
+        "outcomes",
+        "teacher",
+        "ies"
+      ]
+    },
+    {
+      "id": "334326",
+      "number": "21-595",
+      "title": "Tribal Colleges and Universities Program (TCUP)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-01-11",
+      "posted": "2021-06-24",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21595",
+      "awardCeiling": "3500000",
+      "estimatedFunding": "10799836",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Tribal Colleges and Universities Program (TCUP) provides awards to federally recognized 1 Tribal Colleges and Universities, Alaska Native-serving institutions, and Native Hawaiian-serving institutions to promote high quality science (including sociology, psychology, anthropology, linguistics, economics and bioeconomics, statistics, and other social and behavioral sciences; natural sciences; computer science, including, but not limited to, artificial intelligence, quantum information science, and cybersecurity), technology, engineering and mathematics (STEM), STEM education, research, and outreach. Support is available to TCUP-eligible institutions (see the Additional Eligibility subsection of Section IV of this solicitation) for transformative capacity-building or community engagement projects through Instructional Capacity Excellence in TCUP Institutions (ICE-TI) , Targeted STEM Infusion Projects (TSIP) , TCUP for Secondary and Elementary Teachers in STEM (TSETS) , TCU Enterprise Advancement Centers (TEA Centers) , Cyberinfrastructure Health, Assistance, and Improvements (CHAI) , and Preparing for TCUP Implementation (Pre-TI) . Collaborations led by TCUP institutions that involve non-TCUP institutions of higher education are supported through TCUP Partnerships , with the participation of other NSF programs to support the work of non-TCUP institutions. Finally, research studies that further the scholarly activity of individual faculty members are supported through Small Grants for Research (SGR) . Through the opportunities highlighted above, as well as collaborations with other National Science Foundation (NSF) divisions and directorates, and other organizations, TCUP aims to increase Native individuals' participation in STEM careers, improve the quality of STEM programs at TCUP-eligible institutions, and facilitate the development of a strong STEM enterprise in TCUP institutions' service areas. TCUP supports transformative capacity-building, community engagement, or research projects at TCUP-eligible institutions through the following funding tracks: Instructional Capacity Excellence in TCUP Institutions (ICE-TI) projects provide support to design, implement, and assess comprehensive institutional improvements in STEM education and research capacity at TCUP-eligible institutions of higher education. By strengthening STEM education and STEM education research, successful projects will increase the number of STEM students and improve the quality of their preparation. ICE-TI projects create and/or adapt and assess innovative models and materials for teaching and learning in STEM, embody knowledge about how students learn most effectively in STEM teaching and learning activities, and bring STEM disciplinary advances into the undergraduate or graduate experience. The objective of this strand is to expand STEM degrees offered by TCUP-eligible institutions or significantly enhance instructional approaches. Targeted STEM Infusion Projects (TSIP) support the attainment of a short-term, well-defined goal to improve the quality of STEM education at an eligible institution. Targeted STEM Infusion Projects could, for example, enhance academic infrastructure by systematically adding traditional knowledge to the scope or content of a STEM course, updating curricula, modernizing laboratory research equipment, developing and delivering professional development for K-12 STEM educators, or improving the computational infrastructure. The objective of this strand is to expand STEM degrees or significantly enhance instructional approaches. TCUP for Secondary & Elementary Teachers in STEM (TSETS) supports in-service professional development in STEM disciplinary or STEM education content and/or research for K-12 STEM teachers in the relevant service area. Examples of project activities include, but are not limited to, professional development involving seminar series and engagement in STEM instruction and content during the academic year, structured series of summer intensive workshops and trainings, and summer research opportunities. The objective of this strand is to broaden the instructional capacity for STEM in the K-12 workforce and thereby to the entire community, and to build the capacity for STEM disciplinary or education research among participating educational professionals. TCU Enterprise Advancement Centers (TEA Centers) coalesce the STEM and/or STEM education expertise into a team, designed to support and promote the STEM goals, needs, aspirations, or interests of the chartering reservation or tribe(s). TEA Centers may address a critical tribal or community need or focus on a realm of research or design that is beyond the scope of individual research grants or that is of interest to multiple tribes. The objective of this strand is to build on the capacity developed through prior TCUP support and apply expertise to collaborations with communities in the institution's service area, or nationally. The Cyberinfrastructure Health, Assistance, and Improvements (CHAI) strand supports projects at TCUP-eligible institutions of higher education to upgrade the cyberinfrastructure necessary to conduct, expand, manage and administer STEM programs of study, including research. The objective of this strand is to equip TCUP institutions to meet the demands of virtual instruction, advanced computing, and data science opportunities. Preparing for TCUP Implementation (Pre-TI) provides support for activities that prepare an institution for Implementation-level projects. Consequently, they are available only to TCUP-eligible institutions of higher education that have never received TCUP support, have not received TCUP support within the previous five years, or are embarking on a significantly novel STEM strategic plan. Examples of supported activities include completing an institutional assessment of its current STEM instructional capacity, or engaging in conversations necessary to formulate a shared vision of what that capacity should be and how to achieve it. Pre-TI awards can support staff and faculty release time, travel, stakeholder gatherings, and associated administrative costs. The objective of this strand is to conduct self-studies and formulate strategic plans for the development of STEM instructional programs of study. The TCUP Partnerships strand provides support for collaborations that will improve TCUP institutions' instructional and research capacity in STEM fields supported by NSF; attract, retain, and support TCUP students in internships and research endeavors deemed to be necessary for a complete curriculum offering; and engage partner universities to provide an academic grounding and a successful transition for students who wish to study or attain degrees in STEM fields supported by NSF. TCUP Partnerships broaden the number of scientific disciplines available to students at TCUP institution through collaborations with non-TCUP institutions. Active Pre-Engineering Education Collaboratives or Partnerships in Geoscience Education awards are not affected by this revision. The objective of this strand is the development, through instructional and research capacity-building, of academic and career pathways for TCUP students through supporting collaborative projects between and among TCUP and non-TCUP institutions. Interested teams of collaborators for which a TCUP institution serves as lead should contact the TCUP program directors. Support for non-TCUP partners must be obtained from other NSF programs, which follows the procedures of the prior Partnership strands. Small Grants for Research (SGR) strand support STEM or STEM Education faculty members at TCUP-eligible institutions to initiate or pursue research projects or programs that may include undergraduate or graduate student engagement. Awards are intended to help further the faculty member's research capability and effectiveness; improve research and teaching at his or her home institution and create and study new models and innovations in STEM teaching and learning. International research or collaborations are strongly encouraged. TCUP students may seek support for international research opportunities under the guidance of a TCUP STEM or STEM education faculty member and an international research collaborator. These awards are particularly appropriate as a means of recruiting and retaining highly qualified scientists, engineers, and educators at TCUP-eligible institutions. The objective of this strand is to support faculty research and professional development that build research capacity at TCUP institutions. [1] Executive Order 13021 defines Tribal Colleges and Universities (\"tribal colleges\") as those institutions cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note), and other institutions that qualify for funding under the Tribally Controlled Community College Assistance Act of 1978, (25 U.S.C. 1801 et seq.), as well as Navajo Community College as authorized in the Navajo Community College Assistance Act of 1978, Public Law 95-471, Title II (25 U.S.C. 640a note). The term \"Alaska Native-serving institution\" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; and that, at the time of submission, has an undergraduate enrollment that is at least 20 percent Alaska Native students. The term \"Native Hawaiian-serving institution\" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; and that, at the time of submission, has an undergraduate enrollment that is at least 10 percent Native Hawaiian students. Most TCUP-eligible institutions of higher education are two-year or community colleges. See the Who May Submit Proposals section in this solicitation for further details.",
+      "fit": 100,
+      "matchedTerms": [
+        "artificial intelligence",
+        "data",
+        "infrastructure",
+        "learning",
+        "assessment",
+        "workforce",
+        "professional development",
+        "implementation"
       ]
     },
     {
@@ -1157,6 +1184,29 @@
       ]
     },
     {
+      "id": "363233",
+      "number": "24-590",
+      "title": "Engineering Research Initiation (ERI)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-09-16",
+      "posted": "2026-07-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24590",
+      "awardCeiling": "",
+      "estimatedFunding": "11000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The NSF Directorate for Engineering (ENG) seeks to build engineering research capacity across the nation by investing in new academic investigators who have yet to receive sufficient research funding from Federal Agencies. The Engineering Research Initiation (ERI) program will support new investigators as they initiate their research programs and advance in their careers as researchers, educators, and innovators. This funding opportunity aims to broaden the base of investigators involved in engineering research and therefore is limited to investigators that are not affiliated with \"very high research activity\" R1 institutions (according to the Carnegie Classification https://carnegieclassifications.iu.edu/ ).",
+      "fit": 64,
+      "matchedTerms": [
+        "science",
+        "engineering"
+      ]
+    },
+    {
       "id": "355100",
       "number": "24-584",
       "title": "Advanced Technological Education (ATE)",
@@ -1186,132 +1236,28 @@
       ]
     },
     {
-      "id": "45810",
-      "number": "PD-98-1331",
-      "title": "Sociology",
+      "id": "350802",
+      "number": "24-503",
+      "title": "Research Experiences for Teachers (RET) in Engineering and Computer Science",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
-      "deadline": "2076-09-30",
-      "posted": "2009-03-06",
+      "deadline": "2027-10-13",
+      "posted": "2023-10-31",
       "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=981331",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24503",
       "awardCeiling": "",
-      "estimatedFunding": "",
+      "estimatedFunding": "5800000",
       "indirectRate": "",
       "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "The Sociology Program supports basic research on all forms of human social organization - societies, institutions, groups and demography - and processes of individual and institutional change. The program encourages theoretically focused empirical investigations aimed at improving the explanation of fundamental social processes. This includes research on organizations and organizational behavior, population dynamics, social movements, social groups, labor force participation, stratification and mobility, family, social networks, socialization, and the sociology of science and technology. The program supports both original data collection and secondary data analysis that use the full range of quantitative and qualitative methodological tools. Theoretically grounded projects that offer methodological innovations and improvements for data collection and analysis are also welcomed. Principal Investigators should select PD 98-1331 in the program announcement/solicitation block on the proposal cover sheet for submission of regular research projects to the sociology program. Projects are evaluated using the two foundation-wide criteria, intellectual merit and broader impacts . In assessing the intellectual merit of proposed research, four components are key to securing support from the Sociology Program: (1) the issues investigated must be theoretically grounded; (2) the research should be based on empirical observation or be subject to empirical validation or illustration; (3) the research design must be appropriate to the questions asked; and (4) the proposed research must advance our understanding of social processes, structures and methods. NSF also offers a number of specialized funding opportunities through its crosscutting and cross-directorate activities; some of the sociology-related opportunities are listed below. Crosscutting Research & Training Opportunities: ADVANCE: Increasing the Participation and Advancement of Women in Academic Science and Engineering Careers Faculty Early Career Development (CAREER) Program Graduate Research Fellowship Program (GRFP) Major Research Instrumentation (MRI) Program Mid-scale Research Infrastructure Programs SBE Postdoctoral Research Fellowships (SPRF) Research Experiences for Undergraduates (REU) Research at Undergraduate Institutions (RUI) Small Business Innovation Research (SBIR) Program To get information about these programs and others, please visit the cross-cutting and NSF-wide active funding opportunities search page. NSF's mission calls for the broadening of opportunities for and expanding participation of groups, institutions and geographic regions that are underrepresented in STEM disciplines, which is essential to the health and vitality of science and engineering. NSF is committed to this principle of diversity and deems it central to the programs, projects and activities it considers and supports. NSF is also committed to public access to publications and data, unless there are countervailing interests that prohibit or limit public access to data, including matters of personally identifiable information of research participants, privacy or other issues of vulnerability such as economic, social or other security interests, etc.). See Public Access to Results of NSF-Funded Research and Data Management for NSF SBE Directorate Proposals and Awards for more information.",
-      "fit": 100,
+      "description": "The Research Experiences for Teachers (RET) in Engineering and Computer Science program supports authentic summer research experiences for K-14 educators to foster long-term collaborations between universities, community colleges, school districts, and industry partners. With this solicitation, the Directorates for Engineering (ENG) and Computer and Information Science and Engineering (CISE) focus on a reciprocal exchange of expertise between K-14 educators and research faculty and (when applicable) industry mentors. K-14 educators will enhance their scientific disciplinary knowledge in engineering or computer science and translate their research experiences into classroom activities and curricula to broaden their students' awareness of and participation in computing and engineering pathways. At the same time, the hosting research faculty will deepen their understanding of classroom practices, current curricula, pedagogy, and K-14 educational environments.",
+      "fit": 72,
       "matchedTerms": [
-        "data",
-        "infrastructure",
-        "privacy",
-        "stem",
-        "undergraduate",
-        "career",
         "science",
-        "technology"
-      ]
-    },
-    {
-      "id": "112354",
-      "number": "PD-11-8031",
-      "title": "Science of Organizations (SoO)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2076-09-30",
-      "posted": "2011-08-08",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=118031",
-      "awardCeiling": "",
-      "estimatedFunding": "3270000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "Organizations -- private and public, established and entrepreneurial, designed and emergent, formal and informal, profit and nonprofit -- are critical to the well-being of nations and their citizens. They are of crucial importance for producing goods and services, creating value, providing jobs, and achieving social goals. The Science of Organizations (SoO) program funds basic research that yields a scientific evidence base for improving the design and emergence, development and deployment, and management and ultimate effectiveness of organizations of all kinds. SoO funds research that advances our fundamental understanding of how organizations develop, form and operate. Successful SoO research proposals use scientific methods to develop and refine theories, to empirically test theories and frameworks, and to develop new measures and methods. Funded research is aimed at yielding generalizable insights that are of value to the business practitioner, policy-maker and research communities. SoO welcomes any and all rigorous, scientific approaches that illuminate aspects of organizations as systems of coordination, management and governance. In considering whether a particular project might be a candidate for consideration by SoO, please note: Intellectual perspectives may involve (but are not limited to) organizational theory, behavior, sociology or economics, business policy and strategy, communication sciences, entrepreneurship, human resource management, information sciences , managerial and organizational cognition, operations management, public administration, social or industrial psychology, and technology and innovation management. Phenomena studied may include (but are not limited to) structures, routines, effectiveness, competitiveness, innovation, dynamics, change and evolution. Levels of analysis may include (but are not limited to) organizational, cross-organizational collaborations or relationships, and institutional and can address individuals, groups or teams. Research methods may be qualitative and quantitative and may include (but are not limited to) archival analyses, surveys, simulation studies, experiments, comparative case studies, and network analyses. Consistent with NSF merit review criteria, each SoO proposal should discuss both the intellectual merit and the potential broader impacts of the proposed research. SoO values basic research that has the potential to provide broader societal benefits. However, the majority of space in any proposal will need to be dedicated to the explication of theory, methods, and specific contribution to the evidence base about organizational effectiveness. Projects that aim to implement and subsequently evaluate particular organizational training, effectiveness or change programs, rather than to advance fundamental, generalizable knowledge, are not appropriate for SoO. Researchers who seek to conduct SoO-appropriate research in an industrial site and/or via an industry-university collaboration are invited to also look at the Grant Opportunities for Academic Liaisons with Industry (GOALI) program web site .",
-      "fit": 86,
-      "matchedTerms": [
-        "evidence",
-        "university",
-        "science",
-        "technology"
-      ]
-    },
-    {
-      "id": "320098",
-      "number": "PD-19-120Y",
-      "title": "Accountable Institutions and Behavior (AIB)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2076-09-30",
-      "posted": "2019-08-30",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=19120Y",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Accountable Institutions and Behavior (AIB) Program supports basic scientific research that advances knowledge and understanding of issues broadly related to attitudes, behavior, and institutions connected to public policy and the provision of public services. Research proposals are expected to be theoretically motivated, conceptually precise, methodologically rigorous, and empirically oriented. Substantive areas include (but are not limited to) the study of individual and group decision-making, political institutions (appointed or elected), attitude and preference formation and expression, electoral processes and voting, public administration, and public policy. This work can focus on a single case or can be done in a comparative context, either over time or cross-sectionally. The Program does not fund applied research. The Program also supports research experiences for undergraduate students and infrastructural activities, including methodological innovations. In addition, we encourage you to examine the websites for the National Science Foundation's Law and Science (LS) , Security and Preparedness (SAP) and Research Infrastructure in the Social and Behavioral Sciences (RISBS) programs.",
-      "fit": 82,
-      "matchedTerms": [
-        "infrastructure",
-        "undergraduate",
-        "science"
-      ]
-    },
-    {
-      "id": "320087",
-      "number": "PD-19-118Y",
-      "title": "Security and Preparedness (SAP)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2076-09-30",
-      "posted": "2019-08-30",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=19118Y",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Security and Preparedness (SAP) Program supports basic scientific research that advances knowledge and understanding of issues broadly related to global and national security. Research proposals are evaluated on the criteria of intellectual merit and broader impacts; the proposed projects are expected to be theoretically motivated, conceptually precise, methodologically rigorous, and empirically oriented. Moreover, the Program supports research experiences for undergraduate students and infrastructural activities, including methodological innovations. The Program does not fund applied research. In addition, we encourage you to examine the websites for the National Science Foundation's Accountable Institutions and Behavior (AIB), Law and Science (LS) programs, and Research Infrastructure in the Social and Behavioral Sciences (RISBS) programs.",
-      "fit": 82,
-      "matchedTerms": [
-        "infrastructure",
-        "undergraduate",
-        "science"
-      ]
-    },
-    {
-      "id": "329432",
-      "number": "PD-21-128Y",
-      "title": "Law & Science (LS)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2076-09-30",
-      "posted": "2020-10-15",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=21128Y",
-      "awardCeiling": "",
-      "estimatedFunding": "5500000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Law & Science Program considers proposals that address social scientific studies of law and law-like systems of rules, as well as studies of how science and technology are applied in legal contexts. The Program is inherently interdisciplinary and multi-methodological. Successful proposals describe research that advances scientific theory and understanding of the connections between human behavior and law, legal institutions, or legal processes; or the interactions of law and basic sciences, including biology, computer and information sciences, STEM education, engineering, geosciences, and math and physical sciences. Scientific studies of law often approach law as dynamic, interacting with multiple arenas, and with the participation of multiple actors. Fields of study include many disciplines, and often address problems including, though not limited, to: Crime, Violence, and Policing Cyberspace Economic Issues Environmental Science Evidentiary Issues Forensic Science Governance and Courts Human Rights and Comparative Law Information Technology Legal and Ethical Issues related to Science Legal Decision Making Legal Mobilization and Conceptions of Justice Litigation and the Legal Profession Punishment and Corrections Regulation and Facilitation of Biotechnology (e.g., Gene Editing, Gene Testing, Synthetic Biology) and Other Emerging Sciences and Technologies Use of Science in the Legal Processes LS supports the following types of proposals: Standard Research Grants and Grants for Collaborative Research Conference Awards LS also participates in a number of specialized funding opportunities through NSF's cross-cutting and cross-directorate activities, including, for example: Faculty Early Career Development (CAREER) Program Research Experiences for Undergraduates (REU) Research at Undergraduate Institutions (RUI) Grants for Rapid Response Research (RAPID) Early-concept Grants for Exploratory Research (EAGER) For information about these and other programs, please visit the Cross-cutting and NSF-wide Active Funding Opportunities homepage.",
-      "fit": 80,
-      "matchedTerms": [
-        "stem",
-        "undergraduate",
-        "career",
-        "science",
-        "technology",
-        "engineering"
+        "engineering",
+        "computer science",
+        "pathways"
       ]
     },
     {
@@ -1479,33 +1425,6 @@
       ]
     },
     {
-      "id": "348164",
-      "number": "PD-23-1320",
-      "title": "Economics",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2076-10-06",
-      "posted": "2023-05-17",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=231320",
-      "awardCeiling": "",
-      "estimatedFunding": "220000",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Economics program supports research designed to improve the understanding of the processes and institutions of the U.S. economy and of the world system of which it is a part. This program also strengthens both empirical and theoretical economic analysis as well as the methods for rigorous research on economic behavior. It supports research in almost every area of economics, including econometrics, economic history, environmental economics, finance, industrial organization, international economics, labor economics, macroeconomics, mathematical economics, and public finance. The Economics program welcomes proposals for individual or multi-investigator research projects, doctoral dissertation improvement awards, conferences, symposia, experimental research, data collection and dissemination, computer equipment and other instrumentation, and research experience for undergraduates. The program places a high priority on interdisciplinary research. Investigators are encouraged to submit proposals of joint interest to the Economics Program and other NSF programs and NSF initiative areas. The program places a high priority on broadening participation and encourages proposals from groups and regions that traditionally have not participated fully in science, mathematics, and engineering. The program also funds conferences and interdisciplinary research that strengthens links among economics and the other social and behavioral sciences as well as mathematics and statistics. The Doctoral Dissertation Research Improvement Grants (DDRIG) funding opportunity is designed to improve the quality of dissertation research. DDRIG proposals are submitted by a faculty member on behalf of the graduate student. DDRIG awards provide funds for items not normally available through the student's university such as enabling doctoral students to undertake significant data-gathering projects and to conduct field research in settings away from their campus. DDRIGs do not provide cost-of-living or other stipends or tuition. Outstanding DDRIG proposals specify how the knowledge to be created advances economics science. Proposals for Doctoral Dissertation Research Improvement Grants (DDRIGS) in Economics should follow the directions for submissions in the PAPPG . Please contact an Economics program officer if you plan to submit a DDRIG proposal. For additional funding opportunities, we invite you to also look at the SBE Office of Multidisciplinary Activities web site .",
-      "fit": 94,
-      "matchedTerms": [
-        "data",
-        "university",
-        "science",
-        "engineering",
-        "mathematics",
-        "broadening participation"
-      ]
-    },
-    {
       "id": "360350",
       "number": "25-545",
       "title": "NSF STEM K-12 (STEM K-12)",
@@ -1559,7 +1478,7 @@
       "title": "Facilitating Research at Primarily Undergraduate Institutions: (RUI and ROA-PUI)",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
-      "deadline": "2076-10-08",
+      "deadline": "2076-10-14",
       "posted": "2025-01-31",
       "status": "posted",
       "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14579",
@@ -1577,30 +1496,111 @@
       ]
     },
     {
-      "id": "353475",
-      "number": "PD-24-7414",
-      "title": "Cyberinfrastructure for Public Access and Open Science",
+      "id": "45810",
+      "number": "PD-98-1331",
+      "title": "Sociology",
       "source": "U.S. National Science Foundation",
       "agencyCode": "NSF",
-      "deadline": "",
-      "posted": "2024-04-10",
+      "deadline": "2076-10-15",
+      "posted": "2009-03-06",
       "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=506307",
-      "awardCeiling": "600000",
-      "estimatedFunding": "600000",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=981331",
+      "awardCeiling": "",
+      "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
-      "description": "The Cyberinfrastructure for Public Access and Open Science (CI PAOS) program within the Office of Advanced Cyberinfrastructure (OAC) aims to catalyze new and transformative socio-technical partnerships supporting research data infrastructure ecosystems across d omains through early-stage collaborative activities between cyberinfrastructure researchers, scie ntists , research computing experts, data management experts , research labs , university libraries , and other communities of practice. The CI PAOS program supports the NSF Public Access Initiative by encouraging innovation across the CI ecosystem t o address accessibility, discoverability, reliability, reproducibility, sustainability, and utility of data products in alignment with NSF and national goals for public access and open science [ See: NSF Public Access Initiative , Office of Science and Technology Policy Memorandum on Ensuring Free, Immediate, and equitable Access to Federally funded Research , and Desirable Characteristics of Data Repositories for Federally Funded Research ] . CI PAOS builds on previous investments including those through Dear Colleague Letters NSF 19-069 , NSF 20 -068 , NSF 23-018 , and the FAIROS R esearch C oordination N etworks ( RCN ) p rogram solicitation ( NSF 22-553 ) . NSF accepts proposals pursuant to this Program Description year-round. From time to time , NSF may also issue Dear Colleague Letters to encourage proposals on special thema tic interests and opportunities related to this progra m . GUIDANCE TO POTENTIAL PROPOSERS A primary feature of successful CI PAOS projects is a robust, synergistic collaborative team comprising skills from across communities of science/engineering, research data science, and information science discipline(s) and expertise in leveraging connections between cyberinfrastructure researchers and providers and data specialists . Leveraging international collaboration to build shared norms and address c hallenges related to developing and implementing PAOS policies and practices is encouraged . Research and education in science and engineering benefit immensely from international cooperation. P roposals with an international component are also welcome [See: International Collaborations Opportunities at NSF ] . Proposers must target one or more of th e following themes/pathways: Competency Building, Capability Building, and /or Community Building. Competency Building Open s cience /engineering-driven collaboration . A socio -technical collaborative approach in addressing disciplinary , interdisciplinary , domestic, and international data lifecycle challenges is critical to informing and guiding the development of principles, requirements , and standards of a CI ecosystem that fosters pipelines to good data management and pathways to access. Propos al s should clearly describe the goals, challenges, and rationale for the proposed data science and engineering project and include an explanation of the potential for transformative research and broader impacts on the open science ecosystem [ See: U.S. NSF Broader Impacts ] . Successful proposals will also clearly identify utilization science scenarios and use cases . C apability Building Exploratory and pilot activities. <span class=\"TextRun SCXW92189242 BCX4\" lang=\"EN-US\" xml:lang=\"EN-US\" d",
+      "description": "The Sociology Program supports basic research on all forms of human social organization - societies, institutions, groups and demography - and processes of individual and institutional change. The program encourages theoretically focused empirical investigations aimed at improving the explanation of fundamental social processes. This includes research on organizations and organizational behavior, population dynamics, social movements, social groups, labor force participation, stratification and mobility, family, social networks, socialization, and the sociology of science and technology. The program supports both original data collection and secondary data analysis that use the full range of quantitative and qualitative methodological tools. Theoretically grounded projects that offer methodological innovations and improvements for data collection and analysis are also welcomed. Principal Investigators should select PD 98-1331 in the program announcement/solicitation block on the proposal cover sheet for submission of regular research projects to the sociology program. Projects are evaluated using the two foundation-wide criteria, intellectual merit and broader impacts . In assessing the intellectual merit of proposed research, four components are key to securing support from the Sociology Program: (1) the issues investigated must be theoretically grounded; (2) the research should be based on empirical observation or be subject to empirical validation or illustration; (3) the research design must be appropriate to the questions asked; and (4) the proposed research must advance our understanding of social processes, structures and methods. NSF also offers a number of specialized funding opportunities through its crosscutting and cross-directorate activities; some of the sociology-related opportunities are listed below. Crosscutting Research & Training Opportunities: ADVANCE: Increasing the Participation and Advancement of Women in Academic Science and Engineering Careers Faculty Early Career Development (CAREER) Program Graduate Research Fellowship Program (GRFP) Major Research Instrumentation (MRI) Program Mid-scale Research Infrastructure Programs SBE Postdoctoral Research Fellowships (SPRF) Research Experiences for Undergraduates (REU) Research at Undergraduate Institutions (RUI) Small Business Innovation Research (SBIR) Program To get information about these programs and others, please visit the cross-cutting and NSF-wide active funding opportunities search page. NSF's mission calls for the broadening of opportunities for and expanding participation of groups, institutions and geographic regions that are underrepresented in STEM disciplines, which is essential to the health and vitality of science and engineering. NSF is committed to this principle of diversity and deems it central to the programs, projects and activities it considers and supports. NSF is also committed to public access to publications and data, unless there are countervailing interests that prohibit or limit public access to data, including matters of personally identifiable information of research participants, privacy or other issues of vulnerability such as economic, social or other security interests, etc.). See Public Access to Results of NSF-Funded Research and Data Management for NSF SBE Directorate Proposals and Awards for more information.",
       "fit": 100,
       "matchedTerms": [
         "data",
         "infrastructure",
+        "privacy",
+        "stem",
+        "undergraduate",
+        "career",
+        "science",
+        "technology"
+      ]
+    },
+    {
+      "id": "358882",
+      "number": "PD-19-126Y",
+      "title": "Science of Science: Discovery, Communication and Impact (SoS:DCI)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-15",
+      "posted": "2025-05-09",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=19126Y",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Science of Science: Discovery, Communication and Impact (SoS:DCI) program is designed to advance theory and knowledge about increasing the public value of scientific activity. Science of Science draws from multiple disciplinary and field perspectives to advance theory and research about scientific discovery, communication and impact. SoS:DCI welcomes proposals applying rigorous empirical research methods to advance theory and knowledge on: The social and structural mechanisms of scientific discovery. Theories, frameworks, models and data that improve our understanding of scientific communication and outcomes. The societal benefits of scientific activity and how science advances evidence-based policy making and the creation of public value. The SoS:DCI program, which expands upon the former Science of Science and Innovation Policy (SciSIP) program, funds research that builds theoretical and empirical understanding of the social science of science. SoS:DCI welcomes proposals to conduct research at the individual, organizational and institutional levels or from micro, meso and macro scales and complex system levels. SoS:DCI encourages multiple disciplinary perspectives, interdisciplinary research and diverse methodological approaches in the pursuit of new knowledge to advance the science of science and evidence-based policy making. With these goals in mind, proposals should: Draw from and advance theory, knowledge and frameworks on the science of science. Develop models, data, indicators and associated analytical tools that constitute and enable transformative advances rather than incremental change. Provide credible rigorous assessments of the proposed project's impact and social and policy implications. Include robust data management plans with the goal of advancing open science and increasing public access to usable, valid and reliable scientific materials. Of particular interest are proposals with the potential to strengthen America's global leadership in science and increase national competitiveness across a broad range of domains. These include proposals that analyze strategies for strengthening and expanding the scientific workforce, as well as ways to cultivate high-impact discovery across sectors. The program strongly encourages convergent research and collaboration. In addition to intellectual merit, the program strongly encourages potential PIs to carefully consider the broader impacts of their work. The broader impacts criterion encompasses the potential to benefit society and contribute to the achievement of specific, desired policy outcomes. The Social, Behavioral and Economic Sciences Directorate has released additional guidance on broader impacts for SBE proposals . The SoS:DCI program places a high priority on broadening participation in the sciences. It encourages proposals from early-career researchers and from researchers who represent groups and regions that have historically participated at disproportionately low rates in science, mathematics, and engineering. SoS:DCI supports the following types of proposals: Standard Research Grants and Grants for Collaborative Research A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO) Conference Grants SoS:DCI also participates in certain specialized funding opportunities through NSF's cross-cutting and cross-directorate activities .",
+      "fit": 100,
+      "matchedTerms": [
+        "data",
         "open",
-        "accessibility",
+        "outcomes",
+        "evidence",
+        "workforce",
+        "career",
+        "science",
+        "engineering"
+      ]
+    },
+    {
+      "id": "348164",
+      "number": "PD-23-1320",
+      "title": "Economics",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-15",
+      "posted": "2023-05-17",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=231320",
+      "awardCeiling": "",
+      "estimatedFunding": "220000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Economics program supports research designed to improve the understanding of the processes and institutions of the U.S. economy and of the world system of which it is a part. This program also strengthens both empirical and theoretical economic analysis as well as the methods for rigorous research on economic behavior. It supports research in almost every area of economics, including econometrics, economic history, environmental economics, finance, industrial organization, international economics, labor economics, macroeconomics, mathematical economics, and public finance. The Economics program welcomes proposals for individual or multi-investigator research projects, doctoral dissertation improvement awards, conferences, symposia, experimental research, data collection and dissemination, computer equipment and other instrumentation, and research experience for undergraduates. The program places a high priority on interdisciplinary research. Investigators are encouraged to submit proposals of joint interest to the Economics Program and other NSF programs and NSF initiative areas. The program places a high priority on broadening participation and encourages proposals from groups and regions that traditionally have not participated fully in science, mathematics, and engineering. The program also funds conferences and interdisciplinary research that strengthens links among economics and the other social and behavioral sciences as well as mathematics and statistics. The Doctoral Dissertation Research Improvement Grants (DDRIG) funding opportunity is designed to improve the quality of dissertation research. DDRIG proposals are submitted by a faculty member on behalf of the graduate student. DDRIG awards provide funds for items not normally available through the student's university such as enabling doctoral students to undertake significant data-gathering projects and to conduct field research in settings away from their campus. DDRIGs do not provide cost-of-living or other stipends or tuition. Outstanding DDRIG proposals specify how the knowledge to be created advances economics science. Proposals for Doctoral Dissertation Research Improvement Grants (DDRIGS) in Economics should follow the directions for submissions in the PAPPG . Please contact an Economics program officer if you plan to submit a DDRIG proposal. For additional funding opportunities, we invite you to also look at the SBE Office of Multidisciplinary Activities web site .",
+      "fit": 94,
+      "matchedTerms": [
+        "data",
         "university",
-        "skills",
+        "science",
+        "engineering",
+        "mathematics",
+        "broadening participation"
+      ]
+    },
+    {
+      "id": "112354",
+      "number": "PD-11-8031",
+      "title": "Science of Organizations (SoO)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-15",
+      "posted": "2011-08-08",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=118031",
+      "awardCeiling": "",
+      "estimatedFunding": "3270000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "Organizations -- private and public, established and entrepreneurial, designed and emergent, formal and informal, profit and nonprofit -- are critical to the well-being of nations and their citizens. They are of crucial importance for producing goods and services, creating value, providing jobs, and achieving social goals. The Science of Organizations (SoO) program funds basic research that yields a scientific evidence base for improving the design and emergence, development and deployment, and management and ultimate effectiveness of organizations of all kinds. SoO funds research that advances our fundamental understanding of how organizations develop, form and operate. Successful SoO research proposals use scientific methods to develop and refine theories, to empirically test theories and frameworks, and to develop new measures and methods. Funded research is aimed at yielding generalizable insights that are of value to the business practitioner, policy-maker and research communities. SoO welcomes any and all rigorous, scientific approaches that illuminate aspects of organizations as systems of coordination, management and governance. In considering whether a particular project might be a candidate for consideration by SoO, please note: Intellectual perspectives may involve (but are not limited to) organizational theory, behavior, sociology or economics, business policy and strategy, communication sciences, entrepreneurship, human resource management, information sciences , managerial and organizational cognition, operations management, public administration, social or industrial psychology, and technology and innovation management. Phenomena studied may include (but are not limited to) structures, routines, effectiveness, competitiveness, innovation, dynamics, change and evolution. Levels of analysis may include (but are not limited to) organizational, cross-organizational collaborations or relationships, and institutional and can address individuals, groups or teams. Research methods may be qualitative and quantitative and may include (but are not limited to) archival analyses, surveys, simulation studies, experiments, comparative case studies, and network analyses. Consistent with NSF merit review criteria, each SoO proposal should discuss both the intellectual merit and the potential broader impacts of the proposed research. SoO values basic research that has the potential to provide broader societal benefits. However, the majority of space in any proposal will need to be dedicated to the explication of theory, methods, and specific contribution to the evidence base about organizational effectiveness. Projects that aim to implement and subsequently evaluate particular organizational training, effectiveness or change programs, rather than to advance fundamental, generalizable knowledge, are not appropriate for SoO. Researchers who seek to conduct SoO-appropriate research in an industrial site and/or via an industry-university collaboration are invited to also look at the Grant Opportunities for Academic Liaisons with Industry (GOALI) program web site .",
+      "fit": 86,
+      "matchedTerms": [
+        "evidence",
+        "university",
         "science",
         "technology"
       ]
@@ -2006,25 +2006,6 @@
     },
     {
       "id": "watchlist-california-department-of-education-funding-4",
-      "number": "",
-      "title": "CCAP: Dual Enrollment Opportunities Grant Errata 1",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/ccap26rfaerrata1.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. CCAP: Dual Enrollment Opportunities Grant Errata 1",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-5",
       "number": "",
       "title": "MCEC Grant 26-27 RFA",
       "source": "California Department of Education Funding",
