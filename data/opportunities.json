@@ -1,31 +1,8 @@
 {
-  "scannedAt": "2026-10-19T18:55:38.207Z",
+  "scannedAt": "2026-10-26T18:57:59.925Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "348599",
-      "number": "23-598",
-      "title": "Historically Black Colleges and Universities - Excellence in Research (HBCU - EiR)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-10-20",
-      "posted": "2023-06-08",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23598",
-      "awardCeiling": "",
-      "estimatedFunding": "28000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Historically Black Colleges and Universities - Excellence in Research (HBCU-EiR) program was established in response to direction provided in the Senate Commerce and Justice, Science and Related Agencies Appropriations Subcommittee Report (Senate Report 115-139), and is built on prior and continuing efforts by the National Science Foundation (NSF) to strengthen research capacity at Historically Black Colleges and Universities (HBCUs). This report provided guidance to NSF to establish the HBCU Excellence in Research program \"to provide opportunities for both public and private HBCUs, particularly for those who have not been successful in larger NSF Research & Related Activities competitions, in order to stimulate sustainable improvement in their research and development capacity\" ( https://congress.gov/congressional-report/115th-congress/senate-report/139/1 ). EiR supports such capacity building by funding research projects aligned with NSF's research programs. The program aims to establish stronger connections between researchers at HBCUs and NSF's research programs.",
-      "fit": 68,
-      "matchedTerms": [
-        "hbcu",
-        "science"
-      ]
-    },
     {
       "id": "363481",
       "number": "26-513",
@@ -1222,17 +1199,17 @@
       "eligibility": [
         "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
       ],
-      "description": "With a focus on two-year Institutions of Higher Education (IHEs), the Advanced Technological Education (ATE) program supports the education of technicians for the high-technology fields that drive our nation's economy. The program involves partnerships between academic institutions (grades 7-12, IHEs), industry, and economic development agencies to promote improvement in the education of science and engineering technicians. It is strongly recommended that projects be faculty-led and required that courses and programs are credit-bearing, although materials developed may also be used for incumbent worker education. Materials may also be adapted and implemented as credit-bearing courses. The ATE program supports curriculum development; professional development of college faculty and secondary school teachers; career pathway development for both students and incumbent workers; and other activities including applied research projects that advance the knowledge base related to technician education. The ATE program encourages partnerships with other entities that may impact technician education. For example, with the National Institute of Standards and Technology (NIST) Manufacturing Extension Partnerships (MEPs) ( http://www.nist.gov/mep/index.cfm ) as applicable to support technician education programs and the industries they serve; and Manufacturing USA Institutes ( https://manufacturing.gov/ ) addressing workforce development issues. The ATE program encourages proposals from Minority Serving Institutions as well as other institutions that support the recruitment, retention, and completion (certificate, degree, program) of the full spectrum of diverse talent that society has to offer, which includes underrepresented and underserved communities, in STEM technician education programs that award associate degrees.",
+      "description": "With a focus on two-year Institutions of Higher Education (IHEs), the Advanced Technological Education (ATE) program supports the education of technicians for the high-technology fields that drive our nation's economy. The program involves partnerships between academic institutions (grades 7-12, IHEs), industry, and economic development agencies to promote improvement in the education of science and engineering technicians. It is strongly recommended that projects be faculty-led and required that courses and programs are credit-bearing, although materials developed may also be used for incumbent worker education. Materials may also be adapted and implemented as credit-bearing courses. The ATE program supports curriculum development; professional development of college faculty and secondary school teachers; career pathway development for both students and incumbent workers; and other activities including applied research projects that advance the knowledge base related to technician education. The ATE program encourages partnerships with other entities that may impact technician education. For example, with the National Institute of Standards and Technology (NIST) Manufacturing Extension Partnerships (MEPs) ( http://www.nist.gov/mep/index.cfm ) as applicable to support technician education programs and the industries they serve; and Manufacturing USA Institutes ( https://manufacturing.gov/ ) addressing workforce development issues.",
       "fit": 100,
       "matchedTerms": [
         "workforce",
         "professional development",
-        "stem",
         "higher education",
         "college",
         "career",
         "workforce development",
-        "retention"
+        "science",
+        "technology"
       ]
     },
     {
@@ -1258,6 +1235,29 @@
         "engineering",
         "computer science",
         "pathways"
+      ]
+    },
+    {
+      "id": "348599",
+      "number": "23-598",
+      "title": "Historically Black Colleges and Universities - Excellence in Research (HBCU - EiR)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-10-19",
+      "posted": "2023-06-08",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23598",
+      "awardCeiling": "",
+      "estimatedFunding": "28000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Historically Black Colleges and Universities - Excellence in Research (HBCU-EiR) program was established in response to direction provided in the Senate Commerce and Justice, Science and Related Agencies Appropriations Subcommittee Report (Senate Report 115-139), and is built on prior and continuing efforts by the National Science Foundation (NSF) to strengthen research capacity at Historically Black Colleges and Universities (HBCUs). This report provided guidance to NSF to establish the HBCU Excellence in Research program \"to provide opportunities for both public and private HBCUs, particularly for those who have not been successful in larger NSF Research & Related Activities competitions, in order to stimulate sustainable improvement in their research and development capacity\" ( https://congress.gov/congressional-report/115th-congress/senate-report/139/1 ). EiR supports such capacity building by funding research projects aligned with NSF's research programs. The program aims to establish stronger connections between researchers at HBCUs and NSF's research programs.",
+      "fit": 64,
+      "matchedTerms": [
+        "hbcu",
+        "science"
       ]
     },
     {
@@ -1315,31 +1315,6 @@
         "learning",
         "stem",
         "k-12"
-      ]
-    },
-    {
-      "id": "347679",
-      "number": "23-580",
-      "title": "Infrastructure Capacity for Biological Research (Capacity)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2076-10-05",
-      "posted": "2023-04-21",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23580",
-      "awardCeiling": "1200000",
-      "estimatedFunding": "18000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Infrastructure Capacity for Biological Research (Capacity) Program supports the implementation of, scaling of, or major improvements to research tools, products, and services that advance contemporary biology in any research area supported by the Directorate for Biological Sciences at NSF. The Capacity Program focuses on building capacity in research infrastructure that is broadly applicable to a wide range of researchers in three programmatic areas: Cyberinfrastructure, Biological Collections, and Biological Field Stations and Marine Laboratories. This program will also accept proposals for planning activities or workshops to facilitate coordination that may be necessary in building capacity in infrastructure that meets the needs of a research community. Areas not included in this program are instrumentation (PIs should submit to the MRI program) and, projects that develop infrastructure for a specific research project, laboratory, or institution (PIs should submitted to the relevant BIO programs that would normally support that research). Projects are expected to produce quality products, result in important science outcomes that will be achieved by the users of the resource, be openly accessible to a broad scientific and education community, and serve a community of researchers beyond a single research team.",
-      "fit": 74,
-      "matchedTerms": [
-        "infrastructure",
-        "outcomes",
-        "implementation",
-        "science"
       ]
     },
     {
@@ -1606,6 +1581,30 @@
       ]
     },
     {
+      "id": "320087",
+      "number": "PD-19-118Y",
+      "title": "Security and Preparedness (SAP)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-15",
+      "posted": "2019-08-30",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=19118Y",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Security and Preparedness (SAP) Program supports basic scientific research that advances knowledge and understanding of issues broadly related to global and national security. Research proposals are evaluated on the criteria of intellectual merit and broader impacts; the proposed projects are expected to be theoretically motivated, conceptually precise, methodologically rigorous, and empirically oriented. Moreover, the Program supports research experiences for undergraduate students and infrastructural activities, including methodological innovations. The Program does not fund applied research. In addition, we encourage you to examine the websites for the National Science Foundation's Accountable Institutions and Behavior (AIB), Law and Science (LS) programs, and Research Infrastructure in the Social and Behavioral Sciences (RISBS) programs.",
+      "fit": 82,
+      "matchedTerms": [
+        "infrastructure",
+        "undergraduate",
+        "science"
+      ]
+    },
+    {
       "id": "watchlist-indiana-department-of-education-grants-5",
       "number": "",
       "title": "Formative (Interim) Assessment Grant",
@@ -1646,25 +1645,6 @@
       "matchedTerms": [
         "k-12"
       ]
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-1",
-      "number": "",
-      "title": "Available Funding",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/af/",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Available Funding",
-      "fit": 64,
-      "matchedTerms": []
     },
     {
       "id": "watchlist-hawaii-department-of-education-grants-0",
@@ -1944,139 +1924,6 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for Alaska Department of Education Grants. Apply for a US Department of Education Federal Grant",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-0",
-      "number": "",
-      "title": "Consolidated Application",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/aa/co/",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Consolidated Application",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-2",
-      "number": "",
-      "title": "Migrant/International",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/sp/me/",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. Migrant/International",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-3",
-      "number": "",
-      "title": "CCAP Grant 26-27 RFA",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/ccap26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. CCAP Grant 26-27 RFA",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-4",
-      "number": "",
-      "title": "MCEC Grant 26-27 RFA",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/mcec26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. MCEC Grant 26-27 RFA",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-colorado-department-of-education-grants-0",
-      "number": "",
-      "title": "Competitive Grants and Awards",
-      "source": "Colorado Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.state.co.us/cdeawards",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Colorado Department of Education Grants. Competitive Grants and Awards",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-colorado-department-of-education-grants-1",
-      "number": "",
-      "title": "State and Federal Grants Allocations",
-      "source": "Colorado Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.state.co.us/cdefisgrant/allocations",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Colorado Department of Education Grants. State and Federal Grants Allocations",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-colorado-department-of-education-grants-2",
-      "number": "",
-      "title": "Request For Funds Forms (RFF)",
-      "source": "Colorado Department of Education Grants",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.state.co.us/cdefisgrant/requestforfundsforms",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for Colorado Department of Education Grants. Request For Funds Forms (RFF)",
       "fit": 52,
       "matchedTerms": []
     },
