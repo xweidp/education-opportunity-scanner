@@ -1,61 +1,8 @@
 {
-  "scannedAt": "2026-11-02T22:01:41.618Z",
+  "scannedAt": "2026-11-09T22:48:31.754Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "363481",
-      "number": "26-513",
-      "title": "U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-11-04",
-      "posted": "2026-08-06",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26513",
-      "awardCeiling": "",
-      "estimatedFunding": "100000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The NSF State and Regional AI Infrastructure Hubs program aims to expand access to the compute required for AI-enabled scientific discovery and to transform the research, education, and training opportunities offered by institutions of higher education. AI Infrastructure Hubs will connect researchers to new compute infrastructure that leverages contributions from state governments, research institutions, industry, and philanthropy, accelerating AI-enabled discovery across science and engineering and developing a skilled technical workforce for AI use in the scientific enterprise. The program responds to a core tenet of Science: A New Golden Age to renew America’s research and development (R&D) for changes in today’s scientific enterprise, including the role of AI in laying the foundation for a new era of scientific discovery and the growing role of industry and philanthropy in funding R&D. In response, the Administration’s FY28 R&D Priorities Memorandum called for investing in AI for science as a national mission and expanding the scale of, and flexible access to, advanced compute and data infrastructure that researchers now require for frontier scientific discovery. Each AI Infrastructure Hub will be organized as a flexible state or regional consortium of state and local governments, research institutions, philanthropies, and the private sector. Consortia will be responsible for all funding for new or expanded computing, data, and AI resources, whether on-premises or cloud-based. NSF will fund each Hub’s consortium coordination, AI infrastructure workforce development, and faculty training and coursework development in leveraging AI for science.",
-      "fit": 100,
-      "matchedTerms": [
-        "ai",
-        "artificial intelligence",
-        "data",
-        "infrastructure",
-        "workforce",
-        "higher education",
-        "workforce development",
-        "science"
-      ]
-    },
-    {
-      "id": "343980",
-      "number": "23-500",
-      "title": "SBE Postdoctoral Research Fellowships (SPRF)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-11-04",
-      "posted": "2022-10-08",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23500",
-      "awardCeiling": "170000",
-      "estimatedFunding": "3000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The Directorate for Social, Behavioral and Economic Sciences (SBE) offers Postdoctoral Research Fellowships to encourage independence early in the fellow's career by supporting his or her research and training goals. The research and training plan of each fellowship must address important scientific questions within the scope of the SBE directorate and the specific guidelines in this solicitation. The SPRF program offers two tracks: (I) Fundamental Research in the SBE Sciences (SPRF-FR) and (II) Broadening Participation in the SBE Sciences (SPRF-BP). See the full text of the solicitation for a detailed description of these tracks.",
-      "fit": 72,
-      "matchedTerms": [
-        "career",
-        "science",
-        "broadening participation"
-      ]
-    },
     {
       "id": "363764",
       "number": "20-558",
@@ -511,6 +458,30 @@
         "career",
         "science",
         "statistical"
+      ]
+    },
+    {
+      "id": "364243",
+      "number": "27-500",
+      "title": "Major Research Instrumentation Program: (MRI)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-01-29",
+      "posted": "2026-11-06",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf27500",
+      "awardCeiling": "4000000",
+      "estimatedFunding": "50000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Major Research Instrumentation (MRI) Program ( MRI Website ) increases access to multi-user scientific and engineering instrumentation for research and training in the operation of the proposed equipment. An MRI award supports the acquisition of a multi-user research instrument through direct purchase from a vendor, or for the personnel and components required to develop an instrument with new capabilities that opens new opportunities to advance the frontiers in science and engineering research. MRI instruments are generally too costly and/or not appropriate for support through other NSF programs. MRI encourages proposals from early-career researchers, from all geographic regions, including EPSCoR jurisdictions , and from emerging research institutions, where MRI can significantly build capacity for research. The program especially welcomes proposals for instruments that will advance discovery in one or more national R&D priority areas , including capability for scientifically justified integration with SI-enabled workflows.",
+      "fit": 68,
+      "matchedTerms": [
+        "career",
+        "science",
+        "engineering"
       ]
     },
     {
@@ -1261,6 +1232,35 @@
       ]
     },
     {
+      "id": "363481",
+      "number": "26-513",
+      "title": "U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-11-03",
+      "posted": "2026-08-06",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26513",
+      "awardCeiling": "",
+      "estimatedFunding": "100000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The NSF State and Regional AI Infrastructure Hubs program aims to expand access to the compute required for AI-enabled scientific discovery and to transform the research, education, and training opportunities offered by institutions of higher education. AI Infrastructure Hubs will connect researchers to new compute infrastructure that leverages contributions from state governments, research institutions, industry, and philanthropy, accelerating AI-enabled discovery across science and engineering and developing a skilled technical workforce for AI use in the scientific enterprise. The program responds to a core tenet of Science: A New Golden Age to renew America’s research and development (R&D) for changes in today’s scientific enterprise, including the role of AI in laying the foundation for a new era of scientific discovery and the growing role of industry and philanthropy in funding R&D. In response, the Administration’s FY28 R&D Priorities Memorandum called for investing in AI for science as a national mission and expanding the scale of, and flexible access to, advanced compute and data infrastructure that researchers now require for frontier scientific discovery. Each AI Infrastructure Hub will be organized as a flexible state or regional consortium of state and local governments, research institutions, philanthropies, and the private sector. Consortia will be responsible for all funding for new or expanded computing, data, and AI resources, whether on-premises or cloud-based. NSF will fund each Hub’s consortium coordination, AI infrastructure workforce development, and faculty training and coursework development in leveraging AI for science.",
+      "fit": 100,
+      "matchedTerms": [
+        "ai",
+        "artificial intelligence",
+        "data",
+        "infrastructure",
+        "workforce",
+        "higher education",
+        "workforce development",
+        "science"
+      ]
+    },
+    {
       "id": "346203",
       "number": "PD-23-221Y",
       "title": "Growing Research Access for Nationally Transformative Economic Development (GRANTED)",
@@ -1987,57 +1987,38 @@
     {
       "id": "watchlist-california-department-of-education-funding-3",
       "number": "",
-      "title": "CCAP Grant 26-27 RFA",
+      "title": "Request for Applications",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/ccap26rfa.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r8/wioa27rfa.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. CCAP Grant 26-27 RFA",
+      "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
       "fit": 52,
       "matchedTerms": []
     },
     {
       "id": "watchlist-california-department-of-education-funding-4",
       "number": "",
-      "title": "MCEC Grant 26-27 RFA",
+      "title": "RFA-26: Request for Applications",
       "source": "California Department of Education Funding",
       "sourceType": "State funding",
       "agencyCode": "State funding",
       "deadline": "",
       "posted": "",
       "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r17/mcec26rfa.asp",
+      "url": "https://www.cde.ca.gov/fg/fo/r9/snpequip26rfa.asp",
       "awardCeiling": "",
       "estimatedFunding": "",
       "indirectRate": "",
       "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. MCEC Grant 26-27 RFA",
-      "fit": 52,
-      "matchedTerms": []
-    },
-    {
-      "id": "watchlist-california-department-of-education-funding-5",
-      "number": "",
-      "title": "RFA-26: Title III Immigrant Student Program",
-      "source": "California Department of Education Funding",
-      "sourceType": "State funding",
-      "agencyCode": "State funding",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://www.cde.ca.gov/fg/fo/r28/imm26rfa.asp",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: Title III Immigrant Student Program",
+      "description": "State funding. Matched source page for California Department of Education Funding. RFA-26: Request for Applications",
       "fit": 52,
       "matchedTerms": []
     },
