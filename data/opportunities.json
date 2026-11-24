@@ -1,90 +1,8 @@
 {
-  "scannedAt": "2026-11-16T22:40:26.966Z",
+  "scannedAt": "2026-11-24T00:32:07.434Z",
   "source": "Grants.gov API + private/state source watchlist",
   "profile": "Digital Promise + education AI/data/learning-sciences fit",
   "opportunities": [
-    {
-      "id": "358569",
-      "number": "PD-16-1266",
-      "title": "Applied Mathematics",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-11-16",
-      "posted": "2025-03-16",
-      "status": "posted",
-      "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5664",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "description": "The Applied Mathematics program supports mathematics research motivated by and contributing to the solution of problems arising in science and engineering. Successful proposals must demonstrate mathematical innovation, as well as breadth and quality of impact on applications. Projects that additionally provide opportunities for rigorous mathematical training of junior applied mathematicians through their involvement in research are encouraged. The proposals considered by the Applied Mathematics program may range from single investigator to interdisciplinary team projects. Conferences Proposals to the Applied Mathematics program for conferences or workshops should be submitted through the program solicitation \"Conferences and Workshops in the Mathematical Sciences\" (link below). Principal Investigators should carefully read the program solicitation to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities. To facilitate timely notification of the availability of support: Proposals for conferences, workshops, etc., to be held in the US must be submitted 8 months in advance of the conference date; Proposals to support group travel to meetings outside the US must be submitted 12 months in advance of the meeting date; Proposals for conferences, workshops, etc., whose budget request exceeds $50,000 must be submitted during the annual November submission window.",
-      "fit": 32,
-      "matchedTerms": [
-        "science",
-        "engineering",
-        "mathematics"
-      ]
-    },
-    {
-      "id": "359966",
-      "number": "25-540",
-      "title": "National Science Foundation Translation to Practice (NSF TTP)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-11-17",
-      "posted": "2025-07-09",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25540",
-      "awardCeiling": "2000000",
-      "estimatedFunding": "30000000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The U.S. NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) partners across sectors to advance three primary focus areas - accelerating technology translation and development, fostering regional innovation and economic growth, and preparing the American workforce for future high-wage jobs in STEM fields. The translation of research to practice ensures that the insights and innovations developed through scientific study and experimentation have tangible, positive impacts for the Nation. These impacts include improving the quality of life, promoting economic and job growth, ensuring national security, and maintaining global competitiveness. Indeed, scientific and engineering breakthroughs have the potential to address critical societal challenges in industries such as aerospace, agriculture, communications, education, energy, healthcare, national security, and transportation - but the translation of discoveries and innovations from the laboratory to society often takes many forms including non-linear pathways. The NSF TTP program was developed with several goals in mind: To identify and support use-inspired research and translational activities enabling a continuum from foundational research to practice; To develop partnerships and collaborations between institutions of higher education and other entities (e.g., industry, state/local/national government agencies, philanthropies, open-source ecosystems, for-benefit, for-profit and non-profit organizations, international organizations, etc.); To promote and advance the education and training of students and postdoctoral researchers, encouraging the participation of all Americans in STEM including innovation and entrepreneurship; and To identify future customer needs and opportunities and bring these to the forefront in the conduct of use-inspired research and translational activities. The NSF TTP program offers three tracks that represent different starting points or stages in moving discoveries and innovations from the laboratory to practice: NSF TTP-Explore (NSF TTP-E) is a pilot track that is likely to be the first step for researchers seeking to translate their basic research to practice. To be eligible for the NSF TTP-E track, proposers must have an active, eligible, NSF research award (see Eligibility Information for further details). TTP-E is designed to encourage current, eligible NSF awardees to intentionally pursue applications of their research with the potential for societal impact. The NSF TTP-E track provides the opportunity to obtain an extension of the initial award period of a current NSF award for up to two years in order to offer investigators an opportunity to explore adventurous, high-risk, use-inspired research and initial translational activities as the starting point for translation that was not covered by the original research award. NSF TTP-Translate (NSF TTP-T) starts with use-inspired research and initial translational activities and further matures the idea(s), iterates and improves the solution(s), and lowers the barrier(s) to effective translation of research from lab to practice. NSF TTP-Partner (NSF TTP-P) supports translational efforts that demand one or more partnerships for technology development and deployment. Here, strategic partnerships with stakeholders beyond U.S. institutions of higher education are essential ingredients for success and may include industry partners, government entities at all levels, philanthropies, international organizations, or other groups associated with large scale productization and distribution. The NSF TTP-P track requires an NSF-Catalyzed Partnership with an organization that will assist in the translation to practice. In addition to the Principal Investigator (PI), NSF TTP-P proposals must include a co-PI or Senior/Key Personnel who is a member or employee of the NSF-Catalyzed Partner. Partnerships with U.S. institutions of higher education are valued, but NSF TTP strongly prioritizes NSF-Catalyzed Partnerships that are able to help bring the product, process, or service to the market, potentially through licensing agreements, startup or small business formation, incorporation into an existing open-source ecosystem, development into standards setting arrangements, etc.",
-      "fit": 92,
-      "matchedTerms": [
-        "open",
-        "workforce",
-        "stem",
-        "higher education",
-        "science",
-        "technology",
-        "engineering",
-        "pathways"
-      ]
-    },
-    {
-      "id": "361604",
-      "number": "26-507",
-      "title": "National Science Foundation Fostering Interdisciplinary Networks to Develop Emergent and Responsive Solutions Foundry (NSF FINDERS FOUNDRY)",
-      "source": "U.S. National Science Foundation",
-      "agencyCode": "NSF",
-      "deadline": "2026-11-18",
-      "posted": "2026-03-23",
-      "status": "posted",
-      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26507",
-      "awardCeiling": "",
-      "estimatedFunding": "8500000",
-      "indirectRate": "",
-      "eligibility": [
-        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-      ],
-      "description": "The NSF FINDERS FOUNDRY program supports collaboration among K-12 educators, technologists, and researchers to develop innovative solutions to persistent challenges in learning and workforce development. These challenges are identified by K-12 students, families, and educators. The program aims to create and scale evidence-based practices, tools, and technologies that improve learning outcomes and prepare students for a digital, Artificial Intelligence (AI)-driven future. A key focus is early exposure to AI to build curiosity, understanding, and readiness for future careers. The program encourages partnerships across sectors - schools, universities, industry, government, and nonprofits - to co-design responsive, technology-based solutions. NSF FINDERS FOUNDRY program includes two phases: Planning and Development. Planning proposals help teams explore one of several focus areas. Only teams awarded Planning grants may submit Development proposals, which support the growth and implementation of promising ideas. The program aligns with national priorities, including the Executive Order 14277, \"Advancing Artificial Intelligence Education for American Youth \" (April 23, 2025), and the CHIPS and Science Act of 2022, Public Law 117-167 , Sections 10381-10383 and 10395.",
-      "fit": 100,
-      "matchedTerms": [
-        "ai",
-        "artificial intelligence",
-        "learning",
-        "outcomes",
-        "evidence",
-        "workforce",
-        "implementation",
-        "k-12"
-      ]
-    },
     {
       "id": "348375",
       "number": "23-595",
@@ -908,6 +826,35 @@
       ]
     },
     {
+      "id": "359966",
+      "number": "25-540",
+      "title": "National Science Foundation Translation to Practice (NSF TTP)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2027-05-18",
+      "posted": "2025-07-09",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25540",
+      "awardCeiling": "2000000",
+      "estimatedFunding": "30000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The U.S. NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) partners across sectors to advance three primary focus areas - accelerating technology translation and development, fostering regional innovation and economic growth, and preparing the American workforce for future high-wage jobs in STEM fields. The translation of research to practice ensures that the insights and innovations developed through scientific study and experimentation have tangible, positive impacts for the Nation. These impacts include improving the quality of life, promoting economic and job growth, ensuring national security, and maintaining global competitiveness. Indeed, scientific and engineering breakthroughs have the potential to address critical societal challenges in industries such as aerospace, agriculture, communications, education, energy, healthcare, national security, and transportation - but the translation of discoveries and innovations from the laboratory to society often takes many forms including non-linear pathways. The NSF TTP program was developed with several goals in mind: To identify and support use-inspired research and translational activities enabling a continuum from foundational research to practice; To develop partnerships and collaborations between institutions of higher education and other entities (e.g., industry, state/local/national government agencies, philanthropies, open-source ecosystems, for-benefit, for-profit and non-profit organizations, international organizations, etc.); To promote and advance the education and training of students and postdoctoral researchers, encouraging the participation of all Americans in STEM including innovation and entrepreneurship; and To identify future customer needs and opportunities and bring these to the forefront in the conduct of use-inspired research and translational activities. The NSF TTP program offers three tracks that represent different starting points or stages in moving discoveries and innovations from the laboratory to practice: NSF TTP-Explore (NSF TTP-E) is a pilot track that is likely to be the first step for researchers seeking to translate their basic research to practice. To be eligible for the NSF TTP-E track, proposers must have an active, eligible, NSF research award (see Eligibility Information for further details). TTP-E is designed to encourage current, eligible NSF awardees to intentionally pursue applications of their research with the potential for societal impact. The NSF TTP-E track provides the opportunity to obtain an extension of the initial award period of a current NSF award for up to two years in order to offer investigators an opportunity to explore adventurous, high-risk, use-inspired research and initial translational activities as the starting point for translation that was not covered by the original research award. NSF TTP-Translate (NSF TTP-T) starts with use-inspired research and initial translational activities and further matures the idea(s), iterates and improves the solution(s), and lowers the barrier(s) to effective translation of research from lab to practice. NSF TTP-Partner (NSF TTP-P) supports translational efforts that demand one or more partnerships for technology development and deployment. Here, strategic partnerships with stakeholders beyond U.S. institutions of higher education are essential ingredients for success and may include industry partners, government entities at all levels, philanthropies, international organizations, or other groups associated with large scale productization and distribution. The NSF TTP-P track requires an NSF-Catalyzed Partnership with an organization that will assist in the translation to practice. In addition to the Principal Investigator (PI), NSF TTP-P proposals must include a co-PI or Senior/Key Personnel who is a member or employee of the NSF-Catalyzed Partner. Partnerships with U.S. institutions of higher education are valued, but NSF TTP strongly prioritizes NSF-Catalyzed Partnerships that are able to help bring the product, process, or service to the market, potentially through licensing agreements, startup or small business formation, incorporation into an existing open-source ecosystem, development into standards setting arrangements, etc.",
+      "fit": 88,
+      "matchedTerms": [
+        "open",
+        "workforce",
+        "stem",
+        "higher education",
+        "science",
+        "technology",
+        "engineering",
+        "pathways"
+      ]
+    },
+    {
       "id": "355270",
       "number": "24-588",
       "title": "EPSCoR Graduate Fellowship Program (EGFP)",
@@ -1611,6 +1558,58 @@
       ]
     },
     {
+      "id": "329432",
+      "number": "PD-21-128Y",
+      "title": "Law & Science (LS)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-15",
+      "posted": "2020-10-15",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=21128Y",
+      "awardCeiling": "",
+      "estimatedFunding": "5500000",
+      "indirectRate": "",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "description": "The Law & Science Program considers proposals that address social scientific studies of law and law-like systems of rules, as well as studies of how science and technology are applied in legal contexts. The Program is inherently interdisciplinary and multi-methodological. Successful proposals describe research that advances scientific theory and understanding of the connections between human behavior and law, legal institutions, or legal processes; or the interactions of law and basic sciences, including biology, computer and information sciences, STEM education, engineering, geosciences, and math and physical sciences. Scientific studies of law often approach law as dynamic, interacting with multiple arenas, and with the participation of multiple actors. Fields of study include many disciplines, and often address problems including, though not limited, to: Crime, Violence, and Policing Cyberspace Economic Issues Environmental Science Evidentiary Issues Forensic Science Governance and Courts Human Rights and Comparative Law Information Technology Legal and Ethical Issues related to Science Legal Decision Making Legal Mobilization and Conceptions of Justice Litigation and the Legal Profession Punishment and Corrections Regulation and Facilitation of Biotechnology (e.g., Gene Editing, Gene Testing, Synthetic Biology) and Other Emerging Sciences and Technologies Use of Science in the Legal Processes LS supports the following types of proposals: Standard Research Grants and Grants for Collaborative Research Conference Awards LS also participates in a number of specialized funding opportunities through NSF's cross-cutting and cross-directorate activities, including, for example: Faculty Early Career Development (CAREER) Program Research Experiences for Undergraduates (REU) Research at Undergraduate Institutions (RUI) Grants for Rapid Response Research (RAPID) Early-concept Grants for Exploratory Research (EAGER) For information about these and other programs, please visit the Cross-cutting and NSF-wide Active Funding Opportunities homepage.",
+      "fit": 80,
+      "matchedTerms": [
+        "stem",
+        "undergraduate",
+        "career",
+        "science",
+        "technology",
+        "engineering"
+      ]
+    },
+    {
+      "id": "347679",
+      "number": "23-580",
+      "title": "Infrastructure Capacity for Biological Research (Capacity)",
+      "source": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "deadline": "2076-10-30",
+      "posted": "2023-04-21",
+      "status": "posted",
+      "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23580",
+      "awardCeiling": "1200000",
+      "estimatedFunding": "18000000",
+      "indirectRate": "",
+      "eligibility": [
+        "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+      ],
+      "description": "The Infrastructure Capacity for Biological Research (Capacity) Program supports the implementation of, scaling of, or major improvements to research tools, products, and services that advance contemporary biology in any research area supported by the Directorate for Biological Sciences at NSF. The Capacity Program focuses on building capacity in research infrastructure that is broadly applicable to a wide range of researchers in three programmatic areas: Cyberinfrastructure, Biological Collections, and Biological Field Stations and Marine Laboratories. This program will also accept proposals for planning activities or workshops to facilitate coordination that may be necessary in building capacity in infrastructure that meets the needs of a research community. Areas not included in this program are instrumentation (PIs should submit to the MRI program) and, projects that develop infrastructure for a specific research project, laboratory, or institution (PIs should submitted to the relevant BIO programs that would normally support that research). Projects are expected to produce quality products, result in important science outcomes that will be achieved by the users of the resource, be openly accessible to a broad scientific and education community, and serve a community of researchers beyond a single research team.",
+      "fit": 74,
+      "matchedTerms": [
+        "infrastructure",
+        "outcomes",
+        "implementation",
+        "science"
+      ]
+    },
+    {
       "id": "watchlist-indiana-department-of-education-grants-5",
       "number": "",
       "title": "Formative (Interim) Assessment Grant",
@@ -2025,6 +2024,25 @@
       "indirectRate": "",
       "eligibility": [],
       "description": "State funding. Matched source page for California Department of Education Funding. Request for Applications",
+      "fit": 52,
+      "matchedTerms": []
+    },
+    {
+      "id": "watchlist-california-department-of-education-funding-5",
+      "number": "",
+      "title": "RFA-27: CSESAP",
+      "source": "California Department of Education Funding",
+      "sourceType": "State funding",
+      "agencyCode": "State funding",
+      "deadline": "",
+      "posted": "",
+      "status": "watchlist",
+      "url": "https://www.cde.ca.gov/fg/fo/r14/csesap27rfa.asp",
+      "awardCeiling": "",
+      "estimatedFunding": "",
+      "indirectRate": "",
+      "eligibility": [],
+      "description": "State funding. Matched source page for California Department of Education Funding. RFA-27: CSESAP",
       "fit": 52,
       "matchedTerms": []
     },
@@ -2789,29 +2807,7 @@
       "matchedTerms": []
     },
     {
-      "id": "watchlist-arnold-ventures-7",
-      "number": "",
-      "title": "Education Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
-      "source": "Arnold Ventures",
-      "sourceType": "Private foundation",
-      "agencyCode": "Private foundation",
-      "deadline": "",
-      "posted": "",
-      "status": "watchlist",
-      "url": "https://assets.arnoldventures.org/uploads/PDFs/202605-AV_RFP_PT-Student-Success.pdf",
-      "awardCeiling": "",
-      "estimatedFunding": "",
-      "indirectRate": "",
-      "eligibility": [],
-      "description": "Private foundation. Matched source page for Arnold Ventures. Education Causal Research to Improve Outcomes for Part-Time Students RFP Closed",
-      "fit": 46,
-      "matchedTerms": [
-        "outcomes",
-        "causal"
-      ]
-    },
-    {
-      "id": "watchlist-arnold-ventures-4",
+      "id": "watchlist-arnold-ventures-5",
       "number": "",
       "title": "Education Causal Research on the Impacts of K‑ 12 School Policies RFP RFP Closed",
       "source": "Arnold Ventures",
